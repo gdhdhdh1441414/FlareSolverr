@@ -18,7 +18,7 @@ result = subprocess.check_output(curl_cmd, shell=True)
 # 解析 JSON 数据
 data = json.loads(result.decode('utf-8'))
 response = data.get("solution", {}).get("response")
-print(response)  # 输出 response 数据
+#print(response)  # 输出 response 数据
 
 pattern = r'href\=\"(threads\/.+?)\"\>'
 links = re.findall(pattern, response)
@@ -47,6 +47,8 @@ for link in new_links:
     result = subprocess.check_output(curl_cmd, shell=True)
     data = json.loads(result.decode('utf-8'))
     response = data.get("solution", {}).get("response")
+    print(result)  # 输出数据
+
     html_string += response
 
 #print(html_string)
