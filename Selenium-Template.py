@@ -40,18 +40,24 @@ if len(links) != 0 and len(links) >= 5:
 html_string = ""
 
 for link in new_links:
-    url = "https://sharemania.us/" + link
-    print(url)
-    os.system("pkill chrome;pkill chromedriver")
-    curl_cmd = "curl -s 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"" + url + "\",\"maxTimeout\": 60000}'"
-    result = subprocess.check_output(curl_cmd, shell=True)
-    data = json.loads(result.decode('utf-8'))
-    response = data.get("solution", {}).get("response")
-    print(result)  # 输出数据
+    try:
+        url = "https://sharemania.us/" + link
+        print(url)
+        os.system("pkill chrome;pkill chromedriver")
+        curl_cmd = "curl -s 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"" + url + "\",\"maxTimeout\": 60000}'"
+        result = subprocess.check_output(curl_cmd, shell=True)
+        data = json.loads(result.decode('utf-8'))
+        response = data.get("solution", {}).get("response")
+        print(result)  # 输出数据
 
-    html_string += response
+        if response is None:
+            raise ValueError("Response is None")
 
-#print(html_string)
+        html_string += response
+
+    except Exception as e:
+        print("An error occurred:", str(e))
+        break
 
 with open('./sharemania.html', 'w', encoding='utf-8') as f:
     f.write(html_string)
