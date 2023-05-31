@@ -40,24 +40,26 @@ if len(links) != 0 and len(links) >= 5:
 html_string = ""
 
 for link in new_links:
-    try:
-        url = "https://sharemania.us/" + link
-        print(url)
-        os.system("pkill chrome;pkill chromedriver")
-        curl_cmd = "curl -s 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"" + url + "\",\"maxTimeout\": 60000}'"
-        result = subprocess.check_output(curl_cmd, shell=True)
-        data = json.loads(result.decode('utf-8'))
-        response = data.get("solution", {}).get("response")
-        print(result)  # 输出数据
+    while True:
+        try:
+            url = "https://sharemania.us/" + link
+            print(url)
+            os.system("pkill chrome;pkill chromedriver")
+            curl_cmd = "curl -s 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"" + url + "\",\"maxTimeout\": 60000}'"
+            result = subprocess.check_output(curl_cmd, shell=True)
+            data = json.loads(result.decode('utf-8'))
+            response = data.get("solution", {}).get("response")
+            print(result)  # 输出数据
 
-        if response is None:
-            raise ValueError("Response is None")
+            if response is None:
+                raise ValueError("Response is None")
 
-        html_string += response
+            html_string += response
+            break  # 如果成功，跳出 while 循环
 
-    except Exception as e:
-        print("An error occurred:", str(e))
-        break
+        except Exception as e:
+            print("An error occurred:", str(e))
+            continue  # 出错后跳出当前迭代，开始下一次迭代
 
 with open('./sharemania.html', 'w', encoding='utf-8') as f:
     f.write(html_string)
