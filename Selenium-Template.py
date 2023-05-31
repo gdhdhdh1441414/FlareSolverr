@@ -12,7 +12,7 @@ from datetime import datetime
 time.sleep(36)
 
 # 使用 subprocess 模块调用 curl 命令，并捕获命令输出结果
-curl_cmd = "curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"https://sharemania.us/\",\"maxTimeout\": 60000}'"
+curl_cmd = "curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"https://sharemania.us/\",\"maxTimeout\": 20000}'"
 result = subprocess.check_output(curl_cmd, shell=True)
 
 # 解析 JSON 数据
@@ -45,7 +45,7 @@ for link in new_links:
             url = "https://sharemania.us/" + link
             print(url)
             os.system("pkill chrome;pkill chromedriver")
-            curl_cmd = "curl -s 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"" + url + "\",\"maxTimeout\": 60000}'"
+            curl_cmd = "curl -s 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"" + url + "\",\"maxTimeout\": 20000}'"
             result = subprocess.check_output(curl_cmd, shell=True)
             data = json.loads(result.decode('utf-8'))
             response = data.get("solution", {}).get("response")
