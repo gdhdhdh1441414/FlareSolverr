@@ -8,54 +8,56 @@
 
  
                 <item>
-                <title><![CDATA[【VEVO】WEB-RiP - Chancho en Piedra - Multirricachon [VevoRip Clean AVC 720p] - 2005]]></title>
-                <link><![CDATA[https://sharemania.us/threads/chancho-en-piedra-multirricachon-vevorip-clean-avc-720p-2005.222566/]]></link>
+                <title><![CDATA[【VEVO】WEB-RiP - Chancho en Piedra - Niño Peo [VevoRip Clean AVC 1080p] - 2002]]></title>
+                <link><![CDATA[https://sharemania.us/threads/chancho-en-piedra-ni%C3%B1o-peo-vevorip-clean-avc-1080p-2002.222568/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center"><img src="https://i.imgur.com/HSHnhv4.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/HSHnhv4.png" style=""><br>
+<div style="text-align: center"><img src="https://i.imgur.com/9RmVchH.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/9RmVchH.png" style=""><br>
 <br>
-<img src="https://i.imgur.com/43m3DnI.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/43m3DnI.png" style="">​</div><br>
+<img src="https://i.imgur.com/n3thy79.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/n3thy79.png" style="">​</div><br>
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
 <button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
 <div class="SpoilerTarget bbCodeSpoilerText">
 <div class="bbCodeBlock bbCodeCode">
 <div class="type">Code:</div>
 <pre>General
-Complete name                  : Chancho en Piedra - Multirricachon [VevoRip Clean AVC 720p] - 2005.mp4
+Complete name                  : Chancho en Piedra - Niño Peo [VevoRip Clean AVC 1080p] - 2002.mp4
 Format                         : MPEG-4
 Format profile                 : Base Media
 Codec ID                       : isom (isom/iso2/avc1/mp41)
-File size                      : 43.1 MiB
-Duration                       : 3 min 8 s
-Overall bit rate               : 1 919 kb/s
-Frame rate                     : 29.970 FPS
-Writing application            : Lavf57.44.100
+File size                      : 132 MiB
+Duration                       : 3 min 31 s
+Overall bit rate               : 5 245 kb/s
+Frame rate                     : 25.000 FPS
+Writing application            : Lavf59.16.100
 
 Video
 ID                             : 1
 Format                         : AVC
 Format/Info                    : Advanced Video Codec
-Format profile                 : Main@L3.1
+Format profile                 : Main@L4
 Format settings                : CABAC / 4 Ref Frames
 Format settings, CABAC         : Yes
 Format settings, Reference fra : 4 frames
 Codec ID                       : avc1
 Codec ID/Info                  : Advanced Video Coding
-Duration                       : 3 min 8 s
-Bit rate                       : 1 784 kb/s
-Width                          : 1 280 pixels
-Height                         : 720 pixels
+Duration                       : 3 min 31 s
+Bit rate                       : 5 200 kb/s
+Maximum bit rate               : 5 111 kb/s
+Width                          : 1 920 pixels
+Height                         : 1 080 pixels
 Display aspect ratio           : 16:9
 Frame rate mode                : Constant
-Frame rate                     : 29.970 (30000/1001) FPS
+Frame rate                     : 25.000 FPS
 Color space                    : YUV
 Chroma subsampling             : 4:2:0
 Bit depth                      : 8 bits
 Scan type                      : Progressive
-Bits/(Pixel*Frame)             : 0.065
-Stream size                    : 40.0 MiB (93%)
-Writing library                : x264 core 148
-Encoding settings              : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x1:0x131 / me=umh / subme=10 / psy=1 / psy_rd=0.50:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=8 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=125 / keyint_min=10 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=23.5 / qcomp=0.55 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=2000 / vbv_bufsize=2000 / crf_max=0.0 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Bits/(Pixel*Frame)             : 0.100
+Stream size                    : 129 MiB (97%)
+Writing library                : x264 core 144 r2 40bb568
+Encoding settings              : cabac=1 / ref=4 / deblock=1:0:0 / analyse=0x1:0x111 / me=umh / subme=8 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=125 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=cbr / mbtree=1 / bitrate=5200 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=5200 / vbv_bufsize=5200 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Language                       : English
 Codec configuration box        : avcC
 
 Audio
@@ -63,8 +65,7 @@ ID                             : 2
 Format                         : AAC LC
 Format/Info                    : Advanced Audio Codec Low Complexity
 Codec ID                       : mp4a-40-2
-Duration                       : 3 min 8 s
-Duration_LastFrame             : -15 ms
+Duration                       : 3 min 31 s
 Bit rate mode                  : Constant
 Bit rate                       : 128 kb/s
 Channel(s)                     : 2 channels
@@ -72,7 +73,8 @@ Channel layout                 : L R
 Sampling rate                  : 44.1 kHz
 Frame rate                     : 43.066 FPS (1024 SPF)
 Compression mode               : Lossy
-Stream size                    : 2.87 MiB (7%)
+Stream size                    : 3.22 MiB (2%)
+Language                       : English
 Default                        : Yes
 Alternate group                : 1
 </pre>
@@ -88,51 +90,6 @@ Alternate group                : 1
 </blockquote>
 </article>]]></description>
                 <author><![CDATA[ElFunadisimo]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Singles (lossless)】FLAC - EXO - Let Me In (Qobuz FLAC 24bits/96kHz)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/exo-let-me-in-qobuz-flac-24bits-96khz.222567/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://images2.imgbox.com/7b/f5/zLshLPUC_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/7b/f5/zLshLPUC_o.jpg" style=""><br>
-<br>
-<div data-s9e-mediaembed="youtube" style="display:inline-block;width:100%;max-width:640px"><div style="overflow:hidden;position:relative;padding-bottom:56.25%"><iframe allowfullscreen="" scrolling="no" style="background:url(https://i.ytimg.com/vi/91VhCIQNjIc/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%" src="https://www.youtube.com/embed/91VhCIQNjIc"></iframe></div></div><br>
-<br>
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div>
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[Eric Lyn]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Cinema Center】MOVIE - Doutor Estranho no Multiverso da Loucura (2022) IMAX 1080p WEB-DL DUAL PT-BR DDP5.1 Atmos]]></title>
-                <link><![CDATA[https://sharemania.us/threads/doutor-estranho-no-multiverso-da-loucura-2022-imax-1080p-web-dl-dual-pt-br-ddp5-1-atmos.222565/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://images2.imgbox.com/10/98/4aAPXtqg_o.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/10/98/4aAPXtqg_o.png" style=""><br>
-<img src="https://images2.imgbox.com/1f/94/oA6UCPjf_o.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/1f/94/oA6UCPjf_o.png" style=""><br>
-<div style="text-align: center"><br>
-<span style="font-family: 'Courier New'"><b>h264:</b><br>
-<b>
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></b><br>
-<b>Capturas de tela</b><br>
-<b><img src="https://images2.imgbox.com/6f/7b/WVJ9rSu0_o.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/6f/7b/WVJ9rSu0_o.png" style=""> </b><br>
-<b><img src="https://images2.imgbox.com/67/e8/Lw19mIVZ_o.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/67/e8/Lw19mIVZ_o.png" style=""> </b><br>
-<b><img src="https://images2.imgbox.com/e8/2f/r9aFGHqI_o.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/e8/2f/r9aFGHqI_o.png" style=""> </b></span>​</div>
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[Cauã]]></author>
                 </item>
 
                 </channel></rss>
