@@ -8,19 +8,149 @@
 
  
                 <item>
-                <title><![CDATA[【Singles (lossless)】FLAC - Stevie Nicks - One More Big Time Rock and Roll Star (2023 Remaster) | Qobuz Hi-Res 24bit / 44.1kHz]]></title>
-                <link><![CDATA[https://sharemania.us/threads/stevie-nicks-one-more-big-time-rock-and-roll-star-2023-remaster-qobuz-hi-res-24bit-44-1khz.222624/]]></link>
+                <title><![CDATA[【VEVO】WEB-RiP - Melanie Martinez - VOID - [MP4 &amp; TS] - 1080P]]></title>
+                <link><![CDATA[https://sharemania.us/threads/melanie-martinez-void-mp4-ts-1080p.222625/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center"><img src="https://static.qobuz.com/images/covers/sa/65/ksijg4fph65sa_600.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://static.qobuz.com/images/covers/sa/65/ksijg4fph65sa_600.jpg" style=""><br>
+<img src="https://i.imgur.com/T2iUOoo.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/T2iUOoo.png" style=""> <br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MP4</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>General
+Format                         : MPEG-4
+Format profile                 : Base Media
+Codec ID                       : isom (isom/iso2/avc1/mp41)
+File size                      : 162 MiB
+Duration                       : 4 min 41 s
+Overall bit rate mode          : Variable
+Overall bit rate               : 4 843 kb/s
+Writing application            : Lavf60.5.100
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : Main@L3.1
+Format settings                : CABAC / 4 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 4 frames
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 4 min 41 s
+Source duration                : 4 min 41 s
+Bit rate                       : 4 712 kb/s
+Width                          : 1 920 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Variable
+Frame rate                     : 23.976 (24000/1001) FPS
+Minimum frame rate             : 23.974 FPS
+Maximum frame rate             : 23.981 FPS
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.095
+Stream size                    : 158 MiB (97%)
+Source stream size             : 158 MiB (97%)
+Writing library                : x264 core 157 r2965 861cec4
+Encoding settings              : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x1:0x131 / me=umh / subme=10 / psy=1 / psy_rd=0.80:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=8 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=125 / keyint_min=10 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=22.0 / qcomp=0.65 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=5200 / vbv_bufsize=5200 / crf_max=0.0 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.05
+mdhd_Duration                  : 281114
+Codec configuration box        : avcC
+
+Audio
+ID                             : 2
+Format                         : AAC LC
+Format/Info                    : Advanced Audio Codec Low Complexity
+Codec ID                       : mp4a-40-2
+Duration                       : 4 min 41 s
+Bit rate mode                  : Variable
+Bit rate                       : 126 kb/s
+Maximum bit rate               : 128 kb/s
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 44.1 kHz
+Frame rate                     : 43.066 FPS (1024 SPF)
+Compression mode               : Lossy
+Stream size                    : 4.21 MiB (3%)
+Default                        : Yes
+Alternate group                : 1
+</pre>
+</div></div>
+</div><img src="https://i.imgur.com/Gm3bsLn.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/Gm3bsLn.png" style=""> <br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">TS</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>General
+ID                             : 1 (0x1)
+Format                         : MPEG-TS
+File size                      : 167 MiB
+Duration                       : 4 min 41 s
+Overall bit rate mode          : Variable
+Overall bit rate               : 4 977 kb/s
+
+Video
+ID                             : 256 (0x100)
+Menu ID                        : 1 (0x1)
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : Main@L3.1
+Format settings                : CABAC / 4 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 4 frames
+Codec ID                       : 27
+Duration                       : 4 min 41 s
+Width                          : 1 920 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Variable
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Writing library                : x264 core 157 r2965 861cec4
+Encoding settings              : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x1:0x131 / me=umh / subme=10 / psy=1 / psy_rd=0.80:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=8 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=125 / keyint_min=10 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=22.0 / qcomp=0.65 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=5200 / vbv_bufsize=5200 / crf_max=0.0 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.05
+
+Audio
+ID                             : 257 (0x101)
+Menu ID                        : 1 (0x1)
+Format                         : AAC LC
+Format/Info                    : Advanced Audio Codec Low Complexity
+Format version                 : Version 4
+Muxing mode                    : ADTS
+Codec ID                       : 15-2
+Duration                       : 4 min 41 s
+Bit rate mode                  : Variable
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 44.1 kHz
+Frame rate                     : 43.066 FPS (1024 SPF)
+Compression mode               : Lossy
+Delay relative to video        : -46 ms
+
+Menu
+ID                             : 4096 (0x1000)
+Menu ID                        : 1 (0x1)
+Duration                       : 4 min 41 s
+List                           : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name                   : Service
+Service provider               : Hybrik
+Service type                   : digital television
+</pre>
+</div></div>
+</div>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
 <blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div>
+</div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[Yennefer]]></author>
+                <author><![CDATA[Matheus10]]></author>
                 </item>
 
                 </channel></rss>
