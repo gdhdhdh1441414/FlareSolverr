@@ -8,26 +8,26 @@
 
  
                 <item>
-                <title><![CDATA[【VEVO】WEB-RiP - Psy, Snoop Dogg - Hangover [VevoRip Clean AVC 1080p] - 2014]]></title>
-                <link><![CDATA[https://sharemania.us/threads/psy-snoop-dogg-hangover-vevorip-clean-avc-1080p-2014.222676/]]></link>
+                <title><![CDATA[【VEVO】WEB-RiP - Jamiroquai - Little L [VevoRip Clean AVC 1080p] - 2001]]></title>
+                <link><![CDATA[https://sharemania.us/threads/jamiroquai-little-l-vevorip-clean-avc-1080p-2001.222677/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center"><img src="https://i.imgur.com/8mtkPno.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/8mtkPno.png" style=""><br>
+<div style="text-align: center"><img src="https://i.imgur.com/M4E0qsK.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/M4E0qsK.png" style=""><br>
 <br>
-<img src="https://i.imgur.com/pY2dbkB.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/pY2dbkB.png" style="">​</div><br>
+<img src="https://i.imgur.com/18BA7Ew.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/18BA7Ew.png" style="">​</div><br>
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
 <button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
 <div class="SpoilerTarget bbCodeSpoilerText">
 <div class="bbCodeBlock bbCodeCode">
 <div class="type">Code:</div>
 <pre>General
-Complete name                  : Psy, Snoop Dogg - Hangover [VevoRip Clean AVC 1080p] - 2014.mp4
+Complete name                  : Jamiroquai - Little L [VevoRip Clean AVC 1080p] - 2001.mp4
 Format                         : MPEG-4
 Format profile                 : Base Media
 Codec ID                       : isom (isom/iso2/avc1/mp41)
-File size                      : 186 MiB
-Duration                       : 5 min 3 s
-Overall bit rate               : 5 144 kb/s
+File size                      : 128 MiB
+Duration                       : 3 min 56 s
+Overall bit rate               : 4 534 kb/s
 Frame rate                     : 25.000 FPS
 Writing application            : Lavf59.16.100
 
@@ -41,27 +41,21 @@ Format settings, CABAC         : Yes
 Format settings, Reference fra : 4 frames
 Codec ID                       : avc1
 Codec ID/Info                  : Advanced Video Coding
-Duration                       : 5 min 3 s
-Source duration                : 5 min 3 s
-Bit rate                       : 5 200 kb/s
-Maximum bit rate               : 5 011 kb/s
+Duration                       : 3 min 56 s
+Bit rate                       : 4 403 kb/s
 Width                          : 1 920 pixels
 Height                         : 1 080 pixels
 Display aspect ratio           : 16:9
-Frame rate mode                : Variable
+Frame rate mode                : Constant
 Frame rate                     : 25.000 FPS
-Minimum frame rate             : 24.993 FPS
-Maximum frame rate             : 25.000 FPS
 Color space                    : YUV
 Chroma subsampling             : 4:2:0
 Bit depth                      : 8 bits
 Scan type                      : Progressive
-Bits/(Pixel*Frame)             : 0.100
-Stream size                    : 181 MiB (97%)
-Source stream size             : 181 MiB (97%)
-Writing library                : x264 core 142 r2479 dd79a61
-Encoding settings              : cabac=1 / ref=4 / deblock=1:0:0 / analyse=0x1:0x111 / me=umh / subme=8 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=cbr / mbtree=1 / bitrate=5200 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=5200 / vbv_bufsize=5200 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
-mdhd_Duration                  : 303520
+Bits/(Pixel*Frame)             : 0.085
+Stream size                    : 124 MiB (97%)
+Writing library                : x264 core 144 r2 40bb568
+Encoding settings              : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x1:0x131 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=12 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=125 / keyint_min=10 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=2pass / mbtree=1 / bitrate=4420 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / vbv_maxrate=5200 / vbv_bufsize=5200 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
 Codec configuration box        : avcC
 
 Audio
@@ -69,7 +63,7 @@ ID                             : 2
 Format                         : AAC LC
 Format/Info                    : Advanced Audio Codec Low Complexity
 Codec ID                       : mp4a-40-2
-Duration                       : 5 min 3 s
+Duration                       : 3 min 56 s
 Bit rate mode                  : Constant
 Bit rate                       : 128 kb/s
 Channel(s)                     : 2 channels
@@ -77,7 +71,95 @@ Channel layout                 : L R
 Sampling rate                  : 44.1 kHz
 Frame rate                     : 43.066 FPS (1024 SPF)
 Compression mode               : Lossy
-Stream size                    : 4.63 MiB (2%)
+Stream size                    : 3.61 MiB (3%)
+Default                        : Yes
+Alternate group                : 1
+</pre>
+</div></div>
+</div><br>
+<div style="text-align: center"><b>DOWNLOAD LINK</b><br>
+<img src="https://i.imgur.com/yRbU0vs.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/yRbU0vs.png" style=""><br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div></div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[ElFunadisimo]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【VEVO】WEB-RiP - Juan Luis Guerra - La Guagua [VevoRip Clean AVC 1080p] - 2010]]></title>
+                <link><![CDATA[https://sharemania.us/threads/juan-luis-guerra-la-guagua-vevorip-clean-avc-1080p-2010.222678/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<div style="text-align: center"><img src="https://i.imgur.com/rjk3qul.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/rjk3qul.png" style=""><br>
+<br>
+<img src="https://i.imgur.com/qyeBWYY.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/qyeBWYY.png" style="">​</div><br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>General
+Complete name                  : Juan Luis Guerra - La Guagua [VevoRip Clean AVC 1080p] - 2010.mp4
+Format                         : MPEG-4
+Format profile                 : Base Media
+Codec ID                       : isom (isom/iso2/avc1/mp41)
+File size                      : 124 MiB
+Duration                       : 3 min 49 s
+Overall bit rate               : 4 518 kb/s
+Frame rate                     : 25.000 FPS
+Movie name                     : La Guagua
+Performer                      : Juan Luis Guerra 4.40
+Recorded date                  : 20100723
+Writing application            : Lavf59.16.100
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : Main@L4
+Format settings                : CABAC / 4 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 4 frames
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 3 min 49 s
+Bit rate                       : 4 385 kb/s
+Width                          : 1 920 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 25.000 FPS
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.085
+Stream size                    : 120 MiB (97%)
+Writing library                : x264 core 144 r2 40bb568
+Encoding settings              : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x1:0x131 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=125 / keyint_min=12 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=abr / mbtree=1 / bitrate=4420 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=5200 / vbv_bufsize=5200 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Language                       : English
+Codec configuration box        : avcC
+
+Audio
+ID                             : 2
+Format                         : AAC LC
+Format/Info                    : Advanced Audio Codec Low Complexity
+Codec ID                       : mp4a-40-2
+Duration                       : 3 min 49 s
+Bit rate mode                  : Constant
+Bit rate                       : 128 kb/s
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 44.1 kHz
+Frame rate                     : 43.066 FPS (1024 SPF)
+Compression mode               : Lossy
+Stream size                    : 3.51 MiB (3%)
+Language                       : English
 Default                        : Yes
 Alternate group                : 1
 </pre>
