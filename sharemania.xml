@@ -8,58 +8,59 @@
 
  
                 <item>
-                <title><![CDATA[【Apple Music】WEB-RiP - Havana - Last Night (feat. Yaar &amp; Kaiia) (1080p)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/havana-last-night-feat-yaar-kaiia-1080p.222855/]]></link>
+                <title><![CDATA[【HD Live Performances】UPSCALE - Michael Jackson 1995 VMA Performance 1080p60]]></title>
+                <link><![CDATA[https://sharemania.us/threads/michael-jackson-1995-vma-performance-1080p60.222858/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://i.imgur.com/CQTYzvG.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/CQTYzvG.jpg" style=""><br>
-<br>
+Deinterlaced with QTGMC Slower Preset.<br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Thumbnails</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText"><img src="https://i.imgur.com/flkQbXH.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/flkQbXH.jpg" style=""></div>
+</div>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Mediainfo</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">
 <div class="bbCodeBlock bbCodeCode">
 <div class="type">Code:</div>
 <pre>General
-Complete name                  : C:\Users\asus\Desktop\Havana - Last Night (feat. Yaar &amp; Kaiia).mp4
+Complete name                  : Michael Jackson 1995 VMA Performance HD 60 FPS.mp4
 Format                         : MPEG-4
 Format profile                 : Base Media
 Codec ID                       : isom (isom/iso2/avc1/mp41)
-File size                      : 166 MiB
-Duration                       : 3 min 26 s
-Overall bit rate               : 6 740 kb/s
-Frame rate                     : 29.970 FPS
-Movie name                     : Last Night (feat. Yaar &amp; Kaiia)
-Performer                      : Havana
-Genre                          : Dance
-ContentType                    : Music Video
-Recorded date                  : 2021-10-27 07:00:00 UTC
-Writing application            : Lavf57.29.101
-Copyright                      : ℗ 2021 Cat Music
+File size                      : 881 MiB
+Duration                       : 14 min 39 s
+Overall bit rate               : 8 400 kb/s
+Writing application            : Lavf60.5.100
 
 Video
 ID                             : 1
 Format                         : AVC
 Format/Info                    : Advanced Video Codec
-Format profile                 : High@L4
-Format settings                : CABAC / 4 Ref Frames
+Format profile                 : High@L5
+Format settings                : CABAC / 8 Ref Frames
 Format settings, CABAC         : Yes
-Format settings, Reference fra : 4 frames
+Format settings, Reference fra : 8 frames
 Codec ID                       : avc1
 Codec ID/Info                  : Advanced Video Coding
-Duration                       : 3 min 26 s
-Bit rate                       : 6 482 kb/s
-Width                          : 1 920 pixels
+Duration                       : 14 min 39 s
+Bit rate                       : 8 067 kb/s
+Width                          : 1 440 pixels
 Height                         : 1 080 pixels
-Display aspect ratio           : 16:9
+Display aspect ratio           : 4:3
 Frame rate mode                : Constant
-Frame rate                     : 29.970 (30000/1001) FPS
+Frame rate                     : 59.940 (60000/1001) FPS
 Color space                    : YUV
 Chroma subsampling             : 4:2:0
 Bit depth                      : 8 bits
 Scan type                      : Progressive
-Bits/(Pixel*Frame)             : 0.104
-Stream size                    : 160 MiB (96%)
+Bits/(Pixel*Frame)             : 0.087
+Stream size                    : 846 MiB (96%)
+Writing library                : x264 core 164 r3095M baee400
+Encoding settings              : cabac=1 / ref=8 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=18.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
 Color range                    : Limited
-Color primaries                : BT.709
-Transfer characteristics       : BT.709
-Matrix coefficients            : BT.709
+Color primaries                : BT.601 NTSC
+Transfer characteristics       : BT.601
+Matrix coefficients            : BT.601
 Codec configuration box        : avcC
 
 Audio
@@ -67,61 +68,65 @@ ID                             : 2
 Format                         : AAC LC
 Format/Info                    : Advanced Audio Codec Low Complexity
 Codec ID                       : mp4a-40-2
-Duration                       : 3 min 26 s
+Duration                       : 14 min 39 s
+Source duration                : 14 min 39 s
+Source_Duration_LastFrame      : -12 ms
 Bit rate mode                  : Constant
-Bit rate                       : 251 kb/s
+Bit rate                       : 320 kb/s
 Channel(s)                     : 2 channels
 Channel layout                 : L R
 Sampling rate                  : 48.0 kHz
 Frame rate                     : 46.875 FPS (1024 SPF)
 Compression mode               : Lossy
-Stream size                    : 6.19 MiB (4%)
+Stream size                    : 33.6 MiB (4%)
+Source stream size             : 33.6 MiB (4%)
 Default                        : Yes
 Alternate group                : 1
 
 </pre>
+</div></div>
 </div>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Download</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
-<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></div>
 </div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[vitalya3]]></author>
+                <author><![CDATA[glomatico]]></author>
                 </item>
 
                 
                 <item>
-                <title><![CDATA[【PRORES HD】Max Cooper - Resynthesis 3D (Binaural Audio) [Master ProRes 1080p | PCM 24-bit 48 kHz]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/max-cooper-resynthesis-3d-binaural-audio-master-prores-1080p-pcm-24-bit-48-khz.222856/]]></link>
+                <title><![CDATA[【PRORES HD】Max Cooper - Veil of Time 3D (Binaural Audio) [Master ProRes 1080p | PCM 16-bit 48 kHz]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/max-cooper-veil-of-time-3d-binaural-audio-master-prores-1080p-pcm-16-bit-48-khz.222857/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<b><img src="https://images2.imgbox.com/8c/fb/R8b6SyYc_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/8c/fb/R8b6SyYc_o.jpg" style=""> <br>
+<b><img src="https://images2.imgbox.com/c2/fa/18ZGcL7K_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/c2/fa/18ZGcL7K_o.jpg" style=""> <br>
 <br>
-Genre: <span style="color: rgb(0, 89, 179)">Electronic</span><br>
-Style: <span style="color: rgb(0, 89, 179)">Techno</span><br>
-Year: <span style="color: rgb(0, 89, 179)">2020</span><br>
+Genre: <span style="color: #0059b3">Electronic</span><br>
+Style: <span style="color: #0059b3">Ambient</span><br>
+Year: <span style="color: #0059b3">2020</span><br>
 Video Format: <span style="color: #0059b3">ProRes 422 HQ</span><br>
-Audio Format: <span style="color: #0059b3">PCM 24-bit 48 kHz</span></b><br>
+Audio Format: <span style="color: #0059b3">PCM 16-bit 48 kHz</span></b><br>
 <br>
-"<b>Resynthesis 3D</b>" is a track by London-based electronica and techno producer Max Cooper. It's the first track from his album 3D Reworks 001, released in 2020.<br>
+"<b>Veil of Time 3D</b>" is a track by London-based electronica and techno producer Max Cooper. It's the fourth track from his album 3D Reworks 001, released in 2020.<br>
 <br>
 Max Cooper rises to the challenge to correct the recent interest in ‘8D audio’, which is a name that has been given to a single audio track sent through a binaural panner. There aren't really 8 dimensions, it's a 3D experience, but it is a special audio experience worthy of our attention.<br>
 <br>
 The binaural recording technique was invented in the 50's - sound is recorded from inside a fake head, in order to capture the subtle signals of how sound interacts with the head and ears, and is fractionally delayed between the two ear drums depending on its position. These subtle signals are interpreted by our brains to give information about the sound environment around us, which we experience as a 3D immersive sound world.<br>
 <br>
-Max Cooper: <i>"There has been a lot of interest in "8D" audio recently, which is a name given for when a track is sent through a binaural panner with some reverb. There aren't really 8 dimensions, it's a 3D audio experience, but it does demonstrate an interesting technique which was invented in the 50's, whereby sound is recorded from inside a fake head, in order to capture the subtle signals of how sound interacts with the head and ears, and is fractionally delayed between the two ear drums depending on its position.<br>
+Max Cooper said about the project: <i>"This project with Kevin McGloughlin started with the idea of playing with time. I was interested in the idea of time as something like another physical dimension, moving forward as a growing structure, and the slitscan technique made famous by Stanley Kubrick in his 1968 film, 2001 A Space Odyssey. This technique captures a thin line of image at any one moment, stretching out time across each single frame on screen. I thought it could be something like what our world might look like if we weren't stuck inside it, pinned to our timeline.<br>
 <br>
-These subtle signals are interpreted by our brains to give information about the sound environment around us, which we experience as a 3D immersive sound world. It's a technique I have been using in my music for many years, as have many musicians since the 50's. But it only works if you listen with headphones, otherwise the left and right signals get mixed up and we can't subconsciously interpret them as clearly, so the effect is mostly lost. That's why people don't usually make entire piece of music in this format.<br>
+Kevin McGloughlin took this rough idea and created something entirely unexpected, an abstracted love story of sorts, full of tiny cuts and suggestive imagery, taking the whole project far beyond our initial discussions in quality, as he always does! So when it came to making a 3D headphone surround sound version of the project I thought it was a great opportunity to revisit the audio form and score it more closely to Kevin's video work.<br>
 <br>
-In the 90's the simulated version of this recording technique was developed - the "head related transfer function" (HRTF). This is what you hear in your "8D" clips, but I wasn't content with the level of spatial richness, it was just a single source, not very interesting, so I thought I'd make a fully 3D binaural audio world where there are many binaural parts interacting, and all sounds are presented in this format, and see how it sounded. It's not a replacement for the usual optimised stereo (plus some binaural) format, but hopefully something interesting enough to share.<br>
+I added a lot of real binaural recordings of me walking in the forest and making various clicks and crunches, along with Rob Clouth's amazing "Dust" VST which creates a binaural particle field around a simulated listener (you), and some basic binaural panning too. I tried to make this new spatial format follow Kevin's visual story and sync to his micro cuts of momentary visuals.<br>
 <br>
-I made it using my track, "Resynthesis", and kept the parts which were already in binaural format, and changed everything else to this format. I used some real binaural recordings with microphones inside my ears to capture my personal HRTF, and also used two different binaural panning devices a freeware Binaural Spatializer, and Ambeo Orbit by Sennheiser. The challange was the same as my other surround sound shows when I play live with many speakers as opposed to a simulated 3D environment - to create a spatial form which is musical in itself, so that the movements and positions work with the other elements of the music, traditional rhythms linked to spatial rhythms, and a varied but always listenable environment. For real physical spaces I have to worry about time lag for sound reaching from one side of the room to the other in terms of creating rhythms, so at least I didn't have to worry about that.<br>
-<br>
-If you put your headphones on and close your eyes it will create the strongest spatial effect. I'd highly recommend checking out the binaural hairdresser on YouTube too, that's a really powerful demonstration of this technique using the original 50's tech. But for today, it's an abstract 3D digital world of mainly simulated binaural, synced to the beautiful video work of Kevin McGloughlin from our Resynthesis project. The original video was all about trying to render time as a 4th dimension of space which extrudes and can be viewed from different angles, which I thought was a fitting topic for this audio treatment too.<br>
-<br>
-It was fun making this, I'll make some more 3D binaural focused tracks in coming days and see how far I can push the technique.....and a note added to that after some more days experiments, this one is still very basic as far as the simulated/musical binaural experience can go, l have some more developed ones on the way.<i>"</i></i><br>
+The 3D binaural surround sound content only works if you listen with headphones though, as it needs a clean left and right signal reaching your left and right ears."</i><br>
 <br>
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
 <button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Media Info</span></span></button>
@@ -129,17 +134,17 @@ It was fun making this, I'll make some more 3D binaural focused tracks in coming
 <div class="bbCodeBlock bbCodeCode">
 <div class="type">Code:</div>
 <pre>General
-Complete name                  : Max Cooper - Resynthesis 3D (Binaural Audio).mov
+Complete name                  : Max Cooper - Veil of Time 3D (Binaural Audio).mov
 Format                         : MPEG-4
 Format profile                 : QuickTime
 Codec ID                       : qt   2005.03 (qt  )
-File size                      : 4.98 GiB
-Duration                       : 4 min 24 s
+File size                      : 3.37 GiB
+Duration                       : 2 min 45 s
 Overall bit rate mode          : Variable
-Overall bit rate               : 162 Mb/s
+Overall bit rate               : 175 Mb/s
 Frame rate                     : 25.000 FPS
-Encoded date                   : 2020-04-01 15:18:17 UTC
-Tagged date                    : 2020-03-31 15:20:29 UTC
+Encoded date                   : 2020-04-08 17:21:00 UTC
+Tagged date                    : 2020-04-06 17:22:45 UTC
 Writing library                : Apple QuickTime
 TIM                            : 00:00:00:00
 TSC                            : 25
@@ -151,9 +156,9 @@ Format                         : ProRes
 Format version                 : Version 0
 Format profile                 : 422 HQ
 Codec ID                       : apch
-Duration                       : 4 min 24 s
+Duration                       : 2 min 45 s
 Bit rate mode                  : Variable
-Bit rate                       : 158 Mb/s
+Bit rate                       : 174 Mb/s
 Width                          : 1 920 pixels
 Height                         : 1 080 pixels
 Display aspect ratio           : 16:9
@@ -162,12 +167,12 @@ Frame rate                     : 25.000 FPS
 Color space                    : YUV
 Chroma subsampling             : 4:2:2
 Scan type                      : Progressive
-Bits/(Pixel*Frame)             : 3.055
-Stream size                    : 4.88 GiB (98%)
+Bits/(Pixel*Frame)             : 3.349
+Stream size                    : 3.34 GiB (99%)
 Writing library                : adb0
 Language                       : English
-Encoded date                   : 2020-04-01 15:18:17 UTC
-Tagged date                    : 2020-04-01 15:18:17 UTC
+Encoded date                   : 2020-04-08 17:21:00 UTC
+Tagged date                    : 2020-04-08 17:21:00 UTC
 Color primaries                : BT.709
 Transfer characteristics       : BT.709
 Matrix coefficients            : BT.709
@@ -176,31 +181,31 @@ Audio
 ID                             : 2
 Format                         : PCM
 Format settings                : Little / Signed
-Codec ID                       : fl32
-Duration                       : 4 min 24 s
+Codec ID                       : sowt
+Duration                       : 2 min 45 s
 Bit rate mode                  : Constant
-Bit rate                       : 3 072 kb/s
+Bit rate                       : 1 536 kb/s
 Channel(s)                     : 2 channels
 Channel layout                 : L R
 Sampling rate                  : 48.0 kHz
-Bit depth                      : 32 bits
-Stream size                    : 96.9 MiB (2%)
+Bit depth                      : 16 bits
+Stream size                    : 30.2 MiB (1%)
 Language                       : English
-Encoded date                   : 2020-04-01 15:18:17 UTC
-Tagged date                    : 2020-04-01 15:18:17 UTC
+Encoded date                   : 2020-04-08 17:21:00 UTC
+Tagged date                    : 2020-04-08 17:21:00 UTC
 
 Other
 ID                             : 3
 Type                           : Time code
 Format                         : QuickTime TC
-Duration                       : 4 min 24 s
+Duration                       : 2 min 45 s
 Frame rate                     : 25.000 FPS
 Time code of first frame       : 00:00:00:00
-Time code of last frame        : 00:04:24:15
+Time code of last frame        : 00:02:45:03
 Time code, stripped            : Yes
 Language                       : English
-Encoded date                   : 2020-04-01 15:18:17 UTC
-Tagged date                    : 2020-04-01 15:18:17 UTC
+Encoded date                   : 2020-04-08 17:21:00 UTC
+Tagged date                    : 2020-04-08 17:21:00 UTC
 </pre>
 </div></div>
 </div><br>
