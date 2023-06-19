@@ -8,19 +8,14 @@
 
  
                 <item>
-                <title><![CDATA[【PRORES HD】Ariana Grande - Be Alright (DWT Visual) [ProRes]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/ariana-grande-be-alright-dwt-visual-prores.222932/]]></link>
+                <title><![CDATA[【Music Videos】PACK - Ariana Grande - Sweetener Visuals (Get Well Soon, R.E.M &amp; Sweetener)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/ariana-grande-sweetener-visuals-get-well-soon-r-e-m-sweetener.222935/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: left"><img src="http://imgfz.com/i/cQEgGN6.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="http://imgfz.com/i/cQEgGN6.png" style=""><br>
+<b><span style="font-size: 26px">R.E.M: <br>
+</span></b><br>
+<div style="text-align: center"><b><span style="font-size: 26px"><img src="http://imgfz.com/i/Bk0rRx8.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="http://imgfz.com/i/Bk0rRx8.png" style=""> <br>
 <br>
-<img src="http://imgfz.com/i/DBJ73Kn.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="http://imgfz.com/i/DBJ73Kn.png" style=""><br>
-<br>
-<img src="http://imgfz.com/i/UgHR6cS.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="http://imgfz.com/i/UgHR6cS.png" style=""><br>
-<br>
-<img src="http://imgfz.com/i/0YAQ9TM.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="http://imgfz.com/i/0YAQ9TM.png" style=""><br>
-<br>
-​</div>
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
 <button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
 <div class="SpoilerTarget bbCodeSpoilerText">
@@ -29,88 +24,276 @@
 <pre>General
                   :
 Format                         : MPEG-4
-Format profile                 : QuickTime
-Codec ID                       : qt   2005.03 (qt  )
-File size                      : 3.79 GiB
-Duration                       : 3 min 20 s
+Format profile                 : Base Media / Version 2
+Codec ID                       : mp42 (mp42/mp41)
+File size                      : 234 MiB
+Duration                       : 4 min 2 s
 Overall bit rate mode          : Variable
-Overall bit rate               : 162 Mb/s
-Frame rate                     : 25.000 FPS
-Encoded date                   : 2023-06-02 14:20:29 UTC
-Tagged date                    : 2023-06-02 14:21:50 UTC
-Writing library                : Apple QuickTime
+Overall bit rate               : 8 092 kb/s
+Frame rate                     : 23.976 FPS
+Encoded date                   : 2023-06-05 01:04:58 UTC
+Tagged date                    : 2023-06-05 01:42:42 UTC
 TIM                            : 00:00:00:00
-TSC                            : 25
-TSZ                            : 1
+TSC                            : 24000
+TSZ                            : 1001
 
 Video
 ID                             : 1
-Format                         : ProRes
-Format version                 : Version 0
-Format profile                 : 422 HQ
-Codec ID                       : apch
-Duration                       : 3 min 20 s
-Bit rate mode                  : Variable
-Bit rate                       : 161 Mb/s
-Width                          : 2 350 pixels
-Height                         : 1 000 pixels
-Display aspect ratio           : 2.35:1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : Main@L4.1
+Format settings                : CABAC / 2 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 2 frames
+Format settings, GOP           : M=1, N=24
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 4 min 2 s
+Bit rate                       : 7 770 kb/s
+Width                          : 1 920 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 16:9
 Frame rate mode                : Constant
-Frame rate                     : 25.000 FPS
+Frame rate                     : 23.976 (24000/1001) FPS
 Color space                    : YUV
-Chroma subsampling             : 4:2:2
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
 Scan type                      : Progressive
-Bits/(Pixel*Frame)             : 2.737
-Stream size                    : 3.75 GiB (99%)
-Writing library                : adb0
+Bits/(Pixel*Frame)             : 0.156
+Stream size                    : 224 MiB (96%)
 Language                       : English
-Encoded date                   : 2023-06-02 14:20:29 UTC
-Tagged date                    : 2023-06-02 14:20:29 UTC
+Encoded date                   : 2023-06-05 01:04:58 UTC
+Tagged date                    : 2023-06-05 01:04:58 UTC
+Color range                    : Limited
 Color primaries                : BT.709
 Transfer characteristics       : BT.709
 Matrix coefficients            : BT.709
+Codec configuration box        : avcC
 
 Audio
 ID                             : 2
-Format                         : PCM
-Format settings                : Little / Signed
-Codec ID                       : sowt
-Duration                       : 3 min 20 s
-Bit rate mode                  : Constant
-Bit rate                       : 1 536 kb/s
+Format                         : AAC LC
+Format/Info                    : Advanced Audio Codec Low Complexity
+Codec ID                       : mp4a-40-2
+Duration                       : 4 min 2 s
+Source duration                : 4 min 2 s
+Bit rate mode                  : Variable
+Bit rate                       : 317 kb/s
+Maximum bit rate               : 474 kb/s
 Channel(s)                     : 2 channels
 Channel layout                 : L R
 Sampling rate                  : 48.0 kHz
-Bit depth                      : 16 bits
-Stream size                    : 36.7 MiB (1%)
+Frame rate                     : 46.875 FPS (1024 SPF)
+Compression mode               : Lossy
+Stream size                    : 9.16 MiB (4%)
+Source stream size             : 9.16 MiB (4%)
 Language                       : English
-Encoded date                   : 2023-06-02 14:20:29 UTC
-Tagged date                    : 2023-06-02 14:20:29 UTC
-
-Other
-ID                             : 3
-Type                           : Time code
-Format                         : QuickTime TC
-Duration                       : 3 min 20 s
-Frame rate                     : 25.000 FPS
-Time code of first frame       : 00:00:00:00
-Time code of last frame        : 00:03:20:05
-Time code, stripped            : Yes
-Language                       : English
-Encoded date                   : 2023-06-02 14:20:29 UTC
-Tagged date                    : 2023-06-02 14:20:29 UTC
+Encoded date                   : 2023-06-05 01:05:17 UTC
+Tagged date                    : 2023-06-05 01:05:17 UTC
 
 </pre>
 </div></div>
-</div><div style="text-align: left"><br>
+</div></span></b>​</div><b><span style="font-size: 26px">Get Well Soon: <br>
+</span></b><br>
+<div style="text-align: center"><b><span style="font-size: 26px"><img src="http://imgfz.com/i/5uonszf.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="http://imgfz.com/i/5uonszf.png" style=""> <br>
+<br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>General
+                  :
+Format                         : MPEG-4
+Format profile                 : Base Media / Version 2
+Codec ID                       : mp42 (mp42/mp41)
+File size                      : 516 MiB
+Duration                       : 4 min 39 s
+Overall bit rate mode          : Variable
+Overall bit rate               : 15.5 Mb/s
+Frame rate                     : 23.976 FPS
+Encoded date                   : 2023-06-04 22:17:44 UTC
+Tagged date                    : 2023-06-04 23:01:48 UTC
+TIM                            : 00:00:00:00
+TSC                            : 24000
+TSZ                            : 1001
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : Main@L4.1
+Format settings                : CABAC / 2 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 2 frames
+Format settings, GOP           : M=1, N=24
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 4 min 39 s
+Bit rate                       : 15.1 Mb/s
+Width                          : 1 920 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 23.976 (24000/1001) FPS
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.305
+Stream size                    : 505 MiB (98%)
+Language                       : English
+Encoded date                   : 2023-06-04 22:17:44 UTC
+Tagged date                    : 2023-06-04 22:17:44 UTC
+Color range                    : Limited
+Color primaries                : BT.709
+Transfer characteristics       : BT.709
+Matrix coefficients            : BT.709
+Codec configuration box        : avcC
+
+Audio
+ID                             : 2
+Format                         : AAC LC
+Format/Info                    : Advanced Audio Codec Low Complexity
+Codec ID                       : mp4a-40-2
+Duration                       : 4 min 39 s
+Source duration                : 4 min 39 s
+Bit rate mode                  : Variable
+Bit rate                       : 317 kb/s
+Maximum bit rate               : 375 kb/s
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 46.875 FPS (1024 SPF)
+Compression mode               : Lossy
+Stream size                    : 10.6 MiB (2%)
+Source stream size             : 10.6 MiB (2%)
+Language                       : English
+Encoded date                   : 2023-06-04 22:18:03 UTC
+Tagged date                    : 2023-06-04 22:18:03 UTC
+
+</pre>
+</div></div>
+</div></span></b>​</div><b><span style="font-size: 26px">Sweetener:<br>
+</span></b><br>
+<div style="text-align: center"><b><span style="font-size: 26px"><img src="http://imgfz.com/i/wJvN3Oa.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="http://imgfz.com/i/wJvN3Oa.png" style=""> <br>
+<br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>General
+                  :
+Format                         : MPEG-4
+Format profile                 : Base Media / Version 2
+Codec ID                       : mp42 (mp42/mp41)
+File size                      : 201 MiB
+Duration                       : 3 min 28 s
+Overall bit rate mode          : Variable
+Overall bit rate               : 8 085 kb/s
+Frame rate                     : 23.976 FPS
+Encoded date                   : 2023-06-05 00:29:17 UTC
+Tagged date                    : 2023-06-05 01:01:36 UTC
+TIM                            : 00:00:00:00
+TSC                            : 24000
+TSZ                            : 1001
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : Main@L4.1
+Format settings                : CABAC / 2 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 2 frames
+Format settings, GOP           : M=1, N=24
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 3 min 28 s
+Bit rate                       : 7 763 kb/s
+Width                          : 1 920 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 23.976 (24000/1001) FPS
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.156
+Stream size                    : 193 MiB (96%)
+Language                       : English
+Encoded date                   : 2023-06-05 00:29:17 UTC
+Tagged date                    : 2023-06-05 00:29:17 UTC
+Color range                    : Limited
+Color primaries                : BT.709
+Transfer characteristics       : BT.709
+Matrix coefficients            : BT.709
+Codec configuration box        : avcC
+
+Audio
+ID                             : 2
+Format                         : AAC LC
+Format/Info                    : Advanced Audio Codec Low Complexity
+Codec ID                       : mp4a-40-2
+Duration                       : 3 min 28 s
+Source duration                : 3 min 28 s
+Bit rate mode                  : Variable
+Bit rate                       : 317 kb/s
+Maximum bit rate               : 376 kb/s
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 46.875 FPS (1024 SPF)
+Compression mode               : Lossy
+Stream size                    : 7.88 MiB (4%)
+Source stream size             : 7.88 MiB (4%)
+Language                       : English
+Encoded date                   : 2023-06-05 00:29:36 UTC
+Tagged date                    : 2023-06-05 00:29:36 UTC
+
+</pre>
+</div></div>
+</div><br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
 <blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div></div>
+</div></span></b>​</div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
                 <author><![CDATA[honeymooon]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ AUD] - /rif - salami (1998)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/rif-salami-1998.222933/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+Hi there, I need this album in lossless<br>
+<a href="https://www.qobuz.com/us-en/album/salami-rif/x7aclzupfcfyc" target="_blank" class="externalLink" rel="nofollow">https://www.qobuz.com/us-en/album/salami-rif/x7aclzupfcfyc</a><br>
+<img src="https://static.qobuz.com/images/covers/yc/cf/x7aclzupfcfyc_600.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://static.qobuz.com/images/covers/yc/cf/x7aclzupfcfyc_600.jpg" style=""> <br>
+<br>
+Thanks
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[yoyon]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ AUD] - Macklemore &amp; Ryan Lewis - The Heist [Explicit] (Apple Music Dolby Atmos)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/macklemore-ryan-lewis-the-heist-explicit-apple-music-dolby-atmos.222934/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+This is an Apple Music exclusive. Can anyone download this?
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[FrederickA96Round2]]></author>
                 </item>
 
                 </channel></rss>
