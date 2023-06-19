@@ -8,18 +8,16 @@
 
  
                 <item>
-                <title><![CDATA[【Music Videos】Ariana Grande - 34+35 Music Video (Behind The Scenes &amp; Making of)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/ariana-grande-34-35-music-video-behind-the-scenes-making-of.222987/]]></link>
+                <title><![CDATA[【Music Videos】Ariana Grande - God Is A Woman (Alternate Intro)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/ariana-grande-god-is-a-woman-alternate-intro.222988/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<b><span style="text-decoration: underline">I'm pretty sure there's a better quiality version of this, i'll update if I can find it.<br>
-</span></b><br>
-<div style="text-align: center"><b><span style="text-decoration: underline"><img src="http://imgfz.com/i/Mma9Hxr.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="http://imgfz.com/i/Mma9Hxr.png" style=""><br>
+<b><span style="text-decoration: underline">Waiting for a better quality version of this.. </span></b><br>
 <br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U2M3RpZ3R1YjZ0Y2FwMW5xcmJnYXFwcmFkY3RmeHY3NTF5ZjVsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JDnkhmQke9pRG1mj9Z/giphy.gif" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U2M3RpZ3R1YjZ0Y2FwMW5xcmJnYXFwcmFkY3RmeHY3NTF5ZjVsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JDnkhmQke9pRG1mj9Z/giphy.gif" style=""><br>
+<div style="text-align: center"><img src="http://imgfz.com/i/lGH3V1n.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="http://imgfz.com/i/lGH3V1n.png" style=""><br>
 <br>
-</span></b><br>
-<div style="text-align: center">​</div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDN1ejA1YzQ3MnlkeHZxejV2Mjh6NGtkdzN4aHI4a3hxdTE5Y3ZudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yiyWwmMKPcqPhl5AyN/giphy.gif" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDN1ejA1YzQ3MnlkeHZxejV2Mjh6NGtkdzN4aHI4a3hxdTE5Y3ZudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yiyWwmMKPcqPhl5AyN/giphy.gif" style=""><br>
+<br>
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
 <button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
 <div class="SpoilerTarget bbCodeSpoilerText">
@@ -28,48 +26,45 @@
 <pre>General
                   :
 Format                         : MPEG-4
-Format profile                 : Base Media / Version 2
-Codec ID                       : mp42 (mp42/mp41)
-File size                      : 14.0 MiB
-Duration                       : 6 s 200 ms
+Format profile                 : Base Media
+Codec ID                       : isom (isom/iso2/avc1/mp41)
+File size                      : 17.0 MiB
+Duration                       : 43 s 676 ms
 Overall bit rate mode          : Variable
-Overall bit rate               : 18.9 Mb/s
-Frame rate                     : 30.000 FPS
-Encoded date                   : 2023-06-19 20:36:45 UTC
-Tagged date                    : 2023-06-19 20:36:45 UTC
-TIM                            : 00:00:00:00
-TSC                            : 30
-TSZ                            : 1
+Overall bit rate               : 3 264 kb/s
+Frame rate                     : 60.000 FPS
+Writing application            : Lavf58.76.100
 
 Video
 ID                             : 1
 Format                         : AVC
 Format/Info                    : Advanced Video Codec
-Format profile                 : Main@L4.1
+Format profile                 : High@L4.2
 Format settings                : CABAC / 4 Ref Frames
 Format settings, CABAC         : Yes
 Format settings, Reference fra : 4 frames
-Format settings, GOP           : M=1, N=30
 Codec ID                       : avc1
 Codec ID/Info                  : Advanced Video Coding
-Duration                       : 6 s 200 ms
-Bit rate                       : 18.6 Mb/s
+Duration                       : 43 s 667 ms
+Bit rate                       : 3 136 kb/s
 Width                          : 1 920 pixels
 Height                         : 1 080 pixels
 Display aspect ratio           : 16:9
 Frame rate mode                : Constant
-Frame rate                     : 30.000 FPS
-Standard                       : Component
+Frame rate                     : 60.000 FPS
 Color space                    : YUV
 Chroma subsampling             : 4:2:0
 Bit depth                      : 8 bits
 Scan type                      : Progressive
-Bits/(Pixel*Frame)             : 0.299
-Stream size                    : 13.7 MiB (98%)
-Language                       : English
-Encoded date                   : 2023-06-19 20:36:45 UTC
-Tagged date                    : 2023-06-19 20:36:45 UTC
+Bits/(Pixel*Frame)             : 0.025
+Stream size                    : 16.3 MiB (96%)
+Title                          : Core Media Video
+Writing library                : x264 core 163
+Encoding settings              : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=34 / lookahead_threads=5 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=23.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
 Color range                    : Limited
+Color primaries                : BT.709
+Transfer characteristics       : BT.709
+Matrix coefficients            : BT.709
 Codec configuration box        : avcC
 
 Audio
@@ -77,29 +72,31 @@ ID                             : 2
 Format                         : AAC LC
 Format/Info                    : Advanced Audio Codec Low Complexity
 Codec ID                       : mp4a-40-2
-Duration                       : 6 s 200 ms
-Source duration                : 6 s 229 ms
+Duration                       : 43 s 676 ms
+Source duration                : 43 s 699 ms
+Source_Duration_LastFrame      : -1 ms
 Bit rate mode                  : Variable
-Bit rate                       : 317 kb/s
-Maximum bit rate               : 369 kb/s
+Bit rate                       : 115 kb/s
+Maximum bit rate               : 128 kb/s
 Channel(s)                     : 2 channels
 Channel layout                 : L R
-Sampling rate                  : 48.0 kHz
-Frame rate                     : 46.875 FPS (1024 SPF)
+Sampling rate                  : 44.1 kHz
+Frame rate                     : 43.066 FPS (1024 SPF)
 Compression mode               : Lossy
-Stream size                    : 240 KiB (2%)
-Source stream size             : 241 KiB (2%)
-Language                       : English
-Encoded date                   : 2023-06-19 20:36:45 UTC
-Tagged date                    : 2023-06-19 20:36:45 UTC
+Stream size                    : 614 KiB (4%)
+Source stream size             : 614 KiB (4%)
+Title                          : Core Media Audio
+Default                        : Yes
+Alternate group                : 1
+mdhd_Duration                  : 43675
 
 </pre>
 </div></div>
-</div><b><span style="text-decoration: underline"><br>
+</div><br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
 <blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div></span></b>​</div>
+</div></div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
@@ -108,15 +105,38 @@ Tagged date                    : 2023-06-19 20:36:45 UTC
 
                 
                 <item>
-                <title><![CDATA[【Music Videos】.]]></title>
-                <link><![CDATA[https://sharemania.us/threads/222988/]]></link>
+                <title><![CDATA[【UPSCALED】Holly Johnson - Americanos (1080P Remastered)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/holly-johnson-americanos-1080p-remastered.222989/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-.....
+<a href="https://postimg.cc/qhB1vWrL" target="_blank" class="externalLink" rel="nofollow"><img src="https://i.postimg.cc/qhB1vWrL/Holly-Johnson-Americanos-1080-P-Remastered-mp4-thumbs-2023-06-19-22-25-49.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/qhB1vWrL/Holly-Johnson-Americanos-1080-P-Remastered-mp4-thumbs-2023-06-19-22-25-49.jpg"></a><br>
+<br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[honeymooon]]></author>
+                <author><![CDATA[djalf77]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【UPSCALED】Madison Avenue - Don't Call Me Baby (1080P Remastered)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/madison-avenue-dont-call-me-baby-1080p-remastered.222990/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<a href="https://postimg.cc/t17FYbf2" target="_blank" class="externalLink" rel="nofollow"><img src="https://i.postimg.cc/t17FYbf2/Madison-Avenue-Don-t-Call-Me-Baby-1080-P-Remastered-mp4-thumbs-2023-06-19-22-46-41.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/t17FYbf2/Madison-Avenue-Don-t-Call-Me-Baby-1080-P-Remastered-mp4-thumbs-2023-06-19-22-46-41.jpg"></a><br>
+<br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[djalf77]]></author>
                 </item>
 
                 </channel></rss>
