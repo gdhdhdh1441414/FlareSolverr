@@ -8,97 +8,79 @@
 
  
                 <item>
-                <title><![CDATA[【SD】DVD - Beyoncé - B'Day (Music Videos) [LPCM Audio] 576p PAL MKV]]></title>
-                <link><![CDATA[https://sharemania.us/threads/beyonc%C3%A9-bday-music-videos-lpcm-audio-576p-pal-mkv.222949/]]></link>
+                <title><![CDATA[【Apple Music】WEB-RiP - Rihanna - What Now (1080p)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/rihanna-what-now-1080p.222950/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center"><img src="https://www.the-rhythm.com/sites/g/files/g2000009916/files/2021-09/Beyonc%C3%A9_-_B%27Day.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://www.the-rhythm.com/sites/g/files/g2000009916/files/2021-09/Beyonc%C3%A9_-_B%27Day.png" style=""><br>
-1. Beautiful Liar (w/ Shakira)<br>
-2. Irreplaceable<br>
-3. Kitty Kat<br>
-4. Green Light<br>
-5. Upgrade U (feat. Jay-Z)<br>
-6. Flaws And All<br>
-7. Get Me Bodied (Extended Mix)<br>
-8. Freakum Dress<br>
-9. Suga Mama<br>
-10. Deja Vu (feat. Jay-Z)<br>
-11. Ring The Alarm<br>
-12. Listen<br>
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">CODEC</span></span></button>
-<div class="SpoilerTarget bbCodeSpoilerText">
+<img src="https://i.imgur.com/AdWNp9q.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/AdWNp9q.jpg" style=""><br>
+<br>
 <div class="bbCodeBlock bbCodeCode">
 <div class="type">Code:</div>
-<pre>Video
-ID                               : 1
-Format                           : MPEG Video
-Format version                   : Version 2
-Format profile                   : Main@Main
-Format settings, Matrix          : Default
-Codec ID                         : V_MPEG2
-Codec ID/Info                    : MPEG 1 or 2 Video
-Duration                         : 47mn 24s
-Bit rate mode                    : Variable
-Nominal bit rate                 : 8 000 Kbps
-Width                            : 720 pixels
-Height                           : 576 pixels
-Display aspect ratio             : 4/3
-Frame rate                       : 25.000 fps
-Standard                         : PAL
-Colorimetry                      : 4:2:0
-Scan type                        : Interlaced
-Scan order                       : Top Field First
-Bits/(Pixel*Frame)               : 0.772
+<pre>General
+Complete name                  : C:\Users\asus\Desktop\Rihanna - What Now.mp4
+Format                         : MPEG-4
+Format profile                 : Base Media
+Codec ID                       : isom (isom/iso2/avc1/mp41)
+File size                      : 223 MiB
+Duration                       : 4 min 10 s
+Overall bit rate               : 7 467 kb/s
+Frame rate                     : 23.976 FPS
+Movie name                     : What Now
+Performer                      : Rihanna
+Genre                          : Pop
+ContentType                    : Music Video
+Recorded date                  : 2013-01-01 08:00:00 UTC
+Writing application            : Lavf57.29.101
+Copyright                      : ℗ 2013 The Island Def Jam Music Group
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4
+Format settings                : CABAC / 5 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 5 frames
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 4 min 10 s
+Bit rate                       : 7 216 kb/s
+Width                          : 1 920 pixels
+Height                         : 752 pixels
+Display aspect ratio           : 2.553
+Frame rate mode                : Constant
+Frame rate                     : 23.976 (23976/1000) FPS
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.208
+Stream size                    : 215 MiB (97%)
+Color range                    : Limited
+Color primaries                : BT.709
+Transfer characteristics       : BT.709
+Matrix coefficients            : BT.709
+Codec configuration box        : avcC
 
 Audio
-ID                               : 2
-Format                           : PCM
-Codec ID                         : A_PCM/INT/LIT
-Duration                         : 47mn 24s
-Bit rate mode                    : Constant
-Channel(s)                       : 2 channels
-Sampling rate                    : 48.0 KHz
-Resolution                       : 16 bits
-Video delay                      : -80ms
-Title                            : Beyonce - B'day (Music Videos)
-Language                         : English</pre>
-</div>[</div>
-</div><br>
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div></div>
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[curtisrice04]]></author>
-                </item>
+ID                             : 2
+Format                         : AAC LC
+Format/Info                    : Advanced Audio Codec Low Complexity
+Codec ID                       : mp4a-40-2
+Duration                       : 4 min 10 s
+Bit rate mode                  : Constant
+Bit rate                       : 248 kb/s
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 46.875 FPS (1024 SPF)
+Compression mode               : Lossy
+Stream size                    : 7.40 MiB (3%)
+Default                        : Yes
+Alternate group                : 1
 
-                
-                <item>
-                <title><![CDATA[【Albums (lossless)】FLAC - Kang Daniel - REALIEZ (Tidal Master FLAC)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/kang-daniel-realiez-tidal-master-flac.222948/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://images2.imgbox.com/22/f3/8Lvt4UbH_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/22/f3/8Lvt4UbH_o.jpg" style=""> <br>
-<br>
-Realiez (stylized in all-caps) is the fourth mini album by Kang Daniel. It was released on June 19, 2023 with "SOS" serving as the album's title track.<br>
-<br>
-The pre-release single "Wasteland" was released on June 7, 2023.<br>
-<br>
-The physical album comes in three versions: A, B and Platform.<br>
-<br>
-Track list<br>
-"Wasteland" - 3:02<br>
-"SOS" - 3:11<br>
-"Supernova" - 3:28<br>
-"Liar" - 3:16<br>
-"Dreaming" - 3:38<br>
-<br>
-<div data-s9e-mediaembed="youtube" style="display:inline-block;width:100%;max-width:640px"><div style="overflow:hidden;position:relative;padding-bottom:56.25%"><iframe allowfullscreen="" scrolling="no" style="background:url(https://i.ytimg.com/vi/avrzq9WsAUc/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%" src="https://www.youtube.com/embed/avrzq9WsAUc"></iframe></div></div><br>
-<br>
-<br>
+</pre>
+</div>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
 <blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
@@ -106,7 +88,7 @@ Track list<br>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[Eric Lyn]]></author>
+                <author><![CDATA[vitalya3]]></author>
                 </item>
 
                 </channel></rss>
