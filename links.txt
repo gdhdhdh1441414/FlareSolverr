@@ -1,3 +1,5 @@
+threads/some-albumes-from-qobuz.223205/
+threads/2-album-from-apple-music.223204/
 threads/global-citizen-power-our-planet-feed-hdtv-1080i-mp2-ilya2129.223203/
 threads/daft-punk-homework-vinyl-24-bit-96khz.223202/
 threads/pg-roxette-incognito-ep-qobuz-hi-res.223201/
@@ -20,5 +22,3 @@ threads/lyn-lapid-%E2%80%93-to-love-in-the-21st-century-qobuz-hi-res-24bit-44-1k
 threads/anne-marie-unhealthy-feat-shania-twain-alt%C3%89go-remix-acoustic-qobuz-hi-res-24bit-44-1khz.223183/
 threads/shania-twain-queen-of-me-royal-edition-extended-version-qobuz-24bit-44-1khz.223182/
 threads/beastie-boys-licensed-to-ill-2020-remaster-24-bit.223181/
-threads/hayley-kiyoko-somewhere-between-the-sand-and-the-stardust-qobuz-hi-res-24bit-88-2khz.223180/
-threads/chris-brown-summer-too-hot-qobuz-hi-res-24bit-44-1khz.223179/
