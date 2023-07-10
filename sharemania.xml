@@ -8,16 +8,148 @@
 
  
                 <item>
-                <title><![CDATA[【Requests】[REQ VID] - Rina Sawayama NOS Alive 2023 HD]]></title>
-                <link><![CDATA[https://sharemania.us/threads/rina-sawayama-nos-alive-2023-hd.224210/]]></link>
+                <title><![CDATA[【HD Live Performances】HDTV - Ariana Grande - Problem &amp; Break Free - CBBC HD - Radio 1's Teen Awards - 2014-10-19 - 1080i]]></title>
+                <link><![CDATA[https://sharemania.us/threads/ariana-grande-problem-break-free-cbbc-hd-radio-1s-teen-awards-2014-10-19-1080i.224212/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-Can someone please upload Rina Sawayama concert at the festival NOS Alive 2023 ? it was live on TV at RTP channel.<br>
-Thank you!!
+<div style="text-align: center"><b><span style="font-size: 22px"><span style="color: #ff0000">Ariana Grande - Problem &amp; Break Free - CBBC HD - Radio 1's Teen Awards - 2014-10-19<br>
+<br>
+<img src="https://i.postimg.cc/MpsNqfLP/ag-p-brf-rdteaw-2014.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/MpsNqfLP/ag-p-brf-rdteaw-2014.png" style=""> </span></span></b>​</div><br>
+<br>
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>General
+ID                          : 2050 (0x802)
+Complete name               : Ariana Grande - Problem &amp; Break Free - CBBC HD - Radio 1's Teen Awards - 2014-10-19 - 1080i HDTV DD2.0 H.264.ts
+Format                      : MPEG-TS
+File size                   : 698 MiB
+Duration                    : 6 min 48 s
+Overall bit rate mode       : Variable
+Overall bit rate            : 14.3 Mb/s
+Frame rate                  : 25.000 FPS
+
+Video
+ID                          : 5600 (0x15E0)
+Menu ID                     : 6952 (0x1B28)
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L4
+Format settings             : CABAC / 4 Ref Frames
+Format settings, CABAC      : Yes
+Format settings, Reference  : 4 frames
+Format settings, GOP        : M=8, N=24
+Codec ID                    : 27
+Duration                    : 6 min 47 s
+Bit rate                    : 13.1 Mb/s
+Width                       : 1 920 pixels
+Height                      : 1 080 pixels
+Display aspect ratio        : 16:9
+Active Format Description   : Letterbox 16:9 image, with alternative 14:9 center
+Frame rate                  : 25.000 FPS
+Standard                    : Component
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : MBAFF
+Scan type, store method     : Interleaved fields
+Scan order                  : Top Field First
+Bits/(Pixel*Frame)          : 0.254
+Stream size                 : 639 MiB (92%)
+Color range                 : Limited
+Color primaries             : BT.709
+Transfer characteristics    : BT.709
+Matrix coefficients         : BT.709
+
+Audio #1
+ID                          : 5601 (0x15E1)
+Menu ID                     : 6952 (0x1B28)
+Format                      : AC-3
+Format/Info                 : Audio Coding 3
+Commercial name             : Dolby Digital
+Codec ID                    : 6
+Duration                    : 6 min 48 s
+Bit rate mode               : Constant
+Bit rate                    : 192 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 31.250 FPS (1536 SPF)
+Compression mode            : Lossy
+Delay relative to video     : 167 ms
+Stream size                 : 9.36 MiB (1%)
+Language                    : English
+Service kind                : Complete Main
+
+Audio #2
+ID                          : 5602 (0x15E2)
+Menu ID                     : 6952 (0x1B28)
+Format                      : MPEG Audio
+Format version              : Version 1
+Format profile              : Layer 2
+Codec ID                    : 3
+Duration                    : 6 min 48 s
+Bit rate mode               : Constant
+Bit rate                    : 256 kb/s
+Channel(s)                  : 2 channels
+Sampling rate               : 48.0 kHz
+Frame rate                  : 41.667 FPS (1152 SPF)
+Compression mode            : Lossy
+Delay relative to video     : 199 ms
+Stream size                 : 12.5 MiB (2%)
+Language                    : nar
+
+Text #1
+ID                          : 5603 (0x15E3)-888
+Menu ID                     : 6952 (0x1B28)
+Format                      : Teletext Subtitle
+Language                    : English
+
+Text #2
+ID                          : 5604 (0x15E4)
+Menu ID                     : 6952 (0x1B28)
+Format                      : DVB Subtitle
+Codec ID                    : 6
+Duration                    : 6 min 46 s
+Delay relative to video     : 2 s 455 ms
+Language                    : English
+
+Menu
+ID                          : 264 (0x108)
+Menu ID                     : 6952 (0x1B28)
+Format                      : AVC / MPEG Audio / Teletext Subtitle /  /  /  / DVB Subtitle /  /  /  /  /  /  /  /  / AC-3 /  / 
+Duration                    : 6 min 48 s
+List                        : 5600 (0x15E0) (AVC) / 5602 (0x15E2) (MPEG Audio, nar) / 5603 (0x15E3)-888 (Teletext Subtitle, en) / 3846 (0xF06) () / 3847 (0xF07) () / 3849 (0xF09) () / 5604 (0x15E4) (DVB Subtitle, English) / 3840 (0xF00) () / 3841 (0xF01) () / 3842 (0xF02) () / 3843 (0xF03) () / 3844 (0xF04) () / 2321 (0x911) () / 2322 (0x912) () / 2323 (0x913) () / 5601 (0x15E1) (AC-3, English) / 5606 (0x15E6) () / 2332 (0x91C) ()
+Language                    :  / nar / English /  /  /  / English /  /  /  /  /  /  /  /  / English
+</pre>
+</div>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[ju199355]]></author>
+                <author><![CDATA[Lassox]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ AUD] - Some track from Apple Music]]></title>
+                <link><![CDATA[https://sharemania.us/threads/some-track-from-apple-music.224211/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<a href="https://music.apple.com/us/album/citopia/1652111431" target="_blank" class="externalLink" rel="nofollow">https://music.apple.com/us/album/citopia/1652111431</a><br>
+<a href="https://music.apple.com/us/album/yesteryear-deluxe/1577680357" target="_blank" class="externalLink" rel="nofollow">https://music.apple.com/us/album/yesteryear-deluxe/1577680357</a><br>
+<a href="https://music.apple.com/us/album/the-early-recordings/1622201541" target="_blank" class="externalLink" rel="nofollow">https://music.apple.com/us/album/the-early-recordings/1622201541</a><br>
+<a href="https://music.apple.com/us/album/ch%E1%BB%89-c%C3%B3-th%E1%BB%83-l%C3%A0-anh/1628996014" target="_blank" class="externalLink" rel="nofollow">https://music.apple.com/us/album/chỉ-có-thể-là-anh/1628996014</a><br>
+<a href="https://music.apple.com/us/album/gh%E1%BB%87-remixes-c%E1%BB%A7a-em-%C6%A1i/1690780418" target="_blank" class="externalLink" rel="nofollow">https://music.apple.com/us/album/ghệ-remixes-của-em-ơi/1690780418</a><br>
+<a href="https://music.apple.com/us/album/gh%E1%BB%87-iu-d%E1%BA%A5u-c%E1%BB%A7a-em-%C6%A1i-single/1670804979" target="_blank" class="externalLink" rel="nofollow">https://music.apple.com/us/album/ghệ-iu-dấu-của-em-ơi-single/1670804979</a><br>
+<br>
+special thanks :&gt;&gt;
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[SpringKanh]]></author>
                 </item>
 
                 </channel></rss>
