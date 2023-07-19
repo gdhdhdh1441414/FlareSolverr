@@ -8,21 +8,21 @@
 
  
                 <item>
-                <title><![CDATA[【UPSCALED】Sheryl Crow - Run, Baby, Run (1080p - LPCM - 24-bit - 48kHz)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/sheryl-crow-run-baby-run-1080p-lpcm-24-bit-48khz.224782/]]></link>
+                <title><![CDATA[【UPSCALED】Sheryl Crow - Anything But Down (1080p - LPCM - 24-bit - 48kHz)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/sheryl-crow-anything-but-down-1080p-lpcm-24-bit-48khz.224783/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://ia902708.us.archive.org/4/items/sheryl-crow-run-baby-run-1080p-lpcm-24-bit-48k-hz.mkv/Sheryl%20Crow%20-%20Run%2C%20Baby%2C%20Run%20%281080p%20-%20LPCM%20-%2024-bit%20-%2048kHz%29.mkv.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://ia902708.us.archive.org/4/items/sheryl-crow-run-baby-run-1080p-lpcm-24-bit-48k-hz.mkv/Sheryl%20Crow%20-%20Run%2C%20Baby%2C%20Run%20%281080p%20-%20LPCM%20-%2024-bit%20-%2048kHz%29.mkv.jpg" style=""> <br>
+<img src="https://ia802604.us.archive.org/27/items/sheryl-crow-anything-but-down-1080p-lpcm-24-bit-48k-hz.mkv/Sheryl%20Crow%20-%20Anything%20But%20Down%20%281080p%20-%20LPCM%20-%2024-bit%20-%2048kHz%29.mkv.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://ia802604.us.archive.org/27/items/sheryl-crow-anything-but-down-1080p-lpcm-24-bit-48k-hz.mkv/Sheryl%20Crow%20-%20Anything%20But%20Down%20%281080p%20-%20LPCM%20-%2024-bit%20-%2048kHz%29.mkv.jpg" style=""> <br>
 <br>
 <div class="bbCodeBlock bbCodeCode">
 <div class="type">Code:</div>
 <pre>General
-Complete name                  : Sheryl Crow - Run, Baby, Run (1080p - LPCM - 24-bit - 48kHz).mkv
+Complete name                  : Sheryl Crow - Anything But Down (1080p - LPCM - 24-bit - 48kHz).mkv
 Format                         : Matroska
 Format version                 : Version 4 / Version 2
-File size                      : 182 MiB
-Duration                       : 4 min 25 s
-Overall bit rate               : 5 763 kb/s
+File size                      : 119 MiB
+Duration                       : 4 min 16 s
+Overall bit rate               : 3 899 kb/s
 Writing application            : Lavf59.16.100
 Writing library                : Lavf59.16.100
 ErrorDetectionType             : Per level 1
@@ -35,7 +35,7 @@ Format profile                 : High@L4
 Format settings, CABAC         : Yes
 Format settings, RefFrames     : 4 frames
 Codec ID                       : V_MPEG4/ISO/AVC
-Duration                       : 4 min 25 s
+Duration                       : 4 min 16 s
 Width                          : 1 920 pixels
 Height                         : 1 080 pixels
 Display aspect ratio           : 16:9
@@ -46,23 +46,25 @@ Chroma subsampling             : 4:2:0
 Bit depth                      : 8 bits
 Scan type                      : Progressive
 Writing library                : x264 core 164
-Encoding settings              : cabac=1 / ref=4 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=8 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=24 / lookahead_threads=4 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=72 / keyint_min=37 / scenecut=0 / intra_refresh=0 / rc_lookahead=50 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=8800 / vbv_bufsize=12000 / crf_max=0.0 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Encoding settings              : cabac=1 / ref=4 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=8 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=24 / lookahead_threads=4 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=72 / keyint_min=37 / scenecut=0 / intra_refresh=0 / rc_lookahead=50 / rc=crf / mbtree=1 / crf=22.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=5500 / vbv_bufsize=11000 / crf_max=0.0 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
 Default                        : Yes
 Forced                         : No
-DURATION                       : 00:04:25.098000000
+DURATION                       : 00:04:16.632000000
 
 Audio
 ID                             : 2
 Format                         : PCM
 Codec ID                       : A_PCM/INT/LIT
-Duration                       : 4 min 25 s
+Duration                       : 4 min 16 s
 Bit rate mode                  : Constant
 Channel(s)                     : 2 channels
 Sampling rate                  : 48.0 kHz
 Bit depth                      : 24 bits
+Delay relative to video        : 13 ms
+Language                       : English
 Default                        : Yes
 Forced                         : No
-DURATION                       : 00:04:25.149000000
+DURATION                       : 00:04:16.477000000
 
 Menu
 00:00:00.000                   : :</pre>
