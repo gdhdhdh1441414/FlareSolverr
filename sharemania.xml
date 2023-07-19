@@ -8,27 +8,24 @@
 
  
                 <item>
-                <title><![CDATA[【UPSCALED】Sheryl Crow - Home (1080p - LPCM - 24-bit - 48kHz)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/sheryl-crow-home-1080p-lpcm-24-bit-48khz.224781/]]></link>
+                <title><![CDATA[【UPSCALED】Sheryl Crow - Run, Baby, Run (1080p - LPCM - 24-bit - 48kHz)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/sheryl-crow-run-baby-run-1080p-lpcm-24-bit-48khz.224782/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://ia902703.us.archive.org/26/items/sheryl-crow-home-1080p-lpcm-24-bit-48k-hz.mkv/Sheryl%20Crow%20-%20Home%20%281080p%20-%20LPCM%20-%2024-bit%20-%2048kHz%29.mkv.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://ia902703.us.archive.org/26/items/sheryl-crow-home-1080p-lpcm-24-bit-48k-hz.mkv/Sheryl%20Crow%20-%20Home%20%281080p%20-%20LPCM%20-%2024-bit%20-%2048kHz%29.mkv.jpg" style=""> <br>
+<img src="https://ia902708.us.archive.org/4/items/sheryl-crow-run-baby-run-1080p-lpcm-24-bit-48k-hz.mkv/Sheryl%20Crow%20-%20Run%2C%20Baby%2C%20Run%20%281080p%20-%20LPCM%20-%2024-bit%20-%2048kHz%29.mkv.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://ia902708.us.archive.org/4/items/sheryl-crow-run-baby-run-1080p-lpcm-24-bit-48k-hz.mkv/Sheryl%20Crow%20-%20Run%2C%20Baby%2C%20Run%20%281080p%20-%20LPCM%20-%2024-bit%20-%2048kHz%29.mkv.jpg" style=""> <br>
 <br>
 <div class="bbCodeBlock bbCodeCode">
 <div class="type">Code:</div>
 <pre>General
-Unique ID                      : 324364521939663038831514047970687736837 (0xF40655A661E874F848792F7A7AB65C05)
-Complete name                  : Sheryl Crow - Home (1080p - LPCM - 24-bit - 48kHz).mkv
+Complete name                  : Sheryl Crow - Run, Baby, Run (1080p - LPCM - 24-bit - 48kHz).mkv
 Format                         : Matroska
 Format version                 : Version 4 / Version 2
-File size                      : 743 MiB
-Duration                       : 5 min 43 s
-Overall bit rate mode          : Variable
-Overall bit rate               : 18.2 Mb/s
+File size                      : 182 MiB
+Duration                       : 4 min 25 s
+Overall bit rate               : 5 763 kb/s
 Writing application            : Lavf59.16.100
 Writing library                : Lavf59.16.100
 ErrorDetectionType             : Per level 1
-VIDEOAI                        : Enhanced using ahq-12. and recover original detail at 100. Changed resolution to 1920x1080
 
 Video
 ID                             : 1
@@ -38,43 +35,37 @@ Format profile                 : High@L4
 Format settings, CABAC         : Yes
 Format settings, RefFrames     : 4 frames
 Codec ID                       : V_MPEG4/ISO/AVC
-Duration                       : 5 min 43 s
-Bit rate mode                  : Variable
-Maximum bit rate               : 16.0 Mb/s
+Duration                       : 4 min 25 s
 Width                          : 1 920 pixels
 Height                         : 1 080 pixels
-Display aspect ratio           : 16:10
+Display aspect ratio           : 16:9
 Frame rate mode                : Constant
-Frame rate                     : 29.970 (30000/1001) FPS
+Frame rate                     : 23.976 (24000/1001) FPS
 Color space                    : YUV
 Chroma subsampling             : 4:2:0
 Bit depth                      : 8 bits
 Scan type                      : Progressive
-Writing library                : Lavc60.6.100 h264_nvenc
+Writing library                : x264 core 164
+Encoding settings              : cabac=1 / ref=4 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=8 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=24 / lookahead_threads=4 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=72 / keyint_min=37 / scenecut=0 / intra_refresh=0 / rc_lookahead=50 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=8800 / vbv_bufsize=12000 / crf_max=0.0 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
 Default                        : Yes
 Forced                         : No
-DURATION                       : 00:05:43.310000000
-HANDLER_NAME                   : VideoHandler
-VENDOR_ID                      : FFMP
+DURATION                       : 00:04:25.098000000
 
 Audio
 ID                             : 2
 Format                         : PCM
 Codec ID                       : A_PCM/INT/LIT
-Duration                       : 5 min 43 s
+Duration                       : 4 min 25 s
 Bit rate mode                  : Constant
 Channel(s)                     : 2 channels
 Sampling rate                  : 48.0 kHz
 Bit depth                      : 24 bits
-Delay relative to video        : 4 ms
 Default                        : Yes
 Forced                         : No
-DURATION                       : 00:05:42.868000000
-HANDLER_NAME                   : SoundHandler
-VENDOR_ID                      : [0][0][0][0]
+DURATION                       : 00:04:25.149000000
 
 Menu
-00:00:00.000                   : :Chapter 1</pre>
+00:00:00.000                   : :</pre>
 </div><a href="https://www.discogs.com/release/1830744-Sheryl-Crow-The-Very-Best-Of-Sheryl-Crow" target="_blank" class="externalLink" rel="nofollow">https://www.discogs.com/release/1830744-Sheryl-Crow-The-Very-Best-Of-Sheryl-Crow</a><br>
 <br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
@@ -85,83 +76,6 @@ Menu
 </blockquote>
 </article>]]></description>
                 <author><![CDATA[SharingIsCaring]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Cinema Center】MOVIE - The Flash 2023 1080p WEBRip x264 AAC5 1]]></title>
-                <link><![CDATA[https://sharemania.us/threads/the-flash-2023-1080p-webrip-x264-aac5-1.224780/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://img.kiwi/images/2023/07/18/be80a3cd8c53cb08d416ec348d0cbf8d.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://img.kiwi/images/2023/07/18/be80a3cd8c53cb08d416ec348d0cbf8d.png" style=""><br>
-<img src="https://img.kiwi/images/2023/07/18/d13ca1ec09141dcb77e8c3fcd23b58b5.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://img.kiwi/images/2023/07/18/d13ca1ec09141dcb77e8c3fcd23b58b5.png" style=""><br>
-<br>
-<div class="bbCodeBlock bbCodeCode">
-<div class="type">Code:</div>
-<pre>Format            : MPEG-4 at 2 639 kb/s
-Length            : 2.66 GiB for 2 h 24 min 4 s 352 ms
-
-Video #0          : AVC at 2 250 kb/s
-Aspect            : 1920 x 1012 (1.897) at 23.976 fps
-
-Audio #0          : AAC at 384 kb/s
-Infos             : 6 channels, 48.0 kHz
-</pre>
-</div>
-<div class="bbCodeBlock bbCodeCode">
-<div class="type">Code:</div>
-<pre>Password: share
-</pre>
-</div>
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[mrsteze]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【HD Live Performances】WEB-RiP - Warmduscher - TRNSMT 7-7-23 [1080p50 WEB-RIP]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/warmduscher-trnsmt-7-7-23-1080p50-web-rip.224779/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center">Warmduscher<br>
-TRNSMT 7-7-23<br>
-BBC iPlayer web-rip<br>
-<br>
-<a href="https://ibb.co/FDhpF1F" target="_blank" class="externalLink" rel="nofollow"><img src="https://i.ibb.co/wzdtfqf/Warmduscher-TRNSMT-2023-1920x1080-50.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/wzdtfqf/Warmduscher-TRNSMT-2023-1920x1080-50.jpg"></a><br>
-​</div>Size: 3280776983 bytes (3.06 GiB), duration: 00:38:40, avg.bitrate: 11313 kb/s<br>
-Audio: aac, 48000 Hz, 2 channels, s16, 127 kb/s<br>
-Video: h264, yuv420p, 1920x1080, 11174 kb/s, 50.00 fps<br>
-<br>
-Setlist:<br>
-Tainted Lunch<br>
-The Salamander<br>
-Midnight Dipper<br>
-Hot Shot<br>
-Wild Flowers<br>
-Love Strong<br>
-Fatso<br>
-(Unknown new song)<br>
-Eight Minute Machines<br>
-Disco Peanuts<br>
-Double Vision<br>
-Standing On the Corner<br>
-I Got Friends<br>
-<br>
-<div style="text-align: center">
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div></div>
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[muziknonstop]]></author>
                 </item>
 
                 </channel></rss>
