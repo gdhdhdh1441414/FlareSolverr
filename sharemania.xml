@@ -8,101 +8,70 @@
 
  
                 <item>
-                <title><![CDATA[【Albums (lossless)】FLAC - TOMORROW X TOGETHER, Jonas Brothers - Do It Like That (Pop R&amp;B Remix) [AMZN Music 16bits/44.1kHz]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/tomorrow-x-together-jonas-brothers-do-it-like-that-pop-r-b-remix-amzn-music-16bits-44-1khz.225625/]]></link>
+                <title><![CDATA[【Cinema Center】MOVIE - Insidious: The Red Door (2023) 1080p MA WEB-DL DDP5.1.Atmos x264-FLUX]]></title>
+                <link><![CDATA[https://sharemania.us/threads/insidious-the-red-door-2023-1080p-ma-web-dl-ddp5-1-atmos-x264-flux.225627/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center"><img src="https://a5.mzstatic.com/us/r1000/0/Music126/v4/e1/51/01/e151014c-e925-cb1b-60b6-f55acc4f5fed/196922563492_Cover.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://a5.mzstatic.com/us/r1000/0/Music126/v4/e1/51/01/e151014c-e925-cb1b-60b6-f55acc4f5fed/196922563492_Cover.jpg" style=""> <br>
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div></div>
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[XXI]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【TIDAL】WEB-RiP - Jessie Ware Feat Róisín Murphy - Freak Me Now [Tidal-1080p]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/jessie-ware-feat-r%C3%B3is%C3%ADn-murphy-freak-me-now-tidal-1080p.225624/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://i.imgur.com/fddsjuH.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/fddsjuH.jpg" style=""> <br>
-<br>
+<img src="https://images2.imgbox.com/5a/66/A0KGBBVQ_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/5a/66/A0KGBBVQ_o.jpg" style=""><br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler</span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">
 <div class="bbCodeBlock bbCodeCode">
 <div class="type">Code:</div>
-<pre>Format                         : MPEG-4
-Format profile                 : Base Media
-Codec ID                       : isom
-File size                      : 112 MiB
-Duration                       : 3mn 33s
-Overall bit rate mode          : Variable
-Overall bit rate               : 4 375 Kbps
-Writing application            : Lavf60.4.100
+<pre>General
+Filename.......: Insidious.The.Red.Door.2023.1080p.MA.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv
+FileSize.......: 6.45 GiB
+Duration.......: 1 h 47 min
+
 
 Video
-ID                             : 2
-Format                         : AVC
-Format/Info                    : Advanced Video Codec
-Format profile                 : High@L4.0
-Format settings, CABAC         : Yes
-Format settings, ReFrames      : 4 frames
-Codec ID                       : avc1
-Codec ID/Info                  : Advanced Video Coding
-Duration                       : 3mn 33s
-Bit rate                       : 4 050 Kbps
-Width                          : 1 920 pixels
-Height                         : 1 080 pixels
-Display aspect ratio           : 16:9
-Frame rate mode                : Constant
-Frame rate                     : 25.000 fps
-Color space                    : YUV
-Chroma subsampling             : 4:2:0
-Bit depth                      : 8 bits
-Scan type                      : Progressive
-Bits/(Pixel*Frame)             : 0.078
-Stream size                    : 103 MiB (93%)
-Writing library                : x264 core 164
-Encoding settings              : cabac=1 / ref=4 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=8 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=24 / lookahead_threads=4 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=75 / keyint_min=38 / scenecut=0 / intra_refresh=0 / rc_lookahead=50 / rc=crf / mbtree=1 / crf=22.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=5500 / vbv_bufsize=11000 / crf_max=0.0 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Codec..........: AVC x264 High@L4
+Resolution.....: 1920x1080
+Aspect ratio...: 16:9
+Bit rate.......: 8 000 kb/s
+Frame rate.....: 23.976 fps
+
 
 Audio
-ID                             : 1
-Format                         : AAC
-Format/Info                    : Advanced Audio Codec
-Format profile                 : LC
-Codec ID                       : 40
-Duration                       : 3mn 33s
-Bit rate mode                  : Variable
-Bit rate                       : 323 Kbps / 323 Kbps
-Channel(s)                     : 2 channels
-Channel positions              : Front: L R
-Sampling rate                  : 48.0 KHz
-Compression mode               : Lossy
-Stream size                    : 8.16 MiB (7%)</pre>
-</div>
+Language.......: English
+Channels.......: 6 CH
+Format.........: Dolby Digital Plus with Dolby Atmos
+Bit rate.......: 768 kb/s
+
+
+Subtitle.......: English
+Subtitle.......: English (SDH)
+Subtitle.......: Bulgarian
+Subtitle.......: Chinese (Simplified)
+Subtitle.......: Chinese (Traditional)
+Subtitle.......: Danish
+Subtitle.......: German
+Subtitle.......: Estonian
+Subtitle.......: Finnish
+Subtitle.......: French
+Subtitle.......: Indonesian
+Subtitle.......: Italian
+Subtitle.......: Korean
+Subtitle.......: Lithuanian
+Subtitle.......: Latvian
+Subtitle.......: Dutch
+Subtitle.......: Norwegian
+Subtitle.......: Slovak
+Subtitle.......: Slovenian
+Subtitle.......: Swedish
+Subtitle.......: Chinese (Traditional)</pre>
+</div></div>
+</div><div style="text-align: center">
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
 <blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
+</div><img src="https://images2.imgbox.com/44/79/8UwVEsx9_o.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/44/79/8UwVEsx9_o.png" style=""> <br>
+<img src="https://images2.imgbox.com/4b/eb/m4s73QiA_o.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/4b/eb/m4s73QiA_o.png" style=""> <br>
+<img src="https://images2.imgbox.com/e2/78/tAXtCgeY_o.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/e2/78/tAXtCgeY_o.png" style=""> ​</div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[markitomg]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Sam Smith &amp; Madonna VULGAR (Marlon Hoffstadt Remix) 24bit]]></title>
-                <link><![CDATA[https://sharemania.us/threads/sam-smith-madonna-vulgar-marlon-hoffstadt-remix-24bit.225626/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<a href="https://www.qobuz.com/us-en/album/vulgar-sam-smith-madonna-marlon-hoffstadt/b4zo1nruoahgc" target="_blank" class="externalLink" rel="nofollow">https://www.qobuz.com/us-en/album/vulgar-sam-smith-madonna-marlon-hoffstadt/b4zo1nruoahgc</a>
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[HeBop2012]]></author>
+                <author><![CDATA[Cauã]]></author>
                 </item>
 
                 </channel></rss>
