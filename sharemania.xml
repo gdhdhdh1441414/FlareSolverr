@@ -8,83 +8,151 @@
 
  
                 <item>
-                <title><![CDATA[【Requests】Filled - Madonna singles]]></title>
-                <link><![CDATA[https://sharemania.us/threads/madonna-singles.225795/]]></link>
+                <title><![CDATA[【Music Videos】Delta Goodrem - Not Me, Not I 4K AI]]></title>
+                <link><![CDATA[https://sharemania.us/threads/delta-goodrem-not-me-not-i-4k-ai.225812/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-This was shared here on ShareMania but the link has been dead for a long time and it is now in the trash category. Could someone please please please re-upoad it for the pages and pages of people that didn't get it? It seems like it wasn't available long as there have been people asking for a reup for quite a while. Thank you!!!!!
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[HeBop2012]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Music Videos】Kendji Girac - Andalouse 4K AI]]></title>
-                <link><![CDATA[https://sharemania.us/threads/kendji-girac-andalouse-4k-ai.225809/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://i.imgur.com/7FNMWCK.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/7FNMWCK.jpg" style=""><br>
+<img src="https://i.imgur.com/xWZqLXq.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/xWZqLXq.jpg" style=""><br>
 <br>
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
 <button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
 <div class="SpoilerTarget bbCodeSpoilerText">General<br>
-Movie name : Kendji Girac - Andalouse.mp4<br>
-Format : MPEG-4<br>
-Format profile : Base Media<br>
-Codec ID : isom (isom/iso2/avc1/mp41)<br>
-File size : 489 MiB<br>
-Duration : 3 min 23 s<br>
-Overall bit rate : 20.2 Mb/s<br>
-Frame rate : 25.000 FPS<br>
+Video Name : Not Me, Not I.mp4<br>
+Format/String : MPEG-4<br>
+Format_Profile : Base Media<br>
+CodecID/String : isom (isom/iso2/avc1/mp41)<br>
+FileSize/String : 663 MiB<br>
+Duration/String : 4mn 36s<br>
+OverallBitRate/String : 20.1 Mbps<br>
+FrameRate/String : 25.000 fps<br>
 minor_version : 512<br>
 major_brand : isom<br>
 compatible_brands : isomiso2avc1mp41<br>
 encoder : Lavf60.4.100<br>
+<br>
 Video<br>
-ID : 1<br>
-Format : AVC<br>
+ID/String : 1<br>
+Format/String : AVC<br>
 Format/Info : Advanced Video Codec<br>
-Format profile : High@L5.1<br>
-Format settings : CABAC / 1 Ref Frames<br>
-Format settings, CABAC : Yes<br>
-Format settings, Reference frames : 1 frame<br>
-Codec ID : avc1<br>
-Codec ID/Info : Advanced Video Coding<br>
-Duration : 3 min 23 s<br>
-Bit rate : 19.9 Mb/s<br>
-Width : 3 840 pixels<br>
-Height : 2 160 pixels<br>
-Display aspect ratio : 16:9<br>
-Frame rate mode : Constant<br>
-Frame rate : 25.000 FPS<br>
+Format_Profile : High@L5.1<br>
+Format_Settings : CABAC / 1 Ref Frames<br>
+Format_Settings_CABAC/String : Yes<br>
+Format_Settings_RefFrames/String : 1 frame<br>
+CodecID : avc1<br>
+CodecID/Info : Advanced Video Coding<br>
+Duration/String : 4mn 36s<br>
+BitRate/String : 20.0 Mbps<br>
+Width/String : 3840 pixel<br>
+Height/String : 2160 pixel<br>
+DisplayAspectRatio/String : 16:9<br>
+FrameRate_Mode/String : CFR<br>
+FrameRate/String : 25.000 fps<br>
 Standard : Component<br>
-Color space : YUV<br>
-Chroma subsampling : 4:2:0<br>
-Bit depth : 8 bits<br>
-Scan type : Progressive<br>
-Bits/(Pixel*Frame) : 0.096<br>
-Stream size : 481 MiB (98%)<br>
-Color range : Limited<br>
-Matrix coefficients : BT.709<br>
-Codec configuration box : avcC<br>
+ColorSpace : YUV<br>
+ChromaSubsampling/String : 4:2:0<br>
+BitDepth/String : 8 bit<br>
+ScanType/String : Progressive<br>
+Bits-(Pixel*Frame) : 0.096<br>
+StreamSize/String : 658 MiB (99%)<br>
+colour_range : Limited<br>
+matrix_coefficients : BT.709<br>
+CodecConfigurationBox : avcC<br>
+<br>
 Audio<br>
-ID : 2<br>
-Format : AAC LC<br>
+ID/String : 2<br>
+Format/String : AAC LC<br>
 Format/Info : Advanced Audio Codec Low Complexity<br>
-Codec ID : mp4a-40-2<br>
-Duration : 3 min 23 s<br>
-Bit rate mode : Constant<br>
-Bit rate : 311 kb/s<br>
-Channel(s) : 2 channels<br>
-Channel layout : L R<br>
-Sampling rate : 48.0 kHz<br>
-Frame rate : 46.875 FPS (1024 SPF)<br>
-Compression mode : Lossy<br>
-Stream size : 7.53 MiB (2%)<br>
-Default : Yes<br>
-Alternate group : 1</div>
+CodecID : mp4a-40-2<br>
+Duration/String : 4mn 36s<br>
+BitRate_Mode/String : CBR<br>
+BitRate/String : 132 Kbps<br>
+Channel(s)/String : 2 channel<br>
+ChannelLayout : L R<br>
+SamplingRate/String : 48.0 KHz<br>
+FrameRate/String : 46.875 fps (1024 SPF)<br>
+Compression_Mode/String : Lossy<br>
+StreamSize/String : 4.31 MiB (1%)<br>
+Default/String : Yes<br>
+AlternateGroup/String : 1</div>
+</div><br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[andreasjk]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Music Videos】Delta Goodrem - I Don't Care 4K AI]]></title>
+                <link><![CDATA[https://sharemania.us/threads/delta-goodrem-i-dont-care-4k-ai.225811/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<img src="https://i.imgur.com/8WaCS2m.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/8WaCS2m.jpg" style=""><br>
+<br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">General<br>
+Video Name : I Don't Care.mp4<br>
+Format/String : MPEG-4<br>
+Format_Profile : Base Media<br>
+CodecID/String : isom (isom/iso2/avc1/mp41)<br>
+FileSize/String : 537 MiB<br>
+Duration/String : 3 min 44 s<br>
+OverallBitRate/String : 20.1 Mb/s<br>
+FrameRate/String : 25.000 FPS<br>
+minor_version : 512<br>
+major_brand : isom<br>
+compatible_brands : isomiso2avc1mp41<br>
+encoder : Lavf60.4.100<br>
+<br>
+Video<br>
+ID/String : 1<br>
+Format/String : AVC<br>
+Format/Info : Advanced Video Codec<br>
+Format_Profile : High@L5.1<br>
+Format_Settings : CABAC / 1 Ref Frames<br>
+Format_Settings_CABAC/String : Yes<br>
+Format_Settings_RefFrames/String : 1 frame<br>
+CodecID : avc1<br>
+CodecID/Info : Advanced Video Coding<br>
+Duration/String : 3 min 44 s<br>
+BitRate/String : 20.0 Mb/s<br>
+Width/String : 3 840 pixels<br>
+Height/String : 2 160 pixels<br>
+DisplayAspectRatio/String : 16:9<br>
+FrameRate_Mode/String : Constant<br>
+FrameRate/String : 25.000 FPS<br>
+Standard : Component<br>
+ColorSpace : YUV<br>
+ChromaSubsampling/String : 4:2:0<br>
+BitDepth/String : 8 bits<br>
+ScanType/String : Progressive<br>
+Bits-(Pixel*Frame) : 0.096<br>
+StreamSize/String : 534 MiB (99%)<br>
+colour_range : Limited<br>
+matrix_coefficients : BT.709<br>
+CodecConfigurationBox : avcC<br>
+<br>
+Audio<br>
+ID/String : 2<br>
+Format/String : AAC LC<br>
+Format/Info : Advanced Audio Codec Low Complexity<br>
+CodecID : mp4a-40-2<br>
+Duration/String : 3 min 44 s<br>
+BitRate_Mode/String : Constant<br>
+BitRate/String : 128 kb/s<br>
+Channel(s)/String : 2 channels<br>
+ChannelLayout : L R<br>
+SamplingRate/String : 48.0 kHz<br>
+FrameRate/String : 46.875 FPS (1024 SPF)<br>
+Compression_Mode/String : Lossy<br>
+StreamSize/String : 3.42 MiB (1%)<br>
+Default/String : Yes<br>
+AlternateGroup/String : 1</div>
 </div><br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
