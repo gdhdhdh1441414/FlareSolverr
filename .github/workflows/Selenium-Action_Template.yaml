@@ -29,7 +29,8 @@ jobs:
         run: sudo apt-get install xvfb
       - name: Running the Python script
         run: |
-           sudo git clone https://github.com/FlareSolverr/FlareSolverr && cd FlareSolverr && sudo pip install -r requirements.txt && sudo python src/flaresolverr.py & sleep 10 && curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{"cmd": "request.get","url":"https://sharemania.us/","maxTimeout": 20000}'
+           sudo git clone https://github.com/FlareSolverr/FlareSolverr && cd FlareSolverr && sudo pip install -r requirements.txt && sudo python src/flaresolverr.py & 
+           sleep 30 && curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{"cmd": "request.get","url":"https://sharemania.us/","maxTimeout": 20000}'
           #sudo git clone https://github.com/FlareSolverr/FlareSolverr && cd FlareSolverr && sudo pip install -r requirements.txt && sudo python src/flaresolverr.py & sudo python Selenium-Template.py
         
       - name: Commit and Push The Results From Python Selenium Action
