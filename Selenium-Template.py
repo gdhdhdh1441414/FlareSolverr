@@ -12,7 +12,7 @@ from datetime import datetime
 time.sleep(36)
 
 # 使用 subprocess 模块调用 curl 命令，并捕获命令输出结果
-curl_cmd = "git clone https://github.com/FlareSolverr/FlareSolverr && cd FlareSolverr && sudo pip install -r requirements.txt && sudo python src/flaresolverr.py & sudo python Selenium-Template.py & sleep 6 && curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"https://sharemania.us/\",\"maxTimeout\": 20000}' &"
+curl_cmd = "rm -rf FlareSolverr && git clone https://github.com/FlareSolverr/FlareSolverr && cd FlareSolverr && sudo pip install -r requirements.txt && sudo python src/flaresolverr.py & sudo python Selenium-Template.py & sleep 6 && curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"https://sharemania.us/\",\"maxTimeout\": 20000}' &"
 result = subprocess.check_output(curl_cmd, shell=True)
 
 # 解析 JSON 数据
