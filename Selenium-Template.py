@@ -74,7 +74,7 @@ hour = now.strftime("%H")
 
 regex_link = r'link rel\=\"canonical\" href="(.+?)\"'
 regex_tit = r'\<title\>(.+?) \| ShareMania\.US'
-regex_con = r'div class\=\"messageInfo primaryContent\" style=\"height\: auto \!important\;\"[\s\S]*?(\<article\>[\s\S]*?\<\/article\>)'
+regex_con = r'div class\=\"messageInfo primaryContent[\s\S]*?(\<article\>[\s\S]*?\<\/article\>)'
 regex_prefix = r'Discussion in.+?\>(.+?)\<\/a\>'
 regex_author = r'started by.+?\>(.+?)\<\/a\>'
 
