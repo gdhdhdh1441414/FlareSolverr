@@ -8,16 +8,20 @@
 
  
                 <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Taylor Swift - Midnights (The Til Dawn Edition) [Clean] in FLAC]]></title>
-                <link><![CDATA[https://sharemania.us/threads/taylor-swift-midnights-the-til-dawn-edition-clean-in-flac.226286/]]></link>
+                <title><![CDATA[【Requests】[REQ CAP] - VEVO VIDEOS]]></title>
+                <link><![CDATA[https://sharemania.us/threads/vevo-videos.226287/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-Can somebody give me the clean version of <i>Midnights (The Til Dawn Edition) </i>in FLAC or WAV?<br>
-If possible, in 48kHz/24-bit
+Gente que usa youtube-dl ayuda por favor intento descargar videos de la pagina vevo.com y me sale esto con algunos artitas ayuda por favor.<br>
+<br>
+[Vevo] Retrieving oauth token<br>
+[Vevo] USH5V1321659: Downloading api video info<br>
+[Vevo] USH5V1321659: Downloading video versions info<br>
+ERROR: An extractor error has occurred. (caused by KeyError('quality',)); please report this issue on <a href="https://yt-dl.org/bug" target="_blank" class="externalLink" rel="nofollow">https://yt-dl.org/bug</a> . Make sure you are using the latest version; type youtube-dl -U to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[Some remix amateur]]></author>
+                <author><![CDATA[zeqonbritney]]></author>
                 </item>
 
                 </channel></rss>
