@@ -8,34 +8,51 @@
 
  
                 <item>
-                <title><![CDATA[【Unreleased/Unofficial (lossy)】M4A - Jonas Brothers - JONAS (Season 1 Soundtrack) [256kbps]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/jonas-brothers-jonas-season-1-soundtrack-256kbps.226885/]]></link>
+                <title><![CDATA[【Requests】[REQ VID] - AURORA Lollapalooza 2023 Chile 1080i/25 or 4K or FEED]]></title>
+                <link><![CDATA[https://sharemania.us/threads/aurora-lollapalooza-2023-chile-1080i-25-or-4k-or-feed.226887/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center"><a href="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f1e3e2143892023.6282ea1828689.jpeg" target="_blank" class="externalLink" rel="nofollow"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f1e3e2143892023.6282ea1828689.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f1e3e2143892023.6282ea1828689.jpeg"> </a><br>
-1. Give Love a Try (Nick Jonas Version)<br>
-2. Pizza Girl<br>
-3. Keep It Real<br>
-4.We Got to Work It Out<br>
-5. Why<br>
-6. Blue Danube (Rock Version)<br>
-7. I Did It All Again<br>
-8. Lovesick<br>
-9. Give Love a Try (Joe Jonas Version)<br>
-10. Time Is On Our Side<br>
-11. Scandinavia<br>
-12. Live to Party<br>
+Has anyone found the recording created March 18, 2023 in Santiago, Chile of AURORA's Lollapalooza 2023 performance? The sound, late sun lighting, videography, and performances by all were extraordinary.<br>
 <br>
-℗ 2009 Walt Disney Records, Inc.<br>
+It was a Youtube livestream, however the conversion of the live video to the stream was botched. I have the original Youtube livestream capture and it appears that the native video streamed to Youtube was 1080i/25 at a reasonable bitrate. However, Youtube does not take interlaced video.<br>
 <br>
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div></div>
+It should have been deinterlaced (QTGMC or Pro equivalent) to 1080p/25 or 1080p/50 before being compressed to progressive. It was not. They fed an interlaced 1080i/25 to Youtube's VP9 compressor that was set to progressive at 1080p/30... needless to say, it looks like crap. Interlacing is baked into the progressive frames.<br>
+<br>
+There is noticeable judder from the framerate mismatch. Looking at the stream with Videoredo clearly shows the nature of the damage- blobby blurred interlaced patterns appear in areas of motion. I don't know of any video processing that could fix this (not even Santiag for Avisynth). Topaz claims a new Dione AI model has a mode called Interlaced Progressive specifically made to fix videos suffering this damage. From what I've read, it doesn't work well (yet).<br>
+<br>
+Additionally, there are multiple gaps in the audio and/or video, as if it was live streamed from the venue without adequate buffering. All posted captures suffer from the exact same gaps (no need to post or link them).<br>
+<br>
+I'm hoping AURORA's label has realized just how great this recording turned out and has obtained a perfect high quality copy from the on-site Production team. I'm hoping they are streaming it somewhere for free or as Video-On-Demand (VOD). Please post the link if you find one. If you are skilled at stream capture, please post the capture.
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[curtisrice04]]></author>
+                <author><![CDATA[xenon59247]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】HDTV - Celine Dion - My Heart Will Go On (2017 Billboard Music Awards) [1080i, 29.4 Mbps]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/celine-dion-my-heart-will-go-on-2017-billboard-music-awards-1080i-29-4-mbps.226886/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+This is a reupload (Original: <a href="https://sharemania.us/threads/c%C3%A9line-dion-my-heart-will-go-on-live-billboard-music-awards-2017.193132/" class="internalLink">https://sharemania.us/threads/célin...o-on-live-billboard-music-awards-2017.193132/</a>)<br>
+<br>
+Format : MPEG-TS<br>
+File size : 1.08 GiB<br>
+Duration : 5 min 14 s<br>
+Overall bit rate mode : Variable<br>
+Overall bit rate : 29.4 Mb/s<br>
+<br>
+<img src="https://i.imgur.com/RiyeYVP.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/RiyeYVP.png" style=""> <br>
+<br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[dxd1412]]></author>
                 </item>
 
                 </channel></rss>
