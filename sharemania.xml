@@ -8,117 +8,81 @@
 
  
                 <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Hepburn - Hepburn (1999) [FLAC]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/hepburn-hepburn-1999-flac.227490/]]></link>
+                <title><![CDATA[【UPSCALED】Kylie Minogue - Tension (4K-AI-REMASTERED-H.265)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/kylie-minogue-tension-4k-ai-remastered-h-265.227493/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-Hi.<br>
+<img src="https://i.imgur.com/XDtIvgj.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/XDtIvgj.png" style=""><br>
+<img src="https://i.imgur.com/DiRnqvU.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/DiRnqvU.png" style=""><br>
+<img src="https://i.imgur.com/ahVBvp8.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/ahVBvp8.jpg" style=""><br>
 <br>
-I'm looking for Hepburn's album - Hepburn (1999) as listed here:<br>
-<a href="https://www.discogs.com/release/2562649-Hepburn-Hepburn" target="_blank" class="externalLink" rel="nofollow">https://www.discogs.com/release/2562649-Hepburn-Hepburn</a><br>
-<br>
-In FLAC, if possible,<br>
-<br>
-Thanks.
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[OrangeGround35]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【PRORES HD】Lena - Traffic Lights |ProRes 1080|]]></title>
-                <link><![CDATA[https://sharemania.us/threads/lena-traffic-lights-prores-1080.227492/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center"><img src="https://i.imgur.com/AiiNHeG.gif" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/AiiNHeG.gif" style=""><br>
-<br>
-​</div>
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">ProRes</span></span></button>
-<div class="SpoilerTarget bbCodeSpoilerText">
 <div class="bbCodeBlock bbCodeCode">
 <div class="type">Code:</div>
-<pre>Format                                   : MPEG-4
-Format profile                           : QuickTime
-Codec ID                                 : qt   2005.03 (qt  )
-File size                                : 3.58 GiB
-Duration                                 : 2 min 50 s
-Overall bit rate mode                    : Variable
-Overall bit rate                         : 180 Mb/s
-Encoded date                             : UTC 2015-04-28 11:19:39
-Tagged date                              : UTC 2015-04-28 11:19:39
+<pre>General
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42 (mp42/iso2/mp41)
+File size                                : 309 MiB
+Duration                                 : 3 min 37 s
+Overall bit rate                         : 11.9 Mb/s
+Frame rate                               : 24.000 FPS
 
 Video
 ID                                       : 1
-Format                                   : ProRes
-Format version                           : Version 0
-Format profile                           : 422 HQ
-Codec ID                                 : apch
-Duration                                 : 2 min 50 s
-Bit rate mode                            : Variable
-Bit rate                                 : 178 Mb/s
-Width                                    : 1 920 pixels
-Height                                   : 1 080 pixels
-Display aspect ratio                     : 16:9
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main@L5@Main
+Codec ID                                 : hvc1
+Codec ID/Info                            : High Efficiency Video Coding
+Duration                                 : 3 min 37 s
+Bit rate                                 : 11.5 Mb/s
+Width                                    : 3 840 pixels
+Height                                   : 2 072 pixels
+Display aspect ratio                     : 1.85:1
 Frame rate mode                          : Constant
-Frame rate                               : 25.000 FPS
+Frame rate                               : 24.000 FPS
 Color space                              : YUV
-Chroma subsampling                       : 4:2:2
-Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 3.440
-Stream size                              : 3.55 GiB (99%)
-Writing library                          : aut0
-Language                                 : English
-Encoded date                             : UTC 2015-04-28 11:19:39
-Tagged date                              : UTC 2015-04-28 11:19:39
+Chroma subsampling                       : 4:2:0 (Type 0)
+Bit depth                                : 8 bits
+Bits/(Pixel*Frame)                       : 0.060
+Stream size                              : 298 MiB (97%)
+Color range                              : Limited
 Color primaries                          : BT.709
 Transfer characteristics                 : BT.709
 Matrix coefficients                      : BT.709
+Codec configuration box                  : hvcC
 
 Audio
-ID                                       : 3
-Format                                   : PCM
-Format settings                          : Big / Signed
-Codec ID                                 : lpcm
-Duration                                 : 2 min 50 s
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : mp4a-40-2
+Duration                                 : 3 min 37 s
+Source duration                          : 3 min 37 s
 Bit rate mode                            : Constant
-Bit rate                                 : 1 536 kb/s
+Bit rate                                 : 394 kb/s
 Channel(s)                               : 2 channels
 Channel layout                           : L R
 Sampling rate                            : 48.0 kHz
-Bit depth                                : 16 bits
-Stream size                              : 31.3 MiB (1%)
-Language                                 : English
-Encoded date                             : UTC 2015-04-28 11:19:39
-Tagged date                              : UTC 2015-04-28 11:19:39
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 10.2 MiB (3%)
+Source stream size                       : 10.2 MiB (3%)
+Title                                    : Stereo / Stereo
 
-Other
-ID                                       : 2
-Type                                     : Time code
-Format                                   : QuickTime TC
-Duration                                 : 2 min 50 s
-Frame rate                               : 25.000 FPS
-Time code of first frame                 : 00:59:59:01
-Time code, striped                       : Yes
-Title                                    : untitled
-Language                                 : English
-Default                                  : No
-Encoded date                             : UTC 2015-04-28 11:19:39
-Tagged date                              : UTC 2015-04-28 11:19:39</pre>
-</div><div style="text-align: center">​</div></div>
-</div><div style="text-align: center"><br>
-<br>
-<br>
+
+
+
+
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div>
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></pre>
+</div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[fstambuk]]></author>
+                <author><![CDATA[Librious]]></author>
                 </item>
 
                 </channel></rss>
