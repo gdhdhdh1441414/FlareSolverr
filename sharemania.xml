@@ -8,36 +8,11 @@
 
  
                 <item>
-                <title><![CDATA[【Music Videos】Smash Mouth -  I'm A Believer (Xtendz - 1080 (Clean) [Extended]) (VjPro/Smashvision Pool)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/smash-mouth-im-a-believer-xtendz-1080-clean-extended-vjpro-smashvision-pool.227746/]]></link>
+                <title><![CDATA[【PRORES HD】Lena - Stardust |ProRes 1080|]]></title>
+                <link><![CDATA[https://sharemania.us/threads/lena-stardust-prores-1080.227748/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://i.imgur.com/TnpCjJl.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/TnpCjJl.jpg" style=""> <br>
-<b>Smash Mouth - I'm A Believer (Xtendz - 1080 (Clean) [Extended]) </b><br>
-<b>Year: 2001<br>
-BPM: 82.38<br>
-Grouping: Clean<br>
-<b><span style="font-size: 18px">Genre:Old School / Classics</span></b><br>
-Rip from VjPro/Smashvision With Virtual DJ 2023<br>
-<br>
-[/URL]
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></b>
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[gamerfronts]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【PRORES HD】Lena - Neon (Lonely People) |ProRes 1080|]]></title>
-                <link><![CDATA[https://sharemania.us/threads/lena-neon-lonely-people-prores-1080.227747/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center"><img src="https://i.imgur.com/MISb3Aj.gif" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/MISb3Aj.gif" style=""><br>
+<div style="text-align: center"><img src="https://i.imgur.com/2onGH14.gif" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/2onGH14.gif" style=""><br>
 <br>
 ​</div>
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
@@ -48,14 +23,14 @@ Rip from VjPro/Smashvision With Virtual DJ 2023<br>
 <pre>Format                                   : MPEG-4
 Format profile                           : QuickTime
 Codec ID                                 : qt   2005.03 (qt  )
-File size                                : 1.01 GiB
-Duration                                 : 3 min 31 s
+File size                                : 2.18 GiB
+Duration                                 : 3 min 34 s
 Overall bit rate mode                    : Variable
-Overall bit rate                         : 41.1 Mb/s
-Encoded date                             : UTC 2013-02-21 12:14:22
-Tagged date                              : UTC 2013-02-21 14:10:35
+Overall bit rate                         : 87.5 Mb/s
+Encoded date                             : UTC 2012-09-03 18:11:51
+Tagged date                              : UTC 2012-09-03 18:18:30
 Writing library                          : Apple QuickTime
-TIM                                      : 00:00:00:19
+TIM                                      : 00:00:00:00
 TSC                                      : 25
 TSZ                                      : 1
 
@@ -63,18 +38,18 @@ Video
 ID                                       : 1
 Format                                   : AVC
 Format/Info                              : Advanced Video Codec
-Format profile                           : Main@L4.1
+Format profile                           : Main@L5.1
 Format settings                          : 2 Ref Frames
 Format settings, CABAC                   : No
 Format settings, Reference frames        : 2 frames
 Format settings, GOP                     : N=1
 Codec ID                                 : avc1
 Codec ID/Info                            : Advanced Video Coding
-Duration                                 : 3 min 31 s
+Duration                                 : 3 min 34 s
 Bit rate mode                            : Variable
-Bit rate                                 : 39.5 Mb/s
+Bit rate                                 : 87.3 Mb/s
 Width                                    : 1 920 pixels
-Height                                   : 816 pixels
+Height                                   : 820 pixels
 Display aspect ratio                     : 2.35:1
 Frame rate mode                          : Constant
 Frame rate                               : 25.000 FPS
@@ -82,11 +57,11 @@ Color space                              : YUV
 Chroma subsampling                       : 4:2:0
 Bit depth                                : 8 bits
 Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 1.009
-Stream size                              : 994 MiB (96%)
+Bits/(Pixel*Frame)                       : 2.219
+Stream size                              : 2.18 GiB (100%)
 Language                                 : English
-Encoded date                             : UTC 2013-02-21 12:14:22
-Tagged date                              : UTC 2013-02-21 14:10:35
+Encoded date                             : UTC 2012-09-03 18:11:51
+Tagged date                              : UTC 2012-09-03 18:18:30
 Color range                              : Limited
 Color primaries                          : BT.709
 Transfer characteristics                 : BT.709
@@ -95,35 +70,37 @@ Codec configuration box                  : avcC
 
 Audio
 ID                                       : 2
-Format                                   : PCM
-Format settings                          : Little / Signed
-Codec ID                                 : sowt
-Duration                                 : 3 min 31 s
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : mp4a-40-2
+Duration                                 : 3 min 34 s
+Source duration                          : 3 min 34 s
 Bit rate mode                            : Constant
-Bit rate                                 : 1 536 kb/s
+Bit rate                                 : 128 kb/s
 Channel(s)                               : 2 channels
 Channel layout                           : L R
 Sampling rate                            : 48.0 kHz
-Bit depth                                : 16 bits
-Stream size                              : 38.6 MiB (4%)
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 3.28 MiB (0%)
+Source stream size                       : 3.28 MiB (0%)
 Language                                 : English
-Encoded date                             : UTC 2013-02-21 12:14:22
-Tagged date                              : UTC 2013-02-21 14:10:35
+Encoded date                             : UTC 2012-09-03 18:11:51
+Tagged date                              : UTC 2012-09-03 18:18:30
 
 Other
 ID                                       : 3
 Type                                     : Time code
 Format                                   : QuickTime TC
-Duration                                 : 3 min 31 s
+Duration                                 : 3 min 34 s
 Frame rate                               : 25.000 FPS
-Time code of first frame                 : 00:00:00:19
+Time code of first frame                 : 00:00:00:00
 Time code, striped                       : Yes
 Language                                 : English
-Encoded date                             : UTC 2013-02-21 14:10:35
-Tagged date                              : UTC 2013-02-21 14:10:35</pre>
+Encoded date                             : UTC 2012-09-03 18:18:30
+Tagged date                              : UTC 2012-09-03 18:18:30</pre>
 </div><div style="text-align: center">​</div></div>
 </div><div style="text-align: center"><br>
-<br>
 <br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
@@ -137,28 +114,16 @@ Tagged date                              : UTC 2013-02-21 14:10:35</pre>
 
                 
                 <item>
-                <title><![CDATA[【Music Videos】Smash Mouth - All Star (Xtendz (Clean) [Extended]) (VjPro/Smashvision Pool)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/smash-mouth-all-star-xtendz-clean-extended-vjpro-smashvision-pool.227745/]]></link>
+                <title><![CDATA[【Requests】Filled - [REQ AUD] Luísa Sonza live @ The Town (09/03/2023) FLAC]]></title>
+                <link><![CDATA[https://sharemania.us/threads/req-aud-lu%C3%ADsa-sonza-live-the-town-09-03-2023-flac.227749/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://i.imgur.com/Fap6JND.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/Fap6JND.jpg" style=""><br>
-<b>Smash Mouth - All Star (Xtendz (Clean) [Extended])<br>
-Year: 1999<br>
-BPM: 104.00<br>
-Grouping: Clean<br>
-<b><span style="font-size: 18px">Genre:Old School / Classics<br>
-Recorded in 1080 SD footage</span></b><br>
-Rip from VjPro/Smashvision With Virtual DJ 2023<br>
-<br>
-[/URL]
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></b>
+Hey guys! Could you available me the audio of Luísa Sonza's concert live at The Town (09/03/2023) in FLAC, track by track? <br>
+I'll be very grateful for that! <img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie72" alt=":relaxed:" title="Relaxed    :relaxed:"><img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie52" alt=":hearteyes:" title="Heart Eyes    :hearteyes:">
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[gamerfronts]]></author>
+                <author><![CDATA[EncrySys]]></author>
                 </item>
 
                 </channel></rss>
