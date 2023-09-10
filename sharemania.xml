@@ -8,59 +8,163 @@
 
  
                 <item>
-                <title><![CDATA[【Music Videos】PACK - Mariah Carey: MTV Video Collecton 90'S:00'S (2022) [Fan Made] ***NEW LINK***]]></title>
-                <link><![CDATA[https://sharemania.us/threads/mariah-carey-mtv-video-collecton-90s-00s-2022-fan-made-new-link.228121/]]></link>
+                <title><![CDATA[【SD Live Performances】SDTV - Michael Jackson - Live in Bad Tour, Yokohama, Japan, 1987 - caladan]]></title>
+                <link><![CDATA[https://sharemania.us/threads/michael-jackson-live-in-bad-tour-yokohama-japan-1987-caladan.228123/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center"><img src="https://i.postimg.cc/D0jYnznH/MTV-MC-9000.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/D0jYnznH/MTV-MC-9000.jpg" style=""> <br>
+This is a processed version of a DVD that was made from a VHS tape. The quality is good enough for a VHS from 1987.<br>
 <br>
-<b>90's</b><br>
-<img src="https://i.postimg.cc/XY0MrjRf/MTV-Video-Collection-Mariah-Carey-90-s-2021-VOB-thumbs.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/XY0MrjRf/MTV-Video-Collection-Mariah-Carey-90-s-2021-VOB-thumbs.jpg" style=""> <br>
-<b>Vision Of Love<br>
-Someday<br>
-Emotions<br>
-Can't Let Go<br>
-Dreamlover<br>
-Hero <br>
-Without You<br>
-Anytime You Need A Friend<br>
-Fantasy (Bad Boy Remix)<br>
-One Sweet Day<br>
-Always Be My Baby<br>
-Underneath The Stars<br>
-Honey (Bad Boy Remix)<br>
-Butterfly <br>
-My All<br>
-Breakdown<br>
-The Roof<br>
-Sweetheart<br>
-When You Believe<br>
-Heartbreaker</b><br>
+My edits using Avisynth, ffmpeg and MKVToolnix: deinterlaced with QTGMC for a smooth 59.94fps, deblocked, resized to 4:3 using Spline36Resize, cropped the edges with ugly video artifacts, saved to MP4 AVC (CRF 18), added song titles to existing chapters, added text info file. The audio is identical with that DVD release.<br>
+<br>
+<img src="https://i.ibb.co/zN6bTV9/Michael-Jackson-Live-in-Bad-Tour-Yokohama-Japan-1987-mkv.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/zN6bTV9/Michael-Jackson-Live-in-Bad-Tour-Yokohama-Japan-1987-mkv.jpg" style=""><br>
+<br>
+Track listing:<br>
+01. Intro<br>
+02. Wanna Be Startin' Somethin'<br>
+03. Things I Do for You<br>
+04. Off the Wall<br>
+05. Human Nature<br>
+06. Heartbreak Hotel<br>
+07. She's Out of My Life<br>
+08. I Want You Back<br>
+09. The Love You Save<br>
+10. I'll Be There<br>
+11. Rock With You<br>
+12. Lovely One<br>
+13. Workin' Day and Night<br>
+14. Beat It<br>
+15. Billie Jean<br>
+16. Shake Your Body<br>
+17. Thriller<br>
+18. I Just Can't Stop Loving You<br>
+19. Bad<br>
+<br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">General<br>
+Unique ID : 236598797986897115089484758525531931518 (0xB1FF455F442F9B553386BF43A8D0437E)<br>
+Complete name : E:\Concerts (M-Z)\Michael Jackson - Live in Bad Tour, Yokohama, Japan, 1987\Michael Jackson - Live in Bad Tour, Yokohama, Japan, 1987.mkv<br>
+Format : Matroska<br>
+Format version : Version 4<br>
+File size : 2.71 GiB<br>
+Duration : 1 h 36 min<br>
+Overall bit rate : 4 034 kb/s<br>
+Frame rate : 59.940 FPS<br>
+Encoded date : 2023-09-10 01:03:39 UTC<br>
+Writing application : mkvmerge v78.0 ('Running') 64-bit<br>
+Writing library : libebml v1.4.4 + libmatroska v1.7.1<br>
+<br>
+Video<br>
+ID : 1<br>
+Format : AVC<br>
+Format/Info : Advanced Video Codec<br>
+Format profile : High@L3.1<br>
+Format settings : CABAC / 8 Ref Frames<br>
+Format settings, CABAC : Yes<br>
+Format settings, Reference frames : 8 frames<br>
+Codec ID : V_MPEG4/ISO/AVC<br>
+Duration : 1 h 36 min<br>
+Bit rate : 3 775 kb/s<br>
+Width : 696 pixels<br>
+Height : 528 pixels<br>
+Display aspect ratio : 4:3<br>
+Frame rate mode : Constant<br>
+Frame rate : 59.940 (60000/1001) FPS<br>
+Color space : YUV<br>
+Chroma subsampling : 4:2:0<br>
+Bit depth : 8 bits<br>
+Scan type : Progressive<br>
+Bits/(Pixel*Frame) : 0.171<br>
+Stream size : 2.54 GiB (94%)<br>
+Writing library : x264 core 164 r3106 eaa68fa<br>
+Encoding settings : cabac=1 / ref=8 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=18.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00<br>
+Default : Yes<br>
+Forced : No<br>
+Color range : Limited<br>
+Matrix coefficients : BT.709<br>
+<br>
+Audio<br>
+ID : 2<br>
+Format : AC-3<br>
+Format/Info : Audio Coding 3<br>
+Commercial name : Dolby Digital<br>
+Codec ID : A_AC3<br>
+Duration : 1 h 36 min<br>
+Bit rate mode : Constant<br>
+Bit rate : 192 kb/s<br>
+Channel(s) : 2 channels<br>
+Channel layout : L R<br>
+Sampling rate : 48.0 kHz<br>
+Frame rate : 31.250 FPS (1536 SPF)<br>
+Compression mode : Lossy<br>
+Stream size : 176 MiB (6%)<br>
+Language : English<br>
+Service kind : Complete Main<br>
+Default : Yes<br>
+Forced : No<br>
+<br>
+Menu<br>
+00:00:00.000 : en:Intro<br>
+00:02:23.376 : en:Wanna Be Startin' Somethin'<br>
+00:07:37.190 : en:Things I Do for You<br>
+00:11:04.897 : en:Off the Wall<br>
+00:14:50.623 : en:Human Nature<br>
+00:19:21.393 : en:Heartbreak Hotel<br>
+00:24:43.715 : en:She's Out of My Life<br>
+00:29:07.979 : en:I Want You Back<br>
+00:30:13.545 : en:The Love You Save<br>
+00:31:11.603 : en:I'll Be There<br>
+00:35:27.859 : en:Rock With You<br>
+00:39:30.601 : en:Lovely One<br>
+00:45:27.958 : en:Workin' Day and Night<br>
+00:52:38.889 : en:Beat It<br>
+00:59:20.290 : en:Billie Jean<br>
+01:05:20.149 : en:Shake Your Body<br>
+01:18:05.914 : en:Thriller<br>
+01:22:33.682 : en:I Just Can't Stop Loving You<br>
+01:29:02.570 : en:Bad</div>
+</div><br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
-<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div><b>00's</b><br>
-<img src="https://i.postimg.cc/59TWMqpk/MTV-Video-Collection-Mariah-Carey-00-s-2021-VOB-thumbs.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/59TWMqpk/MTV-Video-Collection-Mariah-Carey-00-s-2021-VOB-thumbs.jpg" style=""> <br>
-<b>Can't Take That Away (Mariah's Theme)<br>
-Loverboy (Firecacker Original Version)<br>
-Never Too Far<br>
-Through The Rain<br>
-It's Like A That<br>
-We Belong Together<br>
-Touch My Body<br>
-Bye Bye<br>
-I'll Be Lovin' U Long Time<br>
-I Stay In Love<br>
-Obsessed<br>
-I Want To Know What Love Is<br>
-H.A.T.E.U.<br>
-Triumphant (Get 'Em) (Vintage Throwback Radio Edit)<br>
-You're Mine (Eternal)<br>
-Almost Home<br>
-Infinity<br>
-With You<br>
-A No No<br>
-Save The Day</b><br>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[caladan]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Music Videos】Dua Lipa: MTV Video Collecton (2022) [Fan Made] ***NEW LINK***]]></title>
+                <link><![CDATA[https://sharemania.us/threads/dua-lipa-mtv-video-collecton-2022-fan-made-new-link.228124/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<div style="text-align: center"><img src="https://i.postimg.cc/XvVT9qQG/BASE-WALLPAPER-SHAREMANIA-DVD2.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/XvVT9qQG/BASE-WALLPAPER-SHAREMANIA-DVD2.jpg" style=""> <br>
+<img src="https://i.postimg.cc/xCdV96WB/MTV-Video-Collection-Dua-Lipa-2021-VOB-thumbs.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/xCdV96WB/MTV-Video-Collection-Dua-Lipa-2021-VOB-thumbs.jpg" style=""> <br>
+New Love<br>
+Be The One<br>
+Last Dance<br>
+Hotter Than Hell*<br>
+Blow Your Mind (Mwah)<br>
+Scared To Be Lonely<br>
+No Lie<br>
+New Rules<br>
+IDGAF<br>
+One Kiss<br>
+Swan Song<br>
+Don't Start Now<br>
+Physical<br>
+Break My Heart<br>
+Hallucinate<br>
+Un Día (One Day)<br>
+Levitating (The Blessed Madonna Remix)<br>
+Fever*<br>
+Prisoner<br>
+Love Again<br>
+<br>
+<span style="font-size: 9px">*Novák Edited Video<br>
+MTV All rights reserved ®</span><br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
 <blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
@@ -69,59 +173,6 @@ Save The Day</b><br>
 </blockquote>
 </article>]]></description>
                 <author><![CDATA[Fan Made]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Requests】[REQ CAP] - Kylie's Non-Stop History 50+1 (Japan First Pressing 1993) FLAC Kylie Minogue - Greatest Hits (Japan First Pressing 1992)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/kylies-non-stop-history-50-1-japan-first-pressing-1993-flac-kylie-minogue-greatest-hits-japan-first-pressing-1992.228122/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-If someone could plesse upload the orginal first pressings of the japanese editions of the Kylie Minogue Compilations Kylie's Non-Stop History 50+1(1993) &amp; Kylie Minogue - Greatest Hits (1992) <br>
-<br>
-The person who uploads what I am asking for will be sent a link to my google drive which contains the full upcoming deluxe edition of Kylie Minogue's Tension album, 14 tracks.
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[cluckyluckyducky]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Albums (lossless)】DSF - Sennheiser HD800 Demo Disc: Crafted For Perfection]]></title>
-                <link><![CDATA[https://sharemania.us/threads/sennheiser-hd800-demo-disc-crafted-for-perfection.228120/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center"><img src="https://cdn11.bigcommerce.com/s-rdecee92oy/images/stencil/500x659/products/22171/5961004/sfsa9800-large__96409.1691818047.jpg?c=2" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://cdn11.bigcommerce.com/s-rdecee92oy/images/stencil/500x659/products/22171/5961004/sfsa9800-large__96409.1691818047.jpg?c=2" style=""> Details<br>
-This Demonstration SACD Sounds Great with ANY Sennheiser or other Audiophile Headphones!<br>
-<br>
-Sennheiser Asia, the overseas branch of Sennheiser Germany, asked Stockfisch-Records to produce a sampler for them. The aim was to compile a test SACD for their new headphone model HD800: "for the optimal Sennheiser HD800 experience". The result is this sampler featuring recordings from Stockfish's top recording artists Steve Strauss, Sara K., Chris Jones and Christian Willisohn.<br>
-<br>
-Features:<br>
-<br>
-• SACD DSD64<br>
-<br>
-Selections:<br>
-<br>
-1. Mr. Bones - Steve Strauss<br>
-<br>
-2. Stars - Sara K.<br>
-<br>
-3. Turned My Upside Down - Sara K.<br>
-<br>
-4. Stop Those Bells (Live) - Sara K. &amp; Chris Jones<br>
-<br>
-5. Caruso (Lucio Dalla) - Christian Willisohn<br>
-<br>
-Total playing time, 22:12. This Demonstration SACD Sounds Great with ANY Sennheiser or other Audiophile Headphones<br>
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div>
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[Senny]]></author>
                 </item>
 
                 </channel></rss>
