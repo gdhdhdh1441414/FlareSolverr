@@ -8,162 +8,80 @@
 
  
                 <item>
-                <title><![CDATA[【HD Live Performances】HDTV - Restart - Sobe o Som - Caldeirão - HDTV 1080P DD5.1 H264-chmt]]></title>
-                <link><![CDATA[https://sharemania.us/threads/restart-sobe-o-som-caldeir%C3%A3o-hdtv-1080p-dd5-1-h264-chmt.228104/]]></link>
+                <title><![CDATA[【HD Live Performances】WEB-RiP - Zara Larsson - Lollapalooza Berlin 2023 WEBRIP.1080p.MAGENTAMUSIK]]></title>
+                <link><![CDATA[https://sharemania.us/threads/zara-larsson-lollapalooza-berlin-2023-webrip-1080p-magentamusik.228106/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://i.imgur.com/OzEf8GI.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/OzEf8GI.jpeg" style=""><br>
+<img src="https://i.imgur.com/EozU2je.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/EozU2je.jpg" style=""><br>
 <br>
-Primeira apresentação depois de 8 anos!<br>
 <br>
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
-<div class="SpoilerTarget bbCodeSpoilerText">General<br>
-ID : 1 (0x1)<br>
-Complete name : C:\Restart.-.Sobe.o.Som.-.Caldeirão.-.HDTV.1080P.DD5.1.H264-chmt.ts<br>
-Format : MPEG-TS<br>
-File size : 2.51 GiB<br>
-Duration : 29 min 13 s<br>
-Overall bit rate mode : Variable<br>
-Overall bit rate : 12.3 Mb/s<br>
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>General
+Unique ID                      : 292316409876482387628227705908870969782 (0xDBEA17BB4C429C3BB8DD6DD2C2B2F9B6)
+Complete name                  : C:\Users\Desktop\Zara Larsson - Lollapalooza Berlin 2023 WEBRIP.1080p.MAGENTAMUSIK.mkv
+Format                         : Matroska
+Format version                 : Version 4
+File size                      : 3.06 GiB
+Duration                       : 59 min 50 s
+Overall bit rate mode          : Variable
+Overall bit rate               : 7 325 kb/s
+Movie name                     : Zara
+Encoded date                   : UTC 2023-09-09 23:54:35
+Writing application            : mkvmerge v78.0 ('Running') 64-bit
+Writing library                : libebml v1.4.4 + libmatroska v1.7.1
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4.2
+Format settings                : CABAC / 4 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 4 frames
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 59 min 50 s
+Bit rate mode                  : Variable
+Bit rate                       : 7 200 kb/s
+Width                          : 1 920 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 25.000 FPS
+Standard                       : Component
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.139
+Stream size                    : 3.01 GiB (98%)
+Default                        : Yes
+Forced                         : No
+Color range                    : Limited
+Color primaries                : BT.709
+Transfer characteristics       : BT.709
+Matrix coefficients            : BT.709
+
+Audio
+ID                             : 2
+Format                         : AAC LC
+Format/Info                    : Advanced Audio Codec Low Complexity
+Codec ID                       : A_AAC-2
+Duration                       : 59 min 49 s
+Bit rate                       : 125 kb/s
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 46.875 FPS (1024 SPF)
+Compression mode               : Lossy
+Delay relative to video        : 10 ms
+Stream size                    : 53.7 MiB (2%)
+Default                        : Yes
+Forced                         : No
+
+</pre>
+</div>Ripped by me from the livestream.<br>
 <br>
-Video<br>
-ID : 256 (0x100)<br>
-Menu ID : 1 (0x1)<br>
-Format : AVC<br>
-Format/Info : Advanced Video Codec<br>
-Format profile : High@L4<br>
-Format settings, CABAC : Yes<br>
-Format settings, RefFrames : 3 frames<br>
-Codec ID : 27<br>
-Duration : 29 min 13 s<br>
-Bit rate mode : Constant<br>
-Bit rate : 11.0 Mb/s<br>
-Width : 1 920 pixels<br>
-Height : 1 080 pixels<br>
-Display aspect ratio : 16:9<br>
-Frame rate : 29.970 (30000/1001) FPS<br>
-Color space : YUV<br>
-Chroma subsampling : 4:2:0<br>
-Bit depth : 8 bits<br>
-Scan type : Interlaced<br>
-Scan type, store method : Separated fields<br>
-Scan order : Top Field First<br>
-Bits/(Pixel*Frame) : 0.177<br>
-Stream size : 2.20 GiB (88%)<br>
-Color range : Limited<br>
-Color primaries : BT.709<br>
-Transfer characteristics : BT.709<br>
-Matrix coefficients : BT.709<br>
-<br>
-Audio #1<br>
-ID : 257 (0x101)<br>
-Menu ID : 1 (0x1)<br>
-Format : AC-3<br>
-Format/Info : Audio Coding 3<br>
-Format settings, Endianness : Big<br>
-Codec ID : 129<br>
-Duration : 29 min 14 s<br>
-Bit rate mode : Constant<br>
-Bit rate : 384 kb/s<br>
-Channel(s) : 6 channels<br>
-Channel positions : Front: L C R, Side: L R, LFE<br>
-Sampling rate : 48.0 kHz<br>
-Frame rate : 31.250 FPS (1536 SPF)<br>
-Bit depth : 16 bits<br>
-Compression mode : Lossy<br>
-Delay relative to video : -98 ms<br>
-Stream size : 80.3 MiB (3%)<br>
-Language : Portuguese<br>
-Service kind : Complete Main<br>
-<br>
-Audio #2<br>
-ID : 258 (0x102)<br>
-Menu ID : 1 (0x1)<br>
-Format : AC-3<br>
-Format/Info : Audio Coding 3<br>
-Format settings, Endianness : Big<br>
-Codec ID : 129<br>
-Duration : 29 min 14 s<br>
-Bit rate mode : Constant<br>
-Bit rate : 192 kb/s<br>
-Channel(s) : 2 channels<br>
-Channel positions : Front: L R<br>
-Sampling rate : 48.0 kHz<br>
-Frame rate : 31.250 FPS (1536 SPF)<br>
-Bit depth : 16 bits<br>
-Compression mode : Lossy<br>
-Delay relative to video : -98 ms<br>
-Stream size : 40.1 MiB (2%)<br>
-Language : sap<br>
-Service kind : Complete Main<br>
-<br>
-Audio #3<br>
-ID : 259 (0x103)<br>
-Menu ID : 1 (0x1)<br>
-Format : MPEG Audio<br>
-Format version : Version 1<br>
-Format profile : Layer 2<br>
-Codec ID : 3<br>
-Duration : 29 min 13 s<br>
-Bit rate mode : Constant<br>
-Bit rate : 192 kb/s<br>
-Channel(s) : 2 channels<br>
-Sampling rate : 48.0 kHz<br>
-Compression mode : Lossy<br>
-Delay relative to video : -82 ms<br>
-Stream size : 40.1 MiB (2%)<br>
-Language : dub<br>
-<br>
-Audio #4<br>
-ID : 260 (0x104)<br>
-Menu ID : 1 (0x1)<br>
-Format : MPEG Audio<br>
-Format version : Version 1<br>
-Format profile : Layer 2<br>
-Codec ID : 3<br>
-Duration : 29 min 13 s<br>
-Bit rate mode : Constant<br>
-Bit rate : 128 kb/s<br>
-Channel(s) : 2 channels<br>
-Sampling rate : 48.0 kHz<br>
-Compression mode : Lossy<br>
-Delay relative to video : -82 ms<br>
-Stream size : 26.8 MiB (1%)<br>
-Language : aud<br>
-<br>
-Text #1<br>
-ID : 256 (0x100)-CC1<br>
-Menu ID : 1 (0x1)<br>
-Format : EIA-608<br>
-Muxing mode : SCTE 128 / DTVCC Transport<br>
-Muxing mode, more info : Muxed in Video #1<br>
-Duration : 29 min 13 s<br>
-Bit rate mode : Constant<br>
-Stream size : 0.00 Byte (0%)<br>
-CaptionServiceName : CC1<br>
-<br>
-Text #2<br>
-ID : 256 (0x100)-1<br>
-Menu ID : 1 (0x1)<br>
-Format : EIA-708<br>
-Muxing mode : SCTE 128 / DTVCC Transport<br>
-Muxing mode, more info : Muxed in Video #1<br>
-Duration : 29 min 13 s<br>
-Bit rate mode : Constant<br>
-Stream size : 0.00 Byte (0%)<br>
-<br>
-Menu<br>
-ID : 4096 (0x1000)<br>
-Menu ID : 1 (0x1)<br>
-Duration : 29 min 13 s<br>
-List : 256 (0x100) (AVC) / 257 (0x101) (AC-3, Portuguese) / 258 (0x102) (AC-3, sap) / 259 (0x103) (MPEG Audio, dub) / 260 (0x104) (MPEG Audio, aud)<br>
-Language : / Portuguese / sap / dub / aud<br>
-Service name : Service01<br>
-Service provider : FFmpeg<br>
-Service type : digital television</div>
-</div><br>
-Link:<br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
 <blockquote>You must reply before you can see the hidden data contained here.</blockquote>
@@ -171,7 +89,139 @@ Link:<br>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[chmt]]></author>
+                <author><![CDATA[harmonizer54]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Apple Music】WEB-RiP - Mariah Carey - Dreamlover (1993) Flac Eac3 AM 4K 2160p H.265]]></title>
+                <link><![CDATA[https://sharemania.us/threads/mariah-carey-dreamlover-1993-flac-eac3-am-4k-2160p-h-265.228105/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+thanks
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[viviic]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Music Videos】The best of Latin music (canciones en español) [RetroBeat Music] 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/the-best-of-latin-music-canciones-en-espa%C3%B1ol-retrobeat-music-1080p.228108/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+thnx!!!
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[RetroBeatFM]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-RiP - Ava Max - Lollapalooza Berlin 2023 WEBRIP.1080p.MAGENTAMUSIK]]></title>
+                <link><![CDATA[https://sharemania.us/threads/ava-max-lollapalooza-berlin-2023-webrip-1080p-magentamusik.228107/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<span style="font-size: 22px">Mariah Carey - Dreamlover (1993) Flac Eac3 AM 4K 2160p H.265</span><br>
+<img src="http://imgfz.com/i/isXUa63.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="http://imgfz.com/i/isXUa63.jpeg" style=""><br>
+<div style="text-align: center">I changed the audios.<br>
+​</div>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">Format : Matroska<br>
+Format version : Version 4<br>
+File size : 655 MiB<br>
+Duration : 3 min 57 s<br>
+Overall bit rate mode : Variable<br>
+Overall bit rate : 23.1 Mb/s<br>
+Frame rate : 23.976 FPS<br>
+Movie name : Dreamlover<br>
+Encoded date : 2023-09-09 23:03:08 UTC<br>
+Writing application : mkvmerge v79.0 ('Funeral Pyres') 64-bit<br>
+Writing library : libebml v1.4.4 + libmatroska v1.7.1<br>
+Cover : Yes<br>
+Attachments : cover.jpg<br>
+Video<br>
+ID : 1<br>
+Format : HEVC<br>
+Format/Info : High Efficiency Video Coding<br>
+Format profile : Main 10@L5@High<br>
+Codec ID : V_MPEGH/ISO/HEVC<br>
+Duration : 3 min 57 s<br>
+Bit rate : 20.6 Mb/s<br>
+Width : 3 840 pixels<br>
+Height : 1 988 pixels<br>
+Display aspect ratio : 1.932<br>
+Frame rate mode : Constant<br>
+Frame rate : 23.976 (23976/1000) FPS<br>
+Color space : YUV<br>
+Chroma subsampling : 4:2:0<br>
+Bit depth : 10 bits<br>
+Bits/(Pixel*Frame) : 0.113<br>
+Stream size : 584 MiB (89%)<br>
+Language : English<br>
+Default : Yes<br>
+Forced : No<br>
+Color range : Limited<br>
+Color primaries : BT.709<br>
+Transfer characteristics : BT.709<br>
+Matrix coefficients : BT.709<br>
+Audio #1<br>
+ID : 2<br>
+Format : FLAC<br>
+Format/Info : Free Lossless Audio Codec<br>
+Codec ID : A_FLAC<br>
+Duration : 3 min 53 s<br>
+Bit rate mode : Variable<br>
+Bit rate : 1 673 kb/s<br>
+Channel(s) : 2 channels<br>
+Channel layout : L R<br>
+Sampling rate : 44.1 kHz<br>
+Frame rate : 9.574 FPS (4606 SPF)<br>
+Bit depth : 24 bits<br>
+Compression mode : Lossless<br>
+Delay relative to video : 2 s 680 ms<br>
+Stream size : 46.6 MiB (7%)<br>
+Title : By Tedd<br>
+Writing library : libFLAC 1.3.2 (2022-02-20)<br>
+Default : Yes<br>
+Forced : No<br>
+MD5 of the unencoded conten : 00000000000000000000000000000000<br>
+Audio #2<br>
+ID : 3<br>
+Format : E-AC-3 JOC<br>
+Format/Info : Enhanced AC-3 with Joint Object Coding<br>
+Commercial name : Dolby Digital Plus with Dolby Atmos<br>
+Codec ID : A_EAC3<br>
+Duration : 3 min 53 s<br>
+Bit rate mode : Constant<br>
+Bit rate : 768 kb/s<br>
+Channel(s) : 6 channels<br>
+Channel layout : L R C LFE Ls Rs<br>
+Sampling rate : 48.0 kHz<br>
+Frame rate : 31.250 FPS (1536 SPF)<br>
+Compression mode : Lossy<br>
+Delay relative to video : 2 s 673 ms<br>
+Stream size : 21.4 MiB (3%)<br>
+Title : By Tedd<br>
+Service kind : Complete Main<br>
+Default : Yes<br>
+Forced : No<br>
+Complexity index : 16<br>
+Number of dynamic objects : 15<br>
+Bed channel count : 1 channel<br>
+Bed channel configuration : LFE</div>
+</div><div style="text-align: center"><br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[harmonizer54]]></author>
                 </item>
 
                 </channel></rss>
