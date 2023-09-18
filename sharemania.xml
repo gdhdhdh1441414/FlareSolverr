@@ -8,74 +8,240 @@
 
  
                 <item>
-                <title><![CDATA[【Albums (lossy)】Dolby Atmos - Miley Cyrus - ATTENTION: Miley Live (Dolby Atmos) [E-AC3 5.1 768kbps-48.0kHz]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/miley-cyrus-attention-miley-live-dolby-atmos-e-ac3-5-1-768kbps-48-0khz.228655/]]></link>
+                <title><![CDATA[【Apple Music】WEB-RiP - Taeyeon - 11:11 (Apple Music 1080p)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/taeyeon-11-11-apple-music-1080p.228657/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://i.imgur.com/HLoPteT.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/HLoPteT.jpeg" style=""><br>
-I have been looking for this album on Atmos for a long time but I only found the links down or with access denied, then after a while I managed to get it and I bring it to you in case someone else was looking for this album on Atmos. If the link is down I will try to upload it as soon as possible.<br>
+<img src="https://images2.imgbox.com/5b/79/4RZG6dmm_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/5b/79/4RZG6dmm_o.jpg" style=""> <br>
+<br>
+<span data-s9e-mediaembed="youtube" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:56.25%"><iframe allowfullscreen="" loading="lazy" scrolling="no" style="background:url(https://i.ytimg.com/vi/ulr0muQKjk0/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%" src="https://www.youtube.com/embed/ulr0muQKjk0"></iframe></span></span><br>
 <br>
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Media Info</span></span></button>
 <div class="SpoilerTarget bbCodeSpoilerText">Format : MPEG-4<br>
-Format profile : Base Media / Version 2<br>
-Codec ID : mp42 (mp42/dby1)<br>
-File size : 453MB<br>
-Duration : 1 hour 22 min 23 seg<br>
-Overall bit rate mode : Constant<br>
-Overall bit rate : 769 kb/s<br>
-Encoded date : 2022-06-01 19:09:57 UTC<br>
-Tagged date : 2022-06-01 19:09:57 UTC<br>
+Codec ID : M4V (isom/iso4/M4V /mp42)<br>
+File size : 192 MiB<br>
+Duration : 3 min 52 s<br>
+Overall bit rate mode : Variable<br>
+Overall bit rate : 6 937 kb/s<br>
+Frame rate : 23.976 FPS<br>
+Movie name : 11:11<br>
+Performer : TAEYEON<br>
+Genre : K-Pop<br>
+ContentType : Music Video<br>
+Recorded date : 2016-10-31 07:00:00 UTC<br>
+Encoded date : 2023-09-06 15:04:23 UTC<br>
+Tagged date : 2023-09-06 15:04:23 UTC<br>
+Copyright : ℗ 2016 SM Entertainment<br>
+Cover : Yes<br>
+Rating : None<br>
+GenreID : 1686<br>
+AppleStoreCountry : United States<br>
+AlbumTitleID : 435966642<br>
+AppleStoreCatalogID : 1171648142<br>
+<br>
+Video<br>
+ID : 2<br>
+Format : AVC<br>
+Format/Info : Advanced Video Codec<br>
+Format profile : High@L4<br>
+Format settings : CABAC / 4 Ref Frames<br>
+Format settings, CABAC : Yes<br>
+Format settings, Reference : 4 frames<br>
+Codec ID : avc1<br>
+Codec ID/Info : Advanced Video Coding<br>
+Duration : 3 min 52 s<br>
+Bit rate : 6 671 kb/s<br>
+Maximum bit rate : 17.9 Mb/s<br>
+Width : 1 920 pixels<br>
+Height : 1 080 pixels<br>
+Display aspect ratio : 16:9<br>
+Frame rate mode : Constant<br>
+Frame rate : 23.976 (23976/1000) FPS<br>
+Color space : YUV<br>
+Chroma subsampling : 4:2:0<br>
+Bit depth : 8 bits<br>
+Scan type : Progressive<br>
+Bits/(Pixel*Frame) : 0.134<br>
+Stream size : 185 MiB (96%)<br>
+Title : Core Media Video<br>
+Encoded date : 2019-08-13 18:53:10 UTC<br>
+Tagged date : 2023-09-06 15:04:23 UTC<br>
+Color range : Limited<br>
+Color primaries : BT.709<br>
+Transfer characteristics : BT.709<br>
+Matrix coefficients : BT.709<br>
+Codec configuration box : avcC<br>
 <br>
 Audio<br>
 ID : 1<br>
-Format : E-AC-3 JOC<br>
-Format/Info : Enhanced AC-3 with Joint Object Coding<br>
-Commercial name : Dolby Digital Plus with Dolby Atmos<br>
-Codec ID : ec-3<br>
-Duration : 1 hour 22 min 23 seg<br>
-Bit rate mode : Constant<br>
-Bit rate : 768 kb/s<br>
-Channel(s) : 6 channels<br>
-Channel layout : L R C LFE Ls Rs<br>
+Format : AAC LC<br>
+Format/Info : Advanced Audio Codec Low Complexity<br>
+Codec ID : mp4a-40-2<br>
+Duration : 3 min 52 s<br>
+Bit rate mode : Variable<br>
+Bit rate : 251 kb/s<br>
+Maximum bit rate : 449 kb/s<br>
+Channel(s) : 2 channels<br>
+Channel layout : L R<br>
 Sampling rate : 48.0 kHz<br>
-Frame rate : 31.250 FPS (1536 SPF)<br>
+Frame rate : 46.875 FPS (1024 SPF)<br>
 Compression mode : Lossy<br>
-Stream size : 18.9 MiB (100%)<br>
-Service kind : Complete Main<br>
-Default : Yes<br>
-Alternate group : 2<br>
-Encoded date : 2022-06-01 19:09:57 UTC<br>
-Tagged date : 2022-06-01 19:09:57 UTC<br>
-Complexity index : 16<br>
-Number of dynamic objects : 15<br>
-Bed channel count : 1 channel<br>
-Bed channel configuration : LFE</div>
+Stream size : 6.96 MiB (4%)<br>
+Title : Core Media Audio<br>
+Encoded date : 2019-08-13 18:51:07 UTC<br>
+Tagged date : 2023-09-06 15:04:23 UTC</div>
 </div><br>
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Tracklist</span></span></button>
-<div class="SpoilerTarget bbCodeSpoilerText">[1] ATTENTION<br>
-[2] We Can't Stop X Where Is My Mind? (Live)<br>
-[3] Plastic Hearts (Live)<br>
-[4] Heart of Glass (Live)<br>
-[5] 4x4 (Live)<br>
-[6] (SMS) Bangerz (Live)<br>
-[7] Dooo It! (Live)<br>
-[8] 23 (Live)<br>
-[9] Never Be Me (Live)<br>
-[10] Maybe (Live)<br>
-[11] 7 Things (Live)<br>
-[12] Bang Bang X See You Again (Live)<br>
-[13] Jolene (Live)<br>
-[14] High (Live)<br>
-[15] You (Live)<br>
-[16] Like a Prayer (Live)<br>
-[17] Edge of Midnight (Midnight Sky Remix) (Live)<br>
-[18] The Climb (Live)<br>
-[19] Wrecking Ball X Nothing Compares 2 U (Live)<br>
-[20] Party In The USA (Live)</div>
-</div><br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[Eric Lyn]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Albums (lossless)】FLAC - LANA DEL REY - 2023 - Did you know that there's a tunnel under Ocean Blvd [24bit-48000Hz]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/lana-del-rey-2023-did-you-know-that-theres-a-tunnel-under-ocean-blvd-24bit-48000hz.228659/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<div style="text-align: center"><img src="https://imgur.com/V2uyb5m" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://imgur.com/V2uyb5m" style=""> <br>
 <br>
+<b>Performer:</b> <b>Lana Del Rey</b>​</div><b><div style="text-align: center"><b>Album:</b> <b>Did You Know That There’s A Tunnel Under Ocean Blvd<br>
+Published:</b> <b>2023<br>
+Genre:</b> <b>Pop<br>
+File Size:</b> <b>843,6MB</b>​</div></b><br>
+<div style="text-align: center">​</div><b><div style="text-align: center"><b>Track listing:</b>​</div></b><br>
+<div style="text-align: center">1. The Grants (4:55)<br>
+2. Did you know that there's a tunnel under Ocean Blvd (4:45)<br>
+3. Sweet (3:35)<br>
+4. A&amp;W (7:14)<br>
+5. Judah Smith Interlude (4:37)<br>
+6. Candy Necklace (5:15)<br>
+7. Jon Batiste Interlude (3:33)<br>
+8. Kintsugi (6:19)<br>
+9. Fingertips (5:48)<br>
+10. Paris, Texas (3:27)<br>
+11. Grandfather please stand on the shoulders of my father while he's deep-sea fishing (4:00)<br>
+12. Let The Light In (4:38)<br>
+13. Margaret (5:40)<br>
+14. Fishtail (4:03)<br>
+15. Peppers (4:09)<br>
+16. Taco Truck x VB (5:53)<br>
+<br>
+<a href="https://filedot.to/byh0mzywxk41" target="_blank" class="externalLink" rel="nofollow"><b>https://filedot.to/byh0mzywxk41</b></a>​</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[XRB80]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Apple Music】WEB-RiP - Girls' Generation - PARTY (Apple Music 1080p)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/girls-generation-party-apple-music-1080p.228658/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<img src="https://images2.imgbox.com/d4/35/DhrM0WQu_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/d4/35/DhrM0WQu_o.jpg" style=""> <br>
+<br>
+<span data-s9e-mediaembed="youtube" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:56.25%"><iframe allowfullscreen="" loading="lazy" scrolling="no" style="background:url(https://i.ytimg.com/vi/HQzu7NYlZNQ/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%" src="https://www.youtube.com/embed/HQzu7NYlZNQ"></iframe></span></span><br>
+<br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Media Info</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">Format : MPEG-4<br>
+Codec ID : M4V (isom/iso4/M4V /mp42)<br>
+File size : 173 MiB<br>
+Duration : 3 min 37 s<br>
+Overall bit rate mode : Variable<br>
+Overall bit rate : 6 668 kb/s<br>
+Frame rate : 23.976 FPS<br>
+Movie name : PARTY<br>
+Performer : Girls' Generation<br>
+Genre : K-Pop<br>
+ContentType : Music Video<br>
+Recorded date : 2015-07-06 07:00:00 UTC<br>
+Encoded date : 2023-09-06 15:09:17 UTC<br>
+Tagged date : 2023-09-06 15:09:17 UTC<br>
+Copyright : ℗ 2015 SM Entertainment<br>
+Cover : Yes<br>
+Rating : None<br>
+GenreID : 1686<br>
+AppleStoreCountry : United States<br>
+AlbumTitleID : 357463500<br>
+AppleStoreCatalogID : 1016839326<br>
+<br>
+Video<br>
+ID : 2<br>
+Format : AVC<br>
+Format/Info : Advanced Video Codec<br>
+Format profile : High@L4<br>
+Format settings : CABAC / 4 Ref Frames<br>
+Format settings, CABAC : Yes<br>
+Format settings, Reference : 4 frames<br>
+Codec ID : avc1<br>
+Codec ID/Info : Advanced Video Coding<br>
+Duration : 3 min 37 s<br>
+Bit rate : 6 385 kb/s<br>
+Maximum bit rate : 15.0 Mb/s<br>
+Width : 1 920 pixels<br>
+Height : 1 080 pixels<br>
+Display aspect ratio : 16:9<br>
+Frame rate mode : Constant<br>
+Frame rate : 23.976 (24000/1001) FPS<br>
+Color space : YUV<br>
+Chroma subsampling : 4:2:0<br>
+Bit depth : 8 bits<br>
+Scan type : Progressive<br>
+Bits/(Pixel*Frame) : 0.128<br>
+Stream size : 165 MiB (96%)<br>
+Title : Core Media Video<br>
+Encoded date : 2022-04-09 05:54:08 UTC<br>
+Tagged date : 2023-09-06 15:09:18 UTC<br>
+Color range : Limited<br>
+Color primaries : BT.709<br>
+Transfer characteristics : BT.709<br>
+Matrix coefficients : BT.709<br>
+Codec configuration box : avcC<br>
+<br>
+Audio<br>
+ID : 1<br>
+Format : AAC LC<br>
+Format/Info : Advanced Audio Codec Low Complexity<br>
+Codec ID : mp4a-40-2<br>
+Duration : 3 min 37 s<br>
+Bit rate mode : Variable<br>
+Bit rate : 265 kb/s<br>
+Maximum bit rate : 353 kb/s<br>
+Channel(s) : 2 channels<br>
+Channel layout : L R<br>
+Sampling rate : 48.0 kHz<br>
+Frame rate : 46.875 FPS (1024 SPF)<br>
+Compression mode : Lossy<br>
+Stream size : 6.73 MiB (4%)<br>
+Title : Core Media Audio<br>
+Encoded date : 2022-04-09 05:52:14 UTC<br>
+Tagged date : 2023-09-06 15:09:18 UTC</div>
+</div><br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[Eric Lyn]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-RiP - BLACKPINK - Born Pink World Tour Finale in Seoul 2023 WEB-DL 1080p H264]]></title>
+                <link><![CDATA[https://sharemania.us/threads/blackpink-born-pink-world-tour-finale-in-seoul-2023-web-dl-1080p-h264.228660/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<img src="https://forevervideo.net/wp-content/uploads/2023/09/m3ybZsrRlx088HfP6ago0104125zXFWr0E1Y0-002.mkv.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://forevervideo.net/wp-content/uploads/2023/09/m3ybZsrRlx088HfP6ago0104125zXFWr0E1Y0-002.mkv.jpg" style=""> <br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
 <blockquote>You must reply before you can see the hidden data contained here.</blockquote>
@@ -83,75 +249,7 @@ Bed channel configuration : LFE</div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[narxerino]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Cherry Bomb Tyler the Creator Vinyl Rip FLAC]]></title>
-                <link><![CDATA[https://sharemania.us/threads/cherry-bomb-tyler-the-creator-vinyl-rip-flac.228654/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-Hello <img src="styles/default/xenforo/smilies/big_smile-48.png" class="mceSmilie" alt=":)" title="Smile    :)"> I understand that the vinyl version of Cherry Bomb has differences to the versions available elsewhere, does anyone have a rip so I can listen? Thank you!
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[jacksparrows]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【HD Live Performances】WEB-RiP - Radio 2 in the Park Best Bits - 2023 WEB-RiP 1080p-50fps-TPF HDMania]]></title>
-                <link><![CDATA[https://sharemania.us/threads/radio-2-in-the-park-best-bits-2023-web-rip-1080p-50fps-tpf-hdmania.228656/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center"><img src="https://i.postimg.cc/Y97GfkGp/BBC-Radio-2-in-the-Park-2023-BEST-BITS-Banner.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/Y97GfkGp/BBC-Radio-2-in-the-Park-2023-BEST-BITS-Banner.png" style=""><br>
-<b><span style="font-size: 18px">Radio 2 in the Park Best Bits - 2023 WEB-RiP 1080p-50fps-TPF HDMania</span></b><br>
-<span style="font-size: 12px"><i>From Kylie to Texas, Busted to Tears For Fears; The standout moments from an unforgettable weekend of live music.</i></span><br>
-<img src="https://i.postimg.cc/W12BNTp2/BBC-Radio-2-in-the-Park-2023-Half-Banner.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/W12BNTp2/BBC-Radio-2-in-the-Park-2023-Half-Banner.png" style=""><br>
-<img src="https://i.postimg.cc/V6Q4DqfX/Radio-2-in-the-Park-Best-Bits-2023-WEB-Ri-P-1080p-50fps-TPF-HDMania-0.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/V6Q4DqfX/Radio-2-in-the-Park-Best-Bits-2023-WEB-Ri-P-1080p-50fps-TPF-HDMania-0.jpg" style=""><br>
-<img src="https://i.postimg.cc/13s8ynNf/Radio-2-in-the-Park-2023-WEB-Ri-P-1080p-50fps-TPF-HDMania-00.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/13s8ynNf/Radio-2-in-the-Park-2023-WEB-Ri-P-1080p-50fps-TPF-HDMania-00.jpg" style=""><br>
-<img src="https://i.postimg.cc/LsBZFLkt/Radio-2-in-the-Park-Best-Bits-2023-WEB-Ri-P-1080p-50fps-TPF-HDMania.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/LsBZFLkt/Radio-2-in-the-Park-Best-Bits-2023-WEB-Ri-P-1080p-50fps-TPF-HDMania.jpg" style="">
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo.</span></span></button>
-<div class="SpoilerTarget bbCodeSpoilerText">Size : 6.945 GB<br>
-Duration : 01:23:28.01<br>
-Mux type : MP4<br>
-<b>Video:</b><br>
-Encoding : H.264<br>
-VideoStreamID : x201<br>
-Frame rate : 50.00 fps<br>
-Encoding size : 1920 x 1080<br>
-Aspect ratio : 16:9<br>
-Header bit rate : 12.000 Mbps<br>
-VBV buffer : 2928 KBytes<br>
-Profile : High/4.2<br>
-Progressive : Progressive<br>
-Chroma : 4:2:0<br>
-Entropy mode : CABAC<br>
-Bit rate : 10.650 Mbps<br>
-<b>Audio Stream: 1 (Primary)</b><br>
-Codec : AAC<br>
-Format : RAW<br>
-Channels : 2.0<br>
-Language : eng<br>
-PID : x202<br>
-PES Stream Id : xC0<br>
-Sampling rate : 48000<br>
-Sample size : 16 bits</div>
-</div>
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div><b><span style="color: rgb(255, 0, 0)">Don't forget to <i>Like</i>, if you download...</span></b><br>
-<span style="font-size: 15px"><br>
-If you like, </span><i><span style="font-size: 15px">like</span></i><span style="font-size: 15px">... <img src="styles/default/xenforo/smilies/exciting-48.png" class="mceSmilie" alt=":D" title="Big Grin    :D">...I always </span><i><span style="font-size: 15px">like</span></i><span style="font-size: 15px">, back (if you leave a </span><i><span style="font-size: 15px">reply</span></i><span style="font-size: 15px">)... <img src="styles/default/xenforo/smilies/haha-48.png" class="mceSmilie" alt=":lol:" title="LOL    :lol:"><br>
-<br>
-Credit to the original capper/ripper: <b><i>Me</i></b></span>​</div>
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[ThePixelFarm]]></author>
+                <author><![CDATA[forevervideo]]></author>
                 </item>
 
                 </channel></rss>
