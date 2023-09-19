@@ -8,78 +8,364 @@
 
  
                 <item>
-                <title><![CDATA[【UPSCALED】Taylor Swift - Red (Taylor's Version) [4K.AI.UPSCALE.60fps.x265.10bit.Dolby-Atmos]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/taylor-swift-red-taylors-version-4k-ai-upscale-60fps-x265-10bit-dolby-atmos.228744/]]></link>
+                <title><![CDATA[【MelOn】Orange Caramel - Catallena (MelOn 1080p)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/orange-caramel-catallena-melon-1080p.228746/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://i.imgur.com/LAd6Lqt.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/LAd6Lqt.jpg" style=""><br>
-<img src="https://i.imgur.com/4iehuTS.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/4iehuTS.jpg" style=""><br>
-<img src="https://i.imgur.com/F3J1JPn.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/F3J1JPn.jpg" style=""><br>
+<img src="https://images2.imgbox.com/12/dc/S9p1pwR2_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/12/dc/S9p1pwR2_o.jpg" style=""> <br>
 <br>
-<div class="bbCodeBlock bbCodeCode">
-<div class="type">Code:</div>
-<pre>General
-Format                                   : Matroska
-Format version                           : Version 4
-File size                                : 939 MiB
-Duration                                 : 4 min 1 s
-Overall bit rate                         : 32.6 Mb/s
-Frame rate                               : 59.940 FPS
-
-Video
-ID                                       : 1
-Format                                   : HEVC
-Format/Info                              : High Efficiency Video Coding
-Format profile                           : Main 10@L5.1@High
-Codec ID                                 : V_MPEGH/ISO/HEVC
-Duration                                 : 4 min 1 s
-Bit rate                                 : 31.5 Mb/s
-Width                                    : 3 840 pixels
-Height                                   : 2 160 pixels
-Display aspect ratio                     : 16:9
-Frame rate mode                          : Constant
-Frame rate                               : 59.940 (60000/1001) FPS
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0 (Type 0)
-Bit depth                                : 10 bits
-Bits/(Pixel*Frame)                       : 0.063
-Stream size                              : 908 MiB (97%)
-Default                                  : Yes
-Forced                                   : No
-Color range                              : Limited
-Color primaries                          : BT.709
-Transfer characteristics                 : BT.709
-Matrix coefficients                      : BT.709
-
-Audio
-ID                                       : 2
-Format                                   : AC-3
-Format/Info                              : Audio Coding 3
-Commercial name                          : Dolby Digital
-Codec ID                                 : A_AC3
-Duration                                 : 4 min 1 s
-Bit rate mode                            : Constant
-Bit rate                                 : 448 kb/s
-Channel(s)                               : 6 channels
-Channel layout                           : L R C LFE Ls Rs
-Sampling rate                            : 48.0 kHz
-Frame rate                               : 31.250 FPS (1536 SPF)
-Compression mode                         : Lossy
-Delay relative to video                  : -5 ms
-Stream size                              : 12.9 MiB (1%)
-Title                                    : Surround
-Service kind                             : Complete Main
-Default                                  : Yes
-Forced                                   : No</pre>
-</div><div style="text-align: center">
+<span data-s9e-mediaembed="youtube" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:56.25%"><iframe allowfullscreen="" loading="lazy" scrolling="no" style="background:url(https://i.ytimg.com/vi/Med2XipHJJM/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%" src="https://www.youtube.com/embed/Med2XipHJJM"></iframe></span></span><br>
+<br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Media Info</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">Format : MPEG-4<br>
+Format profile : Base Media / Version 2<br>
+Codec ID : mp42 (mp42/isom/avc1)<br>
+File size : 248 MiB<br>
+Duration : 3 min 22 s<br>
+Overall bit rate mode : Variable<br>
+Overall bit rate : 10.3 Mb/s<br>
+Frame rate : 29.970 FPS<br>
+Writing application : TMPGEnc Video Mastering Works 5 Version. 5.4.0.100<br>
+<br>
+Video<br>
+ID : 2<br>
+Format : AVC<br>
+Format/Info : Advanced Video Codec<br>
+Format profile : Constrained Baseline@L4.1<br>
+Format settings : 4 Ref Frames<br>
+Format settings, CABAC : No<br>
+Format settings, Reference : 4 frames<br>
+Codec ID : avc1<br>
+Codec ID/Info : Advanced Video Coding<br>
+Duration : 3 min 22 s<br>
+Bit rate mode : Constant<br>
+Bit rate : 10 000 kb/s<br>
+Width : 1 920 pixels<br>
+Height : 1 080 pixels<br>
+Display aspect ratio : 16:9<br>
+Frame rate mode : Constant<br>
+Frame rate : 29.970 (30000/1001) FPS<br>
+Standard : Component<br>
+Color space : YUV<br>
+Chroma subsampling : 4:2:0<br>
+Bit depth : 8 bits<br>
+Scan type : Progressive<br>
+Bits/(Pixel*Frame) : 0.161<br>
+Stream size : 240 MiB (97%)<br>
+Writing library : x264 core 125<br>
+Encoding settings : cabac=0 / ref=4 / deblock=1:0:0 / analyse=0x1:0x1 / me=dia / subme=1 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=6 / lookahead_threads=1 / sliced_threads=0 / slices=1 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=0 / keyint=300 / keyint_min=29 / scenecut=40 / intra_refresh=0 / rc_lookahead=0 / rc=cbr / mbtree=0 / bitrate=10000 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=10000 / vbv_bufsize=10000 / nal_hrd=cbr / ip_ratio=1.40 / aq=1:1.00<br>
+Color range : Limited<br>
+Color primaries : BT.709<br>
+Transfer characteristics : BT.709<br>
+Matrix coefficients : BT.709<br>
+Codec configuration box : avcC<br>
+<br>
+Audio<br>
+ID : 1<br>
+Format : AAC LC<br>
+Format/Info : Advanced Audio Codec Low Complexity<br>
+Codec ID : mp4a-40-2<br>
+Duration : 3 min 22 s<br>
+Bit rate mode : Variable<br>
+Bit rate : 317 kb/s<br>
+Maximum bit rate : 576 kb/s<br>
+Channel(s) : 2 channels<br>
+Channel layout : L R<br>
+Sampling rate : 48.0 kHz<br>
+Frame rate : 46.875 FPS (1024 SPF)<br>
+Compression mode : Lossy<br>
+Stream size : 7.65 MiB (3%)</div>
+</div><br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
-<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[Librious]]></author>
+                <author><![CDATA[Eric Lyn]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【MelOn】Orange Caramel - Shanghai Romance (MelOn 1080p)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/orange-caramel-shanghai-romance-melon-1080p.228747/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<img src="https://images2.imgbox.com/c9/10/JFv3IZ8d_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/c9/10/JFv3IZ8d_o.jpg" style=""> <br>
+<br>
+<span data-s9e-mediaembed="youtube" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:56.25%"><iframe allowfullscreen="" loading="lazy" scrolling="no" style="background:url(https://i.ytimg.com/vi/jxxoq7uqnbU/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%" src="https://www.youtube.com/embed/jxxoq7uqnbU"></iframe></span></span><br>
+<br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Media Info</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">Format : MPEG-4<br>
+Format profile : Base Media / Version 2<br>
+Codec ID : mp42 (mp42/mp41)<br>
+File size : 271 MiB<br>
+Duration : 3 min 48 s<br>
+Overall bit rate mode : Variable<br>
+Overall bit rate : 9 928 kb/s<br>
+Frame rate : 23.976 FPS<br>
+Encoded date : 2011-10-13 10:39:10 UTC<br>
+Tagged date : 2011-10-13 10:39:10 UTC<br>
+TIM : 00:00:00:00<br>
+<br>
+Video<br>
+ID : 1<br>
+Format : AVC<br>
+Format/Info : Advanced Video Codec<br>
+Format profile : High@L5.1<br>
+Format settings : CABAC / 3 Ref Frames<br>
+Format settings, CABAC : Yes<br>
+Format settings, Reference : 3 frames<br>
+Codec ID : avc1<br>
+Codec ID/Info : Advanced Video Coding<br>
+Duration : 3 min 48 s<br>
+Bit rate mode : Constant<br>
+Bit rate : 10 000 kb/s<br>
+Width : 1 920 pixels<br>
+Height : 1 080 pixels<br>
+Display aspect ratio : 16:9<br>
+Frame rate mode : Constant<br>
+Frame rate : 23.976 (23976/1000) FPS<br>
+Original frame rate : 23.976 (24000/1001) FPS<br>
+Standard : NTSC<br>
+Color space : YUV<br>
+Chroma subsampling : 4:2:0<br>
+Bit depth : 8 bits<br>
+Scan type : Progressive<br>
+Bits/(Pixel*Frame) : 0.201<br>
+Stream size : 267 MiB (99%)<br>
+Language : English<br>
+Encoded date : 2011-10-13 10:39:10 UTC<br>
+Tagged date : 2011-10-13 10:39:10 UTC<br>
+Color range : Limited<br>
+Color primaries : BT.709<br>
+Transfer characteristics : BT.709<br>
+Matrix coefficients : BT.709<br>
+Codec configuration box : avcC<br>
+<br>
+Audio<br>
+ID : 2<br>
+Format : AAC LC<br>
+Format/Info : Advanced Audio Codec Low Complexity<br>
+Codec ID : mp4a-40-2<br>
+Duration : 3 min 48 s<br>
+Source duration : 3 min 48 s<br>
+Bit rate mode : Variable<br>
+Bit rate : 125 kb/s<br>
+Maximum bit rate : 191 kb/s<br>
+Channel(s) : 2 channels<br>
+Channel layout : L R<br>
+Sampling rate : 48.0 kHz<br>
+Frame rate : 46.875 FPS (1024 SPF)<br>
+Compression mode : Lossy<br>
+Stream size : 3.42 MiB (1%)<br>
+Source stream size : 3.42 MiB (1%)<br>
+Language : English<br>
+Encoded date : 2011-10-13 10:39:10 UTC<br>
+Tagged date : 2011-10-13 10:39:10 UTC</div>
+</div><br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[Eric Lyn]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【MelOn】BIGBANG - LOSER (MelOn 1080p)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/bigbang-loser-melon-1080p.228745/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<img src="https://images2.imgbox.com/39/32/cHZ5kNN6_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/39/32/cHZ5kNN6_o.jpg" style=""><br>
+<br>
+<span data-s9e-mediaembed="youtube" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:56.25%"><iframe allowfullscreen="" loading="lazy" scrolling="no" style="background:url(https://i.ytimg.com/vi/1CTced9CMMk/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%" src="https://www.youtube.com/embed/1CTced9CMMk"></iframe></span></span><br>
+<br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Media Info</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">Format : MPEG-4<br>
+Format profile : Base Media / Version 2<br>
+Codec ID : mp42 (mp42/isom/avc1)<br>
+File size : 277 MiB<br>
+Duration : 3 min 46 s<br>
+Overall bit rate mode : Variable<br>
+Overall bit rate : 10.3 Mb/s<br>
+Frame rate : 23.976 FPS<br>
+Writing application : TMPGEnc Video Mastering Works 5 Version. 5.4.0.100<br>
+<br>
+Video<br>
+ID : 2<br>
+Format : AVC<br>
+Format/Info : Advanced Video Codec<br>
+Format profile : Constrained Baseline@L4.1<br>
+Format settings : 4 Ref Frames<br>
+Format settings, CABAC : No<br>
+Format settings, Reference : 4 frames<br>
+Codec ID : avc1<br>
+Codec ID/Info : Advanced Video Coding<br>
+Duration : 3 min 46 s<br>
+Bit rate mode : Constant<br>
+Bit rate : 10 000 kb/s<br>
+Width : 1 920 pixels<br>
+Height : 1 080 pixels<br>
+Display aspect ratio : 16:9<br>
+Frame rate mode : Constant<br>
+Frame rate : 23.976 (24000/1001) FPS<br>
+Standard : Component<br>
+Color space : YUV<br>
+Chroma subsampling : 4:2:0<br>
+Bit depth : 8 bits<br>
+Scan type : Progressive<br>
+Bits/(Pixel*Frame) : 0.201<br>
+Stream size : 269 MiB (97%)<br>
+Writing library : x264 core 125<br>
+Encoding settings : cabac=0 / ref=4 / deblock=1:0:0 / analyse=0x1:0x111 / me=dia / subme=2 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=6 / lookahead_threads=1 / sliced_threads=0 / slices=1 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=0 / keyint=300 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=10 / rc=cbr / mbtree=1 / bitrate=10000 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=10000 / vbv_bufsize=10000 / nal_hrd=cbr / ip_ratio=1.40 / aq=1:1.00<br>
+Color range : Limited<br>
+Color primaries : BT.709<br>
+Transfer characteristics : BT.709<br>
+Matrix coefficients : BT.709<br>
+Codec configuration box : avcC<br>
+<br>
+Audio<br>
+ID : 1<br>
+Format : AAC LC<br>
+Format/Info : Advanced Audio Codec Low Complexity<br>
+Codec ID : mp4a-40-2<br>
+Duration : 3 min 46 s<br>
+Bit rate mode : Variable<br>
+Bit rate : 317 kb/s<br>
+Maximum bit rate : 576 kb/s<br>
+Channel(s) : 2 channels<br>
+Channel layout : L R<br>
+Sampling rate : 48.0 kHz<br>
+Frame rate : 46.875 FPS (1024 SPF)<br>
+Compression mode : Lossy<br>
+Stream size : 8.58 MiB (3%)</div>
+</div><br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[Eric Lyn]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【MelOn】Rainbow - A (MelOn 720p)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/rainbow-a-melon-720p.228748/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<img src="https://images2.imgbox.com/5b/0f/g0wQvNhd_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/5b/0f/g0wQvNhd_o.jpg" style=""> <br>
+<br>
+<span data-s9e-mediaembed="youtube" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:56.25%"><iframe allowfullscreen="" loading="lazy" scrolling="no" style="background:url(https://i.ytimg.com/vi/QnAhnxmSNFw/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%" src="https://www.youtube.com/embed/QnAhnxmSNFw"></iframe></span></span><br>
+<br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Media Info</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">Format : MPEG-4<br>
+Format profile : Base Media / Version 2<br>
+Codec ID : mp42 (isom/mp41/avc1)<br>
+File size : 202 MiB<br>
+Duration : 3 min 26 s<br>
+Overall bit rate mode : Variable<br>
+Overall bit rate : 8 177 kb/s<br>
+Frame rate : 29.970 FPS<br>
+Encoded date : 2010-08-12 02:21:54 UTC<br>
+Tagged date : 2010-08-12 02:21:54 UTC<br>
+Writing library : Apple QuickTime<br>
+<br>
+Video<br>
+ID : 1<br>
+Format : AVC<br>
+Format/Info : Advanced Video Codec<br>
+Format profile : Main@L3.1<br>
+Format settings : 6 Ref Frames<br>
+Format settings, CABAC : No<br>
+Format settings, Reference : 6 frames<br>
+Codec ID : avc1<br>
+Codec ID/Info : Advanced Video Coding<br>
+Duration : 3 min 26 s<br>
+Source duration : 3 min 26 s<br>
+Bit rate mode : Variable<br>
+Bit rate : 7 652 kb/s<br>
+Maximum bit rate : 8 001 kb/s<br>
+Width : 1 280 pixels<br>
+Height : 720 pixels<br>
+Display aspect ratio : 16:9<br>
+Frame rate mode : Constant<br>
+Frame rate : 29.970 (29970/1000) FPS<br>
+Standard : Component<br>
+Color space : YUV<br>
+Chroma subsampling : 4:2:0<br>
+Bit depth : 8 bits<br>
+Scan type : Progressive<br>
+Bits/(Pixel*Frame) : 0.277<br>
+Stream size : 189 MiB (94%)<br>
+Source stream size : 197 MiB (98%)<br>
+Language : English<br>
+Encoded date : 2010-08-12 02:21:54 UTC<br>
+Tagged date : 2010-08-12 02:21:54 UTC<br>
+Color range : Limited<br>
+mdhd_Duration : 206973<br>
+Codec configuration box : avcC<br>
+<br>
+Audio<br>
+ID : 2<br>
+Format : AAC LC<br>
+Format/Info : Advanced Audio Codec Low Complexity<br>
+Codec ID : mp4a-40-2<br>
+Duration : 3 min 26 s<br>
+Bit rate mode : Variable<br>
+Bit rate : 192 kb/s<br>
+Maximum bit rate : 200 kb/s<br>
+Channel(s) : 2 channels<br>
+Channel layout : L R<br>
+Sampling rate : 48.0 kHz<br>
+Frame rate : 46.875 FPS (1024 SPF)<br>
+Compression mode : Lossy<br>
+Stream size : 4.73 MiB (2%)<br>
+Language : English<br>
+Encoded date : 2010-08-12 02:21:54 UTC<br>
+Tagged date : 2010-08-12 02:21:54 UTC<br>
+<br>
+Other #1<br>
+ID : 3<br>
+Type : Object description<br>
+Format : System Core<br>
+Codec ID : mp4s-02<br>
+Duration : 3 min 26 s<br>
+Language : English<br>
+Encoded date : 2010-08-12 02:21:54 UTC<br>
+Tagged date : 2010-08-12 02:21:54 UTC<br>
+mdhd_Duration : 1000<br>
+<br>
+Other #2<br>
+ID : 4<br>
+Type : Scene description<br>
+Format : System Core<br>
+Codec ID : mp4s-02<br>
+Duration : 3 min 26 s<br>
+Language : English<br>
+Encoded date : 2010-08-12 02:21:54 UTC<br>
+Tagged date : 2010-08-12 02:21:54 UTC<br>
+mdhd_Duration : 1000</div>
+</div><br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[Eric Lyn]]></author>
                 </item>
 
                 </channel></rss>
