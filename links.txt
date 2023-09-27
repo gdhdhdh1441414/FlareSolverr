@@ -1,3 +1,5 @@
+threads/itzy-ringo-2023-e-ac3-joc-16bits-48khz-5-1-768kbits.229273/
+threads/itzy-ringo-2023-amzn-music-24bit-48khz.229272/
 threads/xg-new-dna-2023-16b-44-1khz-qobuz.229271/
 threads/olivia-rodrigo-vampire-live-in-japan.229270/
 threads/ive-either-way-4k-ai-upscale-x265-10bit-dolby-digital-5-1.229269/
@@ -20,5 +22,3 @@ threads/inez-salina-prores-2021.229253/
 threads/pj-harvey-2023-i-inside-the-old-year-dying-24bit-96000hz.229252/
 threads/arash-asemoon.229251/
 threads/christina-aguilera-stripped-in-nyc-2002-mtv-special.229250/
-threads/electric-guest-%E2%80%94-live-on-kcrw-ep-2019.229249/
-threads/foster-the-people-%E2%80%94-spotify-sessions-live-from-the-village-2014.229248/
