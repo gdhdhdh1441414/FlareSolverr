@@ -8,11 +8,11 @@
 
  
                 <item>
-                <title><![CDATA[【Apple Music】WEB-RiP - Daddy Yankee - Gasolina (APPLE-1080p-AAC)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/daddy-yankee-gasolina-apple-1080p-aac.230034/]]></link>
+                <title><![CDATA[【TIDAL】WEB-RiP - Daddy Yankee - Somos de Calle (Remix) | Tidal 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/daddy-yankee-somos-de-calle-remix-tidal-1080p.230035/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://i.ibb.co/mHS11mN/Gasolina-m4v-thumbs-2023-10-08-22-51-51.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/mHS11mN/Gasolina-m4v-thumbs-2023-10-08-22-51-51.jpg" style=""> <br>
+<img src="https://i.ibb.co/rkV9rZT/Daddy-Yankee-Somos-de-Calle-Remix-Explicit-mp4-thumbs-2023-10-08-23-36-28.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/rkV9rZT/Daddy-Yankee-Somos-de-Calle-Remix-Explicit-mp4-thumbs-2023-10-08-23-36-28.jpg" style=""> <br>
 <br>
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
 <button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Mediainfo</span></span></button>
@@ -20,79 +20,55 @@
 <div class="bbCodeBlock bbCodeCode">
 <div class="type">Code:</div>
 <pre>General
-Complete name                  : E:\Users\PC-Center\Downloads\Gasolina.m4v
-Format                         : MPEG-4
-Codec ID                       : M4V  (isom/iso4/M4V /mp42)
-File size                      : 208 MiB
-Duration                       : 4 min 13 s
+ID                             : 16727 (0x4157)
+Complete name                  : E:\Users\PC-Center\Downloads\Daddy Yankee - Somos de Calle (Remix)(Explicit).mp4
+Format                         : MPEG-TS
+File size                      : 274 MiB
+Duration                       : 6 min 30 s
 Overall bit rate mode          : Variable
-Overall bit rate               : 6 884 kb/s
-Movie name                     : Gasolina
-Performer                      : Daddy Yankee
-Genre                          : Latin
-ContentType                    : Music Video
-Recorded date                  : UTC 2017-11-17 08:00:00
-Encoded date                   : UTC 2023-09-23 22:39:15
-Tagged date                    : UTC 2023-09-23 22:39:15
-Copyright                      : ℗ 2017 Gasolina Recording Co.
-Cover                          : Yes
-Rating                         : Explicit
-GenreID                        : 1612
-AppleStoreCountry              : United States
-AlbumTitleID                   : 25514958
-AppleStoreCatalogID            : 1588029356
+Overall bit rate               : 5 875 kb/s
+FileExtension_Invalid          : ts m2t m2s m4t m4s tmf ts tp trp ty
 
 Video
-ID                             : 2
+ID                             : 33 (0x21)
+Menu ID                        : 16727 (0x4157)
 Format                         : AVC
 Format/Info                    : Advanced Video Codec
 Format profile                 : High@L4
 Format settings, CABAC         : Yes
-Format settings, RefFrames     : 5 frames
-Codec ID                       : avc1
-Codec ID/Info                  : Advanced Video Coding
-Duration                       : 4 min 13 s
-Duration_LastFrame             : -41 ms
-Bit rate                       : 6 597 kb/s
-Maximum bit rate               : 9 208 kb/s
-Width                          : 1 440 pixels
-Height                         : 1 072 pixels
-Display aspect ratio           : 4:3
-Frame rate mode                : Constant
-Frame rate                     : 23.976 (23976/1000) FPS
+Format settings, RefFrames     : 4 frames
+Codec ID                       : 27
+Duration                       : 6 min 30 s
+Maximum bit rate               : 5 390 kb/s
+Width                          : 1 920 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Variable
 Color space                    : YUV
 Chroma subsampling             : 4:2:0
 Bit depth                      : 8 bits
 Scan type                      : Progressive
-Bits/(Pixel*Frame)             : 0.178
-Stream size                    : 200 MiB (96%)
-Title                          : Core Media Video
-Encoded date                   : UTC 2021-09-29 06:51:12
-Tagged date                    : UTC 2023-09-23 22:39:15
-Color range                    : Limited
-Color primaries                : BT.709
-Transfer characteristics       : BT.709
-Matrix coefficients            : BT.709
+Writing library                : x264 core 164
+Encoding settings              : cabac=1 / ref=4 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=8 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=24 / lookahead_threads=4 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=72 / keyint_min=37 / scenecut=0 / intra_refresh=0 / rc_lookahead=50 / rc=crf / mbtree=1 / crf=22.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=5500 / vbv_bufsize=11000 / crf_max=0.0 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
 
 Audio
-ID                             : 1
+ID                             : 34 (0x22)
+Menu ID                        : 16727 (0x4157)
 Format                         : AAC
 Format/Info                    : Advanced Audio Codec
+Format version                 : Version 4
 Format profile                 : LC
-Codec ID                       : 40
-Duration                       : 4 min 13 s
+Muxing mode                    : ADTS
+Codec ID                       : 15
+Duration                       : 6 min 30 s
 Bit rate mode                  : Variable
-Bit rate                       : 273 kb/s
-Maximum bit rate               : 396 kb/s
+Maximum bit rate               : 320 kb/s
 Channel(s)                     : 2 channels
 Channel positions              : Front: L R
 Sampling rate                  : 48.0 kHz
 Frame rate                     : 46.875 FPS (1024 SPF)
 Compression mode               : Lossy
-Stream size                    : 8.27 MiB (4%)
-Title                          : Core Media Audio
-Encoded date                   : UTC 2021-09-29 06:48:55
-Tagged date                    : UTC 2023-09-23 22:39:15</pre>
+Delay relative to video        : -43 ms</pre>
 </div></div>
 </div><br>
 Drive
@@ -104,19 +80,6 @@ Drive
 </blockquote>
 </article>]]></description>
                 <author><![CDATA[mateospain]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Sugababes - One Touch [20th Anniversary] AMAZON UK EXCLUSIVE DISC]]></title>
-                <link><![CDATA[https://sharemania.us/threads/sugababes-one-touch-20th-anniversary-amazon-uk-exclusive-disc.230033/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-Thanks for sharing this music video.
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[___wallpaper]]></author>
                 </item>
 
                 </channel></rss>
