@@ -5,7 +5,6 @@ threads/thalia-mtv-my-playlist-2023-fan-made.230098/
 threads/ado-show-e-ac3-joc-16bits-48khz-5-1-768kbits.230097/
 threads/graves-by-black-polish.230096/
 threads/lauv-all-4-nothing-5-1-e-ac3-joc-16bits-48khz-768kbits.230095/
-threads/req-vid-dua-lipa-physical-workout-prores.230094/
 threads/taeyeon-%C2%ABinvu%C2%BB-4k-ai-upscale-hevc-10-bit.230093/
 threads/girls-generation-%C2%AByou-think%C2%BB-4k-ai-upscale-hevc-10-bit.230092/
 threads/girls-generation-%C2%ABlion-heart%C2%BB-4k-ai-upscale-hevc-10-bit.230091/
@@ -22,3 +21,4 @@ threads/laura-pausini-jamas-abandone-master-mpg-576i-pal-upscaled-ia-1080p.23008
 threads/laura-pausini-en-cambio-no-master-mpg-576i-pal-upscaled-ia-1080p.230080/
 threads/olivia-rodrigo-drivers-license-lpcm24-master-prores-1080p.230079/
 threads/laura-pausini-ella-no-soy-master-mpg-576i-pal-upscaled-ia-1080p.230078/
+threads/kylie-minogue-tension-deluxe-tidal-24-bits-44-1-khz.230077/
