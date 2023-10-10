@@ -1,3 +1,4 @@
+threads/daft-punk-around-the-world-club-mtv.230101/
 threads/nicki-minaj-queen-deluxe-e-flac-24-48.230100/
 threads/mariah-carey-the-rarities-m4a-itunes.230099/
 threads/thalia-mtv-my-playlist-2023-fan-made.230098/
@@ -21,4 +22,3 @@ threads/laura-pausini-jamas-abandone-master-mpg-576i-pal-upscaled-ia-1080p.23008
 threads/laura-pausini-en-cambio-no-master-mpg-576i-pal-upscaled-ia-1080p.230080/
 threads/olivia-rodrigo-drivers-license-lpcm24-master-prores-1080p.230079/
 threads/laura-pausini-ella-no-soy-master-mpg-576i-pal-upscaled-ia-1080p.230078/
-threads/kylie-minogue-tension-deluxe-tidal-24-bits-44-1-khz.230077/
