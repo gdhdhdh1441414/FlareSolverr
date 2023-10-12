@@ -1,3 +1,7 @@
+threads/los-enanitos-verdes-amores-lejanos-deezer-hi-res-audio-flac.230231/
+threads/blink-182-fell-in-love-ep-qobuz-cd-16bit-44-1khz.230230/
+threads/jennifer-lopez-marry-me-original-motion-picture-soundtrack-e-ac3-joc-16bits-48khz-dolby-atmos.230229/
+threads/bring-me-the-horizon-darkside-tidal-hires-mqa-16bit-48khz.230228/
 threads/bring-me-the-horizon-darkside-apple-lac-16bit-48khz-1-536-kb-s-apple-music-quality.230227/
 threads/dc-the-don-funeral-deluxe-flac-44-1-24.230226/
 threads/allie-x-black-eye.230225/
@@ -18,7 +22,3 @@ threads/trivium-the-sin-and-the-sentence-e-e-ac3-joc-16bits-48khz-5-1-768kbits.2
 threads/trivium-the-crusade-e-e-ac3-joc-16bits-48khz-5-1-768kbits.230210/
 threads/trivium-in-waves-e-ac3-joc-16bits-48khz-5-1-768kbits.230209/
 threads/trivium-ascendancy-e-e-ac3-joc-16bits-48khz-5-1-768kbits.230208/
-threads/trivium-vengeance-falls-2023-remaster-e-ac3-joc-16bits-48khz-5-1-768kbits.230207/
-threads/10-albums-singles-qobuz-flac.230206/
-threads/trivium-shogun-e-e-ac3-joc-16bits-48khz-5-1-768kbits.230205/
-threads/trivium-what-the-dead-men-say-e-e-ac3-joc-16bits-48khz-5-1-768kbits.230204/
