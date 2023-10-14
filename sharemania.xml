@@ -8,28 +8,43 @@
 
  
                 <item>
-                <title><![CDATA[【Requests】[REQ VID] - The Tyra Banks Show Season 2 Episode 68]]></title>
-                <link><![CDATA[https://sharemania.us/threads/the-tyra-banks-show-season-2-episode-68.230359/]]></link>
+                <title><![CDATA[【Singles (lossless)】FLAC - Nicki Minaj - Bahm Bahm [Direct Website Rip]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/nicki-minaj-bahm-bahm-direct-website-rip.230362/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-If someone can find this I'd be so thankful. Cassie is the musical guest performing "Long Way 2 Go" and that's what I'd like to see from it. Thank you!
+<div style="text-align: center"><span style="font-size: 10px"><img src="https://i.imgur.com/KRtqjYU.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/KRtqjYU.jpg" style=""> </span><br>
+<b><i><span style="font-family: 'Arial'"><span style="font-size: 22px">Nicki Minaj - Bahm Bahm</span></span></i></b>​</div><br>
+This took me two hours to rip.<br>
+<br>
+Nicki's website put out an exclusive stream of her song "Bahm Bahm" from her upcoming album <i>Pink Friday 2</i>. The song was hosted by Ustudio, and quite had some protection. Through yt-dlp's referring tool and ffmpeg's codec correcting tool, here's the direct rip.<br>
+<br>
+While poking around, I found that the original file name for the file that was put up for stream was "Bahm Bahm_9.8-(multi mix).mp3". So this is technically lossy, but was converted to FLAC to prevent more quality degradation.<br>
+<br>
+Here's the generation for transparency: MP3 &gt; WEB &gt; MP4 [mismatched MPEG-TS/AAC stream] &gt; MP4 [corrected audio stream] &gt; AAC &gt; WAV &gt; FLAC. This AAC &gt; WAV option produced far more quality than my MP4 [corrected audio stream] &gt; FLAC situation.<br>
+<br>
+This is an upgrade of previously uploaded YouTube videos where the audio was blown out.<br>
+<br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[ElectroLove]]></author>
+                <author><![CDATA[infurtile]]></author>
                 </item>
 
                 
                 <item>
-                <title><![CDATA[【Requests】[REQ VID] - STAYC teddy bears (Korean version)  (BUGS!)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/stayc-teddy-bears-korean-version-bugs.230360/]]></link>
+                <title><![CDATA[【Albums (lossless)】PACK - Taylor Swift - 1989 (D.L.X. Jp) [CD + DVD]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/taylor-swift-1989-d-l-x-jp-cd-dvd.230361/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-Hello, can someone upload STAYC teddy bears (Korean version) (BUGS!) Thank you!
+thanks
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[renwoxing]]></author>
+                <author><![CDATA[huypvz]]></author>
                 </item>
 
                 </channel></rss>
