@@ -8,23 +8,23 @@
 
  
                 <item>
-                <title><![CDATA[【HD Live Performances】HDTV - Laura Pausini - AVO Session Basel, Switzerland (2011) [720p mkv]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/laura-pausini-avo-session-basel-switzerland-2011-720p-mkv.230412/]]></link>
+                <title><![CDATA[【HD Live Performances】HDTV - Laura Pausini - Viña del mar (2014) [720p mkv]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/laura-pausini-vi%C3%B1a-del-mar-2014-720p-mkv.230413/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center"><img src="https://i0.wp.com/www.robertagrana.com/wp-content/uploads/2017/04/pausini-avo-session.jpg?resize=1170%2C500" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i0.wp.com/www.robertagrana.com/wp-content/uploads/2017/04/pausini-avo-session.jpg?resize=1170%2C500" style=""> ​</div>
+<div style="text-align: center"><img src="https://www.marcomonforte.com/wp-content/uploads/2018/10/lp-vina-del-mar.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://www.marcomonforte.com/wp-content/uploads/2018/10/lp-vina-del-mar.jpeg" style=""> ​</div>
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
 <button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MEDIA INFO</span></span></button>
-<div class="SpoilerTarget bbCodeSpoilerText">Name : AVO Session (2011).mkv<br>
+<div class="SpoilerTarget bbCodeSpoilerText">Name : Viña Del Mar (2014).mkv<br>
 Format : Matroska<br>
-Format version : Version 2<br>
-File size : 5.41 GiB<br>
-Duration : 1 h 11 min<br>
+Format version : Version 4<br>
+File size : 6.04 GiB<br>
+Duration : 1 h 45 min<br>
 Overall bit rate mode : Variable<br>
-Overall bit rate : 10.9 Mb/s<br>
-Encoded date : UTC 2012-07-30 17:27:35<br>
-Writing application : mkvmerge v5.5.0 ('Healer') built on Apr 6 2012 21:43:24<br>
-Writing library : libebml v1.2.3 + libmatroska v1.3.0<br>
+Overall bit rate : 8 208 kb/s<br>
+Encoded date : UTC 2014-02-25 03:12:38<br>
+Writing application : mkvmerge v6.3.0 ('You can't stop me!') built on Jun 28 2013 20:09:41<br>
+Writing library : libebml v1.3.0 + libmatroska v1.4.0<br>
 <br>
 Video<br>
 ID : 1<br>
@@ -33,89 +33,67 @@ Format/Info : Advanced Video Codec<br>
 Format profile : High<br>
 Format level : 4<br>
 Format settings, CABAC : Yes<br>
-Format settings, Referenc : 3 frames<br>
-Format settings, GOP : M=2, N=24<br>
+Format settings, Referenc : 2 frames<br>
+Format settings, GOP : M=3, N=30<br>
 Codec ID : V_MPEG4/ISO/AVC<br>
-Duration : 1 h 11 min<br>
+Duration : 1 h 45 min<br>
 Bit rate mode : Variable<br>
-Bit rate : 9 979 kb/s<br>
-Maximum bit rate : 40.0 Mb/s<br>
+Bit rate : 7 853 kb/s<br>
+Maximum bit rate : 16.2 Mb/s<br>
 Width : 1 280 pixels<br>
 Height : 720 pixels<br>
 Display aspect ratio : 16:9<br>
 Frame rate mode : Constant<br>
-Frame rate : 50.000 FPS<br>
-Standard : Component<br>
+Frame rate : 59.940 FPS<br>
 Color space : YUV<br>
 Chroma subsampling : 4:2:0<br>
 Bit depth : 8 bits<br>
 Scan type : Progressive<br>
-Bits/(Pixel*Frame) : 0.217<br>
-Stream size : 4.96 GiB (92%)<br>
-Language : English<br>
+Bits/(Pixel*Frame) : 0.142<br>
+Stream size : 5.78 GiB (96%)<br>
 Default : Yes<br>
 Forced : No<br>
-Color range : Limited<br>
-Color primaries : BT.709<br>
-Transfer characteristics : BT.709<br>
-Matrix coefficients : BT.709<br>
 <br>
-Audio #1<br>
+Audio<br>
 ID : 2<br>
 Format : AC-3<br>
 Format/Info : Audio Coding 3<br>
 Commercial name : Dolby Digital<br>
 Format settings : Big<br>
 Codec ID : A_AC3<br>
-Duration : 1 h 11 min<br>
+Duration : 1 h 45 min<br>
 Bit rate mode : Constant<br>
-Bit rate : 448 kb/s<br>
-Channel(s) : 6 channels<br>
-Channel layout : L R C LFE Ls Rs<br>
+Bit rate : 192 kb/s<br>
+Channel(s) : 2 channels<br>
+Channel layout : L R<br>
 Sampling rate : 48.0 kHz<br>
 Frame rate : 31.250 FPS (1536 SPF)<br>
 Compression mode : Lossy<br>
-Stream size : 228 MiB (4%)<br>
-Title : AC3 6ch<br>
-Language : English<br>
+Delay relative to video : 200 ms<br>
+Stream size : 145 MiB (2%)<br>
+Language : Spanish<br>
 Default : Yes<br>
-Forced : No<br>
-<br>
-Audio #2<br>
-ID : 3<br>
-Format : MPEG Audio<br>
-Format version : Version 1<br>
-Format profile : Layer 2<br>
-Codec ID : A_MPEG/L2<br>
-Duration : 1 h 11 min<br>
-Bit rate mode : Constant<br>
-Bit rate : 256 kb/s<br>
-Channel(s) : 2 channels<br>
-Sampling rate : 48.0 kHz<br>
-Compression mode : Lossy<br>
-Stream size : 130 MiB (2%)<br>
-Title : MP2 2ch<br>
-Language : English<br>
-Default : No<br>
 Forced : No<br>
 </div>
 </div><b><br>
 Setlist:</b><br>
-01 Benvenuto<br>
-02 Io Canto<br>
-03 Non C'è<br>
-04 Bastaba<br>
-05 Un'Emergenza d'Amore<br>
-06 Nel Primo Sguardo<br>
-07 E Ritorno da Te<br>
-08 Incancellabile / Strani Amori / La Solitudine<br>
-09 Primavera in Anticipo (It Is My Song)<br>
-10 Come Se Non Fosse Stato mai Amore<br>
-11 Le Cose Che Non mi Aspetto<br>
-12 Vivimi<br>
-13 Tra te e il Mare<br>
-14 Invece No<br>
-15 Non ho mai Smesso<br>
+01 Limpio<br>
+02 Entre tu y mil mares<br>
+03 Bienvenido<br>
+04 Primavera anticipada (It Is My Song)<br>
+05 En cambio no<br>
+06 Volvere junto a ti<br>
+07 Viveme<br>
+08 Quiero decirte que te amo<br>
+09 Las cosas que vives<br>
+10 Escucha atento<br>
+11 Emergencia de amor<br>
+12 Como si no nos hubieramos amado<br>
+13 Gente<br>
+14 Inolvidable<br>
+15 Amores extraños<br>
+16 Se fue<br>
+17 La soledad<br>
 <br>
 <div style="text-align: center">
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
