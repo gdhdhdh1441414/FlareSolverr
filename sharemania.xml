@@ -8,92 +8,101 @@
 
  
                 <item>
-                <title><![CDATA[【PRORES HD】NK - Peligroso |ProRes 1080|]]></title>
-                <link><![CDATA[https://sharemania.us/threads/nk-peligroso-prores-1080.230506/]]></link>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Leigh-Anne - Radio 1s Live Lounge BBC WEB-RIP.1080p-fstambuk]]></title>
+                <link><![CDATA[https://sharemania.us/threads/leigh-anne-radio-1s-live-lounge-bbc-web-rip-1080p-fstambuk.230509/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center"><img src="https://i.imgur.com/pL0gief.gif" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/pL0gief.gif" style=""><br>
+<div style="text-align: center"><img src="https://i.imgur.com/QwQb6wo.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/QwQb6wo.png" style=""><br>
+<img src="https://i.imgur.com/e7UeGTq.gif" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/e7UeGTq.gif" style=""><br>
+<span style="font-family: 'Trebuchet MS'">Leigh-Anne performs her second single 'My Love' and an incredible cover of Doja Cat's 'Paint The Town Red' in her debut solo Radio 1 Live Lounge. </span><br>
 ​</div>
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">ProRes</span></span></button>
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Radio 1s Live Lounge</span></span></button>
 <div class="SpoilerTarget bbCodeSpoilerText">
 <div class="bbCodeBlock bbCodeCode">
 <div class="type">Code:</div>
 <pre>Format                                   : MPEG-4
-Format profile                           : QuickTime
-Codec ID                                 : qt   2005.03 (qt  )
-File size                                : 4.10 GiB
-Duration                                 : 3 min 11 s
+Format profile                           : Base Media
+Codec ID                                 : isom (isom/iso2/avc1/mp41)
+File size                                : 344 MiB
+Duration                                 : 5 min 17 s
 Overall bit rate mode                    : Variable
-Overall bit rate                         : 184 Mb/s
-Encoded date                             : UTC 2018-11-06 09:20:08
-Tagged date                              : UTC 2018-11-06 09:23:14
-Writing library                          : Apple QuickTime
-TIM                                      : 00:00:00:00
-TSC                                      : 25
-TSZ                                      : 1
+Overall bit rate                         : 9 081 kb/s
+Collection                               : Radio 1's Live Lounge
+Album                                    : Radio 1's Live Lounge
+Album/Performer                          : BBC TV
+Track name                               : Leigh-Anne
+Grouping                                 : Performances &amp; Events,Music
+Performer                                : BBC Radio 1
+Composer                                 : BBC iPlayer
+Genre                                    : Performances &amp; Events
+ContentType                              : TV Show
+Description                              : Leigh-Anne performs solo for first time in the Radio 1 Live Lounge.
+Recorded date                            : UTC 2023-10-16 21:39:14
+Tagged date                              : UTC 2023-10-16 21:39:14
+Copyright                                : 2023 British Broadcasting Corporation, all rights reserved
+Cover                                    : Yes
+Lyrics                                   : Leigh-Anne performs her second single 'My Love' and an incredible cover of Doja Cat's 'Paint The Town Red' in her debut solo Radio 1 Live Lounge. /  / PLAY: https://www.bbc.co.uk/iplayer/episode/p0gd95ft /  / INFO: https://www.bbc.co.uk/programmes/p0gd95ft
+Comment                                  : Leigh-Anne performs solo for first time in the Radio 1 Live Lounge.
+Part_ID                                  : p0gd95ft
+TVNetworkName                            : BBC Radio 1
+LongDescription                          : Leigh-Anne performs her second single 'My Love' and an incredible cover of Doja Cat's 'Paint The Town Red' in her debut solo Radio 1 Live Lounge. /  / PLAY: https://www.bbc.co.uk/iplayer/episode/p0gd95ft /  / INFO: https://www.bbc.co.uk/programmes/p0gd95ft
 
 Video
 ID                                       : 1
-Format                                   : ProRes
-Format version                           : Version 0
-Format profile                           : 422 HQ
-Codec ID                                 : apch
-Duration                                 : 3 min 11 s
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.2
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 5 min 17 s
 Bit rate mode                            : Variable
-Bit rate                                 : 182 Mb/s
+Bit rate                                 : 8 937 kb/s
+Maximum bit rate                         : 12.0 Mb/s
 Width                                    : 1 920 pixels
 Height                                   : 1 080 pixels
 Display aspect ratio                     : 16:9
 Frame rate mode                          : Constant
-Frame rate                               : 25.000 FPS
+Frame rate                               : 50.000 FPS
 Color space                              : YUV
-Chroma subsampling                       : 4:2:2
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
 Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 3.519
-Stream size                              : 4.07 GiB (99%)
-Writing library                          : Apple
-Language                                 : English
-Encoded date                             : UTC 2018-11-06 09:20:08
-Tagged date                              : UTC 2018-11-06 09:20:08
+Bits/(Pixel*Frame)                       : 0.086
+Stream size                              : 338 MiB (98%)
+Color range                              : Limited
 Color primaries                          : BT.709
 Transfer characteristics                 : BT.709
 Matrix coefficients                      : BT.709
+Codec configuration box                  : avcC
 
 Audio
 ID                                       : 2
-Format                                   : PCM
-Format settings                          : Little / Signed
-Codec ID                                 : sowt
-Duration                                 : 3 min 11 s
-Bit rate mode                            : Constant
-Bit rate                                 : 1 536 kb/s
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : mp4a-40-2
+Duration                                 : 5 min 17 s
+Bit rate mode                            : Variable
+Bit rate                                 : 128 kb/s
+Maximum bit rate                         : 132 kb/s / 132 kb/s
 Channel(s)                               : 2 channels
 Channel layout                           : L R
 Sampling rate                            : 48.0 kHz
-Bit depth                                : 16 bits
-Stream size                              : 35.1 MiB (1%)
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 4.85 MiB (1%)
 Language                                 : English
-Encoded date                             : UTC 2018-11-06 09:20:08
-Tagged date                              : UTC 2018-11-06 09:20:08
-
-Other
-ID                                       : 3
-Type                                     : Time code
-Format                                   : QuickTime TC
-Duration                                 : 3 min 11 s
-Frame rate                               : 25.000 FPS
-Time code of first frame                 : 00:00:00:00
-Time code, striped                       : Yes
-Language                                 : English
-Encoded date                             : UTC 2018-11-06 09:20:08
-Tagged date                              : UTC 2018-11-06 09:20:08</pre>
+Default                                  : Yes
+Alternate group                          : 1</pre>
 </div><div style="text-align: center">​</div></div>
-</div><div style="text-align: center"><br>
+</div><div style="text-align: center">
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
 <blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div>
+</div><img src="https://ichef.bbci.co.uk/images/ic/640x360/p0gkl805.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://ichef.bbci.co.uk/images/ic/640x360/p0gkl805.jpg" style="">​</div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
@@ -102,24 +111,299 @@ Tagged date                              : UTC 2018-11-06 09:20:08</pre>
 
                 
                 <item>
-                <title><![CDATA[【Singles (lossless)】WAV - Slayyyter - Monster (Spotify Singles) + Instrumental]]></title>
-                <link><![CDATA[https://sharemania.us/threads/slayyyter-monster-spotify-singles-instrumental.230507/]]></link>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Declan McKenna - Radio 1s Live Lounge BBC WEB-RIP.1080p-fstambuk]]></title>
+                <link><![CDATA[https://sharemania.us/threads/declan-mckenna-radio-1s-live-lounge-bbc-web-rip-1080p-fstambuk.230508/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://i.scdn.co/image/ab67616d0000b2738183f13f9f08d34bf3b2b1b1" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.scdn.co/image/ab67616d0000b2738183f13f9f08d34bf3b2b1b1" style=""> <br>
-<br>
+<div style="text-align: center"><img src="https://i.imgur.com/QwQb6wo.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/QwQb6wo.png" style=""><br>
+<img src="https://i.imgur.com/kKaP7Hl.gif" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/kKaP7Hl.gif" style=""><br>
+<span style="font-family: 'Trebuchet MS'">Declan McKenna performs his single 'Nothing Works' and an insane mashup of Peggy Gou's '(It Goes Like) Nanana' &amp; 'So Much In Love' by D.O.D. in the Radio 1 Live Lounge. </span><br>
+​</div>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Radio 1s Live Lounge</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom (isom/iso2/avc1/mp41)
+File size                                : 633 MiB
+Duration                                 : 8 min 45 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 10.1 Mb/s
+Collection                               : Radio 1's Live Lounge
+Album                                    : Radio 1's Live Lounge
+Album/Performer                          : BBC TV
+Track name                               : Declan McKenna
+Grouping                                 : Performances &amp; Events,Music
+Performer                                : BBC Radio 1
+Composer                                 : BBC iPlayer
+Genre                                    : Performances &amp; Events
+ContentType                              : TV Show
+Description                              : Declan McKenna performs in the Radio 1 Live Lounge.
+Recorded date                            : UTC 2023-10-16 21:33:55
+Tagged date                              : UTC 2023-10-16 21:33:55
+Copyright                                : 2023 British Broadcasting Corporation, all rights reserved
+Cover                                    : Yes
+Lyrics                                   : Declan McKenna performs his single 'Nothing Works' and an insane mashup of Peggy Gou's '(It Goes Like) Nanana' &amp; 'So Much In Love' by D.O.D. in the Radio 1 Live Lounge. /  / PLAY: https://www.bbc.co.uk/iplayer/episode/p0gd94rl /  / INFO: https://www.bbc.co.uk/programmes/p0gd94rl
+Comment                                  : Declan McKenna performs in the Radio 1 Live Lounge.
+Part_ID                                  : p0gd94rl
+TVNetworkName                            : BBC Radio 1
+LongDescription                          : Declan McKenna performs his single 'Nothing Works' and an insane mashup of Peggy Gou's '(It Goes Like) Nanana' &amp; 'So Much In Love' by D.O.D. in the Radio 1 Live Lounge. /  / PLAY: https://www.bbc.co.uk/iplayer/episode/p0gd94rl /  / INFO: https://www.bbc.co.uk/programmes/p0gd94rl
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.2
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 8 min 45 s
+Bit rate mode                            : Variable
+Bit rate                                 : 9 950 kb/s
+Maximum bit rate                         : 12.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.096
+Stream size                              : 624 MiB (99%)
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+Codec configuration box                  : avcC
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : mp4a-40-2
+Duration                                 : 8 min 45 s
+Bit rate mode                            : Variable
+Bit rate                                 : 128 kb/s
+Maximum bit rate                         : 132 kb/s / 132 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 8.02 MiB (1%)
+Language                                 : English
+Default                                  : Yes
+Alternate group                          : 1</pre>
+</div><div style="text-align: center">​</div></div>
+</div><div style="text-align: center">
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
 <blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div> Official Instrumental <br>
+</div><img src="https://ichef.bbci.co.uk/images/ic/1200x675/p0gkcbzd.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://ichef.bbci.co.uk/images/ic/1200x675/p0gkcbzd.jpg" style="">​</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[fstambuk]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Lauv - Radio 1s Live Lounge BBC WEB-RIP.1080p-fstambuk]]></title>
+                <link><![CDATA[https://sharemania.us/threads/lauv-radio-1s-live-lounge-bbc-web-rip-1080p-fstambuk.230510/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<div style="text-align: center"><img src="https://i.imgur.com/QwQb6wo.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/QwQb6wo.png" style=""><br>
+<img src="https://i.imgur.com/7LkiEjW.gif" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/7LkiEjW.gif" style=""><br>
+<span style="font-family: 'Trebuchet MS'">Lauv performs his new single 'Love U Like That' as well as a stunning cover of 'Used to be Young' by Miley Cyrus in the Radio 1 Live Lounge. </span><br>
+​</div>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Radio 1s Live Lounge</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom (isom/iso2/avc1/mp41)
+File size                                : 470 MiB
+Duration                                 : 6 min 58 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 9 438 kb/s
+Collection                               : Radio 1's Live Lounge
+Album                                    : Radio 1's Live Lounge
+Album/Performer                          : BBC TV
+Track name                               : Lauv
+Grouping                                 : Performances &amp; Events,Music
+Performer                                : BBC Radio 1
+Composer                                 : BBC iPlayer
+Genre                                    : Performances &amp; Events
+ContentType                              : TV Show
+Description                              : Lauv performs in the Radio 1 Live Lounge.
+Recorded date                            : UTC 2023-10-16 21:42:18
+Tagged date                              : UTC 2023-10-16 21:42:18
+Copyright                                : 2023 British Broadcasting Corporation, all rights reserved
+Cover                                    : Yes
+Lyrics                                   : Lauv performs his new single 'Love U Like That' as well as a stunning cover of 'Used to be Young' by Miley Cyrus in the Radio 1 Live Lounge. /  / PLAY: https://www.bbc.co.uk/iplayer/episode/p0gd96yl /  / INFO: https://www.bbc.co.uk/programmes/p0gd96yl
+Comment                                  : Lauv performs in the Radio 1 Live Lounge.
+Part_ID                                  : p0gd96yl
+TVNetworkName                            : BBC Radio 1
+LongDescription                          : Lauv performs his new single 'Love U Like That' as well as a stunning cover of 'Used to be Young' by Miley Cyrus in the Radio 1 Live Lounge. /  / PLAY: https://www.bbc.co.uk/iplayer/episode/p0gd96yl /  / INFO: https://www.bbc.co.uk/programmes/p0gd96yl
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.2
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 6 min 58 s
+Bit rate mode                            : Variable
+Bit rate                                 : 9 296 kb/s
+Maximum bit rate                         : 12.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.090
+Stream size                              : 463 MiB (99%)
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+Codec configuration box                  : avcC
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : mp4a-40-2
+Duration                                 : 6 min 58 s
+Bit rate mode                            : Variable
+Bit rate                                 : 128 kb/s
+Maximum bit rate                         : 132 kb/s / 132 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 6.38 MiB (1%)
+Language                                 : English
+Default                                  : Yes
+Alternate group                          : 1
+</pre>
+</div><div style="text-align: center">​</div></div>
+</div><div style="text-align: center">
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
 <blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div><img src="https://ichef.bbci.co.uk/images/ic/1200x675/p0gl176z.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://ichef.bbci.co.uk/images/ic/1200x675/p0gl176z.jpg" style="">​</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[fstambuk]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【SD】DVD - Daddy Yankee - Pose (Promo Only) (VOB)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/daddy-yankee-pose-promo-only-vob.230511/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<img src="https://i.ibb.co/d0dYs7W/Daddy-Yankee-Pose-VOB-thumbs-2023-10-16-18-09-15.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/d0dYs7W/Daddy-Yankee-Pose-VOB-thumbs-2023-10-16-18-09-15.jpg" style=""> <br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
 </div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[dimrous22]]></author>
+                <author><![CDATA[swimmingpools]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【SD】DVD - Wisin &amp; Yandel - Siguelo (Clean) (VOB)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/wisin-yandel-siguelo-clean-vob.230512/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<img src="https://i.ibb.co/6bv7r07/Wisin-Yandel-Siguelo-VOB-thumbs-2023-10-16-18-21-05.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/6bv7r07/Wisin-Yandel-Siguelo-VOB-thumbs-2023-10-16-18-21-05.jpg" style=""> <br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[swimmingpools]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Music Videos】PACK - Mariah Carey - It's Time - MTV Xmas [26 Videos] (2023) (Fan Made)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/mariah-carey-its-time-mtv-xmas-26-videos-2023-fan-made.230504/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<div style="text-align: center"><img src="https://i.postimg.cc/sx1GvcmP/Mariah-Carey-It-s-Time-MTV-Xmas-26-Video-Clipes-2023-by-novak.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/sx1GvcmP/Mariah-Carey-It-s-Time-MTV-Xmas-26-Video-Clipes-2023-by-novak.jpg" style="">​</div><i>I gathered and edited some videos, imagining what a Christmas special on MTV would be like.<br>
+I hope you enjoy!</i><br>
+<div style="text-align: center"><br>
+<img src="https://i.postimg.cc/Hx67YKws/Mariah-Carey-It-s-Time-MTV-Xmas-26-Video-Clipes-2023-Fan-Made-mp4-thumbs.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/Hx67YKws/Mariah-Carey-It-s-Time-MTV-Xmas-26-Video-Clipes-2023-Fan-Made-mp4-thumbs.jpg" style="">​</div><br>
+All I Want For Christmas Is You (Make My Wish Come True Edition)<br>
+Sleigh Ride/Hark! The Herald Angels Sing/Gloria (In Excelsis Deo)<br>
+Joy To The World*<br>
+Lil Snowman<br>
+O Come All Ye Faithful/Hallelujah Chorus<br>
+Hark! The Herald Angels Sing_Gloria (In Excelsis Deo)<br>
+Miss You Most (At Christmas Time) *(2006 Version)<br>
+Christmas Time Is In The Air Again<br>
+Silent Night*<br>
+O Holy Night<br>
+Santa Claus Is Comin To Town**<br>
+Fall In Love At Christmas<br>
+Jesus Born On This Day<br>
+One Child*<br>
+Charlie Brown Christmas<br>
+Oh Santa!<br>
+Here Comes Santa Claus Housetop Celebration<br>
+The Star<br>
+<br>
+Bonus:<br>
+<br>
+When You Believe<br>
+Joy To The World (Celebration Mix)<br>
+All I Want For Christmas Is You (So So Def Remix)<br>
+Fall In Love At Christmas (Arlo Remix)*<br>
+Santa Claus Is Comin' To Town (Anniversary Mix)<br>
+All I Want For Christmas Is You (Ver.1)<br>
+All I Want For Christmas Is You (Ver.2)<br>
+Auld Lang Syne (The New Year's Anthem)<br>
+<br>
+<span style="font-family: 'Trebuchet MS'"><br>
+<span style="font-size: 9px">*Novák Edited Video<br>
+**thank you @mariahicon<br>
+</span></span><br>
+<br>
+<div style="text-align: center">
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div></div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[Fan Made]]></author>
                 </item>
 
                 </channel></rss>
