@@ -1,3 +1,4 @@
+threads/nvidia-super-resolution.231048/
 threads/night-ranger-40-years-and-a-night-2023-bdrip-1080p.231047/
 threads/night-ranger-40-years-and-a-night-2023-blu-ray.231046/
 threads/garbage-live-in-k%C3%B6ln-palladium-2005-hd-1080p.231045/
@@ -21,4 +22,3 @@ threads/jessi-%EC%A0%9C%EC%8B%9C-gum-amazon-music-flac-16bits-44-1khz.231028/
 threads/icona-pop-club-romantech-2023-qobuz-flac-24bits-44-1khz.231027/
 threads/kelly-clarkson-iheartradio-music-festival-2023-1080i-hdtv-backhaul-mpa2-0-h-264-trollhd.231026/
 threads/bruno-mars-anderson-paak-an-evening-with-silk-sonic-qobuz-flac-24bits-44-1khz.231025/
-threads/foo-fighters-iheartradio-music-festival-2023-1080i-hdtv-backhaul-mpa2-0-h-264-trollhd.231024/
