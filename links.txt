@@ -1,3 +1,4 @@
+threads/nick-squires-albums.231093/
 threads/devon-hendryx-jpegmafia-the-ghost-pop-tape-remastered-original-flac-16bit-44-1khz.231092/
 threads/prince-the-new-power-generation-diamonds-and-pearls-super-deluxe-edition-qobuz-hi-res-24bit-44-1khz.231091/
 threads/taylor-swift-style-taylor%E2%80%99s-version.231090/
@@ -21,4 +22,3 @@ threads/the-burial-2023-1080p-amzn-web-dl-h265-sdr-ddp-atmos-5-1-english-hone.23
 threads/azealia-banks-standalone-singles-flac.231072/
 threads/maisie-peters-the-good-witch-deluxe-qobuz-hi-res-24bit-48-0khz.231071/
 threads/twice-210626-kura-kura-online-event.231070/
-threads/doja-cat-radio-1s-live-lounge-bbc-web-dl-1080p-fstambuk.231069/
