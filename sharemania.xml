@@ -8,83 +8,86 @@
 
  
                 <item>
-                <title><![CDATA[【MASTER &amp; MASTER RIP】MASTER - Levante - Tikibombom 'Sanremo 2020' (Master 1080)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/levante-tikibombom-sanremo-2020-master-1080.231274/]]></link>
+                <title><![CDATA[【PRORES HD】Paloma Faith - Loyal (ProRes 1080)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/paloma-faith-loyal-prores-1080.231277/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center"><img src="https://i.imgur.com/3zvAg9v.gif" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/3zvAg9v.gif" style=""><br>
+<div style="text-align: center"><img src="https://i.imgur.com/laDeoFM.gif" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/laDeoFM.gif" style=""><br>
 ​</div>
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MASTER</span></span></button>
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">ProRes</span></span></button>
 <div class="SpoilerTarget bbCodeSpoilerText">
 <div class="bbCodeBlock bbCodeCode">
 <div class="type">Code:</div>
 <pre>Format                                   : MPEG-4
-Format profile                           : Base Media / Version 2
-Codec ID                                 : mp42 (mp42/mp41)
-File size                                : 501 MiB
-Duration                                 : 3 min 27 s
+Format profile                           : QuickTime
+Codec ID                                 : qt   2005.03 (qt  )
+File size                                : 10.0 GiB
+Duration                                 : 6 min 59 s
 Overall bit rate mode                    : Variable
-Overall bit rate                         : 20.2 Mb/s
-Encoded date                             : UTC 2020-02-03 15:41:07
-Tagged date                              : UTC 2020-02-03 16:06:07
-TIM                                      : 00:00:01:07
+Overall bit rate                         : 206 Mb/s
+Encoded date                             : UTC 2018-10-12 15:39:50
+Tagged date                              : UTC 2018-10-12 15:58:38
+Writing library                          : Apple QuickTime
+TIM                                      : 00:00:00:00
 TSC                                      : 25
 TSZ                                      : 1
 
 Video
 ID                                       : 1
-Format                                   : AVC
-Format/Info                              : Advanced Video Codec
-Format profile                           : High@L4.2
-Format settings                          : CABAC / 4 Ref Frames
-Format settings, CABAC                   : Yes
-Format settings, Reference frames        : 4 frames
-Format settings, GOP                     : M=3, N=25
-Codec ID                                 : avc1
-Codec ID/Info                            : Advanced Video Coding
-Duration                                 : 3 min 27 s
-Bit rate                                 : 19.9 Mb/s
-Width                                    : 1 920 pixels
-Height                                   : 1 080 pixels
+Format                                   : ProRes
+Format version                           : Version 0
+Format profile                           : 422 HQ
+Codec ID                                 : apch
+Duration                                 : 6 min 59 s
+Bit rate mode                            : Variable
+Bit rate                                 : 204 Mb/s
+Width                                    : 2 048 pixels
+Height                                   : 1 152 pixels
 Display aspect ratio                     : 16:9
 Frame rate mode                          : Constant
 Frame rate                               : 25.000 FPS
 Color space                              : YUV
-Chroma subsampling                       : 4:2:0
-Bit depth                                : 8 bits
+Chroma subsampling                       : 4:2:2
 Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.384
-Stream size                              : 493 MiB (98%)
+Bits/(Pixel*Frame)                       : 3.459
+Stream size                              : 9.96 GiB (99%)
+Writing library                          : Apple
 Language                                 : English
-Encoded date                             : UTC 2020-02-03 15:41:09
-Tagged date                              : UTC 2020-02-03 15:41:09
-Color range                              : Limited
+Encoded date                             : UTC 2018-10-12 15:39:50
+Tagged date                              : UTC 2018-10-12 15:39:50
 Color primaries                          : BT.709
 Transfer characteristics                 : BT.709
 Matrix coefficients                      : BT.709
-Codec configuration box                  : avcC
 
 Audio
 ID                                       : 2
-Format                                   : AAC LC
-Format/Info                              : Advanced Audio Codec Low Complexity
-Codec ID                                 : mp4a-40-2
-Duration                                 : 3 min 27 s
-Source duration                          : 3 min 27 s
-Bit rate mode                            : Variable
-Bit rate                                 : 317 kb/s
-Maximum bit rate                         : 409 kb/s
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : sowt
+Duration                                 : 6 min 59 s
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
 Channel(s)                               : 2 channels
 Channel layout                           : L R
 Sampling rate                            : 48.0 kHz
-Frame rate                               : 46.875 FPS (1024 SPF)
-Compression mode                         : Lossy
-Stream size                              : 7.86 MiB (2%)
-Source stream size                       : 7.86 MiB (2%)
+Bit depth                                : 16 bits
+Stream size                              : 76.8 MiB (1%)
 Language                                 : English
-Encoded date                             : UTC 2020-02-03 15:41:14
-Tagged date                              : UTC 2020-02-03 15:41:14</pre>
+Encoded date                             : UTC 2018-10-12 15:39:50
+Tagged date                              : UTC 2018-10-12 15:39:50
+
+Other
+ID                                       : 3
+Type                                     : Time code
+Format                                   : QuickTime TC
+Duration                                 : 6 min 59 s
+Frame rate                               : 25.000 FPS
+Time code of first frame                 : 00:00:00:00
+Time code, striped                       : Yes
+Language                                 : English
+Encoded date                             : UTC 2018-10-12 15:39:50
+Tagged date                              : UTC 2018-10-12 15:39:50</pre>
 </div><div style="text-align: center">​</div></div>
 </div><div style="text-align: center"><br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
@@ -95,6 +98,36 @@ Tagged date                              : UTC 2020-02-03 15:41:14</pre>
 </blockquote>
 </article>]]></description>
                 <author><![CDATA[fstambuk]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【MASTER &amp; MASTER RIP】MASTER - Pdelete]]></title>
+                <link><![CDATA[https://sharemania.us/threads/pdelete.231276/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<div style="text-align: center">delete.sn d​</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[fstambuk]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ AUD] - Spudgun - Aussie indie band from the 90's]]></title>
+                <link><![CDATA[https://sharemania.us/threads/spudgun-aussie-indie-band-from-the-90s.231275/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+If anyone could share any albums/singles from this band... I would really appreciate it! <br>
+<br>
+This is one of their songs: <span data-s9e-mediaembed="youtube" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:56.25%"><iframe allowfullscreen="" loading="lazy" scrolling="no" style="background:url(https://i.ytimg.com/vi/M4U9n7O_Q0A/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%" src="https://www.youtube.com/embed/M4U9n7O_Q0A"></iframe></span></span> <br>
+<br>
+Thank you <img src="styles/default/xenforo/smilies/big_smile-48.png" class="mceSmilie" alt=":)" title="Smile    :)">
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[strawberrypancake]]></author>
                 </item>
 
                 </channel></rss>
