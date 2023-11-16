@@ -8,18 +8,75 @@
 
  
                 <item>
-                <title><![CDATA[【Albums (lossy)】Dolby Atmos - Daft Punk - Random Access Memories (Drumless Edition) [E-AC3-JOC | 16bits/48kHz | 5.1 | 768kbits]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/daft-punk-random-access-memories-drumless-edition-e-ac3-joc-16bits-48khz-5-1-768kbits.232338/]]></link>
+                <title><![CDATA[【HD Live Performances】UPSCALE - Shakira - Objection (Tango) (MTV Video Music Awards 2002) (1080p AI UPSCALE) AC3]]></title>
+                <link><![CDATA[https://sharemania.us/threads/shakira-objection-tango-mtv-video-music-awards-2002-1080p-ai-upscale-ac3.232339/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://a5.mzstatic.com/us/r1000/0/Music126/v4/c8/6d/11/c86d1183-9e36-fc2f-6490-80568ed056e0/196871342049.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://a5.mzstatic.com/us/r1000/0/Music126/v4/c8/6d/11/c86d1183-9e36-fc2f-6490-80568ed056e0/196871342049.jpg" style=""> <br>
-<br>
-<b>Album: Random Access Memories (Drumless Edition)<br>
-Artist: Daft Punk<br>
-Genre: Dance<br>
-Release date: 17/11/2023<br>
-Format: .m4a E-AC3-JOC (Dolby Digital Plus with Dolby Atmos) (Apple Core Media Audio)</b><br>
-<br>
+<img src="https://i.ibb.co/nC8wfwK/Shakira-Objection-Tango-MTV-Video-Music-Awards-2002-1080p-AI-UPSCALE-AC3-mov-thumbs.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/nC8wfwK/Shakira-Objection-Tango-MTV-Video-Music-Awards-2002-1080p-AI-UPSCALE-AC3-mov-thumbs.png" style=""> <br>
+<img src="https://i.imgur.com/SuEn3v9.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/SuEn3v9.png" style=""><br>
+<img src="https://i.imgur.com/5yECBDp.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/5yECBDp.png" style=""><br>
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>General
+Format                      : MPEG-4
+Format profile              : QuickTime
+Codec ID                    : qt   0000.02 (qt  )
+File size                   : 1.40 GiB
+Duration                    : 3 min 58 s
+Overall bit rate            : 50.3 Mb/s
+Frame rate                  : 29.970 FPS
+Writing application         : Lavf60.16.100
+
+Video
+ID                          : 1
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L4
+Format settings             : CABAC / 4 Ref Frames
+Format settings, CABAC      : Yes
+Format settings, Reference  : 4 frames
+Codec ID                    : avc1
+Codec ID/Info               : Advanced Video Coding
+Duration                    : 3 min 58 s
+Bit rate                    : 50.1 Mb/s
+Width                       : 1 440 pixels
+Height                      : 1 080 pixels
+Display aspect ratio        : 4:3
+Frame rate mode             : Constant
+Frame rate                  : 29.970 (30000/1001) FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 1.075
+Stream size                 : 1.39 GiB (100%)
+Title                       : Core Media Video
+Writing library             : x264 core 164 r3161 a354f11
+Encoding settings           : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=15 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=crf / mbtree=1 / crf=10.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Color range                 : Limited
+Color primaries             : BT.601 NTSC
+Matrix coefficients         : BT.601
+Codec configuration box     : avcC
+
+Audio
+ID                          : 2
+Format                      : AC-3
+Format/Info                 : Audio Coding 3
+Codec ID                    : ac-3
+Duration                    : 3 min 58 s
+Source duration             : 3 min 58 s
+Bit rate mode               : Constant
+Bit rate                    : 192 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Compression mode            : Lossy
+Stream size                 : 5.47 MiB (0%)
+Source stream size          : 5.47 MiB (0%)
+Title                       : Core Media Audio
+Default                     : Yes
+Alternate group             : 1</pre>
+</div>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
 <blockquote>You must reply before you can see the hidden data contained here.</blockquote>
@@ -27,7 +84,20 @@ Format: .m4a E-AC3-JOC (Dolby Digital Plus with Dolby Atmos) (Apple Core Media A
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[SonMaxime]]></author>
+                <author><![CDATA[MarcosMonster]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Albums (lossless)】FLAC - Britney Spears – 3 (The Remixes) (Promo CDR Sweden)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/britney-spears-%E2%80%93-3-the-remixes-promo-cdr-sweden.232340/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+Thanks
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[rominuchiis]]></author>
                 </item>
 
                 </channel></rss>
