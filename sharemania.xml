@@ -8,12 +8,141 @@
 
  
                 <item>
-                <title><![CDATA[【Cinema Center】MOVIE - 스타워즈: 제다이의 귀환 (에피소드 6) (1983) (KOR-ENG) (1080p DSNP WEB-DL DDP5.1 H.264)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/%EC%8A%A4%ED%83%80%EC%9B%8C%EC%A6%88-%EC%A0%9C%EB%8B%A4%EC%9D%B4%EC%9D%98-%EA%B7%80%ED%99%98-%EC%97%90%ED%94%BC%EC%86%8C%EB%93%9C-6-1983-kor-eng-1080p-dsnp-web-dl-ddp5-1-h-264.233573/]]></link>
+                <title><![CDATA[【Cinema Center】MOVIE - 스타워즈: 새로운 희망 (에피소드 4) (1977) (KOR) (1080p DSNP WEB-DL)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/%EC%8A%A4%ED%83%80%EC%9B%8C%EC%A6%88-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%9D%AC%EB%A7%9D-%EC%97%90%ED%94%BC%EC%86%8C%EB%93%9C-4-1977-kor-1080p-dsnp-web-dl.233568/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 <b>Release Name</b><br>
-Star.Wars.Return.of.the.Jedi.Episode.VI.1983.KOR-ENG.1080p.DSNP.WEB-DL.DDP5.1.H.264
+Star.Wars.A.New.Hope.Episode.IV.1977.KOR.1080p.DSNP.WEB-DL.DDP5.1.H.264<br>
+<br>
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>General
+Unique ID                                : 175139120140185685072026795319766911752 (0x83C2914DA78519E5BB2E78638B998B08)
+Complete name                            : Star.Wars.A.New.Hope.Episode.IV.1977.KOR.1080p.DSNP.WEB-DL.DDP5.1.H.264.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 4.04 GiB
+Duration                                 : 2 h 4 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 4 637 kb/s
+Frame rate                               : 23.976 FPS
+Movie name                               : 스타워즈: 새로운 희망 (에피소드 4)
+Encoded date                             : 2023-12-07 22:35:46 UTC
+Writing application                      : mkvmerge v68.0.0 ('The Curtain') 64-bit
+Writing library                          : libebml v1.4.2 + libmatroska v1.6.4
+Video
+
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 4 min
+Bit rate mode                            : Variable
+Bit rate                                 : 4 509 kb/s
+Maximum bit rate                         : 12.7 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.091
+Time code of first frame                 : 00:00:00;00
+Stream size                              : 3.93 GiB (97%)
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : 2 / A_AAC-2
+Duration                                 : 2 h 4 min
+Bit rate                                 : 125 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 112 MiB (3%)
+Title                                    : Korean
+Language                                 : Korean
+Default                                  : Yes
+Forced                                   : No
+
+Text #1
+ID                                       : 3
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 4 min 3 s
+Bit rate                                 : 32 b/s
+Frame rate                               : 0.119 FPS
+Count of elements                        : 29
+Stream size                              : 981 Bytes (0%)
+Title                                    : en--forced--
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #2
+ID                                       : 4
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 57 min
+Bit rate                                 : 65 b/s
+Frame rate                               : 0.213 FPS
+Count of elements                        : 1503
+Stream size                              : 56.4 KiB (0%)
+Title                                    : English [CC]
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 5
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 4 min 7 s
+Bit rate                                 : 32 b/s
+Frame rate                               : 0.117 FPS
+Count of elements                        : 29
+Stream size                              : 1 016 Bytes (0%)
+Title                                    : ko--forced--
+Language                                 : Korean
+Default                                  : No
+Forced                                   : No
+
+Text #4
+ID                                       : 6
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 58 min
+Bit rate                                 : 49 b/s
+Frame rate                               : 0.195 FPS
+Count of elements                        : 1381
+Stream size                              : 43.0 KiB (0%)
+Title                                    : Korean
+Language                                 : Korean
+Default                                  : Yes
+Forced                                   : No
+</pre>
+</div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
@@ -22,17 +151,225 @@ Star.Wars.Return.of.the.Jedi.Episode.VI.1983.KOR-ENG.1080p.DSNP.WEB-DL.DDP5.1.H.
 
                 
                 <item>
-                <title><![CDATA[【Cinema Center】MOVIE - 스타워즈: 제국의 역습 (에피소드 5) (1980) (KOR-ENG) (1080p DSNP WEB-DL DDP5.1 H.264)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/%EC%8A%A4%ED%83%80%EC%9B%8C%EC%A6%88-%EC%A0%9C%EA%B5%AD%EC%9D%98-%EC%97%AD%EC%8A%B5-%EC%97%90%ED%94%BC%EC%86%8C%EB%93%9C-5-1980-kor-eng-1080p-dsnp-web-dl-ddp5-1-h-264.233572/]]></link>
+                <title><![CDATA[【Requests】[REQ AUD] - Lana Del Rel - Is This Happiness and Flipside in FLAC?]]></title>
+                <link><![CDATA[https://sharemania.us/threads/lana-del-rel-is-this-happiness-and-flipside-in-flac.233574/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+Does anyone have Is This Happiness and Flipside by Lana Del Rey in FLAC/Lossless? It was apart of her Ultraviolence album.
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[MusicFanatic94]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Cinema Center】MOVIE - 스타워즈: 제다이의 귀환 (에피소드 6) (1983) (KOR-ENG) (1080p DSNP WEB-DL)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/%EC%8A%A4%ED%83%80%EC%9B%8C%EC%A6%88-%EC%A0%9C%EB%8B%A4%EC%9D%B4%EC%9D%98-%EA%B7%80%ED%99%98-%EC%97%90%ED%94%BC%EC%86%8C%EB%93%9C-6-1983-kor-eng-1080p-dsnp-web-dl.233573/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 <b>Release Name</b><br>
-Star.Wars.The.Empire.Strikes.Back.Episode.V.1980.KOR-ENG.1080p.DSNP.WEB-DL.DDP5.1.H.264<br>
+Star.Wars.Return.of.the.Jedi.Episode.VI.1983.KOR-ENG.1080p.DSNP.WEB-DL
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[Austin Zimmermann]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Cinema Center】MOVIE - 곰돌이 푸의 대모험 (1997) (KOR-ENG) (1080p DSNP WEB-DL)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/%EA%B3%B0%EB%8F%8C%EC%9D%B4-%ED%91%B8%EC%9D%98-%EB%8C%80%EB%AA%A8%ED%97%98-1997-kor-eng-1080p-dsnp-web-dl.233575/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<b>Release Name</b><br>
+Poohs.Grand.Adventure.The.Search.for.Christopher.Robin.1997.KOR-ENG.1080p.DSNP.WEB-DL<br>
 <br>
 <div class="bbCodeBlock bbCodeCode">
 <div class="type">Code:</div>
 <pre>General
-Complete name                            : Star.Wars.The.Empire.Strikes.Back.Episode.V.1980.KOR-ENG.1080p.DSNP.WEB-DL.DDP5.1.H.264.mp4
+Complete name                            : Poohs.Grand.Adventure.The.Search.for.Christopher.Robin.1997.KOR-ENG.1080p.DSNP.WEB-DL.mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom (isom/iso2/avc1/mp41)
+File size                                : 3.14 GiB
+Duration                                 : 1 h 15 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 5 919 kb/s
+Frame rate                               : 23.976 FPS
+Movie name                               : 곰돌이 푸의 대모험
+Performer                                : 짐 커밍스,존 피들러,켄 샌섬,안드레 스토즈카,피터 컬런,브래디 브룸
+Description                              : 어느 황금 같은 여름의 마지막 날, 크리스토퍼 로빈은 신나게 학교 첫날을 준비한다. 하지만 크리스토퍼는 푸에게 미리 말하지 않았고, 크리스토퍼 로빈이 평상시와 달리 경기하러 오지 않자, 푸는 피글렛, 티거, 이요르, 래빗과 함께 크리스토퍼를 찾기 위해 드넓은 숲을 가로지르는 용감한 모험을 떠난다. 세상에서 가장 사랑받는 가족 고전이 소중한 우정과 함께 그렇게 시작된다.
+Recorded date                            : 1997
+Writing application                      : Lavf60.3.100
+Cover                                    : Yes
+Comment                                  : https://www.disneyplus.com/ko-kr/movies/details/56vBjCYkjOI3
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 1 h 15 min
+Bit rate mode                            : Variable
+Bit rate                                 : 5 505 kb/s
+Maximum bit rate                         : 8 250 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.111
+Time code of first frame                 : 00:00:00;00
+Stream size                              : 2.92 GiB (93%)
+Title                                    : BAMTech video
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+Codec configuration box                  : avcC
+
+Audio #1
+ID                                       : 3
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : 2 / 40 / mp4a-40-2
+Duration                                 : 1 h 15 min
+Bit rate mode                            : Constant
+Bit rate                                 : 125 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 68.1 MiB (2%)
+Title                                    : BAMTech audio / Korean
+Language                                 : Korean
+Default                                  : Yes
+Alternate group                          : 1
+
+Audio #2
+ID                                       : 4
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : 2 / 40 / mp4a-40-2
+Duration                                 : 1 h 15 min
+Bit rate mode                            : Constant
+Bit rate                                 : 125 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 68.1 MiB (2%)
+Title                                    : BAMTech audio / English
+Language                                 : English
+Default                                  : No
+Alternate group                          : 1
+
+Audio #3
+ID                                       : 5
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : 2 / 40 / mp4a-40-2
+Duration                                 : 1 h 15 min
+Bit rate mode                            : Constant
+Bit rate                                 : 125 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 68.1 MiB (2%)
+Title                                    : BAMTech audio / English [Audio Description]
+Language                                 : English
+Default                                  : No
+Alternate group                          : 1
+
+Text #1
+ID                                       : 6
+Format                                   : Timed Text
+Muxing mode                              : sbtl
+Codec ID                                 : tx3g
+Duration                                 : 1 h 11 min
+Bit rate mode                            : Variable
+Bit rate                                 : 66 b/s
+Frame rate                               : 0.387 FPS
+Stream size                              : 34.7 KiB (0%)
+Title                                    : English [CC]
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+Alternate group                          : 3
+Count of events                          : 832
+
+Text #2
+ID                                       : 7
+Format                                   : Timed Text
+Muxing mode                              : sbtl
+Codec ID                                 : tx3g
+Duration                                 : 33 min 6 s
+Bit rate mode                            : Variable
+Bit rate                                 : 1 b/s
+Frame rate                               : 0.011 FPS
+Stream size                              : 261 Bytes (0%)
+Title                                    : ko--forced--
+Language                                 : Korean
+Default                                  : No
+Forced                                   : No
+Alternate group                          : 3
+Count of events                          : 10
+
+Text #3
+ID                                       : 8
+Format                                   : Timed Text
+Muxing mode                              : sbtl
+Codec ID                                 : tx3g
+Duration                                 : 1 h 11 min
+Bit rate mode                            : Variable
+Bit rate                                 : 61 b/s
+Frame rate                               : 0.405 FPS
+Stream size                              : 32.1 KiB (0%)
+Title                                    : Korean
+Language                                 : Korean
+Default                                  : Yes
+Forced                                   : No
+Alternate group                          : 3
+Count of events                          : 871
+</pre>
+</div>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[Austin Zimmermann]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Cinema Center】MOVIE - 스타워즈: 제국의 역습 (에피소드 5) (1980) (KOR-ENG) (1080p DSNP WEB-DL)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/%EC%8A%A4%ED%83%80%EC%9B%8C%EC%A6%88-%EC%A0%9C%EA%B5%AD%EC%9D%98-%EC%97%AD%EC%8A%B5-%EC%97%90%ED%94%BC%EC%86%8C%EB%93%9C-5-1980-kor-eng-1080p-dsnp-web-dl.233572/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<b>Release Name</b><br>
+Star.Wars.The.Empire.Strikes.Back.Episode.V.1980.KOR-ENG.1080p.DSNP.WEB-DL<br>
+<br>
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>General
+Complete name                            : Star.Wars.The.Empire.Strikes.Back.Episode.V.1980.KOR-ENG.1080p.DSNP.WEB-DL.mp4
 Format                                   : MPEG-4
 Format profile                           : Base Media
 Codec ID                                 : isom (isom/iso2/avc1/mp41)
@@ -173,6 +510,10 @@ Forced                                   : No
 Alternate group                          : 3
 Count of events                          : 1052
 </pre>
+</div>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
 </div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
