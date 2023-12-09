@@ -8,185 +8,103 @@
 
  
                 <item>
-                <title><![CDATA[【Cinema Center】MOVIE - Star.Wars.Episodio.I.La.minaccia.fantasma.1999.ITA-ENG.BDRip.720p.x264-HD4ME]]></title>
-                <link><![CDATA[https://sharemania.us/threads/star-wars-episodio-i-la-minaccia-fantasma-1999-ita-eng-bdrip-720p-x264-hd4me.233688/]]></link>
+                <title><![CDATA[【MASTER &amp; MASTER RIP】MASTER - Doja Cat - Paint The Town Red (MasterRip 1080p x264 PCM)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/doja-cat-paint-the-town-red-masterrip-1080p-x264-pcm.233689/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<b>Release Name</b><br>
-Star.Wars.Episodio.I.La.minaccia.fantasma.1999.ITA-ENG.BDRip.720p.x264-HD4ME<br>
-<br>
+<img src="https://images2.imgbox.com/1b/93/ygPsu9vg_o.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/1b/93/ygPsu9vg_o.png" style=""><br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler</span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">
 <div class="bbCodeBlock bbCodeCode">
 <div class="type">Code:</div>
-<pre>General
-Unique ID                                : 92222549629971162217838079800079726136 (0x45616ABFB9E98AACBD06FD620132B638)
-Complete name                            : Star.Wars.Episodio.I.La.minaccia.fantasma.1999.ITA-ENG.BDRip.720p.x264-HD4ME.mkv
-Format                                   : Matroska
-Format version                           : Version 4
-File size                                : 2.52 GiB
-Duration                                 : 2 h 16 min
-Overall bit rate                         : 2 651 kb/s
-Frame rate                               : 23.976 FPS
-Movie name                               : Star Wars: Episodio I – La minaccia fantasma
-Encoded date                             : 2020-01-13 13:44:46 UTC
-Writing application                      : mkvmerge v38.0.0 ('The Silent Type') 64-bit
-Writing library                          : libebml v1.3.9 + libmatroska v1.5.2
+<pre>Geral
+Nome completo             : Doja Cat - Paint The Town Red (MasterRip 1080p x264 PCM).mkv
+Formato                   : Matroska
+Versão do Formato         : Version 4
+Tamanho do arquivo        : 1.40 GiB
+Duração                   : 4 min 55s
+Taxa de Bits Total        : 40.8 Mb/s
+Taxa de quadros           : 23.976 FPS
+Programa usado            : Lavf60.3.100
+Biblioteca usada          : Lavf60.3.100
+ErrorDetectionType        : Per level 1
+COM_APPLE_QUICKTIME_SOFTW : Telestream Media Framework refs/heads/release/Flip64/v8.0 80f9fde63bb5cf108662c98c478b4939c369ba38
+Time code of first frame  : 00:00:00:00
+Time code source          : Matroska tags
 
-Video
-ID                                       : 1
-Format                                   : AVC
-Format/Info                              : Advanced Video Codec
-Format profile                           : High@L4.1
-Format settings                          : CABAC / 9 Ref Frames
-Format settings, CABAC                   : Yes
-Format settings, Reference frames        : 9 frames
-Codec ID                                 : V_MPEG4/ISO/AVC
-Duration                                 : 2 h 16 min
-Bit rate                                 : 2 200 kb/s
-Width                                    : 1 280 pixels
-Height                                   : 544 pixels
-Display aspect ratio                     : 2.35:1
-Frame rate mode                          : Constant
-Frame rate                               : 23.976 (24000/1001) FPS
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0
-Bit depth                                : 8 bits
-Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.132
-Stream size                              : 2.09 GiB (83%)
-Writing library                          : x264 core 157 r2935 545de2f
-Encoding settings                        : cabac=1 / ref=9 / deblock=1:-2:-2 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.15 / mixed_ref=1 / me_range=48 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-3 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=12 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=30 / rc=2pass / mbtree=1 / bitrate=2200 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / vbv_maxrate=62500 / vbv_bufsize=78125 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
-Language                                 : Italian
-Default                                  : Yes
-Forced                                   : No
-Color range                              : Limited
-Color primaries                          : BT.709
-Transfer characteristics                 : BT.709
-Matrix coefficients                      : BT.709
+Vídeo
+ID                        : 1
+Formato                   : AVC
+Formato/Informações       : Advanced Video Codec
+Perfil do Formato         : High
+Format level              : 4.1
+Conf do Formato, CABAC    : Sim
+Conf do Formato, Quadros  : 4 quadros
+ID do Codec               : V_MPEG4/ISO/AVC
+Duração                   : 4 min 55s
+Taxa de bits              : 40.0 Mb/s
+Largura                   : 1 920 pixels
+Altura                    : 1 080 pixels
+Proporção da imagem       : 16:9
+Modo de taxa de quadros   : TConstante
+Taxa de quadros           : 23.976 (24000/1001) FPS
+Color space               : YUV
+Chroma subsampling        : 4:2:0
+Bit depth                 : 8 bits
+Tipo de Scan              : Progressivo
+Bits/(Pixels*Quadros)     : 0.805
+Tamanho da Faixa          : 1.32 GiB (94%)
+Biblioteca usada          : x264 core 158 r2984 3759fcb
+Configurações de codifica : cabac=1 / ref=4 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=8 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=abr / mbtree=1 / bitrate=40000 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Idioma                    : Inglês
+Default                   : Sim
+Forced                    : Não
+Color range               : Limited
+Color primaries           : BT.709
+Transfer characteristics  : BT.709
+Matrix coefficients       : BT.709
+VENDOR_ID                 : appl
 
-Audio #1
-ID                                       : 2
-Format                                   : AAC LC
-Format/Info                              : Advanced Audio Codec Low Complexity
-Codec ID                                 : 2 / A_AAC-2
-Duration                                 : 2 h 16 min
-Bit rate                                 : 224 kb/s
-Channel(s)                               : 6 channels
-Channel layout                           : C L R Ls Rs LFE
-Sampling rate                            : 48.0 kHz
-Frame rate                               : 46.875 FPS (1024 SPF)
-Compression mode                         : Lossy
-Delay relative to video                  : 3 ms
-Stream size                              : 218 MiB (8%)
-Title                                    : ITA AAC 5.1 224 kbps
-Language                                 : Italian
-Default                                  : Yes
-Forced                                   : No
-
-Audio #2
-ID                                       : 3
-Format                                   : AAC LC
-Format/Info                              : Advanced Audio Codec Low Complexity
-Codec ID                                 : 2 / A_AAC-2
-Duration                                 : 2 h 16 min
-Bit rate                                 : 224 kb/s
-Channel(s)                               : 6 channels
-Channel layout                           : C L R Ls Rs LFE
-Sampling rate                            : 48.0 kHz
-Frame rate                               : 46.875 FPS (1024 SPF)
-Compression mode                         : Lossy
-Delay relative to video                  : 3 ms
-Stream size                              : 218 MiB (8%)
-Title                                    : ENG AAC 5.1 224 kbps
-Language                                 : English
-Default                                  : No
-Forced                                   : No
-
-Text #1
-ID                                       : 4
-Format                                   : UTF-8
-Codec ID                                 : S_TEXT/UTF8
-Codec ID/Info                            : UTF-8 Plain Text
-Duration                                 : 2 h 15 min
-Bit rate                                 : 48 b/s
-Frame rate                               : 0.178 FPS
-Count of elements                        : 1451
-Stream size                              : 48.7 KiB (0%)
-Title                                    : Italian Regular
-Language                                 : Italian
-Default                                  : No
-Forced                                   : No
-
-Text #2
-ID                                       : 5
-Format                                   : UTF-8
-Codec ID                                 : S_TEXT/UTF8
-Codec ID/Info                            : UTF-8 Plain Text
-Duration                                 : 2 h 14 min
-Bit rate                                 : 48 b/s
-Frame rate                               : 0.179 FPS
-Count of elements                        : 1437
-Stream size                              : 47.6 KiB (0%)
-Title                                    : English Regular
-Language                                 : English
-Default                                  : No
-Forced                                   : No
-
-Menu
-00:00:00.000                             : en:Opening Logos
-00:00:21.104                             : en:The Phantom Menace
-00:01:52.738                             : en:Short Negotiations
-00:07:55.350                             : en:Queen Amidala
-00:09:55.970                             : en:Landing on Naboo
-00:11:18.761                             : en:Jar Jar Binks
-00:13:24.178                             : en:Otoh Gunga
-00:14:49.806                             : en:Boss Nass
-00:17:14.242                             : en:The Planet Core
-00:20:40.948                             : en:Invasion of Theed
-00:22:25.302                             : en:Surprise Rescue
-00:25:12.886                             : en:Running the Blockade
-00:29:32.813                             : en:Tatooine
-00:31:41.483                             : en:Watto’s Shop
-00:35:51.733                             : en:Fateful Meetings
-00:40:48.571                             : en:Dinner Conversation
-00:44:16.320                             : en:Preparing for the Race
-00:52:04.580                             : en:A Wager with Watto
-00:55:03.842                             : en:Meet the Podracers
-00:58:27.921                             : en:“Begin the Race”
-01:02:27.702                             : en:Lap Two
-01:05:33.012                             : en:Home Stretch
-01:10:06.911                             : en:Collecting the Prize
-01:11:17.940                             : en:Choosing a New Path
-01:16:20.951                             : en:Darth Maul Attacks
-01:18:08.100                             : en:The Queen’s Worries
-01:20:26.363                             : en:Arrival on Coruscant
-01:24:18.178                             : en:The Jedi Council
-01:26:44.783                             : en:Senate Session
-01:29:54.723                             : en:Testing Anakin
-01:31:02.415                             : en:Palpatine's Nomination
-01:33:08.541                             : en:Anakin’s Future
-01:37:21.419                             : en:The Queen’s Gambit
-01:39:06.315                             : en:A Plea to the Gungans
-01:42:33.731                             : en:Battle Plans
-01:44:41.567                             : en:“Wipe Them Out”
-01:46:19.248                             : en:Retaking the Palace
-01:48:07.731                             : en:The Conflict Continues
-01:50:24.952                             : en:Duel of the Fates
-01:56:47.667                             : en:Gungan Retreat
-01:59:13.063                             : en:Qui-Gon vs. Darth Maul
-02:00:31.391                             : en:Capturing the Viceroy
-02:01:21.316                             : en:Obi-Wan vs. Darth Maul
-02:02:23.378                             : en:Control Ship Destroyed
-02:03:56.971                             : en:A Sith Vanquished
-02:05:15.133                             : en:Chancellor Palpatine Arrives
-02:06:25.995                             : en:New Knight, New Apprentice
-02:07:23.177                             : en:Farewell to a Jedi
-02:08:28.993                             : en:Naboo Celebration
-02:09:53.536                             : en:End Credits</pre>
-</div>
+Áudio
+ID                        : 2
+Formato                   : PCM
+Conf. do Formato          : Little
+ID do Codec               : A_PCM/INT/LIT
+Duração                   : 4 min 55s
+Modo da taxa de bits      : Constante
+Taxa de bits              : 1 536 kb/s
+Nº de canais              : 2 canais
+Taxa de amostragem        : 48.0 kHz
+Bit depth                 : 16 bits
+Tamanho da Faixa          : 54.2 MiB (4%)
+Idioma                    : Inglês
+Default                   : Sim
+Forced                    : Não
+VENDOR_ID                 : [0][0][0][0]</pre>
+</div></div>
+</div><div style="text-align: center">
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div><b><span style="font-family: 'Courier New'">Converted from original ProRes with -preset veryslow command.</span></b>​</div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[Austin Zimmermann]]></author>
+                <author><![CDATA[Cauã]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ VID] - Bet official presents Beyonce .iso]]></title>
+                <link><![CDATA[https://sharemania.us/threads/bet-official-presents-beyonce-iso.233690/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+Could someone share with us this dvd?Links for this are dead..Thanks in advance!
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[sdouk]]></author>
                 </item>
 
                 </channel></rss>
