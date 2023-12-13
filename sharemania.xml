@@ -8,35 +8,289 @@
 
  
                 <item>
-                <title><![CDATA[【Requests】[REQ AUD] - 2AM Songs]]></title>
-                <link><![CDATA[https://sharemania.us/threads/2am-songs.233867/]]></link>
+                <title><![CDATA[【Cinema Center】MOVIE - Spider-Man (2002) (Full Screen Special Edition) (DVD9 NTSC R1)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/spider-man-2002-full-screen-special-edition-dvd9-ntsc-r1.233869/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-Can i request these songs from 2AM? (mp3 or FLAC is ok)<br>
-<a href="https://tidal.com/browse/track/303767535" target="_blank" class="externalLink" rel="nofollow">https://tidal.com/browse/track/303767535</a><br>
-<a href="https://tidal.com/browse/track/303038350" target="_blank" class="externalLink" rel="nofollow">https://tidal.com/browse/track/303038350</a><br>
-<a href="https://tidal.com/browse/track/303062776" target="_blank" class="externalLink" rel="nofollow">https://tidal.com/browse/track/303062776</a><br>
-<a href="https://tidal.com/browse/track/303767524" target="_blank" class="externalLink" rel="nofollow">https://tidal.com/browse/track/303767524</a><br>
-<a href="https://tidal.com/browse/track/303686396" target="_blank" class="externalLink" rel="nofollow">https://tidal.com/browse/track/303686396</a><br>
-<a href="https://tidal.com/browse/track/304273561" target="_blank" class="externalLink" rel="nofollow">https://tidal.com/browse/track/304273561</a><br>
-<a href="https://tidal.com/browse/track/304260024" target="_blank" class="externalLink" rel="nofollow">https://tidal.com/browse/track/304260024</a>
+<img src="https://images.45worlds.com/f/dv/spiderman-16-dv.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images.45worlds.com/f/dv/spiderman-16-dv.jpg" style=""> <br>
+<img src="https://images.45worlds.com/f/dv/spiderman-columbia-tristar-3-dv.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images.45worlds.com/f/dv/spiderman-columbia-tristar-3-dv.jpg" style=""> <br>
+<br>
+Disc 1: Main Movie<br>
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>General
+Complete name                            : DVD_VIDEO.iso
+Format                                   : ISO 9660 / DVD Video
+Format profile                           : Program
+File size                                : 7.38 GiB
+Duration                                 : 2 h 1 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 8 727 kb/s
+Frame rate                               : 29.970 FPS
+Movie name                               : DVD_VIDEO
+Encoded date                             : 2002-08-14 15:35:05.00+56:00
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : Variable
+Duration                                 : 2 h 1 min
+Bit rate mode                            : Variable
+Bit rate                                 : 6 849 kb/s
+Maximum bit rate                         : 9 800 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 29.970 (29970/1000) FPS
+Original frame rate                      : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.661
+Stream size                              : 5.79 GiB (78%)
+Source                                   : VIDEO_TS/VTS_01_0.IFO
+
+Audio #1
+ID                                       : 189 (0xBD)-128 (0x80)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Muxing mode                              : DVD-Video
+Duration                                 : 2 h 1 min
+Bit rate mode                            : Constant
+Bit rate                                 : 448 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 388 MiB (5%)
+Language                                 : English
+Service kind                             : Complete Main
+Source                                   : VIDEO_TS/VTS_01_0.IFO
+
+Audio #2
+ID                                       : 189 (0xBD)-129 (0x81)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Muxing mode                              : DVD-Video
+Duration                                 : 2 h 1 min
+Bit rate mode                            : Constant
+Bit rate                                 : 384 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 333 MiB (4%)
+Language                                 : French
+Service kind                             : Complete Main
+Source                                   : VIDEO_TS/VTS_01_0.IFO
+
+Audio #3
+ID                                       : 189 (0xBD)-130 (0x82)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Format settings                          : Dolby Surround
+Muxing mode                              : DVD-Video
+Duration                                 : 2 h 1 min
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 166 MiB (2%)
+Language                                 : English
+Service kind                             : Complete Main
+Source                                   : VIDEO_TS/VTS_01_0.IFO
+
+Audio #4
+ID                                       : 189 (0xBD)-131 (0x83)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Format settings                          : Dolby Surround
+Muxing mode                              : DVD-Video
+Duration                                 : 2 h 1 min
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 166 MiB (2%)
+Language                                 : English
+Service kind                             : Complete Main
+Source                                   : VIDEO_TS/VTS_01_0.IFO
+
+Audio #5
+ID                                       : 189 (0xBD)-132 (0x84)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Format settings                          : Dolby Surround
+Muxing mode                              : DVD-Video
+Duration                                 : 2 h 1 min
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 166 MiB (2%)
+Language                                 : English
+Service kind                             : Complete Main
+Source                                   : VIDEO_TS/VTS_01_0.IFO
+
+Audio #6
+ID                                       : 189 (0xBD)-133 (0x85)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Muxing mode                              : DVD-Video
+Duration                                 : 2 h 1 min
+Bit rate mode                            : Constant
+Bit rate                                 : 96.0 kb/s
+Channel(s)                               : 1 channel
+Channel layout                           : M
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 83.1 MiB (1%)
+Language                                 : English
+Service kind                             : Complete Main
+Source                                   : VIDEO_TS/VTS_01_0.IFO
+
+Text #1
+ID                                       : 189 (0xBD)-32 (0x20)
+Format                                   : RLE
+Format/Info                              : Run-length encoding
+Muxing mode                              : DVD-Video
+Duration                                 : 2 h 1 min
+Bit depth                                : 2 bits
+Language                                 : English
+Source                                   : VIDEO_TS/VTS_01_0.IFO
+
+Text #2
+ID                                       : 189 (0xBD)-36 (0x24)
+Format                                   : RLE
+Format/Info                              : Run-length encoding
+Muxing mode                              : DVD-Video
+Duration                                 : 2 h 1 min
+Bit depth                                : 2 bits
+Delay relative to video                  : 2 s 336 ms
+Language                                 : English
+Source                                   : VIDEO_TS/VTS_01_0.IFO
+
+Text #3
+ID                                       : 224 (0xE0)-CC3
+Format                                   : EIA-608
+Format/Info                              : Run-length encoding
+Muxing mode, more info                   : Muxed in Video #1
+Duration                                 : 2 h 1 min
+Start time (commands)                    : 2 s 412 ms
+Bit rate mode                            : Constant
+Bit depth                                : 2 bits
+Stream size                              : 0.00 Byte (0%)
+Language                                 : French
+Source                                   : VIDEO_TS/VTS_01_0.IFO
+
+Text #4
+ID                                       : 189 (0xBD)-32 (0x20)
+Format                                   : RLE
+Format/Info                              : Run-length encoding
+Duration                                 : 2 h 1 min
+Bit depth                                : 2 bits
+Language                                 : Spanish
+Source                                   : VIDEO_TS/VTS_01_0.IFO
+
+Text #5
+ID                                       : 189 (0xBD)-32 (0x20)
+Format                                   : RLE
+Format/Info                              : Run-length encoding
+Duration                                 : 2 h 1 min
+Bit depth                                : 2 bits
+Language                                 : English
+Source                                   : VIDEO_TS/VTS_01_0.IFO
+
+Menu
+Duration                                 : 2 h 1 min
+00:00:00.000                             : Chapter 1
+00:06:29.300                             : Chapter 2
+00:09:30.800                             : Chapter 3
+00:14:55.467                             : Chapter 4
+00:17:47.367                             : Chapter 5
+00:21:52.467                             : Chapter 6
+00:23:27.200                             : Chapter 7
+00:25:17.467                             : Chapter 8
+00:34:33.033                             : Chapter 9
+00:40:19.967                             : Chapter 10
+00:41:40.533                             : Chapter 11
+00:43:11.467                             : Chapter 12
+00:44:37.333                             : Chapter 13
+00:54:29.700                             : Chapter 14
+00:55:49.033                             : Chapter 15
+01:00:45.467                             : Chapter 16
+01:04:17.133                             : Chapter 17
+01:05:53.300                             : Chapter 18
+01:12:07.667                             : Chapter 19
+01:14:14.633                             : Chapter 20
+01:15:44.267                             : Chapter 21
+01:19:30.967                             : Chapter 22
+01:22:01.533                             : Chapter 23
+01:25:08.500                             : Chapter 24
+01:30:34.000                             : Chapter 25
+01:39:31.000                             : Chapter 26
+01:45:02.300                             : Chapter 27
+01:50:26.167                             : Chapter 28
+List (Audio)                             : 0 / 1 / 2 / 3 / 4 / 5
+List (Subtitles 4/3)                     : 0 / 1 / 2 / 3 / 4
+List (Subtitles Wide)                    : 0 / 0 / 0 / 0 / 0
+List (Subtitles Letterbox)               : 0 / 0 / 0 / 0 / 0
+List (Subtitles Pan&amp;Scan)                : 0 / 0 / 0 / 0 / 0
+Source                                   : VIDEO_TS/VTS_01_0.IFO</pre>
+</div>Disc 2: Special Features<br>
+<br>
+<b>Download</b><br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[nghia13]]></author>
+                <author><![CDATA[Austin Zimmermann]]></author>
                 </item>
 
                 
                 <item>
-                <title><![CDATA[【Requests】[REQ VID] - TAYLOR SWIFT - MIDNIGHTS MUSIC VIDEOS (ANTI-HERO/BEJEWELED/LAVENDAR HAZE/KARMA)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/taylor-swift-midnights-music-videos-anti-hero-bejeweled-lavendar-haze-karma.233866/]]></link>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Taylor.Swift.The.Eras.Tour.2023.Extended.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX]]></title>
+                <link><![CDATA[https://sharemania.us/threads/taylor-swift-the-eras-tour-2023-extended-1080p-amzn-web-dl-ddp5-1-atmos-h-264-flux.233868/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-Taylor Swift released a handful of music videos for her most recent album, Midnights. This includes music videos for Anti-Hero, Bejeweled, Lavender Haze, and Karma (ft. Ice Spice). None of these seem to be uploaded currently, with any available links defunct, so I'm hoping somebody might be willing to reupload their copies of these music videos. Thanks!
+<div style="text-align: center">Taylor.Swift.The.Eras.Tour.2023.Extended.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX<br>
+<img src="https://i.ytimg.com/vi/KudedLV0tP0/maxresdefault.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ytimg.com/vi/KudedLV0tP0/maxresdefault.jpg" style=""> <br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div></div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[tkdgirl22]]></author>
+                <author><![CDATA[nickiexclusive]]></author>
                 </item>
 
                 </channel></rss>
