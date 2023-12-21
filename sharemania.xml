@@ -8,22 +8,156 @@
 
  
                 <item>
-                <title><![CDATA[【Requests】[REQ VID] - Crown For Christmas [Hallmark Movie] (HD) (MP4)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/crown-for-christmas-hallmark-movie-hd-mp4.234351/]]></link>
+                <title><![CDATA[【DVD】DVD9 - Little Einsteins: Team Up for Adventure (DVD9 NTSC R1)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/little-einsteins-team-up-for-adventure-dvd9-ntsc-r1.234352/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-Hi.<br>
+<img src="https://images.45worlds.com/f/dv/little-einsteins-team-up-for-adventure-2-dv.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images.45worlds.com/f/dv/little-einsteins-team-up-for-adventure-2-dv.jpg" style=""><br>
+<img src="https://images.45worlds.com/f/dv/little-einsteins-team-up-for-adventure-3-dv.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images.45worlds.com/f/dv/little-einsteins-team-up-for-adventure-3-dv.jpg" style=""><br>
+<b>Release Date</b>: April 25, 2006<br>
 <br>
-I'd like to request a clean webrip of Crown For Christmas:<br>
-<a href="https://www.primevideo.com/detail/Crown-for-Christmas/0SXI2NJ6L3O0PFQN95HTEP7IWZ" target="_blank" class="externalLink" rel="nofollow">https://www.primevideo.com/detail/Crown-for-Christmas/0SXI2NJ6L3O0PFQN95HTEP7IWZ</a><br>
-<br>
-In MP4 (HD), if possible!<br>
-<br>
-Thanks. <img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie56" alt=":innocent:" title="Innocent    :innocent:">
+<b>MediaInfo</b><br>
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>General
+Complete name                            : LET0NNF1.iso
+Format                                   : ISO 9660 / DVD Video
+Format profile                           : Program
+File size                                : 6.51 GiB
+Duration                                 : 1 h 8 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 13.5 Mb/s
+Frame rate                               : 29.970 FPS
+Movie name                               : LET0NNF1
+Encoded date                             : 2006-02-10 12:59:40.00+56:00
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Default
+Format settings, GOP                     : Variable
+Format settings, picture structure       : Frame
+Duration                                 : 1 h 8 min
+Bit rate mode                            : Variable
+Bit rate                                 : 12.6 Mb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 29.970 (29970/1000) FPS
+Original frame rate                      : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 1.216
+Stream size                              : 6.06 GiB (93%)
+Color primaries                          : BT.470 System M
+Transfer characteristics                 : BT.470 System M
+Matrix coefficients                      : BT.470 System B/G
+Source                                   : VIDEO_TS/VTS_01_0.IFO
+
+Audio #1
+ID                                       : 189 (0xBD)-128 (0x80)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Format settings                          : Dolby Surround
+Muxing mode                              : DVD-Video
+Duration                                 : 1 h 8 min
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 94.5 MiB (1%)
+Language                                 : English
+Service kind                             : Complete Main
+Source                                   : VIDEO_TS/VTS_01_0.IFO
+
+Audio #2
+ID                                       : 189 (0xBD)-129 (0x81)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Format settings                          : Dolby Surround
+Muxing mode                              : DVD-Video
+Duration                                 : 1 h 8 min
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 94.5 MiB (1%)
+Language                                 : French
+Service kind                             : Complete Main
+Source                                   : VIDEO_TS/VTS_01_0.IFO
+
+Text #1
+ID                                       : 189 (0xBD)-32 (0x20)
+Format                                   : RLE
+Format/Info                              : Run-length encoding
+Muxing mode                              : DVD-Video
+Duration                                 : 1 h 8 min
+Bit depth                                : 2 bits
+Delay relative to video                  : 6 s 606 ms
+Language                                 : English
+Source                                   : VIDEO_TS/VTS_01_0.IFO
+
+Text #2
+ID                                       : 189 (0xBD)-33 (0x21)
+Format                                   : RLE
+Format/Info                              : Run-length encoding
+Muxing mode                              : DVD-Video
+Duration                                 : 1 h 8 min
+Bit depth                                : 2 bits
+Language                                 : French
+Source                                   : VIDEO_TS/VTS_01_0.IFO
+
+Menu
+Duration                                 : 1 h 8 min
+00:00:00.000                             : Chapter 1
+00:01:03.533                             : Chapter 2
+00:23:27.067                             : Chapter 3
+00:45:49.067                             : Chapter 4
+01:08:12.067                             : Chapter 5
+01:08:50.067                             : Chapter 6
+List (Audio)                             : 0 / 1
+List (Subtitles 4/3)                     : 0
+List (Subtitles Wide)                    : 0
+List (Subtitles Letterbox)               : 0
+List (Subtitles Pan&amp;Scan)                : 0
+Source                                   : VIDEO_TS/VTS_01_0.IFO
+</pre>
+</div><b>Download</b><br>
+<a href="https://rapidgator.net/folder/7447306/Little.Einsteins.Team.Up.for.Adventure.DVD9.NTSC.R1.html" target="_blank" class="externalLink" rel="nofollow">https://rapidgator.net/folder/7447306/Little.Einsteins.Team.Up.for.Adventure.DVD9.NTSC.R1.html</a>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[OrangeGround35]]></author>
+                <author><![CDATA[Austin Zimmermann]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ CAP] - Can someone help me to get this song please  Flac hi res]]></title>
+                <link><![CDATA[https://sharemania.us/threads/can-someone-help-me-to-get-this-song-please-flac-hi-res.234353/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+Total Feat Missy Elliott : what about us<br>
+Angie martinez Feat wyclef jean : coast 2 coast
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[alaeddine1505]]></author>
                 </item>
 
                 </channel></rss>
