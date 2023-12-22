@@ -8,60 +8,166 @@
 
  
                 <item>
-                <title><![CDATA[【DVD】DVD9 - Star Wars: Clone Wars - Volume Two (DVD9 NTSC R1)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/star-wars-clone-wars-volume-two-dvd9-ntsc-r1.234451/]]></link>
+                <title><![CDATA[【DVD】DVD9 - Edson Gomes - Ao Vivo em Salvador (DVD ISO) - 2006]]></title>
+                <link><![CDATA[https://sharemania.us/threads/edson-gomes-ao-vivo-em-salvador-dvd-iso-2006.234452/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://images.45worlds.com/f/dv/star-wars-clone-wars-volume-two-dv.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images.45worlds.com/f/dv/star-wars-clone-wars-volume-two-dv.jpg" style=""><br>
-<img src="https://images.45worlds.com/f/dv/star-wars-clone-wars-volume-two-twentieth-century-fox-home-entertainment-dv.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images.45worlds.com/f/dv/star-wars-clone-wars-volume-two-twentieth-century-fox-home-entertainment-dv.jpg" style=""><br>
-<b>Title</b>: Star Wars: Clone Wars - Volume Two<br>
-<b>Publisher</b>: 20th Century Fox Home Entertainment<br>
-<b>Format</b>: DVD<br>
-<b>Date</b>: December 6, 2005
+<img src="https://i.imgur.com/hSBTPeB.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/hSBTPeB.jpg" style=""> <br>
+<br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">General<br>
+Format : ISO 9660 / DVD Video<br>
+Format profile : Program<br>
+File size : 7.50 GiB<br>
+Duration : 1 h 57 min<br>
+Overall bit rate mode : Variable<br>
+Overall bit rate : 9 164 kb/s<br>
+Frame rate : 29.970 FPS<br>
+Movie name : EDSON_GOMES<br>
+Encoded date : 2006-02-03 17:58:45.00+61:00<br>
+<br>
+Video<br>
+ID : 224 (0xE0)<br>
+Format : MPEG Video<br>
+Format version : Version 2<br>
+Format profile : Main@Main<br>
+Format settings : CustomMatrix / BVOP<br>
+Format settings, BVOP : Yes<br>
+Format settings, Matrix : Custom<br>
+Format settings, GOP : Variable<br>
+Format settings, picture struc : Frame<br>
+Duration : 1 h 57 min<br>
+Bit rate mode : Variable<br>
+Bit rate : 8 119 kb/s<br>
+Maximum bit rate : 8 500 kb/s<br>
+Width : 720 pixels<br>
+Height : 480 pixels<br>
+Display aspect ratio : 4:3<br>
+Frame rate : 29.970 (29970/1000) FPS<br>
+Original frame rate : 29.970 (30000/1001) FPS<br>
+Standard : NTSC<br>
+Color space : YUV<br>
+Chroma subsampling : 4:2:0<br>
+Bit depth : 8 bits<br>
+Scan type : Interlaced<br>
+Scan order : Bottom Field First<br>
+Compression mode : Lossy<br>
+Bits/(Pixel*Frame) : 0.784<br>
+Time code of first frame : 01:00:00;00<br>
+Time code source : Group of pictures header<br>
+GOP, Open/Closed : Closed<br>
+Stream size : 6.65 GiB (89%)<br>
+Writing library : Apple MPEG-2 Encoder v483-20050527 [6000000 210989 R8500000 w3 e2s E2 s0x10002 I V0x0]<br>
+Color primaries : BT.601 NTSC<br>
+Transfer characteristics : BT.601<br>
+Matrix coefficients : BT.601<br>
+Source : VIDEO_TS\VTS_01_0.IFO<br>
+<br>
+Audio #1<br>
+ID : 189 (0xBD)-128 (0x80)<br>
+Format : AC-3<br>
+Format/Info : Audio Coding 3<br>
+Commercial name : Dolby Digital<br>
+Muxing mode : DVD-Video<br>
+Duration : 1 h 57 min<br>
+Bit rate mode : Constant<br>
+Bit rate : 448 kb/s<br>
+Channel(s) : 6 channels<br>
+Channel layout : L R C LFE Ls Rs<br>
+Sampling rate : 48.0 kHz<br>
+Frame rate : 31.250 FPS (1536 SPF)<br>
+Compression mode : Lossy<br>
+Stream size : 376 MiB (5%)<br>
+Language : Portuguese<br>
+Service kind : Complete Main<br>
+Source : VIDEO_TS\VTS_01_0.IFO<br>
+<br>
+Audio #2<br>
+ID : 189 (0xBD)-129 (0x81)<br>
+Format : AC-3<br>
+Format/Info : Audio Coding 3<br>
+Commercial name : Dolby Digital<br>
+Muxing mode : DVD-Video<br>
+Duration : 1 h 57 min<br>
+Bit rate mode : Constant<br>
+Bit rate : 224 kb/s<br>
+Channel(s) : 2 channels<br>
+Channel layout : L R<br>
+Sampling rate : 48.0 kHz<br>
+Frame rate : 31.250 FPS (1536 SPF)<br>
+Compression mode : Lossy<br>
+Stream size : 188 MiB (2%)<br>
+Language : Portuguese<br>
+Service kind : Complete Main<br>
+Source : VIDEO_TS\VTS_01_0.IFO<br>
+<br>
+Menu<br>
+Duration : 1 h 57 min<br>
+00:00:00.000 : Chapter 1<br>
+00:05:58.267 : Chapter 2<br>
+00:10:05.333 : Chapter 3<br>
+00:15:15.633 : Chapter 4<br>
+00:25:43.000 : Chapter 5<br>
+00:31:42.567 : Chapter 6<br>
+00:36:37.533 : Chapter 7<br>
+00:42:03.933 : Chapter 8<br>
+00:46:53.500 : Chapter 9<br>
+00:51:27.533 : Chapter 10<br>
+00:56:59.933 : Chapter 11<br>
+01:01:09.533 : Chapter 12<br>
+01:04:57.700 : Chapter 13<br>
+01:08:37.000 : Chapter 14<br>
+01:13:36.600 : Chapter 15<br>
+01:18:49.033 : Chapter 16<br>
+01:23:50.067 : Chapter 17<br>
+01:30:22.267 : Chapter 18<br>
+01:33:57.767 : Chapter 19<br>
+01:38:33.467 : Chapter 20<br>
+01:43:28.467 : Chapter 21<br>
+01:50:07.867 : Chapter 22<br>
+01:54:28.867 : Chapter 23<br>
+01:57:12.967 : Chapter 24<br>
+List (Audio) : 0 / 1<br>
+Source : VIDEO_TS\VTS_01_0.IFO</div>
+</div>Edson Gomes é conhecido como o maior nome do estilo "roots" reggae brasileiro na atualidade e considerado o artista mais influente de sua geração dentro do estilo, sem concessões políticas nem estéticas. Este show “Edson Gomes - Ao Vivo Em Salvador - BA” celebra os 25 anos de sua trajetória musical. Foi gravado em julho de 2005 no Wet’n Wild e contou com um público de mais de vinte mil pessoas.<br>
+<br>
+<span style="text-decoration: underline"><b>Lista de faixas:</b></span><br>
+1 Dívidas<br>
+2 Perdido De Amor<br>
+3 Árvore<br>
+4 Criminalidade<br>
+5 Campo De Batalha<br>
+6 Barrados<br>
+7 Fala Só De Amor<br>
+8 Lili<br>
+9 Traumas<br>
+10 Ana Maria<br>
+11 Viu<br>
+12 Tabuleiro<br>
+13 Samarina<br>
+14 Bibliotecas Públicas<br>
+15 Babylon Vampire<br>
+16 Camelô<br>
+17 Lei Do Engano<br>
+18 Isaac<br>
+19 Malandrinha<br>
+20 Árvore (Bis)<br>
+21 Barrados (Bis)<br>
+22 Malandrinha (Bis)<br>
+<br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>password:
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[Austin Zimmermann]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【DVD】DVD9 - Star Wars: Clone Wars - Volume One (DVD9 NTSC R1)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/star-wars-clone-wars-volume-one-dvd9-ntsc-r1.234450/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://images.45worlds.com/f/dv/star-wars-clone-wars-volume-one-dv.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images.45worlds.com/f/dv/star-wars-clone-wars-volume-one-dv.jpg" style=""><br>
-<img src="https://images.45worlds.com/f/dv/star-wars-clone-wars-volume-one-20th-century-fox-dv.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images.45worlds.com/f/dv/star-wars-clone-wars-volume-one-20th-century-fox-dv.jpg" style=""><br>
-<br>
-<b>Title</b>: Star Wars: Clone Wars - Volume One<br>
-<b>Publisher</b>: 20th Century Fox<br>
-<b>Country</b>: USA<br>
-<b>Format</b>: DVD<br>
-<b>Date</b>: March 22, 2005<br>
-<b>Region Code</b>: 1<br>
-<b>Barcode</b>: 024543157922<br>
-<b>Genre</b>: Animation, Science Fiction, Adventure<br>
-<br>
-<b>Description</b><br>
-The Saga continues with the Emmy-winning <i>Star Wars: Clone Wars</i>, available for the first time ever on DVD. This animated micro-series, directed by Genndy Tartakovsky, captures George Lucas’ vision in a dynamic animated style that is a visual delight for all ages.<br>
-<br>
-<i>Star Wars: Clone Wars</i> Volume One reveals the epic adventures that bridge the story arc between <i>Star Wars</i>: Episode II <i>Attack of the Clones</i> and <i>Star Wars</i>: Episode III <i>Revenge of the Sith</i>. Follow the valiant Jedi Knights and the brave soldiers of the Republic’s clone army as they battle against the droid forces of the Separatists, led by the evil Sith Lord, Count Dooku. Witness the battles that made galactic heroes out of Anakin Skywalker and Obi-Wan Kenobi, and along the way get a first look at the new menace from Episode III, General Grievous.<br>
-<br>
-This is a must-have for any <i>Star Wars</i> DVD collection.<br>
-<br>
-<b>Features</b><br>
-- Exclusive “Bridging the Saga: From <i>Clone Wars</i> to <i>Revenge of the Sith</i>” Featurette – including new interviews with George Lucas, Genndy Tartakovsky, the <i>Clone Wars</i> production crew; also featuring a glimpse of <i>Star Wars: Clone Wars</i> Volume Two<br>
-- Behind-the-Scenes Featurette<br>
-- Two Director Commentaries<br>
-- Two Galleries of Concept Art, Storyboards, Sketches &amp; More!<br>
-- <i>Star Wars</i>: Episode III <i>Revenge of the Sith</i> Teaser Trailer<br>
-- Episode III Video Game Trailer<br>
-- <i>Star Wars: Republic Commando</i> Video Game Trailer<br>
-- An Xbox®-Playable Game Level of <i>Star Wars: Republic Commando</i>
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[Austin Zimmermann]]></author>
+                <author><![CDATA[JrAleixo]]></author>
                 </item>
 
                 </channel></rss>
