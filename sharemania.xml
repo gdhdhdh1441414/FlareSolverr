@@ -8,152 +8,76 @@
 
  
                 <item>
-                <title><![CDATA[【Albums (lossy)】Vanessa Carlton - Be Not Nobody]]></title>
-                <link><![CDATA[https://sharemania.us/threads/vanessa-carlton-be-not-nobody.234537/]]></link>
+                <title><![CDATA[【HD Live Performances】UPSCALE - Avril Lavigne - Girlfriend (Live Festivalbar 2007) FHD Upscale]]></title>
+                <link><![CDATA[https://sharemania.us/threads/avril-lavigne-girlfriend-live-festivalbar-2007-fhd-upscale.234542/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-Anyone have this in FLAC, CDQ or 320KPS? <br>
+<img src="https://i.imgur.com/DmaVs15.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/DmaVs15.png" style=""> <img src="https://i.imgur.com/R89fqkX.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/R89fqkX.png" style=""> <img src="https://i.imgur.com/7Y9OZVb.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/7Y9OZVb.png" style=""> <img src="https://i.imgur.com/Y4VPb76.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/Y4VPb76.png" style=""> <img src="https://i.imgur.com/VI478Os.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/VI478Os.png" style=""><br>
 <br>
-Thanks
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[SQUIREBUFFY]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【PRORES HD】j mena Cazzu Quien Empezo (ProRes[2019]]></title>
-                <link><![CDATA[https://sharemania.us/threads/j-mena-cazzu-quien-empezo-prores-2019.234541/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://i.imgur.com/JB5tRSe.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/JB5tRSe.png" style=""><br>
-<div class="bbCodeBlock bbCodeQuote">
-<aside>
-<blockquote class="quoteContainer"><div class="quote"><span style="font-size: 18px"><b>General</b></span><br>
-<i>Complete name :</i> J:\j mena Cazzu Quien Empezo (ProRes[2019.mov<br>
-<i>Format :</i> MPEG-4<br>
-<i>Format profile :</i> QuickTime<br>
-<i>Codec ID :</i> qt 2005.03 (qt )<br>
-<i>File size :</i> 4.38 GiB<br>
-<i>Duration :</i> 3 min 29 s<br>
-<i>Overall bit rate mode :</i> Variable<br>
-<i>Overall bit rate :</i> 180 Mb/s<br>
-<i>Frame rate :</i> 25.000 FPS<br>
-<i>Encoded date :</i> 2019-06-24 18:23:34 UTC<br>
-<i>Tagged date :</i> 2019-06-24 18:28:34 UTC<br>
-<i>Writing library :</i> Apple QuickTime<br>
-<i>TIM :</i> 00:00:00:00<br>
-<i>TSC :</i> 25<br>
-<i>TSZ :</i> 1<br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">General<br>
+File size : 841 MiB<br>
+Duration : 4 min 29 s<br>
+Overall bit rate : 26.2 Mb/s<br>
+Writing application : Lavf60.14.101<br>
+Writing library : Lavf60.14.101<br>
+ErrorDetectionType : Per level 1<br>
 <br>
-<span style="font-size: 18px"><b>Video</b></span><br>
-<i>ID :</i> 1<br>
-<i>Format :</i> ProRes<br>
-<i>Format version :</i> Version 0<br>
-<i>Format profile :</i> 422 HQ<br>
-<i>Codec ID :</i> apch<br>
-<i>Duration :</i> 3 min 29 s<br>
-<i>Bit rate mode :</i> Variable<br>
-<i>Bit rate :</i> 178 Mb/s<br>
-<i>Width :</i> 1 920 pixels<br>
-<i>Height :</i> 1 080 pixels<br>
-<i>Display aspect ratio :</i> 16:9<br>
-<i>Frame rate mode :</i> Constant<br>
-<i>Frame rate :</i> 25.000 FPS<br>
-<i>Color space :</i> YUV<br>
-<i>Chroma subsampling :</i> 4:2:2<br>
-<i>Scan type :</i> Progressive<br>
-<i>Bits/(Pixel*Frame) :</i> 3.434<br>
-<i>Stream size :</i> 4.34 GiB (99%)<br>
-<i>Writing library :</i> Apple<br>
-<i>Language :</i> English<br>
-<i>Encoded date :</i> 2019-06-24 18:23:34 UTC<br>
-<i>Tagged date :</i> 2019-06-24 18:23:34 UTC<br>
-<i>Color primaries :</i> BT.709<br>
-<i>Transfer characteristics :</i> BT.709<br>
-<i>Matrix coefficients :</i> BT.709<br>
+Video<br>
+ID : 1<br>
+Format : AVC<br>
+Format/Info : Advanced Video Codec<br>
+Format profile : High@L4.2<br>
+Format settings : CABAC / 1 Ref Frames<br>
+Format settings, CABAC : Yes<br>
+Format settings, Reference fra : 1 frame<br>
+Format settings, GOP : M=1, N=30<br>
+Codec ID : V_MPEG4/ISO/AVC<br>
+Duration : 4 min 29 s<br>
+Bit rate : 23.4 Mb/s<br>
+Width : 1 318 pixels<br>
+Height : 1 080 pixels<br>
+Display aspect ratio : 4:3<br>
+Frame rate mode : Constant<br>
+Frame rate : 25.000 FPS<br>
+Standard : Component<br>
+Color space : YUV<br>
+Chroma subsampling : 4:2:0<br>
+Bit depth : 8 bits<br>
+Scan type : Progressive<br>
+Bits/(Pixel*Frame) : 0.657<br>
+Stream size : 750 MiB (89%)<br>
+Writing library : Lavc60.27.101 hevc_amf<br>
+Default : No<br>
+Forced : No<br>
+Color range : Limited<br>
+Matrix coefficients : BT.709<br>
 <br>
-<span style="font-size: 18px"><b>Audio</b></span><br>
-<i>ID :</i> 2<br>
-<i>Format :</i> PCM<br>
-<i>Format settings :</i> Little / Signed<br>
-<i>Codec ID :</i> sowt<br>
-<i>Duration :</i> 3 min 29 s<br>
-<i>Bit rate mode :</i> Constant<br>
-<i>Bit rate :</i> 1 536 kb/s<br>
-<i>Channel(s) :</i> 2 channels<br>
-<i>Channel layout :</i> L R<br>
-<i>Sampling rate :</i> 48.0 kHz<br>
-<i>Bit depth :</i> 16 bits<br>
-<i>Stream size :</i> 38.4 MiB (1%)<br>
-<i>Language :</i> English<br>
-<i>Encoded date :</i> 2019-06-24 18:23:34 UTC<br>
-<i>Tagged date :</i> 2019-06-24 18:23:34 UTC<br>
-<br>
-<span style="font-size: 18px"><b>Other</b></span><br>
-<i>ID :</i> 3<br>
-<i>Type :</i> Time code<br>
-<i>Format :</i> QuickTime TC<br>
-<i>Duration :</i> 3 min 29 s<br>
-<i>Frame rate :</i> 25.000 FPS<br>
-<i>Time code of first frame :</i> 00:00:00:00<br>
-<i>Time code of last frame :</i> 00:03:29:12<br>
-<i>Time code, stripped :</i> Yes<br>
-<i>Language :</i> English<br>
-<i>Encoded date :</i> 2019-06-24 18:23:34 UTC<br>
-<i>Tagged date :</i> 2019-06-24 18:23:34 UTC</div><div class="quoteExpand quoteCut">Click to expand...</div></blockquote>
-</aside>
-</div><img src="https://i.imgur.com/RUnyz9I.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/RUnyz9I.png" style="">
+Audio<br>
+ID : 2<br>
+Format : PCM<br>
+Format settings : Little / Signed<br>
+Codec ID : A_PCM/INT/LIT<br>
+Duration : 4 min 29 s<br>
+Bit rate mode : Constant<br>
+Bit rate : 2 304 kb/s<br>
+Channel(s) : 2 channels<br>
+Sampling rate : 48.0 kHz<br>
+Bit depth : 24 bits<br>
+Stream size : 74.0 MiB (9%)<br>
+Writing library : Lavc60.27.101 hevc_amf<br>
+Default : No<br>
+Forced : No</div>
+</div><br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
-<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
 </div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[ssetare571]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Requests】[REQ AUD] - tripleS - NXT in 24bit 96kHz]]></title>
-                <link><![CDATA[https://sharemania.us/threads/triples-nxt-in-24bit-96khz.234539/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-Could someone share the tripleS single &lt;NXT Just do it&gt; in 24bit 96kHz?<br>
-I'm not looking for CD quality, I'm looking for HiRes
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[RiuJin]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Requests】[REQ VID] - GWEN STEFANI Christmas Special 2017 + Harajuku Lovers Live (Bonus Features)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/gwen-stefani-christmas-special-2017-harajuku-lovers-live-bonus-features.234538/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-Really hoping to watch the special this holiday season, it was on here a year or two ago in HD but the link is dead sadly. The one on Youtube is tragic! Also looking for the bonus features from the Harajuku Lovers live DVD!!<br>
-Thank you so much, merry Christmas!
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[joshie]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Requests】[REQ CAP] - 2005 MTV Video Music Awards Pre-Show By The Shore]]></title>
-                <link><![CDATA[https://sharemania.us/threads/2005-mtv-video-music-awards-pre-show-by-the-shore.234540/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="http://FB_IMG_1702932888934.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="http://FB_IMG_1702932888934.jpg" style="">
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[JC2023]]></author>
+                <author><![CDATA[Avril1255]]></author>
                 </item>
 
                 </channel></rss>
