@@ -8,86 +8,63 @@
 
  
                 <item>
-                <title><![CDATA[【HD Live Performances】WEB-RiP - Al Bano - 4 volte 20 - 2023 - Canale5 1080p IPTV]]></title>
-                <link><![CDATA[https://sharemania.us/threads/al-bano-4-volte-20-2023-canale5-1080p-iptv.234786/]]></link>
+                <title><![CDATA[【UPSCALED】Avril Lavigne - Smile (Music Video) 1080p Upscale]]></title>
+                <link><![CDATA[https://sharemania.us/threads/avril-lavigne-smile-music-video-1080p-upscale.234789/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://i.imgur.com/1OowFak.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/1OowFak.jpg" style=""><br>
+<img src="https://i.imgur.com/tbBQ1h4.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/tbBQ1h4.png" style=""> <img src="https://i.imgur.com/g3G83w9.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/g3G83w9.png" style=""> <img src="https://i.imgur.com/RhOPB6b.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/RhOPB6b.png" style=""> <img src="https://i.imgur.com/cQYktTh.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/cQYktTh.png" style=""> <img src="https://i.imgur.com/Z1nVsuF.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/Z1nVsuF.png" style=""> <br>
 <br>
-<div class="bbCodeBlock bbCodeCode">
-<div class="type">Code:</div>
-<pre>General
-Complete name                            : Al Bano - 4 volte 20 - Canale5 1080p IPTV.mkv
-Format                                   : Matroska
-Format version                           : Version 4
-File size                                : 9.49 GiB
-Duration                                 : 2 h 49 min
-Overall bit rate                         : 8 038 kb/s
-Encoded date                             : UTC 2023-12-27 22:50:23
-Writing application                      : mkvmerge v55.0.0 ('Waiting For Space') 64-bit
-Writing library                          : libebml v1.4.2 + libmatroska v1.6.4
-Video
-ID                                       : 1
-Format                                   : AVC
-Format/Info                              : Advanced Video Codec
-Format profile                           : Main@L4.2
-Format settings                          : CABAC / 2 Ref Frames
-Format settings, CABAC                   : Yes
-Format settings, Reference frames        : 2 frames
-Codec ID                                 : V_MPEG4/ISO/AVC
-Duration                                 : 2 h 49 min
-Bit rate                                 : 7 652 kb/s
-Width                                    : 1 920 pixels
-Height                                   : 1 080 pixels
-Display aspect ratio                     : 16:9
-Frame rate mode                          : Constant
-Frame rate                               : 50.000 FPS
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0
-Bit depth                                : 8 bits
-Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.074
-Stream size                              : 9.04 GiB (95%)
-Language                                 : Italian
-Default                                  : Yes
-Forced                                   : No
-Audio #1
-ID                                       : 2
-Format                                   : E-AC-3
-Format/Info                              : Enhanced AC-3
-Commercial name                          : Dolby Digital Plus
-Codec ID                                 : A_EAC3
-Duration                                 : 2 h 49 min
-Bit rate mode                            : Constant
-Bit rate                                 : 256 kb/s
-Channel(s)                               : 6 channels
-Channel layout                           : L R C LFE Ls Rs
-Sampling rate                            : 48.0 kHz
-Frame rate                               : 31.250 FPS (1536 SPF)
-Compression mode                         : Lossy
-Stream size                              : 310 MiB (3%)
-Language                                 : Italian
-Service kind                             : Complete Main
-Default                                  : Yes
-Forced                                   : No
-Audio #2
-ID                                       : 3
-Format                                   : AAC LC
-Format/Info                              : Advanced Audio Codec Low Complexity
-Codec ID                                 : A_AAC-2
-Duration                                 : 2 h 49 min
-Bit rate                                 : 127 kb/s
-Channel(s)                               : 2 channels
-Channel layout                           : L R
-Sampling rate                            : 48.0 kHz
-Frame rate                               : 46.875 FPS (1024 SPF)
-Compression mode                         : Lossy
-Stream size                              : 153 MiB (2%)
-Language                                 : Italian
-Default                                  : No
-Forced                                   : No
-</pre>
-</div>Pixeldrain:<br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">General<br>
+File size : 606 MiB<br>
+Duration : 3 min 36 s<br>
+Overall bit rate : 23.5 Mb/s<br>
+Writing application : Lavf60.14.101<br>
+Writing library : Lavf60.14.101<br>
+ErrorDetectionType : Per level 1<br>
+<br>
+Video<br>
+ID : 1<br>
+Format : HEVC<br>
+Format/Info : High Efficiency Video Coding<br>
+Format profile : Main@L6.2@High<br>
+Codec ID : V_MPEGH/ISO/HEVC<br>
+Duration : 3 min 36 s<br>
+Bit rate : 20.7 Mb/s<br>
+Width : 1 600 pixels<br>
+Height : 1 080 pixels<br>
+Display aspect ratio : 16:9<br>
+Frame rate mode : Constant<br>
+Frame rate : 29.970 (30000/1001) FPS<br>
+Color space : YUV<br>
+Chroma subsampling : 4:2:0<br>
+Bit depth : 8 bits<br>
+Bits/(Pixel*Frame) : 0.399<br>
+Stream size : 535 MiB (88%)<br>
+Writing library : Lavc60.27.101 hevc_amf<br>
+Default : No<br>
+Forced : No<br>
+Color range : Limited<br>
+Transfer characteristics : BT.709<br>
+Matrix coefficients : BT.709<br>
+<br>
+Audio<br>
+ID : 2<br>
+Format : PCM<br>
+Format settings : Little / Signed<br>
+Codec ID : A_PCM/INT/LIT<br>
+Duration : 3 min 36 s<br>
+Bit rate mode : Constant<br>
+Bit rate : 2 304 kb/s<br>
+Channel(s) : 2 channels<br>
+Sampling rate : 48.0 kHz<br>
+Bit depth : 24 bits<br>
+Stream size : 59.6 MiB (10%)<br>
+Writing library : Lavc60.27.101 hevc_amf<br>
+Default : No<br>
+Forced : No</div>
+</div><br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
 <blockquote>You must reply before you can see the hidden data contained here.</blockquote>
@@ -95,7 +72,272 @@ Forced                                   : No
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[LLAVE1]]></author>
+                <author><![CDATA[Avril1255]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ AUD] - Vanessa Carlton - Be Not Nobody]]></title>
+                <link><![CDATA[https://sharemania.us/threads/vanessa-carlton-be-not-nobody.234792/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+Anyone have this in 320kps, CDQ or FLAC? <br>
+<br>
+Thanks! <img src="styles/default/xenforo/smilies/big_smile-48.png" class="mceSmilie" alt=":)" title="Smile    :)">
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[SQUIREBUFFY]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】Avril Lavigne - I Can Do Better (The Best Damn Tour) Upscale]]></title>
+                <link><![CDATA[https://sharemania.us/threads/avril-lavigne-i-can-do-better-the-best-damn-tour-upscale.234788/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<img src="https://i.imgur.com/qMoiPvP.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/qMoiPvP.png" style=""> <img src="https://i.imgur.com/8nHgui8.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/8nHgui8.png" style=""> <img src="https://i.imgur.com/SC242Nc.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/SC242Nc.png" style=""> <img src="https://i.imgur.com/hPMrevR.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/hPMrevR.png" style=""> <img src="https://i.imgur.com/p375I5e.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/p375I5e.png" style=""> <img src="https://i.imgur.com/ma2Xebx.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/ma2Xebx.png" style=""> <img src="https://i.imgur.com/sqVBvSz.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/sqVBvSz.png" style=""> <img src="https://i.imgur.com/6Qtc9bm.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/6Qtc9bm.png" style=""> <img src="https://i.imgur.com/iZ5f1T8.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/iZ5f1T8.png" style=""> <img src="https://i.imgur.com/MjHHze5.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/MjHHze5.png" style=""> <br>
+<br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">General<br>
+File size : 1.89 GiB<br>
+Duration : 4 min 30 s<br>
+Overall bit rate : 60.0 Mb/s<br>
+Writing application : Lavf60.14.101<br>
+Writing library : Lavf60.14.101<br>
+ErrorDetectionType : Per level 1<br>
+<br>
+Video<br>
+ID : 1<br>
+Format : AVC<br>
+Format/Info : Advanced Video Codec<br>
+Format profile : High@L4.2<br>
+Format settings : CABAC / 1 Ref Frames<br>
+Format settings, CABAC : Yes<br>
+Format settings, Reference fra : 1 frame<br>
+Format settings, GOP : M=1, N=30<br>
+Codec ID : V_MPEG4/ISO/AVC<br>
+Duration : 4 min 30 s<br>
+Width : 1 920 pixels<br>
+Height : 1 080 pixels<br>
+Display aspect ratio : 16:9<br>
+Frame rate mode : Constant<br>
+Frame rate : 29.970 (30000/1001) FPS<br>
+Standard : Component<br>
+Color space : YUV<br>
+Chroma subsampling : 4:2:0<br>
+Bit depth : 8 bits<br>
+Scan type : Progressive<br>
+Writing library : Lavc60.27.101 h264_amf<br>
+Default : No<br>
+Forced : No<br>
+Color range : Limited<br>
+Matrix coefficients : BT.709<br>
+<br>
+Audio<br>
+ID : 2<br>
+Format : AAC LC<br>
+Format/Info : Advanced Audio Codec Low Complexity<br>
+Codec ID : A_AAC-2<br>
+Duration : 4 min 30 s<br>
+Channel(s) : 2 channels<br>
+Channel layout : L R<br>
+Sampling rate : 44.1 kHz<br>
+Frame rate : 43.066 FPS (1024 SPF)<br>
+Compression mode : Lossy<br>
+Default : Yes<br>
+Forced : No</div>
+</div><br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">GDrive Link</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></div>
+</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[Avril1255]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】UPSCALE - Avril Lavigne - What The Hell (Music Station) 1080P Upscale]]></title>
+                <link><![CDATA[https://sharemania.us/threads/avril-lavigne-what-the-hell-music-station-1080p-upscale.234793/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+Thanks
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[Avril1255]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Albums (lossless)】FLAC - Black Sabbath - Paranoid [Quadraphonic Mix] - 1970/2023 [FLAC ● 4.0 ● 16/48 ● Blu-ray]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/black-sabbath-paranoid-quadraphonic-mix-1970-2023-flac-%E2%97%8F-4-0-%E2%97%8F-16-48-%E2%97%8F-blu-ray.234787/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<img src="https://i.imgur.com/QMGkX75.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/QMGkX75.png" style=""> <img src="https://i.imgur.com/1aJpSWU.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/1aJpSWU.png" style=""> <img src="https://i.imgur.com/JxoufOn.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/JxoufOn.png" style=""> <img src="https://i.imgur.com/RWr4a7U.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/RWr4a7U.png" style=""> <br>
+<br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">General<br>
+File size : 507 MiB<br>
+Duration : 2 min 41 s<br>
+Overall bit rate : 26.3 Mb/s<br>
+Writing application : Lavf60.14.101<br>
+Writing library : Lavf60.14.101<br>
+ErrorDetectionType : Per level 1<br>
+SOFTWARE : Lavf51.12.1<br>
+<br>
+Video<br>
+ID : 1<br>
+Format : HEVC<br>
+Format/Info : High Efficiency Video Coding<br>
+Format profile : Main@L6.2@High<br>
+Codec ID : V_MPEGH/ISO/HEVC<br>
+Duration : 2 min 41 s<br>
+Bit rate : 23.5 Mb/s<br>
+Width : 1 920 pixels<br>
+Height : 1 080 pixels<br>
+Display aspect ratio : 16:9<br>
+Frame rate mode : Constant<br>
+Frame rate : 29.970 (30000/1001) FPS<br>
+Color space : YUV<br>
+Chroma subsampling : 4:2:0<br>
+Bit depth : 8 bits<br>
+Bits/(Pixel*Frame) : 0.378<br>
+Stream size : 452 MiB (89%)<br>
+Writing library : Lavc60.27.101 hevc_amf<br>
+Default : No<br>
+Forced : No<br>
+Color range : Limited<br>
+Transfer characteristics : BT.709<br>
+Matrix coefficients : BT.709<br>
+<br>
+Audio<br>
+ID : 2<br>
+Format : PCM<br>
+Format settings : Little / Signed<br>
+Codec ID : A_PCM/INT/LIT<br>
+Duration : 2 min 41 s<br>
+Bit rate mode : Constant<br>
+Bit rate : 2 304 kb/s<br>
+Channel(s) : 2 channels<br>
+Sampling rate : 48.0 kHz<br>
+Bit depth : 24 bits<br>
+Stream size : 44.3 MiB (9%)<br>
+Writing library : Lavc60.27.101 pcm_s24le<br>
+Default : No<br>
+Forced : No</div>
+</div><br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[2023user]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】UPSCALE - Avril Lavigne - Hot (Regis&amp;Kelly 2008) 1080P Upscale]]></title>
+                <link><![CDATA[https://sharemania.us/threads/avril-lavigne-hot-regis-kelly-2008-1080p-upscale.234791/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<a href="https://imgbox.com/FEiidtKy" target="_blank" class="externalLink" rel="nofollow"><img src="https://thumbs2.imgbox.com/27/41/FEiidtKy_t.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://thumbs2.imgbox.com/27/41/FEiidtKy_t.jpg"></a><br>
+<br>
+Artist : Black Sabbath<br>
+Album : Paranoid [Quadraphonic Mix]<br>
+Year : 1970 / 1974 for the Quadraphonic mix<br>
+Format : FLAC 16bits / 48.0kHz<br>
+Source : Ripped from the 2023 Warner Records Blu-ray disc DTS-HD Master Audio 24bits / 192.0kHz<br>
+Size : 481mb<br>
+Enjoy!<br>
+<br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[Avril1255]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】UPSCALE - Avril Lavigne - Complicated (Music Station Japan 2003) 1080P Upscale]]></title>
+                <link><![CDATA[https://sharemania.us/threads/avril-lavigne-complicated-music-station-japan-2003-1080p-upscale.234790/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<img src="https://i.imgur.com/gCvJYV9.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/gCvJYV9.png" style=""> <img src="https://i.imgur.com/BorssL3.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/BorssL3.png" style=""> <br>
+<br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">General<br>
+File size : 432 MiB<br>
+Duration : 2 min 17 s<br>
+Overall bit rate : 26.3 Mb/s<br>
+Writing application : Lavf60.14.101<br>
+Writing library : Lavf60.14.101<br>
+<br>
+Video<br>
+ID : 1<br>
+Format : HEVC<br>
+Format/Info : High Efficiency Video Coding<br>
+Format profile : Main@L6.2@High<br>
+Codec ID : V_MPEGH/ISO/HEVC<br>
+Duration : 2 min 17 s<br>
+Bit rate : 23.5 Mb/s<br>
+Width : 1 602 pixels<br>
+Height : 1 080 pixels<br>
+Display aspect ratio : 4:3<br>
+Frame rate mode : Constant<br>
+Frame rate : 29.970 (30000/1001) FPS<br>
+Color space : YUV<br>
+Chroma subsampling : 4:2:0<br>
+Bit depth : 8 bits<br>
+Bits/(Pixel*Frame) : 0.453<br>
+Stream size : 385 MiB (89%)<br>
+Writing library : Lavc60.27.101 hevc_amf<br>
+Default : No<br>
+Forced : No<br>
+Color range : Limited<br>
+Transfer characteristics : BT.709<br>
+Matrix coefficients : BT.709<br>
+<br>
+Audio<br>
+ID : 2<br>
+Format : PCM<br>
+Format settings : Little / Signed<br>
+Codec ID : A_PCM/INT/LIT<br>
+Duration : 2 min 17 s<br>
+Bit rate mode : Constant<br>
+Bit rate : 2 304 kb/s<br>
+Channel(s) : 2 channels<br>
+Sampling rate : 48.0 kHz<br>
+Bit depth : 24 bits<br>
+Stream size : 37.8 MiB (9%)<br>
+Writing library : Lavc60.27.101 hevc_amf<br>
+Default : No<br>
+Forced : No</div>
+</div><br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[Avril1255]]></author>
                 </item>
 
                 </channel></rss>
