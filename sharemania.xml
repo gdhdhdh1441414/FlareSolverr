@@ -8,92 +8,150 @@
 
  
                 <item>
-                <title><![CDATA[【Albums (lossy)】iTunes Plus - Michael Jackson - Dangerous (iTunes Plus M4A)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/michael-jackson-dangerous-itunes-plus-m4a.235120/]]></link>
+                <title><![CDATA[【HD Live Performances】HDTV - Katy Perry - Rock in Rio, Rio de Janeiro, Brazil, 27-09-2015 [1080p59.94]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/katy-perry-rock-in-rio-rio-de-janeiro-brazil-27-09-2015-1080p59-94.235121/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center"><img src="https://images2.imgbox.com/71/80/duymTwBA_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/71/80/duymTwBA_o.jpg" style=""> ​</div><ul>
-<li><b>Genres: </b>R&amp;B, Pop</li>
-<li><b>Published by:</b> <a href="https://sharemania.us/members/109650/" class="username" data-user="109650, @sebastianswif13">@sebastianswif13</a></li>
-<li><b>Released: November 26, 1991</b></li>
-<li>Bit Rate: 256 kbps</li>
-<li><b>Purchase date: </b></li>
-<li>℗ 1991 MJJ Productions Inc.<br>
-</li>
-<li><b>Filename: MJ_DANG.rar</b></li>
-<li><b>Size: 156.36 MB</b></li>
-<li><b>Request by: <a href="https://sharemania.us/members/163822/" class="username" data-user="163822, @MichaelJacksonaddict1989">@MichaelJacksonaddict1989</a> </b></li>
-</ul><div style="text-align: center"><div style="text-align: center"><b><b><span style="color: #ff0000">PASSWORD: sharemania.us</span></b><br>
-</b>​</div><b>Download Tracks:</b><br>
-<div style="text-align: center"><span style="color: #ff8000"><b>
+This is a processed version of a 10+GB interlaced video. I cropped all the banter of the annoying TV presenters, then I deinterlaced the video with Avisynth (QTGMC) for a smooth 59.94fps, I added chapters for each song and I made a text file with the setlist. The audio wasn't converted. I think it's a great recording.<br>
+<br>
+<img src="https://i.postimg.cc/wTvJ9313/Katy-Perry-Rock-in-Rio-Rio-de-Janeiro-Brazil-27-09-2015-mkv.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/wTvJ9313/Katy-Perry-Rock-in-Rio-Rio-de-Janeiro-Brazil-27-09-2015-mkv.jpg" style=""><br>
+<br>
+Setlist:<br>
+1. Roar<br>
+2. Part of Me<br>
+3. Wide Awake<br>
+4. Dark Horse<br>
+5. E.T.<br>
+6. Legendary Lovers<br>
+7. I Kissed a Girl<br>
+8. Hot n Cold<br>
+9. International Smile<br>
+10. By the Grace of God<br>
+11. The One That Got Away<br>
+12. (Thinking of You)<br>
+13. Unconditionally<br>
+14. Walking on Air<br>
+15. This Is How We Do / Last Friday Night (T.G.I.F.)<br>
+16. Teenage Dream<br>
+17. California Gurls<br>
+18. Firework<br>
+<br>
+Thinking of You wasn't broadcasted.<br>
+<br>
+MediaInfo:<br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler</span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">General<br>
+Unique ID : 288734513458984543015970672423580363458 (0xD9383E9A7E2B3F71621AAA1755026AC2)<br>
+Complete name : C:\Torrents\Katy Perry - Rock in Rio, Rio de Janeiro, Brazil, 27-09-2015\Katy Perry - Rock in Rio, Rio de Janeiro, Brazil, 27-09-2015-Caladan.mkv<br>
+Format : Matroska<br>
+Format version : Version 4<br>
+File size : 6.21 GiB<br>
+Duration : 1 h 33 min<br>
+Overall bit rate : 9 520 kb/s<br>
+Frame rate : 59.940 FPS<br>
+Encoded date : 2023-11-18 02:29:57 UTC<br>
+Writing application : mkvmerge v80.0 ('Roundabout') 64-bit<br>
+Writing library : libebml v1.4.4 + libmatroska v1.7.1<br>
+<br>
+Video<br>
+ID : 1<br>
+Format : AVC<br>
+Format/Info : Advanced Video Codec<br>
+Format profile : High@L5<br>
+Format settings : CABAC / 8 Ref Frames<br>
+Format settings, CABAC : Yes<br>
+Format settings, Reference frames : 8 frames<br>
+Codec ID : V_MPEG4/ISO/AVC<br>
+Duration : 1 h 33 min<br>
+Width : 1 920 pixels<br>
+Height : 1 080 pixels<br>
+Display aspect ratio : 16:9<br>
+Frame rate mode : Constant<br>
+Frame rate : 59.940 FPS<br>
+Color space : YUV<br>
+Chroma subsampling : 4:2:0<br>
+Bit depth : 8 bits<br>
+Scan type : Progressive<br>
+Writing library : x264 core 164 r3106 eaa68fa<br>
+Encoding settings : cabac=1 / ref=8 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=21.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00<br>
+Default : Yes<br>
+Forced : No<br>
+Color range : Limited<br>
+Color primaries : BT.709<br>
+Transfer characteristics : BT.709<br>
+Matrix coefficients : BT.709<br>
+<br>
+Audio #1<br>
+ID : 2<br>
+Format : AC-3<br>
+Format/Info : Audio Coding 3<br>
+Commercial name : Dolby Digital<br>
+Codec ID : A_AC3<br>
+Duration : 1 h 33 min<br>
+Bit rate mode : Constant<br>
+Bit rate : 640 kb/s<br>
+Channel(s) : 6 channels<br>
+Channel layout : L R C LFE Ls Rs<br>
+Sampling rate : 48.0 kHz<br>
+Frame rate : 31.250 FPS (1536 SPF)<br>
+Compression mode : Lossy<br>
+Delay relative to video : 77 ms<br>
+Stream size : 428 MiB (7%)<br>
+Language : English<br>
+Service kind : Complete Main<br>
+Default : Yes<br>
+Forced : No<br>
+<br>
+Audio #2<br>
+ID : 3<br>
+Format : AAC LC SBR<br>
+Format/Info : Advanced Audio Codec Low Complexity with Spectral Band Replication<br>
+Commercial name : HE-AAC<br>
+Format settings : Explicit<br>
+Codec ID : A_AAC-2<br>
+Duration : 1 h 33 min<br>
+Channel(s) : 2 channels<br>
+Channel layout : L R<br>
+Sampling rate : 48.0 kHz<br>
+Frame rate : 23.438 FPS (2048 SPF)<br>
+Compression mode : Lossy<br>
+Delay relative to video : 77 ms<br>
+Language : English<br>
+Default : Yes<br>
+Forced : No<br>
+<br>
+Menu<br>
+00:00:00.000 : Roar<br>
+00:04:38.000 : Part of Me<br>
+00:08:50.900 : Wide Awake<br>
+00:12:19.400 : Dark Horse<br>
+00:17:56.000 : E.T.<br>
+00:22:01.400 : Legendary Lovers<br>
+00:26:31.700 : I Kissed a Girl<br>
+00:31:19.400 : Hot n Cold Intro<br>
+00:33:49.500 : Hot n Cold<br>
+00:36:51.400 : International Smile<br>
+00:41:45.900 : Stage Banter<br>
+00:51:05.750 : By the Grace of God<br>
+00:57:49.600 : The One That Got Away<br>
+01:02:43.500 : Unconditionally Intro<br>
+01:05:04.000 : Unconditionally<br>
+01:08:54.300 : Eurodance Interlude<br>
+01:12:28.000 : Walking on Air<br>
+01:16:34.300 : This Is How We Do / Last Friday Night (T.G.I.F.)<br>
+01:21:45.000 : Teenage Dream<br>
+01:25:34.300 : California Gurls<br>
+01:29:24.900 : Firework</div>
+</div><br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
 <blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></b><br>
-<b>
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></b></span><br>
-<br>
-<b>Looking for a Michael Jackson MV in M4V? Try this thread:</b>​</div><a href="https://sharemania.us/threads/michael-jacksons-vision-music-video-collection-itunes-m4v.194616/" class="internalLink"><b><i><span style="color: #ff0000">Michael Jackson's Vision (Music Video Collection) (iTunes M4V) | ShareMania.US</span></i></b></a><br>
-<br>
-<b><b><b><b><i><b><b><b>If any link is down, please inform me by means of the replys; Thank you - Sebastian Swift</b></b></b></i><br>
-<b><i><b><b><b>Please do not type random letters when making a reply</b></b></b></i></b></b></b></b><br>
-<br>
-<b><b><b><i>You can place an order in this thread (<a href="https://sharemania.us/threads/all-my-threads.185511/" class="internalLink">All My Threads | ShareMania.US</a>), if I have it in</i></b></b><br>
-<i><b><b><i>my personal collection I can post it!</i></b></b></i></b></b><br>
-<br>
-<b><br>
-</b>​</div>
+</div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[sebastianswif13]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Unreleased/Unofficial (lossy)】Dolby Atmos - Ado - God-Ish [E-AC3-JOC/MLP/AC4 | 7.1 &amp; 2.0 Binaural | 16-24bit/48kHz]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/ado-god-ish-e-ac3-joc-mlp-ac4-7-1-2-0-binaural-16-24bit-48khz.235118/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://a5.mzstatic.com/us/r1000/0/Music116/v4/fa/e9/42/fae942a7-dca5-6cc0-9e49-4a4f2da6b81e/23UM1IM45777.rgb.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://a5.mzstatic.com/us/r1000/0/Music116/v4/fa/e9/42/fae942a7-dca5-6cc0-9e49-4a4f2da6b81e/23UM1IM45777.rgb.jpg" style=""> <br>
-<span style="font-family: 'Book Antiqua'"><br>
-<b>Artist</b>: Ado <br>
-<b>Single</b>: God-Ish<br>
-<b>Release</b>: 13/12/2023<br>
-<b>Format</b>: .mp4 Enhanced AC-3 with Joint Object Coding - Blu-Ray Disc encoding</span><br>
-<div style="padding-left: 30px"><div style="padding-left: 30px"><span style="font-family: 'Book Antiqua'">.mp4 Enhanced AC-3 with Joint Object Coding - Streaming encoding<br>
-.mp4 Dolby AC-4 with Dolby Atmos presentation<br>
-.mlp Meridian Lossless Packing FBA with 16-channel presentation</span>​</div></div><span style="font-family: 'Book Antiqua'"><b>Sample Rate</b>: 5 772 kb/s, 1 664 kb/s, 768 kb/s &amp; 320 kb/s - 48.000 kHz - 5.1 &amp; 7.1 Surround Sound &amp; 2.0 Binaural Sound<br>
-<b>Quality</b>: High Quality, Lossy Audio, Lossless Audio<br>
-<b>Source</b>: Made from <a href="https://music.apple.com/fr/album/b%C3%A9cane-a-colors-show/1688583927?i=1688583928" target="_blank" class="externalLink" rel="nofollow">R</a>emix Stems by PinnochioP &amp; AI Accapella<br>
-<br>
-<b>
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></b></span>
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[SonMaxime]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Requests】[REQ AUD] - IVE - ELEVEN Dolby Atmos E-AC-3 JOC 768Kbps (Apple Music)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/ive-eleven-dolby-atmos-e-ac-3-joc-768kbps-apple-music.235119/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<a href="https://music.apple.com/kr/album/eleven-single/1597404250?ls" target="_blank" class="externalLink" rel="nofollow">https://music.apple.com/kr/album/eleven-single/1597404250?ls</a><br>
-<br>
-Thank you!
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[Darkwindy]]></author>
+                <author><![CDATA[caladan]]></author>
                 </item>
 
                 </channel></rss>
