@@ -6,11 +6,9 @@ threads/aespa-j-hope-jay-park-lee-young-ji-be-first-smtm.235138/
 threads/frou-frou-its-good-to-be-in-love-jeremy-wheatley-radio-edit-lossless-or-lossy.235137/
 threads/cd-popmix.235136/
 threads/kenia-os-ojo-x-ojo-dolby-atmos.235135/
-threads/req-cd-popmix-2002-delete-pls.235134/
+threads/cd-popmix-2002.235134/
 threads/beyonc%C3%A9-lemonade-chapters.235133/
 threads/madonna-rebel-heart-tour-lossless-dvd-rip.235132/
-threads/delete.235131/
-threads/delete.235130/
 threads/elisa-intimate-recordings-at-abbey-road-studios-dolby-atmos-tidal-eac3-m4a-2023.235129/
 threads/v%C5%A9-thanh-v%C3%A2n-em-kh%C3%B4ng-flac-24bit-48khz.235128/
 threads/jools-annual-hootenanny-2023-24-bbc-two-hd-2023-12-31-web-rip-1080p-50fps-tpf-hdmania.235127/
@@ -22,3 +20,5 @@ threads/various-artists-call-me-by-your-name-original-motion-picture-soundtrack-
 threads/katy-perry-rock-in-rio-rio-de-janeiro-brazil-27-09-2015-1080p59-94.235121/
 threads/michael-jackson-dangerous-itunes-plus-m4a.235120/
 threads/ive-eleven-dolby-atmos-e-ac-3-joc-768kbps-apple-music.235119/
+threads/ado-god-ish-e-ac3-joc-mlp-ac4-7-1-2-0-binaural-16-24bit-48khz.235118/
+threads/new-years-day-my-dear.235117/
