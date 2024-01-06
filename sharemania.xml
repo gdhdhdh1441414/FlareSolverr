@@ -8,113 +8,16 @@
 
  
                 <item>
-                <title><![CDATA[【SD Live Performances】SDTV - Genesis - When in Rome, Circus Maximus, Rome, Italy, 14-07-2007]]></title>
-                <link><![CDATA[https://sharemania.us/threads/genesis-when-in-rome-circus-maximus-rome-italy-14-07-2007.235334/]]></link>
+                <title><![CDATA[【Requests】Filled - Please upload this album from itunes Clean Version]]></title>
+                <link><![CDATA[https://sharemania.us/threads/please-upload-this-album-from-itunes-clean-version.235335/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-This is a great concert from the rock legends Genesis. I extracted the videos from 2 DVSs, I joined them, edited them with Avisynth (deinterlaced with QTGMC, resized, cropped) and saved in MP4 AVC format within a MKV container, I converted the audio to AAC, I edited the chapters and added all song titles.<br>
-<br>
-<img src="https://i.postimg.cc/FRgKDdRj/Genesis-When-in-Rome-Circus-Maximus-Rome-Italy-14-07-2007-mkv.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/FRgKDdRj/Genesis-When-in-Rome-Circus-Maximus-Rome-Italy-14-07-2007-mkv.jpg" style=""><br>
-<br>
-MediaInfo:<br>
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler</span></button>
-<div class="SpoilerTarget bbCodeSpoilerText">General<br>
-Unique ID : 307832746891378858265256529544093289425 (0xE7966E35E913E3C7B9FAC190FAD6CBD1)<br>
-Complete name : E:\Concerts (A-L)\Genesis - When in Rome, Circus Maximus, Rome, Italy, 14-07-2007\Genesis - When in Rome, Circus Maximus, Rome, Italy, 14-07-2007-caladan.mkv<br>
-Format : Matroska<br>
-Format version : Version 4<br>
-File size : 3.66 GiB<br>
-Duration : 2 h 37 min<br>
-Overall bit rate : 3 337 kb/s<br>
-Frame rate : 25.000 FPS<br>
-Encoded date : 2023-11-30 21:18:38 UTC<br>
-Writing application : mkvmerge v80.0 ('Roundabout') 64-bit<br>
-Writing library : libebml v1.4.4 + libmatroska v1.7.1<br>
-<br>
-Video<br>
-ID : 1<br>
-Format : AVC<br>
-Format/Info : Advanced Video Codec<br>
-Format profile : High@L3.2<br>
-Format settings : CABAC / 8 Ref Frames<br>
-Format settings, CABAC : Yes<br>
-Format settings, Reference frames : 8 frames<br>
-Codec ID : V_MPEG4/ISO/AVC<br>
-Duration : 2 h 37 min<br>
-Bit rate : 3 135 kb/s<br>
-Width : 1 016 pixels<br>
-Height : 576 pixels<br>
-Display aspect ratio : 16:9<br>
-Frame rate mode : Constant<br>
-Frame rate : 25.000 FPS<br>
-Color space : YUV<br>
-Chroma subsampling : 4:2:0<br>
-Bit depth : 8 bits<br>
-Scan type : Progressive<br>
-Bits/(Pixel*Frame) : 0.214<br>
-Stream size : 3.44 GiB (94%)<br>
-Writing library : x264 core 164 r3106 eaa68fa<br>
-Encoding settings : cabac=1 / ref=8 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=9 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00<br>
-Default : Yes<br>
-Forced : No<br>
-<br>
-Audio<br>
-ID : 2<br>
-Format : AAC LC<br>
-Format/Info : Advanced Audio Codec Low Complexity<br>
-Codec ID : A_AAC-2<br>
-Duration : 2 h 37 min<br>
-Bit rate : 200 kb/s<br>
-Channel(s) : 2 channels<br>
-Channel layout : L R<br>
-Sampling rate : 48.0 kHz<br>
-Frame rate : 46.875 FPS (1024 SPF)<br>
-Compression mode : Lossy<br>
-Delay relative to video : 218 ms<br>
-Stream size : 225 MiB (6%)<br>
-Default : Yes<br>
-Forced : No<br>
-<br>
-Menu<br>
-00:00:00.000 : Duke's Intro: Behind the Lines / Duke's End<br>
-00:05:39.400 : Turn It on Again<br>
-00:10:15.280 : Stage Banter<br>
-00:11:58.760 : No Son of Mine<br>
-00:18:56.280 : Land of Confusion<br>
-00:24:00.800 : Stage Banter<br>
-00:24:36.080 : In the Cage<br>
-00:32:28.000 : The Cinema Show / Duke's Travels<br>
-00:37:38.000 : Afterglow<br>
-00:42:36.040 : Hold on My Heart<br>
-00:48:34.880 : Stage Banter<br>
-00:49:59.120 : Home by the Sea<br>
-01:02:03.840 : Follow You Follow Me<br>
-01:06:22.600 : Firth of Fifth<br>
-01:10:52.320 : I Know What You Like (In Your Wardrobe)<br>
-01:19:22.394 : Mama<br>
-01:26:11.434 : Stage Banter<br>
-01:26:32.794 : Ripples<br>
-01:34:28.394 : Throwing It All Away<br>
-01:40:32.394 : Stage Banter<br>
-01:43:14.274 : Domino<br>
-01:54:58.394 : Conversations with 2 Stools<br>
-02:01:32.114 : Los Endos<br>
-02:07:53.114 : Tonight, Tonight, Tonight<br>
-02:11:36.000 : Invisible Touch<br>
-02:17:34.954 : I Can't Dance<br>
-02:24:12.474 : Stage Banter<br>
-02:26:07.834 : Carpet Crawlers<br>
-02:32:28.794 : End Credits</div>
-</div><br>
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/53/78/e7/5378e7ed-1d0c-0d7c-4673-0b9d730ddd7d/886446572765.jpg/1200x1200bb.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/53/78/e7/5378e7ed-1d0c-0d7c-4673-0b9d730ddd7d/886446572765.jpg/1200x1200bb.jpg" style=""> <br>
+<a href="https://music.apple.com/us/album/jungle-rules/1254531365?l=ru" target="_blank" class="externalLink" rel="nofollow">https://music.apple.com/us/album/jungle-rules</a>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[caladan]]></author>
+                <author><![CDATA[manas]]></author>
                 </item>
 
                 </channel></rss>
