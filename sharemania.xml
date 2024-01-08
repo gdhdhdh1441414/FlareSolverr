@@ -8,22 +8,21 @@
 
  
                 <item>
-                <title><![CDATA[【Music Videos】Soft Cell - Tainted Love (Audio Dual 5.1+2.0) (Clean)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/soft-cell-tainted-love-audio-dual-5-1-2-0-clean.235462/]]></link>
+                <title><![CDATA[【Music Videos】Yazoo - Don't Go (Audio Triple 2.0+5.1+5.1 DTS) (Clean)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/yazoo-dont-go-audio-triple-2-0-5-1-5-1-dts-clean.235463/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://i.ibb.co/HCBj9Vr/Soft-Cell-Tainted-Love-vob-thumbs-2024-01-08-14-19-14.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/HCBj9Vr/Soft-Cell-Tainted-Love-vob-thumbs-2024-01-08-14-19-14.jpg" style=""> <br>
+<img src="https://i.ibb.co/4Yhz13s/Yazoo-Dont-Go-vob-thumbs-2024-01-08-16-31-47.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/4Yhz13s/Yazoo-Dont-Go-vob-thumbs-2024-01-08-16-31-47.jpg" style=""> <br>
 <br>
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
 <button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
-<div class="SpoilerTarget bbCodeSpoilerText">Soft Cell-Tainted Love.vob<br>
+<div class="SpoilerTarget bbCodeSpoilerText">Yazoo-Dont Go.vob<br>
 Format : MPEG-PS<br>
-File size : 153 MiB<br>
-Duration : 2 min 39 s<br>
+File size : 191 MiB<br>
+Duration : 2 min 49 s<br>
 Overall bit rate mode : Variable<br>
-Overall bit rate : 8 043 kb/s<br>
+Overall bit rate : 9 439 kb/s<br>
 Frame rate : 25.000 FPS<br>
-Writing library : <a href="http://vip-files.net" target="_blank" class="externalLink" rel="nofollow">http://vip-files.net</a><br>
 <br>
 Video<br>
 ID : 224 (0xE0)<br>
@@ -35,9 +34,10 @@ Format settings, BVOP : Yes<br>
 Format settings, Matrix : Custom<br>
 Format settings, GOP : M=3, N=12<br>
 Format settings, picture st : Frame<br>
-Duration : 2 min 39 s<br>
+Duration : 2 min 49 s<br>
 Bit rate mode : Variable<br>
-Bit rate : 7 000 kb/s<br>
+Bit rate : 7 825 kb/s<br>
+Maximum bit rate : 9 800 kb/s<br>
 Width : 720 pixels<br>
 Height : 576 pixels<br>
 Display aspect ratio : 4:3<br>
@@ -49,11 +49,8 @@ Bit depth : 8 bits<br>
 Scan type : Interlaced<br>
 Scan order : Top Field First<br>
 Compression mode : Lossy<br>
-Bits/(Pixel*Frame) : 0.675<br>
-Time code of first frame : 00:00:00:00<br>
-Time code source : Group of pictures header<br>
-GOP, Open/Closed : Closed<br>
-Stream size : 133 MiB (87%)<br>
+Bits/(Pixel*Frame) : 0.755<br>
+Stream size : 158 MiB (83%)<br>
 <br>
 Audio #1<br>
 ID : 189 (0xBD)-128 (0x80)<br>
@@ -61,15 +58,16 @@ Format : AC-3<br>
 Format/Info : Audio Coding 3<br>
 Commercial name : Dolby Digital<br>
 Muxing mode : DVD-Video<br>
-Duration : 2 min 39 s<br>
+Duration : 2 min 49 s<br>
 Bit rate mode : Constant<br>
-Bit rate : 448 kb/s<br>
-Channel(s) : 6 channels<br>
-Channel layout : L R C LFE Ls Rs<br>
+Bit rate : 224 kb/s<br>
+Channel(s) : 2 channels<br>
+Channel layout : L R<br>
 Sampling rate : 48.0 kHz<br>
 Frame rate : 31.250 FPS (1536 SPF)<br>
 Compression mode : Lossy<br>
-Stream size : 8.51 MiB (6%)<br>
+Delay relative to video : -216 ms<br>
+Stream size : 4.53 MiB (2%)<br>
 Service kind : Complete Main<br>
 <br>
 Audio #2<br>
@@ -78,16 +76,34 @@ Format : AC-3<br>
 Format/Info : Audio Coding 3<br>
 Commercial name : Dolby Digital<br>
 Muxing mode : DVD-Video<br>
-Duration : 2 min 39 s<br>
+Duration : 2 min 49 s<br>
 Bit rate mode : Constant<br>
 Bit rate : 448 kb/s<br>
-Channel(s) : 2 channels<br>
-Channel layout : L R<br>
+Channel(s) : 6 channels<br>
+Channel layout : L R C LFE Ls Rs<br>
 Sampling rate : 48.0 kHz<br>
 Frame rate : 31.250 FPS (1536 SPF)<br>
 Compression mode : Lossy<br>
-Stream size : 8.51 MiB (6%)<br>
-Service kind : Complete Main</div>
+Delay relative to video : -248 ms<br>
+Stream size : 9.05 MiB (5%)<br>
+Service kind : Complete Main<br>
+<br>
+Audio #3<br>
+ID : 189 (0xBD)-138 (0x8A)<br>
+Format : DTS<br>
+Format/Info : Digital Theater Systems<br>
+Muxing mode : DVD-Video<br>
+Duration : 2 min 49 s<br>
+Bit rate mode : Constant<br>
+Bit rate : 755 kb/s<br>
+Channel(s) : 6 channels<br>
+Channel layout : C L R Ls Rs LFE<br>
+Sampling rate : 48.0 kHz<br>
+Frame rate : 93.750 FPS (512 SPF)<br>
+Bit depth : 24 bits<br>
+Compression mode : Lossy<br>
+Delay relative to video : -248 ms<br>
+Stream size : 15.2 MiB (8%)</div>
 </div><br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
