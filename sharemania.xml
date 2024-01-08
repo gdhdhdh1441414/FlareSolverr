@@ -8,49 +8,48 @@
 
  
                 <item>
-                <title><![CDATA[【Music Videos】AKB48- Manatsu no Sounds good! MV Bluray]]></title>
-                <link><![CDATA[https://sharemania.us/threads/akb48-manatsu-no-sounds-good-mv-bluray.235473/]]></link>
+                <title><![CDATA[【Music Videos】Nogizaka46- Hadashi de Summer LPCM Bluray]]></title>
+                <link><![CDATA[https://sharemania.us/threads/nogizaka46-hadashi-de-summer-lpcm-bluray.235474/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://i.imgur.com/vZ7Z9PR.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/vZ7Z9PR.png" style=""> <br>
+<img src="https://i.imgur.com/Zf3ZOoH.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/Zf3ZOoH.png" style=""> <br>
 <br>
 General<br>
-ID : 0 (0x0)<br>
-Complete name : D:\♬.AKB48 MV Blu-ray 1920x1080\♬.Manatsu no Sounds good!.m2ts<br>
+ID : 1 (0x1)<br>
+Complete name : D:\♬.NOGIZAKA46 MV Blu-ray 1920x1080\15.1.Hadashi de Summer.m2ts<br>
 Format : BDAV<br>
 Format/Info : Blu-ray Video<br>
-File size : 1.82 GiB<br>
-Duration : 7 min 9 s<br>
+File size : 988 MiB<br>
+Duration : 4 min 50 s<br>
 Overall bit rate mode : Variable<br>
-Overall bit rate : 36.3 Mb/s<br>
-Maximum Overall bit rate : 48.0 Mb/s<br>
-Frame rate : 29.970 FPS<br>
+Overall bit rate : 28.5 Mb/s<br>
+Maximum Overall bit rate : 35.5 Mb/s<br>
+Frame rate : 23.976 FPS<br>
 Video<br>
 ID : 4113 (0x1011)<br>
 Menu ID : 1 (0x1)<br>
 Format : AVC<br>
 Format/Info : Advanced Video Codec<br>
 Format profile : High@L4.1<br>
-Format settings : CABAC / 4 Ref Frames<br>
+Format settings : CABAC / 2 Ref Frames<br>
 Format settings, CABAC : Yes<br>
-Format settings, Reference fra : 4 frames<br>
+Format settings, Reference fra : 2 frames<br>
+Format settings, GOP : M=1, N=10<br>
 Codec ID : 27<br>
-Duration : 7 min 9 s<br>
+Duration : 4 min 50 s<br>
 Bit rate mode : Variable<br>
-Bit rate : 33.3 Mb/s<br>
-Maximum bit rate : 37.0 Mb/s<br>
+Bit rate : 25.0 Mb/s<br>
 Width : 1 920 pixels<br>
 Height : 1 080 pixels<br>
 Display aspect ratio : 16:9<br>
-Frame rate : 29.970 (30000/1001) FPS<br>
+Frame rate : 23.976 (24000/1001) FPS<br>
 Color space : YUV<br>
 Chroma subsampling : 4:2:0<br>
 Bit depth : 8 bits<br>
-Scan type : MBAFF<br>
-Scan type, store method : Interleaved fields<br>
-Scan order : Top Field First<br>
-Bits/(Pixel*Frame) : 0.536<br>
-Stream size : 1.67 GiB (92%)<br>
+Scan type : Progressive<br>
+Bits/(Pixel*Frame) : 0.504<br>
+Time code of first frame : 01:29:56:0000000020<br>
+Stream size : 867 MiB (88%)<br>
 Audio<br>
 ID : 4352 (0x1100)<br>
 Menu ID : 1 (0x1)<br>
@@ -58,152 +57,16 @@ Format : PCM<br>
 Format settings : Big / Signed<br>
 Muxing mode : Blu-ray<br>
 Codec ID : 128<br>
-Duration : 7 min 9 s<br>
+Duration : 4 min 50 s<br>
 Bit rate mode : Constant<br>
-Bit rate : 1 536 kb/s<br>
+Bit rate : 2 304 kb/s<br>
 Channel(s) : 2 channels<br>
 Channel layout : L R<br>
 Sampling rate : 48.0 kHz<br>
-Bit depth : 16 bits<br>
-Stream size : 78.6 MiB (4%)<br>
+Bit depth : 24 bits<br>
+Delay relative to video : -6 ms<br>
+Stream size : 79.9 MiB (8%)<br>
 <br>
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[Crimseney101]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Music Videos】AKB48- Aitakatta DVD vob]]></title>
-                <link><![CDATA[https://sharemania.us/threads/akb48-aitakatta-dvd-vob.235472/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://i.imgur.com/p2ibJrM.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/p2ibJrM.png" style=""> <br>
-General<br>
-Complete name : D:\♬.AKB48 MV Blu-ray 1920x1080\0.♬Aitakatta.VOB<br>
-Format : MPEG-PS<br>
-File size : 287 MiB<br>
-Duration : 4 min 32 s<br>
-Overall bit rate mode : Variable<br>
-Overall bit rate : 8 840 kb/s<br>
-Frame rate : 29.970 FPS<br>
-Video<br>
-ID : 224 (0xE0)<br>
-Format : MPEG Video<br>
-Format version : Version 2<br>
-Format profile : Main@Main<br>
-Format settings : CustomMatrix / BVOP<br>
-Format settings, BVOP : Yes<br>
-Format settings, Matrix : Custom<br>
-Format settings, GOP : M=3, N=15<br>
-Format settings, picture struc : Frame<br>
-Duration : 4 min 32 s<br>
-Bit rate mode : Variable<br>
-Bit rate : 7 128 kb/s<br>
-Maximum bit rate : 8 264 kb/s<br>
-Width : 720 pixels<br>
-Height : 480 pixels<br>
-Display aspect ratio : 4:3<br>
-Frame rate : 29.970 (30000/1001) FPS<br>
-Standard : NTSC<br>
-Color space : YUV<br>
-Chroma subsampling : 4:2:0<br>
-Bit depth : 8 bits<br>
-Scan type : Interlaced<br>
-Scan order : Top Field First<br>
-Compression mode : Lossy<br>
-Bits/(Pixel*Frame) : 0.688<br>
-Time code of first frame : 01:00:31:00<br>
-Time code source : Group of pictures header<br>
-GOP, Open/Closed : Closed<br>
-Stream size : 231 MiB (81%)<br>
-Audio<br>
-ID : 189 (0xBD)-160 (0xA0)<br>
-Format : PCM<br>
-Format settings : Big / Signed<br>
-Muxing mode : DVD-Video<br>
-Duration : 4 min 32 s<br>
-Bit rate mode : Constant<br>
-Bit rate : 1 536 kb/s<br>
-Channel(s) : 2 channels<br>
-Sampling rate : 48.0 kHz<br>
-Bit depth : 16 bits<br>
-Stream size : 49.8 MiB (17%)<br>
-Menu<br>
-Format : DVD-Video<br>
-<br>
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[Crimseney101]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Music Videos】AKB48- Seifuku ga jama wo suru DVD vob]]></title>
-                <link><![CDATA[https://sharemania.us/threads/akb48-seifuku-ga-jama-wo-suru-dvd-vob.235471/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://i.imgur.com/RSwjlOI.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/RSwjlOI.png" style=""> <br>
-<br>
-General<br>
-Complete name : D:\♬.AKB48 MV Blu-ray 1920x1080\0.♬Seifuku ga Jama wo Suru.VOB<br>
-Format : MPEG-PS<br>
-File size : 312 MiB<br>
-Duration : 5 min 12 s<br>
-Overall bit rate mode : Variable<br>
-Overall bit rate : 8 373 kb/s<br>
-Frame rate : 29.970 FPS<br>
-Video<br>
-ID : 224 (0xE0)<br>
-Format : MPEG Video<br>
-Format version : Version 2<br>
-Format profile : Main@Main<br>
-Format settings : CustomMatrix / BVOP<br>
-Format settings, BVOP : Yes<br>
-Format settings, Matrix : Custom<br>
-Format settings, GOP : M=3, N=15<br>
-Format settings, picture struc : Frame<br>
-Duration : 5 min 12 s<br>
-Bit rate mode : Variable<br>
-Bit rate : 6 670 kb/s<br>
-Maximum bit rate : 8 264 kb/s<br>
-Width : 720 pixels<br>
-Height : 480 pixels<br>
-Display aspect ratio : 4:3<br>
-Frame rate : 29.970 (30000/1001) FPS<br>
-Standard : NTSC<br>
-Color space : YUV<br>
-Chroma subsampling : 4:2:0<br>
-Bit depth : 8 bits<br>
-Scan type : Interlaced<br>
-Scan order : Top Field First<br>
-Compression mode : Lossy<br>
-Bits/(Pixel*Frame) : 0.644<br>
-Time code of first frame : 01:05:03:00<br>
-Time code source : Group of pictures header<br>
-GOP, Open/Closed : Closed<br>
-Stream size : 248 MiB (80%)<br>
-Audio<br>
-ID : 189 (0xBD)-160 (0xA0)<br>
-Format : PCM<br>
-Format settings : Big / Signed<br>
-Muxing mode : DVD-Video<br>
-Duration : 5 min 12 s<br>
-Bit rate mode : Constant<br>
-Bit rate : 1 536 kb/s<br>
-Channel(s) : 2 channels<br>
-Sampling rate : 48.0 kHz<br>
-Bit depth : 16 bits<br>
 <br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
