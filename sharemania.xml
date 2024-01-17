@@ -8,14 +8,14 @@
 
  
                 <item>
-                <title><![CDATA[【UPSCALED】Ariana Grande - Yes, and? (Upscale) 2 Version]]></title>
-                <link><![CDATA[https://sharemania.us/threads/ariana-grande-yes-and-upscale-2-version.235968/]]></link>
+                <title><![CDATA[【UPSCALED】Ariana Grande - Yes, and? (Upscale) 3 Upscale Version]]></title>
+                <link><![CDATA[https://sharemania.us/threads/ariana-grande-yes-and-upscale-3-upscale-version.235968/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://i.imgur.com/ltZG8Af.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/ltZG8Af.jpeg" style=""> <img src="https://i.imgur.com/KUS7cxa.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/KUS7cxa.jpeg" style=""> <img src="https://i.imgur.com/RVhNLM9.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/RVhNLM9.jpeg" style=""><br>
-<br>
+1080P 60FPS:<br>
+<img src="https://i.imgur.com/ltZG8Af.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/ltZG8Af.jpeg" style=""><br>
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">1080P 60FPS MediaInfo</span></span></button>
 <div class="SpoilerTarget bbCodeSpoilerText">General<br>
 Unique ID : 316269792631070954311735937388460617049 (0xEDEF58AE8B4C4F6CCB8347D9B0DBAD59)<br>
 Complete name : C:\Videos\Ariana Grande - Yes, and (1080P 60FPS) Upscale.mkv<br>
@@ -68,11 +68,119 @@ Compression mode : Lossy<br>
 Default : Yes<br>
 Forced : No</div>
 </div><br>
+720P 60FPS:<br>
+<img src="https://i.imgur.com/vYnPJsX.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/vYnPJsX.jpeg" style=""><br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">720P 60FPS MediaInfo</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">General<br>
+Unique ID : 261714307345234705185971337567801298387 (0xC4E457966D2A97F595E50085BDADCDD3)<br>
+Complete name : C:\Videos\Ariana Grande - Yes and (720p 60FPS).mkv<br>
+Format : Matroska<br>
+Format version : Version 4<br>
+File size : 333 MiB<br>
+Duration : 4 min 34 s<br>
+Overall bit rate : 10.2 Mb/s<br>
+Writing application : Lavf58.12.100<br>
+Writing library : Lavf58.12.100<br>
+ErrorDetectionType : Per level 1<br>
+<br>
+Video<br>
+ID : 1<br>
+Format : AVC<br>
+Format/Info : Advanced Video Codec<br>
+Format profile : Main@L4.2<br>
+Format settings : CABAC / 1 Ref Frames<br>
+Format settings, CABAC : Yes<br>
+Format settings, Reference fra : 1 frame<br>
+Format settings, GOP : M=1, N=25<br>
+Codec ID : V_MPEG4/ISO/AVC<br>
+Duration : 4 min 34 s<br>
+Width : 1 280 pixels<br>
+Height : 720 pixels<br>
+Display aspect ratio : 16:9<br>
+Frame rate mode : Constant<br>
+Frame rate : 60.000 FPS<br>
+Standard : Component<br>
+Color space : YUV<br>
+Chroma subsampling : 4:2:0<br>
+Bit depth : 8 bits<br>
+Scan type : Progressive<br>
+Default : Yes<br>
+Forced : No<br>
+Color range : Limited<br>
+Matrix coefficients : BT.709<br>
+<br>
+Audio<br>
+ID : 2<br>
+Format : AAC LC<br>
+Format/Info : Advanced Audio Codec Low Complexity<br>
+Codec ID : A_AAC-2<br>
+Duration : 4 min 34 s<br>
+Channel(s) : 2 channels<br>
+Channel layout : L R<br>
+Sampling rate : 44.1 kHz<br>
+Frame rate : 43.066 FPS (1024 SPF)<br>
+Compression mode : Lossy<br>
+Default : Yes<br>
+Forced : No</div>
+</div><br>
+4K 60FPS:<br>
+<img src="https://i.imgur.com/HEZyxAZ.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/HEZyxAZ.jpeg" style=""><br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">4K 60FPS MediaInfo</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">General<br>
+File size : 1.91 GiB<br>
+Duration : 4 min 34 s<br>
+Overall bit rate : 59.9 Mb/s<br>
+<br>
+Video<br>
+ID : 1<br>
+Format : HEVC<br>
+Format/Info : High Efficiency Video Coding<br>
+Format profile : Main@L6.2@High<br>
+Codec ID : V_MPEGH/ISO/HEVC<br>
+Duration : 4 min 34 s<br>
+Width : 3 840 pixels<br>
+Height : 2 160 pixels<br>
+Display aspect ratio : 16:9<br>
+Frame rate mode : Constant<br>
+Frame rate : 60.000 FPS<br>
+Color space : YUV<br>
+Chroma subsampling : 4:2:0<br>
+Bit depth : 8 bits<br>
+Writing library : Lavc60.27.101 h264_amf<br>
+Default : No<br>
+Forced : No<br>
+Color range : Limited<br>
+Transfer characteristics : BT.709<br>
+Matrix coefficients : BT.709<br>
+VENDOR_ID : FFMP<br>
+<br>
+Audio<br>
+ID : 2<br>
+Format : AAC LC<br>
+Format/Info : Advanced Audio Codec Low Complexity<br>
+Codec ID : A_AAC-2<br>
+Duration : 4 min 34 s<br>
+Channel(s) : 2 channels<br>
+Channel layout : L R<br>
+Sampling rate : 44.1 kHz<br>
+Frame rate : 43.066 FPS (1024 SPF)<br>
+Compression mode : Lossy<br>
+Delay relative to video : -17 ms<br>
+Writing library : Lavc60.27.101 h264_amf<br>
+Default : Yes<br>
+Forced : No</div>
+</div><br>
 1080P 60FPS:<br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
 <blockquote>You must reply before you can see the hidden data contained here.</blockquote>
 </div>720P 60FPS:<br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>4K 60FPS:<br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
 <blockquote>You must reply before you can see the hidden data contained here.</blockquote>
