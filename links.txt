@@ -1,3 +1,6 @@
+threads/chicago-18-qobuz-hi-res-24bit-192khz.236884/
+threads/chicago-chicago-vii-expanded-remastered-qobuz-cd-16bit-44-1khz.236883/
+threads/chicago-chicago-ix-chicagos-greatest-hits-qobuz-cd-16bit-44-1khz.236882/
 threads/chicago-x-qobuz-hi-res-24bit-192khz.236881/
 threads/chicago-greatest-hits-live-live-on-soundstage-2018-qobuz-hi-res-24bit-48khz.236880/
 threads/chicago-chicago-ii-qobuz-hi-res-24bit-96khz.236879/
@@ -19,6 +22,3 @@ threads/katy-perry-unconditionally-mtv-europe-music-awards-the-netherlands-2013-
 threads/the-greatest-night-in-pop.236863/
 threads/heidi-montag-touch-me-dave-aud%C3%A9-remix-qobuz-24-44-1.236862/
 threads/take-that-patience-live-at-koko-qobuz-24-44-1.236861/
-threads/ive-ive-mine-ep-dolby-atmos-e-ac3-joc-16bits-48khz-5-1-768kbits.236860/
-threads/ive-love-dive-dolby-atmos-e-ac3-joc-16bits-48khz-5-1-768kbits.236858/
-threads/ive-eleven-dolby-atmos-e-ac3-joc-16bits-48khz-5-1-768kbits.236857/
