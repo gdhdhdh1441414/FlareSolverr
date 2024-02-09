@@ -8,31 +8,168 @@
 
  
                 <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Madison Beer - Make You Mine]]></title>
-                <link><![CDATA[https://sharemania.us/threads/madison-beer-make-you-mine.237328/]]></link>
+                <title><![CDATA[【HD Live Performances】WEB-RiP - Zara Larsson - You Love Who You Love - Live from Good Morning America 720p.WEBRIP]]></title>
+                <link><![CDATA[https://sharemania.us/threads/zara-larsson-you-love-who-you-love-live-from-good-morning-america-720p-webrip.237329/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-Looking for FLAC/Hi-Res/Dolby Atmos<br>
-If any of these are available, it would be very appreciated!
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[mxiexxd]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Hayley Westenra Odyssey US Edition]]></title>
-                <link><![CDATA[https://sharemania.us/threads/hayley-westenra-odyssey-us-edition.237327/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<a href="https://music.apple.com/us/album/odyssey/1445731785" target="_blank" class="externalLink" rel="nofollow">https://music.apple.com/us/album/odyssey/1445731785</a><br>
+<img src="https://i.imgur.com/LCHQXQF.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/LCHQXQF.jpg" style=""><br>
 <br>
-I'd be so happy if someone can upload this US edition... All i can find is the UK and international editions,coz this US edition has the alternate mix versions... thanks much
+<br>
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>General
+ID                             : 1 (0x1)
+Complete name                  : C:\Zara Larsson - You Love Who You Love - Live from Good Morning America WEBRIP.ts
+Format                         : MPEG-TS
+File size                      : 88.4 MiB
+Duration                       : 2 min 39 s
+Overall bit rate mode          : Variable
+Overall bit rate               : 4 664 kb/s
+Frame rate                     : 29.970 FPS
+Movie name                     : GOOD MORNING AMERICA
+Law rating                     : None
+
+Video
+ID                             : 256 (0x100)
+Menu ID                        : 1 (0x1)
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : Main@L3.1
+Format settings                : CABAC / 4 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 4 frames
+Codec ID                       : 27
+Duration                       : 2 min 39 s
+Bit rate mode                  : Constant
+Nominal bit rate               : 4 404 kb/s
+Width                          : 1 280 pixels
+Height                         : 720 pixels
+Display aspect ratio           : 16:9
+Frame rate                     : 29.970 (30000/1001) FPS
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.159
+Color range                    : Limited
+Color primaries                : BT.709
+Transfer characteristics       : BT.709
+Matrix coefficients            : BT.709
+
+Audio
+ID                             : 257 (0x101)
+Menu ID                        : 1 (0x1)
+Format                         : AAC LC
+Format/Info                    : Advanced Audio Codec Low Complexity
+Format version                 : Version 4
+Muxing mode                    : ADTS
+Codec ID                       : 15-2
+Duration                       : 2 min 39 s
+Bit rate mode                  : Variable
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 46.875 FPS (1024 SPF)
+Compression mode               : Lossy
+Delay relative to video        : -67 ms
+
+Text #1
+ID                             : 256 (0x100)-CC1
+Menu ID                        : 1 (0x1)
+Format                         : EIA-608
+Muxing mode                    : SCTE 128 / DTVCC Transport
+Muxing mode, more info         : Muxed in Video #1
+Duration                       : 2 min 39 s
+Duration of the visible conten : 2 min 32 s
+Start time (commands)          : 5 s 740 ms
+Start time                     : 5 s 873 ms
+End time                       : 2 min 37 s
+Bit rate mode                  : Constant
+Stream size                    : 0.00 Byte (0%)
+Type of the first event        : RollUp
+
+Text #2
+ID                             : 256 (0x100)-CC3
+Menu ID                        : 1 (0x1)
+Format                         : EIA-608
+Muxing mode                    : SCTE 128 / DTVCC Transport
+Muxing mode, more info         : Muxed in Video #1
+Duration                       : 2 min 39 s
+Start time (commands)          : 3 s 204 ms
+Bit rate mode                  : Constant
+Stream size                    : 0.00 Byte (0%)
+
+Text #3
+ID                             : 256 (0x100)-1
+Menu ID                        : 1 (0x1)
+Format                         : EIA-708
+Muxing mode                    : SCTE 128 / DTVCC Transport
+Muxing mode, more info         : Muxed in Video #1
+Duration                       : 2 min 39 s
+Bit rate mode                  : Constant
+Stream size                    : 0.00 Byte (0%)
+
+Text #4
+ID                             : 256 (0x100)-2
+Menu ID                        : 1 (0x1)
+Format                         : EIA-708
+Muxing mode                    : SCTE 128 / DTVCC Transport
+Muxing mode, more info         : Muxed in Video #1
+Duration                       : 2 min 39 s
+Bit rate mode                  : Constant
+Stream size                    : 0.00 Byte (0%)
+
+Text #5
+ID                             : 256 (0x100)-3
+Menu ID                        : 1 (0x1)
+Format                         : EIA-708
+Muxing mode                    : SCTE 128 / DTVCC Transport
+Muxing mode, more info         : Muxed in Video #1
+Duration                       : 2 min 39 s
+Bit rate mode                  : Constant
+Stream size                    : 0.00 Byte (0%)
+
+Text #6
+ID                             : 256 (0x100)-4
+Menu ID                        : 1 (0x1)
+Format                         : EIA-708
+Muxing mode                    : SCTE 128 / DTVCC Transport
+Muxing mode, more info         : Muxed in Video #1
+Duration                       : 2 min 39 s
+Bit rate mode                  : Constant
+Stream size                    : 0.00 Byte (0%)
+
+Text #7
+ID                             : 256 (0x100)-5
+Menu ID                        : 1 (0x1)
+Format                         : EIA-708
+Muxing mode                    : SCTE 128 / DTVCC Transport
+Muxing mode, more info         : Muxed in Video #1
+Duration                       : 2 min 39 s
+Bit rate mode                  : Constant
+Stream size                    : 0.00 Byte (0%)
+
+Text #8
+ID                             : 256 (0x100)-6
+Menu ID                        : 1 (0x1)
+Format                         : EIA-708
+Muxing mode                    : SCTE 128 / DTVCC Transport
+Muxing mode, more info         : Muxed in Video #1
+Duration                       : 2 min 39 s
+Bit rate mode                  : Constant
+Stream size                    : 0.00 Byte (0%)
+
+</pre>
+</div>Ripped by me.<br>
+<br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[Mamochan]]></author>
+                <author><![CDATA[harmonizer54]]></author>
                 </item>
 
                 </channel></rss>
