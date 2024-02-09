@@ -8,15 +8,22 @@
 
  
                 <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Joni Mitchell Archives – Vol. 3: The Asylum Years (1972- 1975)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/joni-mitchell-archives-%E2%80%93-vol-3-the-asylum-years-1972-1975.237359/]]></link>
+                <title><![CDATA[【Helpdesk】How to Index OneDrive/Sharepoint using Github repository]]></title>
+                <link><![CDATA[https://sharemania.us/threads/how-to-index-onedrive-sharepoint-using-github-repository.237360/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-my fav songs ever but i have spotify and cant listen HELP HELPPPPPPP
+I found recently that github index for onedrive<br>
+<a href="https://github.com/iRedScarf/onedrive-index" target="_blank" class="externalLink" rel="nofollow">https://github.com/iRedScarf/onedrive-index</a><br>
+It is rework of that<br>
+<a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" class="externalLink" rel="nofollow">https://github.com/spencerwooo/onedrive-vercel-index</a><br>
+<a href="https://ovi.swo.moe" target="_blank" class="externalLink" rel="nofollow">https://ovi.swo.moe</a><br>
+<br>
+Can anyone help me with deploying that index with my onedrive to vercel ?<br>
+<a href="https://vercel.com/" target="_blank" class="externalLink" rel="nofollow">https://vercel.com/</a>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[botty3000]]></author>
+                <author><![CDATA[szymek04sawicki]]></author>
                 </item>
 
                 </channel></rss>
