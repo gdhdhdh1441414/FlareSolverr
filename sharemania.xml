@@ -8,72 +8,79 @@
 
  
                 <item>
-                <title><![CDATA[【SD】DVD - 4Minute - Muzik (Japanese Version) (Clean) (VOB)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/4minute-muzik-japanese-version-clean-vob.237487/]]></link>
+                <title><![CDATA[【HD Live Performances】UHDTV 4K - Sanremo 2024 - Quinta Serata [10-02-24] - Rai4K 2160p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/sanremo-2024-quinta-serata-10-02-24-rai4k-2160p.237488/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center"><img src="https://imgur.com/7Y2hW9s.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://imgur.com/7Y2hW9s.png" style=""> ​</div><br>
-<div style="text-align: center">
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
-<div class="SpoilerTarget bbCodeSpoilerText">Format : MPEG-PS<br>
-File size : 263 MiB<br>
-Duration : 3 min 50 s<br>
-Overall bit rate mode : Variable<br>
-Overall bit rate : 9 586 kb/s<br>
-Frame rate : 29.970 FPS<br>
+Source: Rai hbbtv<br>
 <br>
-Video<br>
-ID : 224 (0xE0)<br>
-Format : MPEG Video<br>
-Format version : Version 2<br>
-Format profile : Main@Main<br>
-Format settings : CustomMatrix / BVOP<br>
-Format settings, BVOP : Yes<br>
-Format settings, Matrix : Custom<br>
-Format settings, GOP : Variable<br>
-Format settings, picture structure : Frame<br>
-Duration : 3 min 50 s<br>
-Bit rate mode : Variable<br>
-Bit rate : 7 859 kb/s<br>
-Maximum bit rate : 9 800 kb/s<br>
-Width : 720 pixels<br>
-Height : 480 pixels<br>
-Display aspect ratio : 4:3<br>
-Frame rate : 29.970 (30000/1001) FPS<br>
-Standard : NTSC<br>
-Color space : YUV<br>
-Chroma subsampling : 4:2:0<br>
-Bit depth : 8 bits<br>
-Scan type : Interlaced<br>
-Scan order : Top Field First<br>
-Compression mode : Lossy<br>
-Bits/(Pixel*Frame) : 0.759<br>
-Time code of first frame : 00:00:33:23<br>
-Time code source : Group of pictures header<br>
-Stream size : 216 MiB (82%)<br>
+<img src="https://i.imgur.com/3qwnABv.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/3qwnABv.jpeg" style=""><br>
 <br>
-Audio<br>
-ID : 189 (0xBD)-160 (0xA0)<br>
-Format : PCM<br>
-Format settings : Big / Signed<br>
-Muxing mode : DVD-Video<br>
-Duration : 3 min 50 s<br>
-Bit rate mode : Constant<br>
-Bit rate : 1 536 kb/s<br>
-Channel(s) : 2 channels<br>
-Sampling rate : 48.0 kHz<br>
-Bit depth : 16 bits<br>
-Stream size : 42.1 MiB (16%)</div>
-</div></div>
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>General
+Complete name                            : Sanremo 2024 - Quinta Serata [10-02-24] - Rai4K 2160p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 22.2 GiB
+Duration                                 : 5 h 7 min
+Overall bit rate                         : 10.3 Mb/s
+Encoded date                             : UTC 2024-02-11 03:41:30
+Writing application                      : mkvmerge v55.0.0 ('Waiting For Space') 64-bit
+Writing library                          : libebml v1.4.2 + libmatroska v1.6.4
+Video
+ID                                       : 1
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L5.1@Main
+Codec ID                                 : V_MPEGH/ISO/HEVC
+Duration                                 : 5 h 7 min
+Bit rate                                 : 9 991 kb/s
+Width                                    : 3 840 pixels
+Height                                   : 2 160 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 10 bits
+Bits/(Pixel*Frame)                       : 0.024
+Stream size                              : 21.5 GiB (97%)
+Language                                 : Italian
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.2020
+Transfer characteristics                 : HLG / BT.2020 (10-bit)
+Matrix coefficients                      : BT.2020 non-constant
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 5 h 7 min
+Bit rate                                 : 317 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : 16 ms
+Stream size                              : 699 MiB (3%)
+Language                                 : Italian
+Default                                  : Yes
+Forced                                   : No
+
+</pre>
+</div>Pixeldrain:<br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
-<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
 </div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[2NE1]]></author>
+                <author><![CDATA[LLAVE1]]></author>
                 </item>
 
                 </channel></rss>
