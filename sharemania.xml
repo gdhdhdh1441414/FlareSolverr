@@ -8,90 +8,102 @@
 
  
                 <item>
-                <title><![CDATA[【Music Videos】Aqua - Turn Back Time (1080p 5.1) (Clean)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/aqua-turn-back-time-1080p-5-1-clean.237682/]]></link>
+                <title><![CDATA[【HD Live Performances】HDTV - Radwimps - Sparkle - Fuji Rock Festival 2017 Kanzenban Day1 (FujiTV NEXT 2017.09.08) 1440x1080i AAC2.0 MPEG2]]></title>
+                <link><![CDATA[https://sharemania.us/threads/radwimps-sparkle-fuji-rock-festival-2017-kanzenban-day1-fujitv-next-2017-09-08-1440x1080i-aac2-0-mpeg2.237684/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://i.ibb.co/prS20H2/Aqua-Turn-Back-Time-1080p-5-1-mp4-thumbs-2024-02-13-18-30-58.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/prS20H2/Aqua-Turn-Back-Time-1080p-5-1-mp4-thumbs-2024-02-13-18-30-58.jpg" style=""> <br>
-<br>
+<img src="https://www.japanrailpass.com.au/wp-content/uploads/2017/07/slide0707_flyer.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://www.japanrailpass.com.au/wp-content/uploads/2017/07/slide0707_flyer.jpg" style=""> <br>
+<img src="https://i.postimg.cc/V6zn3Fph/Radwimps-Sparkle-Fuji-Rock-Festival-2017-Kanzenban-Day1-Fuji-TV-NEXT-2017-09-08-1440x1080i-AAC2.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/V6zn3Fph/Radwimps-Sparkle-Fuji-Rock-Festival-2017-Kanzenban-Day1-Fuji-TV-NEXT-2017-09-08-1440x1080i-AAC2.jpg" style=""> <br>
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
-<div class="SpoilerTarget bbCodeSpoilerText">Aqua - Turn Back Time (1080p 5.1).mp4<br>
-Format : MPEG-4<br>
-Format profile : Base Media / Version 2<br>
-Codec ID : mp42 (mp42/mp41)<br>
-File size : 360 MiB<br>
-Duration : 4 min 4 s<br>
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Media Info</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">General<br>
+ID : 1 (0x1)<br>
+Complete name : Radwimps - Sparkle - Fuji Rock Festival 2017 Kanzenban Day1 (FujiTV NEXT 2017.09.08) 1440x1080i AAC2.0 MPEG2.ts<br>
+Format : MPEG-TS<br>
+File size : 613 MiB<br>
+Duration : 6 min 59 s<br>
 Overall bit rate mode : Variable<br>
 Overall bit rate : 12.3 Mb/s<br>
-Frame rate : 25.000 FPS<br>
-Encoded date : 2024-02-13 21:24:02 UTC<br>
-Tagged date : 2024-02-13 21:24:41 UTC<br>
-TIM : 00:00:00:00<br>
-TSC : 25<br>
-TSZ : 1<br>
+Frame rate : 29.970 FPS<br>
 <br>
 Video<br>
-ID : 1<br>
-Format : AVC<br>
-Format/Info : Advanced Video Codec<br>
-Format profile : Main@L4.1<br>
-Format settings : CABAC / 4 Ref Frames<br>
-Format settings, CABAC : Yes<br>
-Format settings, Reference : 4 frames<br>
-Codec ID : avc1<br>
-Codec ID/Info : Advanced Video Coding<br>
-Duration : 4 min 4 s<br>
-Bit rate : 12.0 Mb/s<br>
-Width : 1 920 pixels<br>
+ID : 4109 (0x100D)<br>
+Menu ID : 309 (0x135)<br>
+Format : MPEG Video<br>
+Format version : Version 2<br>
+Format profile : Main@High<br>
+Format settings : CustomMatrix / BVOP<br>
+Format settings, BVOP : Yes<br>
+Format settings, Matrix : Custom<br>
+Format settings, GOP : M=3, N=15<br>
+Format settings, picture structure : Frame<br>
+Codec ID : 2<br>
+Duration : 6 min 54 s<br>
+Bit rate mode : Variable<br>
+Maximum bit rate : 20.0 Mb/s<br>
+Width : 1 440 pixels<br>
 Height : 1 080 pixels<br>
 Display aspect ratio : 16:9<br>
-Frame rate mode : Constant<br>
-Frame rate : 25.000 FPS<br>
+Frame rate : 29.970 (30000/1001) FPS<br>
 Color space : YUV<br>
 Chroma subsampling : 4:2:0<br>
 Bit depth : 8 bits<br>
-Scan type : Progressive<br>
-Bits/(Pixel*Frame) : 0.232<br>
-Stream size : 350 MiB (97%)<br>
-Language : English<br>
-Encoded date : 2024-02-13 21:24:02 UTC<br>
-Tagged date : 2024-02-13 21:24:02 UTC<br>
-Color range : Limited<br>
+Scan type : Interlaced<br>
+Scan order : Top Field First<br>
+Compression mode : Lossy<br>
+Time code of first frame : 15:12:36;22<br>
+Time code source : Group of pictures header<br>
+GOP, Open/Closed : Open<br>
+GOP, Open/Closed of first frame : Closed<br>
 Color primaries : BT.709<br>
 Transfer characteristics : BT.709<br>
 Matrix coefficients : BT.709<br>
-Codec configuration box : avcC<br>
 <br>
 Audio<br>
-ID : 2<br>
+ID : 4173 (0x104D)<br>
+Menu ID : 309 (0x135)<br>
 Format : AAC LC<br>
 Format/Info : Advanced Audio Codec Low Complexity<br>
-Codec ID : mp4a-40-2<br>
-Duration : 4 min 4 s<br>
-Source duration : 4 min 4 s<br>
+Format version : Version 2<br>
+Muxing mode : ADTS<br>
+Codec ID : 2 / 15-2<br>
+Duration : 6 min 59 s<br>
 Bit rate mode : Variable<br>
-Bit rate : 317 kb/s<br>
-Maximum bit rate : 362 kb/s<br>
-Channel(s) : 6 channels<br>
-Channel layout : C L R Ls Rs LFE<br>
+Channel(s) : 2 channels<br>
+Channel layout : L R<br>
 Sampling rate : 48.0 kHz<br>
 Frame rate : 46.875 FPS (1024 SPF)<br>
 Compression mode : Lossy<br>
-Stream size : 9.25 MiB (3%)<br>
-Source stream size : 9.25 MiB (3%)<br>
-Language : English<br>
-Encoded date : 2024-02-13 21:24:02 UTC<br>
-Tagged date : 2024-02-13 21:24:02 UTC</div>
-</div><br>
+Language : English</div>
+</div>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
-<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
 </div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[DJ-RoGeRs-BS]]></author>
+                <author><![CDATA[szymek04sawicki]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ AUD] - M.I.A. 24Bit Discography]]></title>
+                <link><![CDATA[https://sharemania.us/threads/m-i-a-24bit-discography.237683/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+Hi, can anyone please help get these in <b>24bit</b>?<br>
+<br>
+M.I.A. - MAYA (2010) <br>
+M.I.A. - Matangi (2013)<br>
+M.I.A. - Kala (2007)<br>
+M.I.A. - Arular (2005)<br>
+<br>
+Thank you.
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[flightanddeparture]]></author>
                 </item>
 
                 </channel></rss>
