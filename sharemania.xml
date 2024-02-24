@@ -8,67 +8,105 @@
 
  
                 <item>
-                <title><![CDATA[【Apple Music】WEB-RiP - Green Day - Longview (2160p AM WEB-DL AAC2.0 H.265)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/green-day-longview-2160p-am-web-dl-aac2-0-h-265.238470/]]></link>
+                <title><![CDATA[【Vimeo】Green Day - Macy's Day Parade (540p Vimeo Original AAC2.0 H.264)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/green-day-macys-day-parade-540p-vimeo-original-aac2-0-h-264.238473/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center"><img src="https://i.gyazo.com/3cae57ada72ea220dabf19534c47ed6e.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.gyazo.com/3cae57ada72ea220dabf19534c47ed6e.png" style=""> <br>
+<div style="text-align: center"><img src="https://i.gyazo.com/3697f620fe627bda81c30c4c6ddb3922.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.gyazo.com/3697f620fe627bda81c30c4c6ddb3922.png" style="">
 <div class="bbCodeBlock bbCodeCode">
 <div class="type">Code:</div>
 <pre>General
-Unique ID                      : 82562322450156757923837260867338786247 (0x3E1CECC6CD894177A67C7BC0E6BC55C7)
-Format                         : Matroska
-Format version                 : Version 4
-File size                      : 561 MiB
-Duration                       : 3 min 48 s
-Overall bit rate               : 20.6 Mb/s
-Frame rate                     : 23.976 FPS
-Encoded date                   : 2024-02-08 16:41:50 UTC
-Writing application            : mkvmerge v67.0.0 ('Under Stars') 64-bit
-Writing library                : libebml v1.4.2 + libmatroska v1.6.4
-Cover                          : Yes
-Attachments                    : cover.jpg
+
+Format                         : MPEG-4
+Format profile                 : QuickTime
+Codec ID                       : qt   2005.03 (qt  )
+File size                      : 202 MiB
+Duration                       : 3 min 49 s
+Overall bit rate               : 7 364 kb/s
+Frame rate                     : 29.970 FPS
+Encoded date                   : 2015-02-11 23:11:54 UTC
+Tagged date                    : 2015-02-11 23:12:35 UTC
+Writing library                : Apple QuickTime
+com.apple.quicktime.software   : Sorenson Squeeze
+F                              : e
+fniï¿½                         : Source ID = 060a2b340101010101010f00-13-00-00-00-{4f6003b7-fe6b-00f9-060e2b347f7f2a80}
+Encoded_With                   : Sorenson Squeeze
 
 Video
-ID                             : 1
-Format                         : HEVC
-Format/Info                    : High Efficiency Video Coding
-Format profile                 : Main 10@L5@High
-Codec ID                       : V_MPEGH/ISO/HEVC
-Duration                       : 3 min 48 s
-Bit rate                       : 20.4 Mb/s
-Width                          : 2 880 pixels
-Height                         : 2 160 pixels
+ID                             : 2
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : Baseline@L3.1
+Format settings                : 1 Ref Frames
+Format settings, CABAC         : No
+Format settings, Reference fra : 1 frame
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 3 min 49 s
+Bit rate mode                  : Constant
+Bit rate                       : 6 992 kb/s
+Width                          : 720 pixels
+Height                         : 540 pixels
 Display aspect ratio           : 4:3
-Frame rate mode                : Constant
-Frame rate                     : 23.976 (23976/1000) FPS
+Frame rate mode                : Variable
+Frame rate                     : 29.970 FPS
+Minimum frame rate             : 28.571 FPS
+Maximum frame rate             : 30.000 FPS
+Standard                       : NTSC
 Color space                    : YUV
 Chroma subsampling             : 4:2:0
-Bit depth                      : 10 bits
-Bits/(Pixel*Frame)             : 0.136
-Stream size                    : 554 MiB (99%)
-Default                        : Yes
-Forced                         : No
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.600
+Stream size                    : 192 MiB (95%)
+Language                       : English
+Encoded date                   : 2015-02-11 23:11:38 UTC
+Tagged date                    : 2015-02-11 23:12:35 UTC
 Color range                    : Limited
-Color primaries                : BT.709
-Transfer characteristics       : BT.709
-Matrix coefficients            : BT.709
+Codec configuration box        : avcC
 
 Audio
-ID                             : 2
+ID                             : 1
 Format                         : AAC LC
 Format/Info                    : Advanced Audio Codec Low Complexity
-Codec ID                       : A_AAC-2
-Duration                       : 3 min 48 s
-Bit rate                       : 276 kb/s
+Codec ID                       : mp4a-40-2
+Duration                       : 3 min 49 s
+Bit rate mode                  : Constant
+Bit rate                       : 128 kb/s
 Channel(s)                     : 2 channels
 Channel layout                 : L R
-Sampling rate                  : 48.0 kHz
-Frame rate                     : 46.875 FPS (1024 SPF)
+Sampling rate                  : 44.1 kHz
+Frame rate                     : 43.066 FPS (1024 SPF)
 Compression mode               : Lossy
-Stream size                    : 7.51 MiB (1%)
-Default                        : Yes
-Forced                         : No</pre>
+Stream size                    : 3.55 MiB (2%)
+Language                       : English
+Encoded date                   : 2015-02-11 23:11:38 UTC
+Tagged date                    : 2015-02-11 23:12:35 UTC
+
+Other #1
+ID                             : 3
+Type                           : Hint
+Format                         : RTP
+Codec ID                       : rtp
+Duration                       : 3 min 49 s
+Title                          : Hinted Video Track
+Language                       : English
+Default                        : No
+Encoded date                   : 2015-02-11 23:11:38 UTC
+Tagged date                    : 2015-02-11 23:12:35 UTC
+
+Other #2
+ID                             : 4
+Type                           : Hint
+Format                         : RTP
+Codec ID                       : rtp
+Duration                       : 3 min 49 s
+Bit rate mode                  : Variable
+Title                          : Hinted Sound Track
+Language                       : English
+Default                        : No
+Encoded date                   : 2015-02-11 23:11:51 UTC
+Tagged date                    : 2015-02-11 23:12:35 UTC</pre>
 </div>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
@@ -78,21 +116,6 @@ Forced                         : No</pre>
 </blockquote>
 </article>]]></description>
                 <author><![CDATA[Rey619Spear]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【General Music Discussion】Top-notch Сasual Dating Actual Girls]]></title>
-                <link><![CDATA[https://sharemania.us/threads/top-notch-%D0%A1asual-dating-actual-girls.238471/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-Unlock a world of casual fun and excitement with the premier dating site. <br>
-Living Women Superlative Сasual Dating <br>
-<a href="http://meettomy.site" target="_blank" class="externalLink" rel="nofollow">Finest Сasual Dating</a>
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[eusebitoo]]></author>
                 </item>
 
                 </channel></rss>
