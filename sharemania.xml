@@ -8,23 +8,22 @@
 
  
                 <item>
-                <title><![CDATA[【Apple Music】WEB-RiP - Green Day - Look Ma, No Brains! (1440p AM WEB-DL AAC2.0 H.265)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/green-day-look-ma-no-brains-1440p-am-web-dl-aac2-0-h-265.238466/]]></link>
+                <title><![CDATA[【Apple Music】WEB-RiP - Green Day - One Eyed Bastard (1080p AM WEB-DL AAC2.0 H.264)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/green-day-one-eyed-bastard-1080p-am-web-dl-aac2-0-h-264.238467/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center"><img src="https://i.gyazo.com/3c81afd682cac3bfafaa64ea33faed52.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.gyazo.com/3c81afd682cac3bfafaa64ea33faed52.png" style=""> <br>
-<br>
+<div style="text-align: center"><img src="https://i.gyazo.com/d1c878b853d94e9c2c2a7675e2052562.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.gyazo.com/d1c878b853d94e9c2c2a7675e2052562.png" style=""><br>
 <div class="bbCodeBlock bbCodeCode">
 <div class="type">Code:</div>
 <pre>General
-Unique ID                      : 175385269853547116195737728670454109128 (0x83F1F96BD35B2974DCBFA8A1DBB5D3C8)
+Unique ID                      : 289589694377166831003938661307250097549 (0xD9DCF2472F4CEEF630B3C0C88497BD8D)
 Format                         : Matroska
 Format version                 : Version 4
-File size                      : 190 MiB
-Duration                       : 2 min 12 s
-Overall bit rate               : 12.0 Mb/s
-Frame rate                     : 23.976 FPS
-Encoded date                   : 2023-11-13 12:59:34 UTC
+File size                      : 213 MiB
+Duration                       : 2 min 55 s
+Overall bit rate               : 10.2 Mb/s
+Frame rate                     : 29.970 FPS
+Encoded date                   : 2024-01-24 12:43:26 UTC
 Writing application            : mkvmerge v67.0.0 ('Under Stars') 64-bit
 Writing library                : libebml v1.4.2 + libmatroska v1.6.4
 Cover                          : Yes
@@ -32,22 +31,27 @@ Attachments                    : cover.jpg
 
 Video
 ID                             : 1
-Format                         : HEVC
-Format/Info                    : High Efficiency Video Coding
-Format profile                 : Main 10@L5@High
-Codec ID                       : V_MPEGH/ISO/HEVC
-Duration                       : 2 min 12 s
-Bit rate                       : 11.7 Mb/s
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4
+Format settings                : CABAC / 4 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 4 frames
+Format settings, Slice count   : 8 slices per frame
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 2 min 55 s
+Bit rate                       : 9 941 kb/s
 Width                          : 1 920 pixels
-Height                         : 1 440 pixels
-Display aspect ratio           : 4:3
+Height                         : 1 080 pixels
+Display aspect ratio           : 16:9
 Frame rate mode                : Constant
-Frame rate                     : 23.976 (23976/1000) FPS
+Frame rate                     : 29.970 (30000/1001) FPS
 Color space                    : YUV
 Chroma subsampling             : 4:2:0
-Bit depth                      : 10 bits
-Bits/(Pixel*Frame)             : 0.177
-Stream size                    : 185 MiB (98%)
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.160
+Stream size                    : 207 MiB (97%)
 Default                        : Yes
 Forced                         : No
 Color range                    : Limited
@@ -60,14 +64,14 @@ ID                             : 2
 Format                         : AAC LC
 Format/Info                    : Advanced Audio Codec Low Complexity
 Codec ID                       : A_AAC-2
-Duration                       : 2 min 12 s
+Duration                       : 2 min 55 s
 Bit rate                       : 274 kb/s
 Channel(s)                     : 2 channels
 Channel layout                 : L R
 Sampling rate                  : 48.0 kHz
 Frame rate                     : 46.875 FPS (1024 SPF)
 Compression mode               : Lossy
-Stream size                    : 4.33 MiB (2%)
+Stream size                    : 5.73 MiB (3%)
 Default                        : Yes
 Forced                         : No</pre>
 </div>
