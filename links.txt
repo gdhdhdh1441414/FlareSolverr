@@ -9,7 +9,7 @@ threads/otr-lost-at-midnight-qobuz-24bits-44-1khz.238980/
 threads/brian-ferry-robert-palmer-pretenders-best-of-albums.238979/
 threads/lilith-stangenberg-wild-2016-1080p.238978/
 threads/book-of-love-pretty-boys-and-pretty-girls-1988-flac-24-96-khz.238977/
-threads/how-to-hide-threads-posts-from-specific-members.238976/
+threads/how-to-hide-threads-posts-of-specific-members.238976/
 threads/natali-broods-s-1998-1080p.238975/
 threads/janet-jackson-%E2%80%93-dammn-baby-miguel-campbell-remixes.238974/
 threads/michael-jackson-off-the-wall-shes-out-of-my-life-japanese-3-cd-single.238973/
