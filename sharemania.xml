@@ -8,28 +8,135 @@
 
  
                 <item>
-                <title><![CDATA[【Albums (lossless)】ALAC - Drake - For All The Dogs Scary Hours Edition [Apple LAC | 24bit/48kHz | 2 304 kb/s | Apple Music Quality]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/drake-for-all-the-dogs-scary-hours-edition-apple-lac-24bit-48khz-2-304-kb-s-apple-music-quality.239098/]]></link>
+                <title><![CDATA[【HD Live Performances】FEED - Dua Lipa - Training Season @ 2024 Brit Awards FEED MPA2.0 4.2.2-10b-TSS]]></title>
+                <link><![CDATA[https://sharemania.us/threads/dua-lipa-training-season-2024-brit-awards-feed-mpa2-0-4-2-2-10b-tss.239099/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://a5.mzstatic.com/us/r1000/0/Music126/v4/97/1a/a3/971aa332-2c7d-947c-33ed-4635d41115a4/23UM1IM56239.rgb.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://a5.mzstatic.com/us/r1000/0/Music126/v4/97/1a/a3/971aa332-2c7d-947c-33ed-4635d41115a4/23UM1IM56239.rgb.jpg" style=""> <br>
+<div style="text-align: center"><img src="https://i.imgur.com/Rj3hDbD.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/Rj3hDbD.png" style=""> <br>
+​</div>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Media Info</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">General<br>
+ID : 0 (0x0)<br>
+Complete name : Z:\Satellite Recordings\Award Shows\2024 Brit Awards\Dua Lipa - Training Season @ 2024 Brit Awards FEED MPA2.0 4.2.2-10b.ts<br>
+Format : MPEG-TS<br>
+File size : 953 MiB<br>
+Duration : 3 min 52 s<br>
+Overall bit rate mode : Variable<br>
+Overall bit rate : 34.3 Mb/s<br>
 <br>
-<span style="font-family: 'Book Antiqua'"><b><b>Artist</b>: </b>Drake <br>
-<b><b>Album</b>: </b>For All The Dogs Scary Hours Edition<br>
-<b><b>Release</b>: </b>06/10/2023</span><br>
-<b><span style="font-family: 'Book Antiqua'"><b>Format</b>: .</span></b><span style="font-family: 'Book Antiqua'">m4a Apple Lossless Audio Codec<br>
-<b><b>Sample Rate</b>: </b>2 304 Kbps, 48.000 kHz - 2.0ch<br>
-<b><b>Quality</b>: </b>Hi-Res Quality, Lossless Audio, Apple Core Media Audio</span><br>
-<b><span style="font-family: 'Book Antiqua'"><b>Source</b>: <a href="https://music.apple.com/fr/album/for-all-the-dogs-scary-hours-edition/1716979097" target="_blank" class="externalLink" rel="nofollow">Apple Music</a></span></b><br>
+Video<br>
+ID : 512 (0x200)<br>
+Menu ID : 1 (0x1)<br>
+Format : AVC<br>
+Format/Info : Advanced Video Codec<br>
+Format profile : High 4:2:2@L4<br>
+Format settings : CABAC / 3 Ref Frames<br>
+Format settings, CABAC : Yes<br>
+Format settings, Reference frames : 3 frames<br>
+Codec ID : 27<br>
+Duration : 3 min 52 s<br>
+Bit rate mode : Constant<br>
+Bit rate : 31.0 Mb/s<br>
+Nominal bit rate : 32.7 Mb/s<br>
+Width : 1 920 pixels<br>
+Height : 1 080 pixels<br>
+Display aspect ratio : 16:9<br>
+Frame rate : 25.000 FPS<br>
+Color space : YUV<br>
+Chroma subsampling : 4:2:2<br>
+Bit depth : 10 bits<br>
+Scan type : MBAFF<br>
+Scan type, store method : Interleaved fields<br>
+Scan order : Top Field First<br>
+Bits/(Pixel*Frame) : 0.599<br>
+Stream size : 862 MiB (90%)<br>
+Color range : Limited<br>
+Color primaries : BT.709<br>
+Transfer characteristics : BT.709<br>
+Matrix coefficients : BT.709<br>
 <br>
+Audio #1<br>
+ID : 4112 (0x1010)<br>
+Menu ID : 1 (0x1)<br>
+Format : MPEG Audio<br>
+Format version : Version 1<br>
+Format profile : Layer 2<br>
+Codec ID : 3<br>
+Duration : 3 min 52 s<br>
+Bit rate mode : Constant<br>
+Bit rate : 384 kb/s<br>
+Channel(s) : 2 channels<br>
+Sampling rate : 48.0 kHz<br>
+Frame rate : 41.667 FPS (1152 SPF)<br>
+Compression mode : Lossy<br>
+Stream size : 10.7 MiB (1%)<br>
+Language : German<br>
+Language, more info : Clean effects<br>
+<br>
+Audio #2<br>
+ID : 4128 (0x1020)<br>
+Menu ID : 1 (0x1)<br>
+Format : MPEG Audio<br>
+Format version : Version 1<br>
+Format profile : Layer 2<br>
+Codec ID : 3<br>
+Duration : 3 min 52 s<br>
+Bit rate mode : Constant<br>
+Bit rate : 384 kb/s<br>
+Channel(s) : 2 channels<br>
+Sampling rate : 48.0 kHz<br>
+Frame rate : 41.667 FPS (1152 SPF)<br>
+Compression mode : Lossy<br>
+Stream size : 10.7 MiB (1%)<br>
+Language : German<br>
+Language, more info : Clean effects<br>
+<br>
+Audio #3<br>
+ID : 4144 (0x1030)<br>
+Menu ID : 1 (0x1)<br>
+Format : MPEG Audio<br>
+Format version : Version 1<br>
+Format profile : Layer 2<br>
+Codec ID : 3<br>
+Duration : 3 min 52 s<br>
+Bit rate mode : Constant<br>
+Bit rate : 384 kb/s<br>
+Channel(s) : 2 channels<br>
+Sampling rate : 48.0 kHz<br>
+Frame rate : 41.667 FPS (1152 SPF)<br>
+Compression mode : Lossy<br>
+Stream size : 10.7 MiB (1%)<br>
+Language : German<br>
+Language, more info : Clean effects<br>
+<br>
+Audio #4<br>
+ID : 4160 (0x1040)<br>
+Menu ID : 1 (0x1)<br>
+Format : MPEG Audio<br>
+Format version : Version 1<br>
+Format profile : Layer 2<br>
+Codec ID : 3<br>
+Duration : 3 min 52 s<br>
+Bit rate mode : Constant<br>
+Bit rate : 384 kb/s<br>
+Channel(s) : 2 channels<br>
+Sampling rate : 48.0 kHz<br>
+Frame rate : 41.667 FPS (1152 SPF)<br>
+Compression mode : Lossy<br>
+Stream size : 10.7 MiB (1%)<br>
+Language : German<br>
+Language, more info : Clean effects</div>
+</div><br>
+<b>Download<br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
 <blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
+</div></b>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[SonMaxime]]></author>
+                <author><![CDATA[theslothsidd]]></author>
                 </item>
 
                 </channel></rss>
