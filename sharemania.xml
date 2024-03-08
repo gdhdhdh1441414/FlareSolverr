@@ -8,26 +8,86 @@
 
  
                 <item>
-                <title><![CDATA[【Singles (lossless)】FLAC - Madonna - I'll Remember | Qobuz CD 16bit / 44.1kHz]]></title>
-                <link><![CDATA[https://sharemania.us/threads/madonna-ill-remember-qobuz-cd-16bit-44-1khz.239457/]]></link>
+                <title><![CDATA[【MASTER &amp; MASTER RIP】MASTER - Kaleen - We Will Rave [Master 2K]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/kaleen-we-will-rave-master-2k.239458/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center"><img src="https://static.qobuz.com/images/covers/sc/a0/txq68glxva0sc_600.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://static.qobuz.com/images/covers/sc/a0/txq68glxva0sc_600.jpg" style=""><br>
-<span style="font-size: 15px"><b>Madonna – I'll Remember</b></span><br>
-<br>
-<b>Label/Cat#:</b> Warner Records<br>
-<b>Year:</b> 2024-03-08<br>
-<b>Genre:</b> Pop<br>
-<br>
-<span style="font-size: 12px"><b>Tracklist</b></span><br>
-<b>1.</b> I'll Remember (Theme from the Motion Picture With Honors) <i>(04:20)</i><br>
-<b>2.</b> I'll Remember (Guerilla Beach Mix) <i>(06:18)</i><br>
-<b>3.</b> I'll Remember (Guerilla Groove Mix) <i>(06:03)</i><br>
-<b>4.</b> Why's It So Hard (Live From the Girlie Show) <i>(05:12)</i><br>
-<b>5.</b> I'll Remember (Orbit Remix) <i>(04:18)</i><br>
-<b>6.</b> I'll Remember (Orbit Alternative Remix) <i>(04:30)</i><br>
-<br>
-<b>Total length:</b> 30:41<br>
+<div style="text-align: center"><img src="https://i.ibb.co/2PTF9q1/20240308032637.gif" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/2PTF9q1/20240308032637.gif" style=""><br>
+​</div>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MASTER</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42 (mp42/mp41)
+File size                                : 977 MiB
+Duration                                 : 3 min 19 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 41.1 Mb/s
+Encoded date                             : UTC 2024-03-03 19:08:27
+Tagged date                              : UTC 2024-03-03 19:09:27
+TIM                                      : 01:00:00:00
+TSC                                      : 25
+TSZ                                      : 1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L5
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 3 min 19 s
+Bit rate                                 : 40.7 Mb/s
+Width                                    : 3 072 pixels
+Height                                   : 1 728 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.307
+Stream size                              : 969 MiB (99%)
+Language                                 : English
+Encoded date                             : UTC 2024-03-03 19:08:27
+Tagged date                              : UTC 2024-03-03 19:08:27
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+Codec configuration box                  : avcC
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : mp4a-40-2
+Duration                                 : 3 min 19 s
+Source duration                          : 3 min 19 s
+Bit rate mode                            : Variable
+Bit rate                                 : 317 kb/s
+Maximum bit rate                         : 488 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 7.55 MiB (1%)
+Source stream size                       : 7.55 MiB (1%)
+Language                                 : English
+Encoded date                             : UTC 2024-03-03 19:08:27
+Tagged date                              : UTC 2024-03-03 19:08:27
+
+</pre>
+</div><div style="text-align: center">​</div></div>
+</div><div style="text-align: center"><br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
 <blockquote>You must reply before you can see the hidden data contained here.</blockquote>
@@ -35,7 +95,7 @@
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[Yennefer]]></author>
+                <author><![CDATA[fstambuk]]></author>
                 </item>
 
                 </channel></rss>
