@@ -1,3 +1,4 @@
+threads/tlc-no-scrubs-1999-4k-ai-upscale-hevc-10-bit-pcm-16-bit-48-khz-pcm-24-bit-44-1-khz.240092/
 threads/lana-del-rey-ultraviolence-special-edition.240091/
 threads/salma-salsabil-bunga-hati-flac-qobuz.240090/
 threads/taylor-swift-the-eras-tour-2023-taylors-version-1080p-10bit-webrip-6ch-x265-hevc-psa.240089/
@@ -8,7 +9,7 @@ threads/scanners-1981-1981-1080p-max-web-dl-ddp2-0-x264-samuel.240085/
 threads/nicki-minaj-rolling-loud-2024.240083/
 threads/the-thundermans-return-2024-1080p-pmtp-web-dl-ddp5-1-x264-samuel.240082/
 threads/black-tusk.240081/
-threads/tears-for-fears-mad-world-1080p-ai-upscale-pcm-24-bit-96-khz-dd-dolby-atmos.240080/
+threads/tears-for-fears-mad-world-1982-1080p-ai-upscale-pcm-24-bit-96-khz-dd-dolby-atmos.240080/
 threads/klb-um-anjo.240079/
 threads/ajr-the-maybe-man.240078/
 threads/depeche-mode-bbc-6-music-festival-barrowland-2017-hd-1080p.240077/
@@ -21,4 +22,3 @@ threads/the-veronicas-gothic-summer-album.240069/
 threads/boy-george-culture-jp-mqa-cd-6-titles.240068/
 threads/kpop-boy-group-ze-a-discography-flac.240067/
 threads/emma-corrin-lady-chatterleys-lover-2022-1080p.240066/
-threads/destinys-child-survivor-2001-sacd.240065/
