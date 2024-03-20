@@ -1,3 +1,4 @@
+threads/purple-kiss-bxx-qobuz-flac-24bits-96khz.240342/
 threads/newdad-disappear.240341/
 threads/delete.240340/
 threads/blind-melon-no-rain-1992-promo-only-vob.240339/
@@ -21,4 +22,3 @@ threads/bon-jovi-legendary-tidal-1080p-lk72.240319/
 threads/justin-timberlake-no-angels-tidal-1080p-lk72.240318/
 threads/alicia-keys-diary-tidal-1080p-lk72.240317/
 threads/the-smashing-pumpkins-1991-gish-2cd-2011-deluxe-edition-24bit-96khz.240316/
-threads/ftisland-japanese-albums.240315/
