@@ -8,84 +8,20 @@
 
  
                 <item>
-                <title><![CDATA[【SD】Michael Jackson - Bad ("High Quality Processing")]]></title>
-                <link><![CDATA[https://sharemania.us/threads/michael-jackson-bad-high-quality-processing.240572/]]></link>
+                <title><![CDATA[【SD】DVD - Brenda K. Starr - I Still Believe (1987) (Promo Only) [VOB]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/brenda-k-starr-i-still-believe-1987-promo-only-vob.240573/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-Extracted from "Video Greatest Hits DVD", Processed trough AviSynth+<br>
-<br>
-AviSynth+ Code:<br>
-<br>
-<div class="bbCodeBlock bbCodeCode">
-<div class="type">Code:</div>
-<pre>MPEG2Source("Video Greatest Hits History.d2v")
-QTGMC(preset="Placebo", Tuning="DV-SD", NoisePreset="Slower", FPSDivisor=2, StabilizeNoise=true, Sharpness=0, Denoiser="dfttest")
-tdecimate()
-trim(53940,77515)
-AudioDub(WAVSource("bad_audio.wav"))
-RoboCrop()
-PSharpen(35,100,dest_x=720,dest_y=480) #Resize back to 720x480 using sharp scaling</pre>
-</div><img src="https://cdn.discordapp.com/attachments/1134475070153183322/1221131285540638741/Bad.mov_thumbs.png?ex=66117621&amp;is=65ff0121&amp;hm=b8d7380b9b9211162bb7bbeb78167d540ceac3267a378d71a7b3b37f5b4ed43a&amp;" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://cdn.discordapp.com/attachments/1134475070153183322/1221131285540638741/Bad.mov_thumbs.png?ex=66117621&amp;is=65ff0121&amp;hm=b8d7380b9b9211162bb7bbeb78167d540ceac3267a378d71a7b3b37f5b4ed43a&amp;" style=""><br>
-<br>
-<div class="bbCodeBlock bbCodeCode">
-<div class="type">Code:</div>
-<pre>General
-Complete name                  : C:\Users\Adrian\Videos\Bad.mov
-Format                         : MPEG-4
-Format profile                 : QuickTime
-Codec ID                       : qt   0000.02 (qt  )
-File size                      : 2.66 GiB
-Duration                       : 16 min 23 s
-Overall bit rate               : 23.2 Mb/s
-Frame rate                     : 23.976 FPS
-Writing application            : Lavf57.79.100
-
-Video
-ID                             : 1
-Format                         : AVC
-Format/Info                    : Advanced Video Codec
-Format profile                 : High 4:4:4 Predictive@L4
-Format settings                : CABAC / 16 Ref Frames
-Format settings, CABAC         : Yes
-Format settings, Reference fra : 16 frames
-Codec ID                       : avc1
-Codec ID/Info                  : Advanced Video Coding
-Duration                       : 16 min 23 s
-Bit rate                       : 21.7 Mb/s
-Width                          : 720 pixels
-Height                         : 480 pixels
-Display aspect ratio           : 4:3
-Frame rate mode                : Constant
-Color space                    : YUV
-Chroma subsampling             : 4:2:0
-Bit depth                      : 8 bits
-Scan type                      : Progressive
-Stream size                    : 2.48 GiB (93%)
-Encoding settings              : cabac=1 / ref=16 / deblock=1:-1:-1 / analyse=0x1:0x131 / me=umh / subme=9 / psy=0 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=0 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=0 / threads=15 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc=cqp / mbtree=0 / qp=0
-Color range                    : Limited
-Matrix coefficients            : BT.470 System B/G
-
-Audio
-Format                         : PCM
-Codec ID                       : sowt
-Duration                       : 16 min 23 s
-Bit rate mode                  : Constant
-Bit rate                       : 1 536 kb/s
-Channel(s)                     : 2 channels
-Sampling rate                  : 48.0 kHz
-Bit depth                      : 16 bits
-Stream size                    : 180 MiB (7%)
-
-</pre>
-</div>
+<div style="text-align: center"><img src="https://i.discogs.com/E6JSoIChUhWwCpaWg5TRLyFDJuL05j4V703uTI_TBBY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjA2/NDMtMTQyMTY5ODUz/Mi03MjgxLmpwZWc.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.discogs.com/E6JSoIChUhWwCpaWg5TRLyFDJuL05j4V703uTI_TBBY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNjA2/NDMtMTQyMTY5ODUz/Mi03MjgxLmpwZWc.jpeg" style=""> <br>
+<img src="https://i.postimg.cc/85wf70zv/Brenda-K-Starr-I-Still-Believe-1987-Promo-Only-vob-thumbs.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/85wf70zv/Brenda-K-Starr-I-Still-Believe-1987-Promo-Only-vob-thumbs.jpg" style=""> <br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
-<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div></div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[yoeymeme]]></author>
+                <author><![CDATA[Fan Made]]></author>
                 </item>
 
                 </channel></rss>
