@@ -8,17 +8,36 @@
 
  
                 <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Benson Boone - Slow It Down &amp; Fireworks and Rollerblades]]></title>
-                <link><![CDATA[https://sharemania.us/threads/benson-boone-slow-it-down-fireworks-and-rollerblades.240631/]]></link>
+                <title><![CDATA[【Helpdesk】How to convert and split TrueHD and DTS in WAVs with FFMPEG]]></title>
+                <link><![CDATA[https://sharemania.us/threads/how-to-convert-and-split-truehd-and-dts-in-wavs-with-ffmpeg.240632/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<a href="https://www.qobuz.com/us-en/album/slow-it-down-benson-boone/dl3odi4767iac" target="_blank" class="externalLink" rel="nofollow">https://www.qobuz.com/us-en/album/slow-it-down-benson-boone/dl3odi4767iac</a><br>
+Before start, download FFMPEG from<br>
 <br>
-<a href="https://www.qobuz.com/us-en/album/fireworks-rollerblades-benson-boone/bqexzyruqy65a" target="_blank" class="externalLink" rel="nofollow">https://www.qobuz.com/us-en/album/fireworks-rollerblades-benson-boone/bqexzyruqy65a</a>
+<a href="https://ffmpeg.org/download.html#build-windows" target="_blank" class="externalLink" rel="nofollow">https://ffmpeg.org/download.html#build-windows</a><br>
+<br>
+and then create with Notepad batch files with code<br>
+<br>
+<b>if you want to convert TrueHD to WAV (audio.thd &gt; audio.wav)</b><br>
+ffmpeg -i audio.thd audio.wav<br>
+<br>
+<b>if you want to convert DTS to WAV (audio.dts &gt; audio.wav)</b><br>
+ffmpeg -i audio.dts audio.wav<br>
+<br>
+<b>if you want to split a 5.1 WAV file into per-channel files</b><br>
+<i><b>FL (front left) / FR (front right) / FC (center) / LFE (subwoofer) / BL (back left) / BR (back right)</b></i><br>
+ffmpeg -i audio.wav -filter_complex "channelsplit=channel_layout=5.1[FL][FR][FC][LFE][BL][BR]" -map "[FL]" 01L(FrontLeft).wav -map "[FR]" 02R(FrontRight).wav -map "[FC]" 03C(FrontCenter).wav -map "[LFE]" 04LFE(LFE).wav -map "[BL]" 07LRS(LeftBack).wav -map "[BR]" 08RLS(RightBack).wav<br>
+<br>
+<b>if you want to split a 7.1 WAV file into per-channel files<br>
+<i>FL (front left) / FR (front right) / FC (center) / LFE (subwoofer) / BL (back left) / BR (back right) / SL (side left) /<br>
+SR (side right)</i></b><br>
+ffmpeg -i audio.wav -filter_complex "channelsplit=channel_layout=7.1[FL][FR][FC][LFE][BL][BR][SL][SR]" -map "[FL]" 01L(FrontLeft).wav -map "[FR]" 02R(FrontRight).wav -map "[FC]" 03C(FrontCenter).wav -map "[LFE]" 04LFE(LFE).wav -map "[BL]" 07LRS(LeftBack).wav -map "[BR]" 08RLS(RightBack).wav -map "[SL]" 05LS(LeftSide).wav -map "[SR]" 06RS(RightSide).wav<br>
+<br>
+<b>NOTE:</b> FFMPEG and all audio files must be in same directory.
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[zyner]]></author>
+                <author><![CDATA[Blizznow]]></author>
                 </item>
 
                 </channel></rss>
