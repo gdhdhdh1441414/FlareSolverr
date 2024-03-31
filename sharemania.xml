@@ -8,19 +8,404 @@
 
  
                 <item>
-                <title><![CDATA[【Actresses】Rochelle Swanson - Insatiable Coeds (2000)1080p]]></title>
-                <link><![CDATA[https://sharemania.us/threads/rochelle-swanson-insatiable-coeds-2000-1080p.241126/]]></link>
+                <title><![CDATA[【Helpdesk】help me decrypt a video and audio file]]></title>
+                <link><![CDATA[https://sharemania.us/threads/help-me-decrypt-a-video-and-audio-file.241128/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-Rochelle Swanson - Insatiable Coeds (2000)1080p<br>
+i downloaded encrypted video and audio file from ON AIR with n_m3u8dl-cli<br>
+and i dont know how to decrypt them and merge into one.<br>
 <br>
-<a href="https://imgbox.com/ATnRHcrt" target="_blank" class="externalLink" rel="nofollow"><img src="https://thumbs2.imgbox.com/de/2c/ATnRHcrt_t.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://thumbs2.imgbox.com/de/2c/ATnRHcrt_t.jpg"></a> <a href="https://imgbox.com/lFm6OgHu" target="_blank" class="externalLink" rel="nofollow"><img src="https://thumbs2.imgbox.com/fb/a0/lFm6OgHu_t.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://thumbs2.imgbox.com/fb/a0/lFm6OgHu_t.jpg"></a> <a href="https://imgbox.com/R0VQGuLP" target="_blank" class="externalLink" rel="nofollow"><img src="https://thumbs2.imgbox.com/1c/9d/R0VQGuLP_t.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://thumbs2.imgbox.com/1c/9d/R0VQGuLP_t.jpg"></a> <a href="https://imgbox.com/MPxP6GEb" target="_blank" class="externalLink" rel="nofollow"><img src="https://thumbs2.imgbox.com/23/48/MPxP6GEb_t.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://thumbs2.imgbox.com/23/48/MPxP6GEb_t.jpg"></a> <a href="https://imgbox.com/9ZceY7Xn" target="_blank" class="externalLink" rel="nofollow"><img src="https://thumbs2.imgbox.com/a5/94/9ZceY7Xn_t.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://thumbs2.imgbox.com/a5/94/9ZceY7Xn_t.jpg"></a> <a href="https://imgbox.com/NEHxPacT" target="_blank" class="externalLink" rel="nofollow"><img src="https://thumbs2.imgbox.com/1a/f9/NEHxPacT_t.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://thumbs2.imgbox.com/1a/f9/NEHxPacT_t.jpg"></a><br>
-Duration: 0:02:37 Resolution: 1280x720 Format: mp4 Size: 58.6 MB<br>
-<a href="https://filejoker.net/wrjnvfedl9nq" target="_blank" class="externalLink" rel="nofollow">https://filejoker.net/wrjnvfedl9nq</a>
+heres what i got:<br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">mpd</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>&lt;?xml version="1.0" ?&gt;
+&lt;MPD xmlns:cenc="urn:mpeg:cenc:2013" xmlns:mspr="urn:microsoft:playready" xmlns="urn:mpeg:dash:schema:mpd:2011" profiles="urn:mpeg:dash:profile:isoff-live:2011" minBufferTime="PT1.92S" mediaPresentationDuration="PT1H48M2.480S" type="static"&gt;
+  &lt;Period&gt;
+    &lt;AdaptationSet mimeType="video/mp4" segmentAlignment="true" startWithSAP="1" maxWidth="1920" maxHeight="1080" maxFrameRate="25"&gt;
+      &lt;ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="8b8091d1-7eea-4b1c-80be-ec43c13c357b"/&gt;
+      &lt;ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="2.0"&gt;
+        &lt;mspr:pro&gt;oAIAAAEAAQCWAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AMABaAEcAQQBpACsAcAArAEgARQB1AEEAdgB1AHgARAB3AFQAdwAxAGUAdwA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBEAGcASQBsAEsAWAAwAE4AdABlAHcAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAOgAvAC8AcAByAC0AawBlAHkAbwBzAC4AbABpAGMAZQBuAHMAZQBrAGUAeQBzAGUAcgB2AGUAcgAuAGMAbwBtAC8AYwBvAHIAZQAvAHIAaQBnAGgAdABzAG0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A&lt;/mspr:pro&gt;
+        &lt;cenc:pssh&gt;AAACwHBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqCgAgAAAQABAJYCPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgAwAFoARwBBAGkAKwBwACsASABFAHUAQQB2AHUAeABEAHcAVAB3ADEAZQB3AD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEQAZwBJAGwASwBYADAATgB0AGUAdwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcAA6AC8ALwBwAHIALQBrAGUAeQBvAHMALgBsAGkAYwBlAG4AcwBlAGsAZQB5AHMAZQByAHYAZQByAC4AYwBvAG0ALwBjAG8AcgBlAC8AcgBpAGcAaAB0AHMAbQBhAG4AYQBnAGUAcgAuAGEAcwBtAHgAPAAvAEwAQQBfAFUAUgBMAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=&lt;/cenc:pssh&gt;
+      &lt;/ContentProtection&gt;
+      &lt;ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"&gt;
+        &lt;cenc:pssh&gt;AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcIARIQi4CR0X7qSxyAvuxDwTw1exoLYnV5ZHJta2V5b3MiEIuAkdF+6kscgL7sQ8E8NXsqAkhE&lt;/cenc:pssh&gt;
+      &lt;/ContentProtection&gt;
+      &lt;SegmentTemplate timescale="25000" initialization="$RepresentationID$/init.mp4" media="$RepresentationID$/seg-$Number$.m4s" startNumber="1"&gt;
+        &lt;SegmentTimeline&gt;
+          &lt;S d="48000" r="3375"/&gt;
+          &lt;S d="14000"/&gt;
+        &lt;/SegmentTimeline&gt;
+      &lt;/SegmentTemplate&gt;
+      &lt;Representation id="video/avc-sdr/1" codecs="avc1.64000D" width="416" height="234" scanType="progressive" frameRate="25" bandwidth="184179"/&gt;
+      &lt;Representation id="video/avc-sdr/2" codecs="avc1.64001E" width="640" height="360" scanType="progressive" frameRate="25" bandwidth="403727"/&gt;
+      &lt;Representation id="video/avc-sdr/3" codecs="avc1.64001E" width="768" height="432" scanType="progressive" frameRate="25" bandwidth="989203"/&gt;
+      &lt;Representation id="video/avc-sdr/4" codecs="avc1.64001F" width="1024" height="576" scanType="progressive" frameRate="25" bandwidth="2706709"/&gt;
+      &lt;Representation id="video/avc-sdr/5" codecs="avc1.64001F" width="1280" height="720" scanType="progressive" frameRate="25" bandwidth="7520963"/&gt;
+      &lt;Representation id="video/avc-sdr/6" codecs="avc1.640032" width="1920" height="1080" scanType="progressive" frameRate="25" bandwidth="9617992"/&gt;
+    &lt;/AdaptationSet&gt;
+    &lt;AdaptationSet mimeType="video/mp4" segmentAlignment="true" startWithSAP="1" maxWidth="3840" maxHeight="2160" maxFrameRate="25"&gt;
+      &lt;ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="8b8091d1-7eea-4b1c-80be-ec43c13c357b"/&gt;
+      &lt;ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="2.0"&gt;
+        &lt;mspr:pro&gt;oAIAAAEAAQCWAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AMABaAEcAQQBpACsAcAArAEgARQB1AEEAdgB1AHgARAB3AFQAdwAxAGUAdwA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBEAGcASQBsAEsAWAAwAE4AdABlAHcAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAOgAvAC8AcAByAC0AawBlAHkAbwBzAC4AbABpAGMAZQBuAHMAZQBrAGUAeQBzAGUAcgB2AGUAcgAuAGMAbwBtAC8AYwBvAHIAZQAvAHIAaQBnAGgAdABzAG0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A&lt;/mspr:pro&gt;
+        &lt;cenc:pssh&gt;AAACwHBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqCgAgAAAQABAJYCPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgAwAFoARwBBAGkAKwBwACsASABFAHUAQQB2AHUAeABEAHcAVAB3ADEAZQB3AD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEQAZwBJAGwASwBYADAATgB0AGUAdwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcAA6AC8ALwBwAHIALQBrAGUAeQBvAHMALgBsAGkAYwBlAG4AcwBlAGsAZQB5AHMAZQByAHYAZQByAC4AYwBvAG0ALwBjAG8AcgBlAC8AcgBpAGcAaAB0AHMAbQBhAG4AYQBnAGUAcgAuAGEAcwBtAHgAPAAvAEwAQQBfAFUAUgBMAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=&lt;/cenc:pssh&gt;
+      &lt;/ContentProtection&gt;
+      &lt;ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"&gt;
+        &lt;cenc:pssh&gt;AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcIARIQi4CR0X7qSxyAvuxDwTw1exoLYnV5ZHJta2V5b3MiEIuAkdF+6kscgL7sQ8E8NXsqAkhE&lt;/cenc:pssh&gt;
+      &lt;/ContentProtection&gt;
+      &lt;SegmentTemplate timescale="25000" initialization="$RepresentationID$/init.mp4" media="$RepresentationID$/seg-$Number$.m4s" startNumber="1"&gt;
+        &lt;SegmentTimeline&gt;
+          &lt;S d="48000" r="3375"/&gt;
+          &lt;S d="14000"/&gt;
+        &lt;/SegmentTimeline&gt;
+      &lt;/SegmentTemplate&gt;
+      &lt;Representation id="video/hevc-sdr/1" codecs="hvc1.1.6.H120.90" width="1920" height="1080" scanType="progressive" frameRate="25" bandwidth="7940679"/&gt;
+      &lt;Representation id="video/hevc-sdr/2" codecs="hvc1.1.6.L150.90" width="2560" height="1440" scanType="progressive" frameRate="25" bandwidth="9919875"/&gt;
+      &lt;Representation id="video/hevc-sdr/3" codecs="hvc1.1.6.L150.90" width="3840" height="2160" scanType="progressive" frameRate="25" bandwidth="17693026"/&gt;
+      &lt;Representation id="video/hevc-sdr/4" codecs="hvc1.1.6.L90.90" width="960" height="540" scanType="progressive" frameRate="25" bandwidth="1004628"/&gt;
+      &lt;Representation id="video/hevc-sdr/5" codecs="hvc1.1.6.L93.90" width="1280" height="720" scanType="progressive" frameRate="25" bandwidth="3483802"/&gt;
+    &lt;/AdaptationSet&gt;
+    &lt;AdaptationSet mimeType="video/mp4" segmentAlignment="true" startWithSAP="1" maxWidth="3840" maxHeight="2160" maxFrameRate="25"&gt;
+      &lt;ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="8b8091d1-7eea-4b1c-80be-ec43c13c357b"/&gt;
+      &lt;ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="2.0"&gt;
+        &lt;mspr:pro&gt;oAIAAAEAAQCWAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AMABaAEcAQQBpACsAcAArAEgARQB1AEEAdgB1AHgARAB3AFQAdwAxAGUAdwA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBEAGcASQBsAEsAWAAwAE4AdABlAHcAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAOgAvAC8AcAByAC0AawBlAHkAbwBzAC4AbABpAGMAZQBuAHMAZQBrAGUAeQBzAGUAcgB2AGUAcgAuAGMAbwBtAC8AYwBvAHIAZQAvAHIAaQBnAGgAdABzAG0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A&lt;/mspr:pro&gt;
+        &lt;cenc:pssh&gt;AAACwHBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqCgAgAAAQABAJYCPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgAwAFoARwBBAGkAKwBwACsASABFAHUAQQB2AHUAeABEAHcAVAB3ADEAZQB3AD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEQAZwBJAGwASwBYADAATgB0AGUAdwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcAA6AC8ALwBwAHIALQBrAGUAeQBvAHMALgBsAGkAYwBlAG4AcwBlAGsAZQB5AHMAZQByAHYAZQByAC4AYwBvAG0ALwBjAG8AcgBlAC8AcgBpAGcAaAB0AHMAbQBhAG4AYQBnAGUAcgAuAGEAcwBtAHgAPAAvAEwAQQBfAFUAUgBMAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=&lt;/cenc:pssh&gt;
+      &lt;/ContentProtection&gt;
+      &lt;ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"&gt;
+        &lt;cenc:pssh&gt;AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcIARIQi4CR0X7qSxyAvuxDwTw1exoLYnV5ZHJta2V5b3MiEIuAkdF+6kscgL7sQ8E8NXsqAkhE&lt;/cenc:pssh&gt;
+      &lt;/ContentProtection&gt;
+      &lt;SegmentTemplate timescale="25000" initialization="$RepresentationID$/init.mp4" media="$RepresentationID$/seg-$Number$.m4s" startNumber="1"&gt;
+        &lt;SegmentTimeline&gt;
+          &lt;S d="48000" r="3375"/&gt;
+          &lt;S d="14000"/&gt;
+        &lt;/SegmentTimeline&gt;
+      &lt;/SegmentTemplate&gt;
+      &lt;Representation id="video/hevc-hdr10/1" codecs="hvc1.2.4.L120.90" width="1920" height="1080" scanType="progressive" frameRate="25" bandwidth="7910025"/&gt;
+      &lt;Representation id="video/hevc-hdr10/2" codecs="hvc1.2.4.L150.90" width="2560" height="1440" scanType="progressive" frameRate="25" bandwidth="9914506"/&gt;
+      &lt;Representation id="video/hevc-hdr10/3" codecs="hvc1.2.4.L150.90" width="3840" height="2160" scanType="progressive" frameRate="25" bandwidth="17533463"/&gt;
+      &lt;Representation id="video/hevc-hdr10/4" codecs="hvc1.2.4.L90.90" width="960" height="540" scanType="progressive" frameRate="25" bandwidth="999976"/&gt;
+      &lt;Representation id="video/hevc-hdr10/5" codecs="hvc1.2.4.L93.90" width="1280" height="720" scanType="progressive" frameRate="25" bandwidth="3479411"/&gt;
+    &lt;/AdaptationSet&gt;
+    &lt;AdaptationSet mimeType="video/mp4" segmentAlignment="true" startWithSAP="1" maxWidth="3840" maxHeight="2160" maxFrameRate="25"&gt;
+      &lt;ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="8b8091d1-7eea-4b1c-80be-ec43c13c357b"/&gt;
+      &lt;ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="2.0"&gt;
+        &lt;mspr:pro&gt;oAIAAAEAAQCWAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AMABaAEcAQQBpACsAcAArAEgARQB1AEEAdgB1AHgARAB3AFQAdwAxAGUAdwA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBEAGcASQBsAEsAWAAwAE4AdABlAHcAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAOgAvAC8AcAByAC0AawBlAHkAbwBzAC4AbABpAGMAZQBuAHMAZQBrAGUAeQBzAGUAcgB2AGUAcgAuAGMAbwBtAC8AYwBvAHIAZQAvAHIAaQBnAGgAdABzAG0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A&lt;/mspr:pro&gt;
+        &lt;cenc:pssh&gt;AAACwHBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqCgAgAAAQABAJYCPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgAwAFoARwBBAGkAKwBwACsASABFAHUAQQB2AHUAeABEAHcAVAB3ADEAZQB3AD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEQAZwBJAGwASwBYADAATgB0AGUAdwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcAA6AC8ALwBwAHIALQBrAGUAeQBvAHMALgBsAGkAYwBlAG4AcwBlAGsAZQB5AHMAZQByAHYAZQByAC4AYwBvAG0ALwBjAG8AcgBlAC8AcgBpAGcAaAB0AHMAbQBhAG4AYQBnAGUAcgAuAGEAcwBtAHgAPAAvAEwAQQBfAFUAUgBMAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=&lt;/cenc:pssh&gt;
+      &lt;/ContentProtection&gt;
+      &lt;ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"&gt;
+        &lt;cenc:pssh&gt;AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcIARIQi4CR0X7qSxyAvuxDwTw1exoLYnV5ZHJta2V5b3MiEIuAkdF+6kscgL7sQ8E8NXsqAkhE&lt;/cenc:pssh&gt;
+      &lt;/ContentProtection&gt;
+      &lt;SegmentTemplate timescale="25000" initialization="$RepresentationID$/init.mp4" media="$RepresentationID$/seg-$Number$.m4s" startNumber="1"&gt;
+        &lt;SegmentTimeline&gt;
+          &lt;S d="48000" r="3375"/&gt;
+          &lt;S d="14000"/&gt;
+        &lt;/SegmentTimeline&gt;
+      &lt;/SegmentTemplate&gt;
+      &lt;Representation id="video/hevc-dv5/1" codecs="dvh1.05.04" width="1920" height="1080" scanType="progressive" frameRate="25" bandwidth="16454937"/&gt;
+      &lt;Representation id="video/hevc-dv5/2" codecs="dvh1.05.05" width="2560" height="1440" scanType="progressive" frameRate="25" bandwidth="18623016"/&gt;
+      &lt;Representation id="video/hevc-dv5/3" codecs="dvh1.05.07" width="3840" height="2160" scanType="progressive" frameRate="25" bandwidth="27095837"/&gt;
+      &lt;Representation id="video/hevc-dv5/4" codecs="dvh1.05.01" width="960" height="540" scanType="progressive" frameRate="25" bandwidth="6181015"/&gt;
+      &lt;Representation id="video/hevc-dv5/5" codecs="dvh1.05.02" width="1280" height="720" scanType="progressive" frameRate="25" bandwidth="10177733"/&gt;
+    &lt;/AdaptationSet&gt;
+    &lt;AdaptationSet mimeType="audio/mp4" startWithSAP="1" segmentAlignment="true" lang="en"&gt;
+      &lt;Label&gt;Stereo&lt;/Label&gt;
+      &lt;ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="8b8091d1-7eea-4b1c-80be-ec43c13c357b"/&gt;
+      &lt;ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="2.0"&gt;
+        &lt;mspr:pro&gt;oAIAAAEAAQCWAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AMABaAEcAQQBpACsAcAArAEgARQB1AEEAdgB1AHgARAB3AFQAdwAxAGUAdwA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBEAGcASQBsAEsAWAAwAE4AdABlAHcAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAOgAvAC8AcAByAC0AawBlAHkAbwBzAC4AbABpAGMAZQBuAHMAZQBrAGUAeQBzAGUAcgB2AGUAcgAuAGMAbwBtAC8AYwBvAHIAZQAvAHIAaQBnAGgAdABzAG0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A&lt;/mspr:pro&gt;
+        &lt;cenc:pssh&gt;AAACwHBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqCgAgAAAQABAJYCPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgAwAFoARwBBAGkAKwBwACsASABFAHUAQQB2AHUAeABEAHcAVAB3ADEAZQB3AD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEQAZwBJAGwASwBYADAATgB0AGUAdwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcAA6AC8ALwBwAHIALQBrAGUAeQBvAHMALgBsAGkAYwBlAG4AcwBlAGsAZQB5AHMAZQByAHYAZQByAC4AYwBvAG0ALwBjAG8AcgBlAC8AcgBpAGcAaAB0AHMAbQBhAG4AYQBnAGUAcgAuAGEAcwBtAHgAPAAvAEwAQQBfAFUAUgBMAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=&lt;/cenc:pssh&gt;
+      &lt;/ContentProtection&gt;
+      &lt;ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"&gt;
+        &lt;cenc:pssh&gt;AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcIARIQi4CR0X7qSxyAvuxDwTw1exoLYnV5ZHJta2V5b3MiEIuAkdF+6kscgL7sQ8E8NXsqAkhE&lt;/cenc:pssh&gt;
+      &lt;/ContentProtection&gt;
+      &lt;SegmentTemplate timescale="48000" initialization="$RepresentationID$/init.mp4" media="$RepresentationID$/seg-$Number$.m4s" startNumber="1"&gt;
+        &lt;SegmentTimeline&gt;
+          &lt;S d="92160" r="3375"/&gt;
+          &lt;S d="27904"/&gt;
+        &lt;/SegmentTimeline&gt;
+      &lt;/SegmentTemplate&gt;
+      &lt;Representation id="audio/en/aaclc-20/mp4a.40.2" codecs="mp4a.40.2" bandwidth="137955" audioSamplingRate="48000"&gt;
+        &lt;AudioChannelConfiguration schemeIdUri="urn:mpeg:mpegB:cicp:ChannelConfiguration" value="2"/&gt;
+      &lt;/Representation&gt;
+    &lt;/AdaptationSet&gt;
+    &lt;AdaptationSet mimeType="audio/mp4" startWithSAP="1" segmentAlignment="true" lang="en"&gt;
+      &lt;Label&gt;Surround&lt;/Label&gt;
+      &lt;ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="8b8091d1-7eea-4b1c-80be-ec43c13c357b"/&gt;
+      &lt;ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="2.0"&gt;
+        &lt;mspr:pro&gt;oAIAAAEAAQCWAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AMABaAEcAQQBpACsAcAArAEgARQB1AEEAdgB1AHgARAB3AFQAdwAxAGUAdwA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBEAGcASQBsAEsAWAAwAE4AdABlAHcAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAOgAvAC8AcAByAC0AawBlAHkAbwBzAC4AbABpAGMAZQBuAHMAZQBrAGUAeQBzAGUAcgB2AGUAcgAuAGMAbwBtAC8AYwBvAHIAZQAvAHIAaQBnAGgAdABzAG0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A&lt;/mspr:pro&gt;
+        &lt;cenc:pssh&gt;AAACwHBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqCgAgAAAQABAJYCPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgAwAFoARwBBAGkAKwBwACsASABFAHUAQQB2AHUAeABEAHcAVAB3ADEAZQB3AD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEQAZwBJAGwASwBYADAATgB0AGUAdwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcAA6AC8ALwBwAHIALQBrAGUAeQBvAHMALgBsAGkAYwBlAG4AcwBlAGsAZQB5AHMAZQByAHYAZQByAC4AYwBvAG0ALwBjAG8AcgBlAC8AcgBpAGcAaAB0AHMAbQBhAG4AYQBnAGUAcgAuAGEAcwBtAHgAPAAvAEwAQQBfAFUAUgBMAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=&lt;/cenc:pssh&gt;
+      &lt;/ContentProtection&gt;
+      &lt;ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"&gt;
+        &lt;cenc:pssh&gt;AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcIARIQi4CR0X7qSxyAvuxDwTw1exoLYnV5ZHJta2V5b3MiEIuAkdF+6kscgL7sQ8E8NXsqAkhE&lt;/cenc:pssh&gt;
+      &lt;/ContentProtection&gt;
+      &lt;SegmentTemplate timescale="48000" initialization="$RepresentationID$/init.mp4" media="$RepresentationID$/seg-$Number$.m4s" startNumber="1"&gt;
+        &lt;SegmentTimeline&gt;
+          &lt;S d="92160" r="3375"/&gt;
+          &lt;S d="27904"/&gt;
+        &lt;/SegmentTimeline&gt;
+      &lt;/SegmentTemplate&gt;
+      &lt;Representation id="audio/en/aaclc-51/mp4a.40.2" codecs="mp4a.40.2" bandwidth="392549" audioSamplingRate="48000"&gt;
+        &lt;AudioChannelConfiguration schemeIdUri="urn:mpeg:mpegB:cicp:ChannelConfiguration" value="6"/&gt;
+      &lt;/Representation&gt;
+    &lt;/AdaptationSet&gt;
+    &lt;AdaptationSet mimeType="audio/mp4" startWithSAP="1" segmentAlignment="true" lang="en"&gt;
+      &lt;Label&gt;Dolby Digital 5.1&lt;/Label&gt;
+      &lt;ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="8b8091d1-7eea-4b1c-80be-ec43c13c357b"/&gt;
+      &lt;ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="2.0"&gt;
+        &lt;mspr:pro&gt;oAIAAAEAAQCWAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AMABaAEcAQQBpACsAcAArAEgARQB1AEEAdgB1AHgARAB3AFQAdwAxAGUAdwA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBEAGcASQBsAEsAWAAwAE4AdABlAHcAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAOgAvAC8AcAByAC0AawBlAHkAbwBzAC4AbABpAGMAZQBuAHMAZQBrAGUAeQBzAGUAcgB2AGUAcgAuAGMAbwBtAC8AYwBvAHIAZQAvAHIAaQBnAGgAdABzAG0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A&lt;/mspr:pro&gt;
+        &lt;cenc:pssh&gt;AAACwHBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqCgAgAAAQABAJYCPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgAwAFoARwBBAGkAKwBwACsASABFAHUAQQB2AHUAeABEAHcAVAB3ADEAZQB3AD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEQAZwBJAGwASwBYADAATgB0AGUAdwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcAA6AC8ALwBwAHIALQBrAGUAeQBvAHMALgBsAGkAYwBlAG4AcwBlAGsAZQB5AHMAZQByAHYAZQByAC4AYwBvAG0ALwBjAG8AcgBlAC8AcgBpAGcAaAB0AHMAbQBhAG4AYQBnAGUAcgAuAGEAcwBtAHgAPAAvAEwAQQBfAFUAUgBMAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=&lt;/cenc:pssh&gt;
+      &lt;/ContentProtection&gt;
+      &lt;ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"&gt;
+        &lt;cenc:pssh&gt;AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcIARIQi4CR0X7qSxyAvuxDwTw1exoLYnV5ZHJta2V5b3MiEIuAkdF+6kscgL7sQ8E8NXsqAkhE&lt;/cenc:pssh&gt;
+      &lt;/ContentProtection&gt;
+      &lt;SegmentTemplate timescale="48000" initialization="$RepresentationID$/init.mp4" media="$RepresentationID$/seg-$Number$.m4s" startNumber="1"&gt;
+        &lt;SegmentTimeline&gt;
+          &lt;S d="92160" r="3375"/&gt;
+          &lt;S d="27648"/&gt;
+        &lt;/SegmentTimeline&gt;
+      &lt;/SegmentTemplate&gt;
+      &lt;Representation id="audio/en/ac3-51/ac-3" codecs="ac-3" bandwidth="389804" audioSamplingRate="48000"&gt;
+        &lt;AudioChannelConfiguration schemeIdUri="urn:mpeg:mpegB:cicp:ChannelConfiguration" value="6"/&gt;
+      &lt;/Representation&gt;
+    &lt;/AdaptationSet&gt;
+    &lt;AdaptationSet mimeType="audio/mp4" startWithSAP="1" segmentAlignment="true" lang="en"&gt;
+      &lt;Label&gt;Dolby Digital Plus 5.1&lt;/Label&gt;
+      &lt;ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="8b8091d1-7eea-4b1c-80be-ec43c13c357b"/&gt;
+      &lt;ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="2.0"&gt;
+        &lt;mspr:pro&gt;oAIAAAEAAQCWAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AMABaAEcAQQBpACsAcAArAEgARQB1AEEAdgB1AHgARAB3AFQAdwAxAGUAdwA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBEAGcASQBsAEsAWAAwAE4AdABlAHcAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAOgAvAC8AcAByAC0AawBlAHkAbwBzAC4AbABpAGMAZQBuAHMAZQBrAGUAeQBzAGUAcgB2AGUAcgAuAGMAbwBtAC8AYwBvAHIAZQAvAHIAaQBnAGgAdABzAG0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A&lt;/mspr:pro&gt;
+        &lt;cenc:pssh&gt;AAACwHBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqCgAgAAAQABAJYCPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgAwAFoARwBBAGkAKwBwACsASABFAHUAQQB2AHUAeABEAHcAVAB3ADEAZQB3AD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEQAZwBJAGwASwBYADAATgB0AGUAdwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcAA6AC8ALwBwAHIALQBrAGUAeQBvAHMALgBsAGkAYwBlAG4AcwBlAGsAZQB5AHMAZQByAHYAZQByAC4AYwBvAG0ALwBjAG8AcgBlAC8AcgBpAGcAaAB0AHMAbQBhAG4AYQBnAGUAcgAuAGEAcwBtAHgAPAAvAEwAQQBfAFUAUgBMAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=&lt;/cenc:pssh&gt;
+      &lt;/ContentProtection&gt;
+      &lt;ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"&gt;
+        &lt;cenc:pssh&gt;AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcIARIQi4CR0X7qSxyAvuxDwTw1exoLYnV5ZHJta2V5b3MiEIuAkdF+6kscgL7sQ8E8NXsqAkhE&lt;/cenc:pssh&gt;
+      &lt;/ContentProtection&gt;
+      &lt;SegmentTemplate timescale="48000" initialization="$RepresentationID$/init.mp4" media="$RepresentationID$/seg-$Number$.m4s" startNumber="1"&gt;
+        &lt;SegmentTimeline&gt;
+          &lt;S d="92160" r="3375"/&gt;
+          &lt;S d="27648"/&gt;
+        &lt;/SegmentTimeline&gt;
+      &lt;/SegmentTemplate&gt;
+      &lt;Representation id="audio/en/ec3-51/ec-3" codecs="ec-3" bandwidth="325804" audioSamplingRate="48000"&gt;
+        &lt;AudioChannelConfiguration schemeIdUri="urn:mpeg:mpegB:cicp:ChannelConfiguration" value="6"/&gt;
+      &lt;/Representation&gt;
+    &lt;/AdaptationSet&gt;
+    &lt;AdaptationSet mimeType="audio/mp4" startWithSAP="1" segmentAlignment="true" lang="en"&gt;
+      &lt;Label&gt;Dolby Atmos&lt;/Label&gt;
+      &lt;ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="8b8091d1-7eea-4b1c-80be-ec43c13c357b"/&gt;
+      &lt;ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="2.0"&gt;
+        &lt;mspr:pro&gt;oAIAAAEAAQCWAjwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AMABaAEcAQQBpACsAcAArAEgARQB1AEEAdgB1AHgARAB3AFQAdwAxAGUAdwA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBEAGcASQBsAEsAWAAwAE4AdABlAHcAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAOgAvAC8AcAByAC0AawBlAHkAbwBzAC4AbABpAGMAZQBuAHMAZQBrAGUAeQBzAGUAcgB2AGUAcgAuAGMAbwBtAC8AYwBvAHIAZQAvAHIAaQBnAGgAdABzAG0AYQBuAGEAZwBlAHIALgBhAHMAbQB4ADwALwBMAEEAXwBVAFIATAA+ADwALwBEAEEAVABBAD4APAAvAFcAUgBNAEgARQBBAEQARQBSAD4A&lt;/mspr:pro&gt;
+        &lt;cenc:pssh&gt;AAACwHBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAqCgAgAAAQABAJYCPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgAwAFoARwBBAGkAKwBwACsASABFAHUAQQB2AHUAeABEAHcAVAB3ADEAZQB3AD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEQAZwBJAGwASwBYADAATgB0AGUAdwA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcAA6AC8ALwBwAHIALQBrAGUAeQBvAHMALgBsAGkAYwBlAG4AcwBlAGsAZQB5AHMAZQByAHYAZQByAC4AYwBvAG0ALwBjAG8AcgBlAC8AcgBpAGcAaAB0AHMAbQBhAG4AYQBnAGUAcgAuAGEAcwBtAHgAPAAvAEwAQQBfAFUAUgBMAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=&lt;/cenc:pssh&gt;
+      &lt;/ContentProtection&gt;
+      &lt;ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"&gt;
+        &lt;cenc:pssh&gt;AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcIARIQi4CR0X7qSxyAvuxDwTw1exoLYnV5ZHJta2V5b3MiEIuAkdF+6kscgL7sQ8E8NXsqAkhE&lt;/cenc:pssh&gt;
+      &lt;/ContentProtection&gt;
+      &lt;SegmentTemplate timescale="48000" initialization="$RepresentationID$/init.mp4" media="$RepresentationID$/seg-$Number$.m4s" startNumber="1"&gt;
+        &lt;SegmentTimeline&gt;
+          &lt;S d="92160" r="3375"/&gt;
+          &lt;S d="27648"/&gt;
+        &lt;/SegmentTimeline&gt;
+      &lt;/SegmentTemplate&gt;
+      &lt;Representation id="audio/en/ec3-joc/ec-3" codecs="ec-3" bandwidth="773804" audioSamplingRate="48000"&gt;
+        &lt;AudioChannelConfiguration schemeIdUri="urn:mpeg:mpegB:cicp:ChannelConfiguration" value="6"/&gt;
+        &lt;SupplementalProperty schemeIdUri="tag:dolby.com,2018:dash:EC3_ExtensionType:2018" value="JOC"/&gt;
+        &lt;SupplementalProperty schemeIdUri="tag:dolby.com,2018:dash:EC3_ExtensionComplexityIndex:2018" value="16"/&gt;
+      &lt;/Representation&gt;
+    &lt;/AdaptationSet&gt;
+  &lt;/Period&gt;
+&lt;/MPD&gt;
+</pre>
+</div></div>
+</div>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">headers?</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>import requests
+
+headers = {
+    'accept': '*/*',
+    'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8,ja;q=0.7',
+    'origin': 'https://onair.events',
+    'referer': 'https://onair.events/',
+    'sec-ch-ua': '"Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"Windows"',
+    'sec-fetch-dest': 'empty',
+    'sec-fetch-mode': 'cors',
+    'sec-fetch-site': 'cross-site',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+}
+
+response = requests.get(
+    'https://api.onair-media.stream/multi-cdn?url=https://po.cdn.onair.events/vod/989ac240-e440-11ee-a339-9f6bcf850a0f/ufz2ye5e/dfasn4vc/index.mpd',
+    headers=headers,
+)</pre>
+</div></div>
+</div><br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">lic url?</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>https://multi-drm.onair.events/generate-auth-xml/license-acquisition?sku=all-time-low-uhd&amp;jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdXN0b21lcklkIjoiNzg5NTM3NjIwMDAwNSIsImN1c3RvbWVyQWNjZXNzVG9rZW4iOiI3ZGM1Y2NmYWU5ZTJmYWYwMDdlY2JiY2E3Y2JiNDdlNiIsImlhdCI6MTcxMDg1MDg4OCwiZXhwIjoxNzE0NDcyNDg4fQ.4oWYeE1X7d7gyKvpkWCcWr8ik8uqeTgHpjjLXrNp0Tc&amp;drmType=widevine</pre>
+</div></div>
+</div><br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">encrypted files media info</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>General
+Complete name                            : D:\index.mpd.mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42 (isom/mp42/dvh1/dby1/iso5/iso6)
+File size                                : 14.9 GiB
+Duration                                 : 1 h 48 min
+Overall bit rate                         : 19.8 Mb/s
+Frame rate                               : 25.000 FPS
+Encoded date                             : 2024-03-18 11:06:28 UTC
+Tagged date                              : 2024-03-18 11:06:28 UTC
+
+Video
+ID                                       : 1
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L5@High
+HDR format                               : Dolby Vision, Version 1.0, dvhe.05.07, BL+RPU
+Codec ID                                 : encv / dvh1
+Duration                                 : 1 h 48 min
+Bit rate                                 : 19.7 Mb/s
+Width                                    : 3 840 pixels
+Height                                   : 2 160 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 0)
+Bit depth                                : 10 bits
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.095
+Stream size                              : 14.9 GiB (100%)
+Encryption                               : Encrypted
+Color range                              : Full
+Codec configuration box                  : hvcC+dvcC
+
+</pre>
+</div>
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>General
+Complete name                            : D:\index.mpd(Audio).eac3
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42 (mp42/dby1/iso5/iso6)
+File size                                : 598 MiB
+Duration                                 : 1 h 48 min
+Overall bit rate mode                    : Constant
+Overall bit rate                         : 774 kb/s
+Encoded date                             : 2024-03-18 11:17:41 UTC
+Tagged date                              : 2024-03-18 11:17:41 UTC
+FileExtension_Invalid                    : braw mov mp4 m4v m4a m4b m4p m4r 3ga 3gpa 3gpp 3gp 3gpp2 3g2 k3g jpm jpx mqv ismv isma ismt f4a f4b f4v
+
+Audio
+ID                                       : 1
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : enca / ec-3
+Duration                                 : 1 h 48 min
+Bit rate mode                            : Constant
+Bit rate                                 : 768 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Compression mode                         : Lossy
+Stream size                              : 593 MiB (99%)
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : Yes
+Alternate group                          : 2
+Encoded date                             : 2024-03-17 10:21:57 UTC
+Tagged date                              : 2024-03-18 11:06:29 UTC
+Encryption                               : Encrypted
+
+</pre>
+</div></div>
+</div><br>
+these are what i got so far... help me decrypt please<br>
+thanks in advance.
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[piqeros]]></author>
+                <author><![CDATA[murayan_k]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Cinema Center】MOVIE - Terminator 3: Rise of the Machines (2003) BluRay 720p x264 DTS - WiKi]]></title>
+                <link><![CDATA[https://sharemania.us/threads/terminator-3-rise-of-the-machines-2003-bluray-720p-x264-dts-wiki.241130/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<div style="text-align: center"><img src="https://m.media-amazon.com/images/M/MV5BMTk5NzM1ODgyN15BMl5BanBnXkFtZTcwMzA5MjAzMw@@._V1_FMjpg_UY2048_.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://m.media-amazon.com/images/M/MV5BMTk5NzM1ODgyN15BMl5BanBnXkFtZTcwMzA5MjAzMw@@._V1_FMjpg_UY2048_.jpg" style=""> <br>
+<br>
+A machine from a post-apocalyptic future travels back in time to protect a man and a woman from an advanced robotic assassin to ensure they both survive a nuclear attack.<br>
+<br>
+Download:<br>
+<br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div></div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[sunnyillion]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Cinema Center】MOVIE - Terminator 2: Judgment Day (1991) BluRay 720p x264 DTS - WiKi]]></title>
+                <link><![CDATA[https://sharemania.us/threads/terminator-2-judgment-day-1991-bluray-720p-x264-dts-wiki.241129/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<div style="text-align: center"><img src="https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UY3210_.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UY3210_.jpg" style=""> <br>
+<br>
+A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son John from an even more advanced and powerful cyborg.<br>
+<br>
+Download:<br>
+<br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div></div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[sunnyillion]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Cinema Center】MOVIE - The Terminator (1984) BluRay 720p x264 DTS - WiKi]]></title>
+                <link><![CDATA[https://sharemania.us/threads/the-terminator-1984-bluray-720p-x264-dts-wiki.241127/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<div style="text-align: center"><img src="https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1066_.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1066_.jpg" style=""> <br>
+<br>
+A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.<br>
+<br>
+Download:<br>
+<br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div></div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[sunnyillion]]></author>
                 </item>
 
                 </channel></rss>
