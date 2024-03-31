@@ -8,45 +8,29 @@
 
  
                 <item>
-                <title><![CDATA[【Albums (lossless)】Cómo ripeo mis albums]]></title>
-                <link><![CDATA[https://sharemania.us/threads/c%C3%B3mo-ripeo-mis-albums.241119/]]></link>
+                <title><![CDATA[【Requests】[REQ AUD] - Big Time Rush - Another Life (Atmos)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/big-time-rush-another-life-atmos.241120/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-Hola, soy nuevo en el tema de ripear, recientemente adquirí unos álbumes de Twice y Bts, sin embargo al momento de ripearlo en el reproductor de Windows medía en formato wav y comparar mis archivos con los subidos a este sitio, me surge la duda, estoy sacando toda la calidad de las pistas?<br>
-Por ejemplo, la canción I got you de Twice tiene los siguientes valores los cuales yo extrai:<br>
-Audio<br>
-Formato : PCM<br>
-Ajustes del formato : Little<br>
-ID códec : 1<br>
-Duración : 2 min 54 s<br>
-Tipo de tasa de bits : Constante<br>
-Tasa de bits : 1 411,2 kb/s<br>
-Canal(es) : 2 canales<br>
-Velocidad de muestreo : 44,1 kHz<br>
-Profundidad bits : 16 bits<br>
-Tamaño de pista : 29,3 MiB (100%)<br>
-<br>
-Y al descargar la misma pista en este sitio la pista da estos valores<br>
-Audio<br>
-Formato : FLAC<br>
-Formato/Info : Free Lossless Audio Codec<br>
-Duración : 2 min 53 s<br>
-Tipo de tasa de bits : Variable<br>
-Tasa de bits : 1 878 kb/s<br>
-Canal(es) : 2 canales<br>
-Channel layout : L R<br>
-Velocidad de muestreo : 48,0 kHz<br>
-Profundidad bits : 24 bits<br>
-Modo de compresión : Sin pérdida<br>
-Tamaño de pista : 38,8 MiB (99%)<br>
-Librería de codificación : Lavf58.29.100<br>
-MD5 of the unencoded cont : 3ADCD8E21407C6FC5E17C3DF828C86D6<br>
-<br>
-Cómo pueden ver la que descargué pesa más y la que yo extraí pesa menos y apunta a tener menos calidad, la pregunta es, cómo puedo extraer la música sin perder nada de calidad? Cualquier sugerencia será agradecida
+Does anyone have this album in Dolby Atmos?
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[jhony8273]]></author>
+                <author><![CDATA[BTRMedia]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ AUD] - Celine Dion - Live in Memphis 1997 (Remastered)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/celine-dion-live-in-memphis-1997-remastered.241121/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+Does someone have the audio from Celine's concert in Memphis, in 1997, in good quality or remastered?<br>
+Thanks in advance.
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[Lucas B.]]></author>
                 </item>
 
                 </channel></rss>
