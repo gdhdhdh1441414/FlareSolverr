@@ -8,86 +8,63 @@
 
  
                 <item>
-                <title><![CDATA[【TIDAL】WEB-RiP - Alan Walker - Faded [Tidal HD Music Video]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/alan-walker-faded-tidal-hd-music-video.241842/]]></link>
+                <title><![CDATA[【Albums (lossless)】FLAC - Hikaru Utada - SCIENCE FICTION (2024) [Qobuz Hi-Res 24bits/96.0kHz] 2CD]]></title>
+                <link><![CDATA[https://sharemania.us/threads/hikaru-utada-science-fiction-2024-qobuz-hi-res-24bits-96-0khz-2cd.241843/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<span style="font-size: 22px"><b>Alan Walker - Faded [Tidal HD Music Video]</b></span><br>
+<img src="https://static.qobuz.com/images/covers/2a/3j/rvftximmq3j2a_600.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://static.qobuz.com/images/covers/2a/3j/rvftximmq3j2a_600.jpg" style=""><br>
+<b><span style="font-size: 22px">SCIENCE FICTION</span></b><br>
+<span style="font-size: 18px"><b>Hikaru Utada</b></span><br>
+<ul>
+<li>EXPLICIT</li>
+<li>Released on 4/10/24 by <a href="https://www.qobuz.com/us-en/label/universal-music-llc-2/download-streaming-albums/81019" target="_blank" class="externalLink" rel="nofollow">Universal Music LLC</a></li>
+<li>Main artists: <a href="https://www.qobuz.com/us-en/interpreter/utada-hikaru/54036" target="_blank" class="externalLink" rel="nofollow">Hikaru Utada</a></li>
+<li>Genre: <a href="https://www.qobuz.com/us-en/genre/j-pop/download-streaming-albums" target="_blank" class="externalLink" rel="nofollow">J-Pop</a></li>
+<li></li>
+</ul><a href="https://open.qobuz.com/album/rvftximmq3j2a" target="_blank" class="externalLink" rel="nofollow">Science Fiction - Hikaru Utada</a><br>
 <br>
-<img src="https://imgur.com/de0ZzI3.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://imgur.com/de0ZzI3.jpg" style=""><br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Tracklist</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">Tracklist:<br>
+CD 1<br>
+01 Addicted To You (Re-Recording)<br>
+02 First Love (2022 Mix)<br>
+03 花束を君に<br>
+04 One Last Kiss<br>
+05 SAKURA Drops (2024 Mix)<br>
+06 あなた<br>
+07 Can You Keep A Secret? (2024 Mix)<br>
+08 道<br>
+09 Prisoner Of Love (2024 Mix)<br>
+10 光 (Re-Recording)<br>
+11 Flavor Of Life (Ballad Version / 2024 Mix)<br>
+12 Goodbye Happiness (2024 Mix)<br>
 <br>
-<div class="bbCodeBlock bbCodeCode">
-<div class="type">Code:</div>
-<pre>General
-Format                         : MPEG-4
-Format profile                 : Base Media
-Codec ID                       : isom (isom/iso2/avc1/mp41)
-File size                      : 130 MiB
-Duration                       : 3 min 33 s
-Overall bit rate mode          : Variable
-Overall bit rate               : 5 078 kb/s
-Writing application            : Lavf58.76.100
-
-Video
-ID                             : 1
-Format                         : AVC
-Format/Info                    : Advanced Video Codec
-Format profile                 : High@L4
-Format settings                : CABAC / 4 Ref Frames
-Format settings, CABAC         : Yes
-Format settings, Reference fra : 4 frames
-Format settings, GOP           : M=4, N=75
-Codec ID                       : avc1
-Codec ID/Info                  : Advanced Video Coding
-Duration                       : 3 min 33 s
-Source duration                : 3 min 33 s
-Bit rate                       : 4 755 kb/s
-Width                          : 1 920 pixels
-Height                         : 1 080 pixels
-Display aspect ratio           : 16:9
-Frame rate mode                : Variable
-Frame rate                     : 24.859 FPS
-Minimum frame rate             : 12.097 FPS
-Maximum frame rate             : 25.000 FPS
-Color space                    : YUV
-Chroma subsampling             : 4:2:0
-Bit depth                      : 8 bits
-Scan type                      : Progressive
-Bits/(Pixel*Frame)             : 0.092
-Stream size                    : 121 MiB (94%)
-Source stream size             : 121 MiB (94%)
-Writing library                : x264 core 164
-Encoding settings              : cabac=1 / ref=4 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=8 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=24 / lookahead_threads=4 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=75 / keyint_min=38 / scenecut=0 / intra_refresh=0 / rc_lookahead=50 / rc=crf / mbtree=1 / crf=22.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=5500 / vbv_bufsize=11000 / crf_max=0.0 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
-mdhd_Duration                  : 213968
-Codec configuration box        : avcC
-
-Audio
-ID                             : 2
-Format                         : AAC LC
-Format/Info                    : Advanced Audio Codec Low Complexity
-Codec ID                       : mp4a-40-2
-Duration                       : 3 min 33 s
-Bit rate mode                  : Variable
-Bit rate                       : 318 kb/s
-Maximum bit rate               : 325 kb/s
-Channel(s)                     : 2 channels
-Channel layout                 : L R
-Sampling rate                  : 48.0 kHz
-Frame rate                     : 46.875 FPS (1024 SPF)
-Compression mode               : Lossy
-Stream size                    : 8.12 MiB (6%)
-Default                        : Yes
-Alternate group                : 1
-</pre>
-</div>
+CD 2<br>
+01 traveling (Re-Recording)<br>
+02 Beautiful World (2024 Mix)<br>
+03 Automatic (2024 Mix)<br>
+04 君に夢中<br>
+05 Naniirodemonai Hana (A Flower of No Color)<br>
+06 初恋<br>
+07 Time<br>
+08 Letters (2024 Mix)<br>
+09 BAD MODE<br>
+10 COLORS (2024 Mix)<br>
+11 二時間だけのバカンス<br>
+12 Gold　～また逢う日まで～<br>
+13 Electricity<br>
+14 Somewhere Near Marseilles (Sci-Fi Edit)</div>
+</div><br>
+<i>LINK:</i><br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
 <blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div><b>Password: sharemania</b>
+</div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[abby0511]]></author>
+                <author><![CDATA[SkyBlur]]></author>
                 </item>
 
                 </channel></rss>
