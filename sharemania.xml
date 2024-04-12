@@ -8,140 +8,118 @@
 
  
                 <item>
-                <title><![CDATA[【Singles (lossy)】Dolby Atmos - Dua Lipa - Illusion [Amazon Music - Dolby Digital Plus]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/dua-lipa-illusion-amazon-music-dolby-digital-plus.241998/]]></link>
+                <title><![CDATA[【Apple Music】WEB-RiP - Dua Lipa - Illusion [Apple HD Music Video]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/dua-lipa-illusion-apple-hd-music-video.242000/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<span style="font-size: 22px"><b>Dua Lipa - Illusion [Amazon Music - Dolby Digital Plus]</b></span><br>
+<span style="font-size: 22px"><b>Dua Lipa - Illusion [Apple HD Music Video]</b></span><br>
 <br>
-<img src="https://imgur.com/eBTJFQa.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://imgur.com/eBTJFQa.jpg" style=""><br>
+<img src="https://imgur.com/IKs6k40.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://imgur.com/IKs6k40.jpg" style=""><br>
 <br>
 <div class="bbCodeBlock bbCodeCode">
 <div class="type">Code:</div>
 <pre>General
 Format                         : MPEG-4
-Format profile                 : Base Media / Version 1
-Codec ID                       : mp41 (iso8/isom/mp41/dash/cmfc)
-File size                      : 17.5 MiB
+Codec ID                       : M4V  (isom/iso4/M4V /mp42)
+File size                      : 226 MiB
 Duration                       : 3 min 8 s
-Overall bit rate mode          : Constant
-Overall bit rate               : 778 kb/s
-Album                          : Illusion
-Album/Performer                : Dua Lipa
-Part/Position                  : 1
-Part/Total                     : 1
-Track name                     : Illusion
-Track name/Position            : 1
-Track name/Total               : 4
+Overall bit rate mode          : Variable
+Overall bit rate               : 10.1 Mb/s
+Movie name                     : Illusion
 Performer                      : Dua Lipa
-Composer                       : Caroline Ailin, Danny L Harle, Dua Lipa, Kevin Parker &amp; Tobias Jesso Jr.
 Genre                          : Pop
-ContentType                    : Music
-Recorded date                  : UTC 2024-04-04 03:00:00
-Encoded date                   : UTC 2024-04-11 22:27:45
-Tagged date                    : UTC 2024-04-11 22:27:45
-ISRC                           : GBAHT2400114
-Copyright                      : ℗© Under exclusive license to Warner Records UK, a division of Warner Music UK Limited, 2024 Radical22 Limited
+ContentType                    : Music Video
+Recorded date                  : UTC 2024-04-11 07:00:00
+Encoded date                   : UTC 2024-04-11 22:59:41
+Tagged date                    : UTC 2024-04-11 22:59:41
+Copyright                      : ℗ Under exclusive license to Warner Records UK, a division of Warner Music UK Limited, © 2024 Radical22 Limited
 Cover                          : Yes
-Comment                        : https://music.amazon.com.br/albums/B0D19BYTZ5?trackAsin=B0D19JL5C9
 Rating                         : None
-LABEL                          : Warner Records
+GenreID                        : 1614
+AppleStoreCountry              : United Kingdom
+AlbumTitleID                   : 1031397873
+AppleStoreCatalogID            : 1740725244
+
+Video
+ID                             : 2
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4
+Format settings                : CABAC / 4 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 4 frames
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 3 min 8 s
+Bit rate                       : 9 780 kb/s
+Maximum bit rate               : 18.1 Mb/s
+Width                          : 1 570 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 3:2
+Frame rate mode                : Constant
+Frame rate                     : 23.976 (24000/1001) FPS
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.241
+Stream size                    : 220 MiB (97%)
+Title                          : Core Media Video
+Encoded date                   : UTC 2024-04-11 13:17:58
+Tagged date                    : UTC 2024-04-11 22:59:55
+Color range                    : Limited
+Color primaries                : BT.709
+Transfer characteristics       : BT.709
+Matrix coefficients            : BT.709
+Codec configuration box        : avcC
 
 Audio
 ID                             : 1
-Format                         : E-AC-3 JOC
-Format/Info                    : Enhanced AC-3 with Joint Object Coding
-Commercial name                : Dolby Digital Plus with Dolby Atmos
-Codec ID                       : ec-3
+Format                         : AAC LC
+Format/Info                    : Advanced Audio Codec Low Complexity
+Codec ID                       : mp4a-40-2
 Duration                       : 3 min 8 s
-Bit rate mode                  : Constant
-Bit rate                       : 768 kb/s
-Channel(s)                     : 6 channels
-Channel layout                 : L R C LFE Ls Rs
+Duration_LastFrame             : -6 ms
+Bit rate mode                  : Variable
+Bit rate                       : 265 kb/s
+Maximum bit rate               : 324 kb/s
+Channel(s)                     : 2 channels
+Channel layout                 : L R
 Sampling rate                  : 48.0 kHz
-Frame rate                     : 31.250 FPS (1536 SPF)
+Frame rate                     : 46.875 FPS (1024 SPF)
 Compression mode               : Lossy
-Stream size                    : 17.2 MiB (99%)
-Service kind                   : Complete Main
-Encoded date                   : UTC 2024-04-11 22:27:45
-Tagged date                    : UTC 2024-04-11 22:27:45
-Complexity index               : 16
-Number of dynamic objects      : 15
-Bed channel count              : 1 channel
-Bed channel configuration      : LFE
+Stream size                    : 5.87 MiB (3%)
+Title                          : Core Media Audio
+Encoded date                   : UTC 2024-04-11 13:16:56
+Tagged date                    : UTC 2024-04-11 22:59:55
 </pre>
 </div>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
 <blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div><b>Password: sharemania</b>
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[abby0511]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Singles (lossless)】FLAC - Dua Lipa - Illusion (2024) [Qobuz Hi-Res 24bits/44.1kHz]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/dua-lipa-illusion-2024-qobuz-hi-res-24bits-44-1khz.241995/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://static.qobuz.com/images/covers/fb/x6/amg3dkzg7x6fb_600.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://static.qobuz.com/images/covers/fb/x6/amg3dkzg7x6fb_600.jpg" style=""><br>
-<b><span style="font-size: 22px">Illusion</span></b><br>
-<span style="font-size: 18px"><b>Dua Lipa</b><br>
-</span><br>
-<a href="https://www.qobuz.com/es-es/album/illusion-dua-lipa/amg3dkzg7x6fb" target="_blank" class="externalLink" rel="nofollow">Dua Lipa - Illusion</a><br>
-<br>
-<br>
-Tracklist:<br>
-01 Illusion<br>
-02 Illusion (Extended)<br>
-03 Illusion (Instrumental)<br>
-04 Illusion (Acapella)<br>
-<br>
-<br>
-1 disco(s) - 4 pista(s)<br>
-Duración total: 00:13:46<br>
-<br>
-<br>
-<br>
-<br>
-<i>LINK:</i><br>
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
 </div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[SkyBlur]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Singles (lossless)】FLAC - ZAYN - Alienated [Qobuz Hi-Res 24bits/48.0kHz]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/zayn-alienated-qobuz-hi-res-24bits-48-0khz.241996/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-Thank you
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
                 <author><![CDATA[abby0511]]></author>
                 </item>
 
                 
                 <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Dabeull - Analog Love [ Flac/Hires/Qobuz ]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/dabeull-analog-love-flac-hires-qobuz.241997/]]></link>
+                <title><![CDATA[【Requests】[REQ AUD] - RuPaul - Various songs in FLAC]]></title>
+                <link><![CDATA[https://sharemania.us/threads/rupaul-various-songs-in-flac.241999/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-thanks
+I'm looking for these songs in FLAC/lossless:<br>
+<br>
+<span style="font-size: 15px">Queens Everywhere (Cast Version) [feat. The Cast of RuPaul's Drag Race, Season 11] - Single<br>
+<span style="font-size: 15px">Super Queen (feat. The Cast of RuPaul's Drag Race: All Stars, Season 4) [Cast Version] - Single<br>
+<br>
+For some reason I can't seem to be able to access them on Qobuz.</span></span>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[xabialonzo14]]></author>
+                <author><![CDATA[MusicFanatic94]]></author>
                 </item>
 
                 </channel></rss>
