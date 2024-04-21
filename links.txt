@@ -1,3 +1,6 @@
+threads/nirvana-nevermind-explicit-qobuz-hi-res-audio-24-bit-96-0khz.242775/
+threads/disturbed-ten-thousand-fists-2005-qobuz-hi-res-24bits-96-0khz.242774/
+threads/calvin-harris-rag%E2%80%99n%E2%80%99bone-man-%E2%80%93-giant-in-m4a.242773/
 threads/nx-zero-complete-discography-cd-web-dvd-pcm-flac-16-bit-44-48-khz.242772/
 threads/dua-lipa-training-season-london-sessions-4k-am-hevc-10-bit-pcm-24-bit-48-khz.242771/
 threads/dua-lipa-training-season-4k-ai-upscale-hevc-10-bit-pcm-24-bit-dd-dolby-atmos.242770/
@@ -19,6 +22,3 @@ threads/dido-no-angel-enhanced-cd.242755/
 threads/celine-dion-greatest-hits-1982-1996.242754/
 threads/naomi-lareine-colorblind-flac.242753/
 threads/drake-push-up-lossless-flac.242752/
-threads/bryson-tiller-bryson-tiller-e-e-ac3-joc-16bits-48khz-5-1-768kbits.242751/
-threads/illit-magnetic-remixes-tidal-flac-16bits-44-1khz.242750/
-threads/feed-hunters-dm-me.242749/
