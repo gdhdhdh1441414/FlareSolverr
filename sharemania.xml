@@ -8,17 +8,198 @@
 
  
                 <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Tainted Love - the Remixes Soft Cell Flac]]></title>
-                <link><![CDATA[https://sharemania.us/threads/tainted-love-the-remixes-soft-cell-flac.242993/]]></link>
+                <title><![CDATA[【HD Live Performances】WEB-RiP - Taylor Swift - The 1989 World Tour Live, Sydney, 2015 [show + separated behind the scenes + audio bootleg]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/taylor-swift-the-1989-world-tour-live-sydney-2015-show-separated-behind-the-scenes-audio-bootleg.242995/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<a href="https://open.qobuz.com/album/mvxj3ckd5zpwb" target="_blank" class="externalLink" rel="nofollow">https://open.qobuz.com/album/mvxj3ckd5zpwb</a><br>
+This is Taylor Swift's famous Sydney 2015 show broadcasted by Apple, one of my favorite concert recordings of all time (definitely in top 10). I separated the actual performance from the behind the scenes clips inserted through the entire show. The best part: the editing has been done losslessly with MKV ToolNix (so the quality is identical as before). It so much time to pick the right I-frames to do the cutting. Literally inspecting some sections frame by frame.<br>
 <br>
-Hi you can find this pls ?
+I made chapters for each song and I included a cover image + info file with the setlist. This video has subtitles (including lyrics for each song) and 2 audio tracks: stereo and Dolby Digital 5.1.<br>
+<br>
+<b>Bonus: audio bootleg!</b><br>
+<br>
+I included the audio version of this show. It's in m4a format from the AAC track of the video. I split the AAC losslessly with FFcuesplitter based on the chapter file that was converted to CUE with chapterEditor, moved AAC to M4A containers with ffmpeg, added tags with Mp3Tag, made a cover with Photoshop.<br>
+<br>
+Enjoy!<br>
+<br>
+<br>
+<img src="https://i.postimg.cc/15gPrhCm/Taylor-Swift-The-1989-World-Tour-Live-ANZ-Stadium-Sydney-Australia-28-11-2015-caladan-mkv.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/15gPrhCm/Taylor-Swift-The-1989-World-Tour-Live-ANZ-Stadium-Sydney-Australia-28-11-2015-caladan-mkv.jpg" style=""><br>
+<br>
+<img src="https://i.postimg.cc/2j9rW8x9/Taylor-Swift-The-1989-World-Tour-Live-ANZ-Stadium-Sydney-Australia-28-11-2015-Behind-the-Scen.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/2j9rW8x9/Taylor-Swift-The-1989-World-Tour-Live-ANZ-Stadium-Sydney-Australia-28-11-2015-Behind-the-Scen.jpg" style=""><br>
+<br>
+<b>Setlist:</b><br>
+1. Welcome to New York<br>
+2. New Romantics<br>
+3. Blank Space<br>
+4. I Knew You Were Trouble<br>
+5. I Wish You Would<br>
+6. How You Get the Girl<br>
+7. I Know Places<br>
+8. All You Had to Do Was Stay<br>
+9. You Are in Love<br>
+10. Clean<br>
+11. Love Story<br>
+12. Style<br>
+13. This Love<br>
+14. Bad Blood<br>
+15. We Are Never Ever Getting Back Together<br>
+16. Enchanted / Wildest Dreams<br>
+17. Out of the Woods<br>
+18. Shake It Off<br>
+<br>
+<b>MediaInfo:</b><br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler</span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">General<br>
+Unique ID : 284911425827519786485061586934252953103 (0xD657F1D493E453A8EFB29B9C51A7DE0F)<br>
+Complete name : C:\Taylor Swift\Taylor Swift - The 1989 World Tour Live, ANZ Stadium, Sydney, Australia, 28-11-2015\Taylor Swift - The 1989 World Tour Live, ANZ Stadium, Sydney, Australia, 28-11-2015-caladan.mkv<br>
+Format : Matroska<br>
+Format version : Version 4<br>
+File size : 4.18 GiB<br>
+Duration : 1 h 43 min<br>
+Overall bit rate : 5 793 kb/s<br>
+Frame rate : 29.970 FPS<br>
+Encoded date : 2024-04-05 00:09:07 UTC<br>
+Writing application : mkvmerge v80.0 ('Roundabout') 64-bit<br>
+Writing library : libebml v1.4.4 + libmatroska v1.7.1<br>
+Cover : Yes<br>
+Attachments : cover.jpg<br>
+<br>
+Video<br>
+ID : 1<br>
+Format : AVC<br>
+Format/Info : Advanced Video Codec<br>
+Format profile : High@L4<br>
+Format settings : CABAC / 5 Ref Frames<br>
+Format settings, CABAC : Yes<br>
+Format settings, Reference frames : 5 frames<br>
+Format settings, Slice count : 8 slices per frame<br>
+Codec ID : V_MPEG4/ISO/AVC<br>
+Duration : 1 h 43 min<br>
+Bit rate : 5 279 kb/s<br>
+Width : 1 440 pixels<br>
+Height : 1 080 pixels<br>
+Display aspect ratio : 16:9<br>
+Frame rate mode : Constant<br>
+Frame rate : 29.970 (29970/1000) FPS<br>
+Color space : YUV<br>
+Chroma subsampling : 4:2:0<br>
+Bit depth : 8 bits<br>
+Scan type : Progressive<br>
+Bits/(Pixel*Frame) : 0.113<br>
+Stream size : 3.81 GiB (91%)<br>
+Language : English<br>
+Default : Yes<br>
+Forced : No<br>
+Color range : Limited<br>
+Color primaries : BT.709<br>
+Transfer characteristics : BT.709<br>
+Matrix coefficients : BT.709<br>
+<br>
+Audio #1<br>
+ID : 2<br>
+Format : AAC LC<br>
+Format/Info : Advanced Audio Codec Low Complexity<br>
+Codec ID : A_AAC-2<br>
+Duration : 1 h 43 min<br>
+Bit rate : 127 kb/s<br>
+Channel(s) : 2 channels<br>
+Channel layout : L R<br>
+Sampling rate : 48.0 kHz<br>
+Frame rate : 46.875 FPS (1024 SPF)<br>
+Compression mode : Lossy<br>
+Delay relative to video : -33 ms<br>
+Stream size : 93.6 MiB (2%)<br>
+Language : English<br>
+Default : Yes<br>
+Forced : No<br>
+<br>
+Audio #2<br>
+ID : 3<br>
+Format : AC-3<br>
+Format/Info : Audio Coding 3<br>
+Commercial name : Dolby Digital<br>
+Codec ID : A_AC3<br>
+Duration : 1 h 43 min<br>
+Bit rate mode : Constant<br>
+Bit rate : 384 kb/s<br>
+Channel(s) : 6 channels<br>
+Channel layout : L R C LFE Ls Rs<br>
+Sampling rate : 48.0 kHz<br>
+Frame rate : 31.250 FPS (1536 SPF)<br>
+Compression mode : Lossy<br>
+Delay relative to video : -33 ms<br>
+Stream size : 284 MiB (7%)<br>
+Language : English<br>
+Service kind : Complete Main<br>
+Default : Yes<br>
+Forced : No<br>
+AC3_metadata cmixlev : -3.0 dB<br>
+surmixlev : -3 dB<br>
+<br>
+Text<br>
+ID : 4<br>
+Format : UTF-8<br>
+Codec ID : S_TEXT/UTF8<br>
+Codec ID/Info : UTF-8 Plain Text<br>
+Duration : 1 h 42 min<br>
+Bit rate : 78 b/s<br>
+Frame rate : 0.274 FPS<br>
+Count of elements : 1692<br>
+Stream size : 59.1 KiB (0%)<br>
+Title : English<br>
+Language : English<br>
+Default : Yes<br>
+Forced : No<br>
+<br>
+Menu<br>
+00:00:00.000 : Intro<br>
+00:00:56.000 : Welcome to New York<br>
+00:05:36.500 : New Romantics<br>
+00:10:01.056 : Blank Space<br>
+00:15:58.739 : I Knew You Were Trouble<br>
+00:22:31.921 : Stage Banter<br>
+00:24:39.000 : I Wish You Would<br>
+00:28:24.500 : How You Get the Girl<br>
+00:33:43.753 : I Know Places<br>
+00:38:11.362 : All You Had to Do Was Stay<br>
+00:41:22.961 : You Are in Love Intro<br>
+00:43:13.500 : You Are in Love<br>
+00:47:50.132 : Clean Intro<br>
+00:50:14.500 : Clean<br>
+00:55:05.919 : Love Story Intro<br>
+00:55:55.900 : Love Story<br>
+01:00:28.691 : Style<br>
+01:04:15.909 : This Love<br>
+01:08:20.654 : Bad Blood<br>
+01:12:42.000 : We Are Never Ever Getting Back Together Intro<br>
+01:13:53.000 : We Are Never Ever Getting Back Together<br>
+01:17:47.116 : Enchanted / Wildest Dreams<br>
+01:24:23.000 : Out of the Woods<br>
+01:31:11.066 : Shake It Off<br>
+01:39:06.500 : Credits</div>
+</div><br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[zqerutyoulm]]></author>
+                <author><![CDATA[caladan]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ AUD] - Etu Songs [Qobuz 16bits/44.1kHz]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/etu-songs-qobuz-16bits-44-1khz.242996/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+thanks
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[HaloBearer]]></author>
                 </item>
 
                 </channel></rss>
