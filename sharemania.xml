@@ -8,83 +8,207 @@
 
  
                 <item>
-                <title><![CDATA[【HD Live Performances】WEB-DL - Diogo Nogueira Sou Eu Ao Vivo 2010 1080p AMZN WEB-DL DDP2.0 H.264-SiGLA]]></title>
-                <link><![CDATA[https://sharemania.us/threads/diogo-nogueira-sou-eu-ao-vivo-2010-1080p-amzn-web-dl-ddp2-0-h-264-sigla.243020/]]></link>
+                <title><![CDATA[【HD Live Performances】WEB-RiP - Taylor Swift - The 1989 World Tour Live, Sydney, 2015 [show + separated behind the scenes + audio bootleg]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/taylor-swift-the-1989-world-tour-live-sydney-2015-show-separated-behind-the-scenes-audio-bootleg.242995/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center"><img src="https://ptpimg.me/azpul0.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://ptpimg.me/azpul0.jpg" style="">​</div><br>
-<div style="text-align: left">
-<div class="bbCodeBlock bbCodeCode">
-<div class="type">Code:</div>
-<pre>General
-Unique ID                                : 28557422194588654126884069360868946202 (0x157BF59EC56F455382D13EEE8F5E711A)
-Complete name                            : Diogo.Nogueira.Sou.Eu.Ao.Vivo.2010.1080p.AMZN.WEB-DL.DDP2.0.H.264-SiGLA.mkv
-Format                                   : Matroska
-Format version                           : Version 4
-File size                                : 6.59 GiB
-Duration                                 : 1 h 32 min
-Overall bit rate mode                    : Constant
-Overall bit rate                         : 10.1 Mb/s
-Movie name                               : Diogo Nogueira - Sou Eu Ao Vivo (2010)
-Writing application                      : mkvmerge v69.0.0 ('SiGLA') 64-bit
-Writing library                          : libebml v1.4.2 + libmatroska v1.6.4
-
-Video
-ID                                       : 1
-Format                                   : AVC
-Format/Info                              : Advanced Video Codec
-Format profile                           : High@L4
-Format settings                          : CABAC / 4 Ref Frames
-Format settings, CABAC                   : Yes
-Format settings, Reference frames        : 4 frames
-Codec ID                                 : V_MPEG4/ISO/AVC
-Duration                                 : 1 h 32 min
-Bit rate mode                            : Constant
-Bit rate                                 : 10 000 kb/s
-Width                                    : 1 920 pixels
-Height                                   : 1 080 pixels
-Display aspect ratio                     : 16:9
-Frame rate mode                          : Constant
-Frame rate                               : 25.000 FPS
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0
-Bit depth                                : 8 bits
-Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.193
-Stream size                              : 6.44 GiB (98%)
-Default                                  : Yes
-Forced                                   : No
-Color range                              : Limited
-Color primaries                          : BT.709
-Transfer characteristics                 : BT.709
-Matrix coefficients                      : BT.709
-
-Audio
-ID                                       : 2
-Format                                   : E-AC-3
-Format/Info                              : Enhanced AC-3
-Commercial name                          : Dolby Digital Plus
-Codec ID                                 : A_EAC3
-Duration                                 : 1 h 32 min
-Bit rate mode                            : Constant
-Bit rate                                 : 224 kb/s
-Channel(s)                               : 2 channels
-Channel layout                           : L R
-Sampling rate                            : 48.0 kHz
-Frame rate                               : 31.250 FPS (1536 SPF)
-Compression mode                         : Lossy
-Stream size                              : 149 MiB (2%)
-Title                                    : European
-Language                                 : Portuguese
-Service kind                             : Complete Main
-Default                                  : Yes
-Forced                                   : No
-</pre>
-</div></div><br>
+This is Taylor Swift's famous Sydney 2015 show broadcasted by Apple, one of my favorite concert recordings of all time (definitely in top 10). I separated the actual performance from the behind the scenes clips inserted through the entire show. The best part: the editing has been done losslessly with MKV ToolNix (so the quality is identical as before). It took me so much time to pick the right I-frames to do the cutting. Literally inspecting some sections frame by frame.<br>
+<br>
+I made chapters for each song and I included a cover image + info file with the setlist. This video has subtitles (including lyrics for each song) and 2 audio tracks: stereo and Dolby Digital 5.1.<br>
+<br>
+<b>Bonus: audio bootleg!</b><br>
+<br>
+I included the audio version of this show. It's in m4a format from the AAC track of the video. I split the AAC losslessly with FFcuesplitter based on the chapter file that was converted to CUE with chapterEditor, moved AAC to M4A containers with ffmpeg, added tags with Mp3Tag, made a cover with Photoshop.<br>
+<br>
+Enjoy!<br>
+<br>
+<br>
+<img src="https://i.postimg.cc/15gPrhCm/Taylor-Swift-The-1989-World-Tour-Live-ANZ-Stadium-Sydney-Australia-28-11-2015-caladan-mkv.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/15gPrhCm/Taylor-Swift-The-1989-World-Tour-Live-ANZ-Stadium-Sydney-Australia-28-11-2015-caladan-mkv.jpg" style=""><br>
+<br>
+<img src="https://i.postimg.cc/2j9rW8x9/Taylor-Swift-The-1989-World-Tour-Live-ANZ-Stadium-Sydney-Australia-28-11-2015-Behind-the-Scen.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/2j9rW8x9/Taylor-Swift-The-1989-World-Tour-Live-ANZ-Stadium-Sydney-Australia-28-11-2015-Behind-the-Scen.jpg" style=""><br>
+<br>
+<b>Setlist:</b><br>
+1. Welcome to New York<br>
+2. New Romantics<br>
+3. Blank Space<br>
+4. I Knew You Were Trouble<br>
+5. I Wish You Would<br>
+6. How You Get the Girl<br>
+7. I Know Places<br>
+8. All You Had to Do Was Stay<br>
+9. You Are in Love<br>
+10. Clean<br>
+11. Love Story<br>
+12. Style<br>
+13. This Love<br>
+14. Bad Blood<br>
+15. We Are Never Ever Getting Back Together<br>
+16. Enchanted / Wildest Dreams<br>
+17. Out of the Woods<br>
+18. Shake It Off<br>
+<br>
+<b>MediaInfo:</b><br>
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler</span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">General<br>
+Unique ID : 284911425827519786485061586934252953103 (0xD657F1D493E453A8EFB29B9C51A7DE0F)<br>
+Complete name : C:\Taylor Swift\Taylor Swift - The 1989 World Tour Live, ANZ Stadium, Sydney, Australia, 28-11-2015\Taylor Swift - The 1989 World Tour Live, ANZ Stadium, Sydney, Australia, 28-11-2015-caladan.mkv<br>
+Format : Matroska<br>
+Format version : Version 4<br>
+File size : 4.18 GiB<br>
+Duration : 1 h 43 min<br>
+Overall bit rate : 5 793 kb/s<br>
+Frame rate : 29.970 FPS<br>
+Encoded date : 2024-04-05 00:09:07 UTC<br>
+Writing application : mkvmerge v80.0 ('Roundabout') 64-bit<br>
+Writing library : libebml v1.4.4 + libmatroska v1.7.1<br>
+Cover : Yes<br>
+Attachments : cover.jpg<br>
+<br>
+Video<br>
+ID : 1<br>
+Format : AVC<br>
+Format/Info : Advanced Video Codec<br>
+Format profile : High@L4<br>
+Format settings : CABAC / 5 Ref Frames<br>
+Format settings, CABAC : Yes<br>
+Format settings, Reference frames : 5 frames<br>
+Format settings, Slice count : 8 slices per frame<br>
+Codec ID : V_MPEG4/ISO/AVC<br>
+Duration : 1 h 43 min<br>
+Bit rate : 5 279 kb/s<br>
+Width : 1 440 pixels<br>
+Height : 1 080 pixels<br>
+Display aspect ratio : 16:9<br>
+Frame rate mode : Constant<br>
+Frame rate : 29.970 (29970/1000) FPS<br>
+Color space : YUV<br>
+Chroma subsampling : 4:2:0<br>
+Bit depth : 8 bits<br>
+Scan type : Progressive<br>
+Bits/(Pixel*Frame) : 0.113<br>
+Stream size : 3.81 GiB (91%)<br>
+Language : English<br>
+Default : Yes<br>
+Forced : No<br>
+Color range : Limited<br>
+Color primaries : BT.709<br>
+Transfer characteristics : BT.709<br>
+Matrix coefficients : BT.709<br>
+<br>
+Audio #1<br>
+ID : 2<br>
+Format : AAC LC<br>
+Format/Info : Advanced Audio Codec Low Complexity<br>
+Codec ID : A_AAC-2<br>
+Duration : 1 h 43 min<br>
+Bit rate : 127 kb/s<br>
+Channel(s) : 2 channels<br>
+Channel layout : L R<br>
+Sampling rate : 48.0 kHz<br>
+Frame rate : 46.875 FPS (1024 SPF)<br>
+Compression mode : Lossy<br>
+Delay relative to video : -33 ms<br>
+Stream size : 93.6 MiB (2%)<br>
+Language : English<br>
+Default : Yes<br>
+Forced : No<br>
+<br>
+Audio #2<br>
+ID : 3<br>
+Format : AC-3<br>
+Format/Info : Audio Coding 3<br>
+Commercial name : Dolby Digital<br>
+Codec ID : A_AC3<br>
+Duration : 1 h 43 min<br>
+Bit rate mode : Constant<br>
+Bit rate : 384 kb/s<br>
+Channel(s) : 6 channels<br>
+Channel layout : L R C LFE Ls Rs<br>
+Sampling rate : 48.0 kHz<br>
+Frame rate : 31.250 FPS (1536 SPF)<br>
+Compression mode : Lossy<br>
+Delay relative to video : -33 ms<br>
+Stream size : 284 MiB (7%)<br>
+Language : English<br>
+Service kind : Complete Main<br>
+Default : Yes<br>
+Forced : No<br>
+AC3_metadata cmixlev : -3.0 dB<br>
+surmixlev : -3 dB<br>
+<br>
+Text<br>
+ID : 4<br>
+Format : UTF-8<br>
+Codec ID : S_TEXT/UTF8<br>
+Codec ID/Info : UTF-8 Plain Text<br>
+Duration : 1 h 42 min<br>
+Bit rate : 78 b/s<br>
+Frame rate : 0.274 FPS<br>
+Count of elements : 1692<br>
+Stream size : 59.1 KiB (0%)<br>
+Title : English<br>
+Language : English<br>
+Default : Yes<br>
+Forced : No<br>
+<br>
+Menu<br>
+00:00:00.000 : Intro<br>
+00:00:56.000 : Welcome to New York<br>
+00:05:36.500 : New Romantics<br>
+00:10:01.056 : Blank Space<br>
+00:15:58.739 : I Knew You Were Trouble<br>
+00:22:31.921 : Stage Banter<br>
+00:24:39.000 : I Wish You Would<br>
+00:28:24.500 : How You Get the Girl<br>
+00:33:43.753 : I Know Places<br>
+00:38:11.362 : All You Had to Do Was Stay<br>
+00:41:22.961 : You Are in Love Intro<br>
+00:43:13.500 : You Are in Love<br>
+00:47:50.132 : Clean Intro<br>
+00:50:14.500 : Clean<br>
+00:55:05.919 : Love Story Intro<br>
+00:55:55.900 : Love Story<br>
+01:00:28.691 : Style<br>
+01:04:15.909 : This Love<br>
+01:08:20.654 : Bad Blood<br>
+01:12:42.000 : We Are Never Ever Getting Back Together Intro<br>
+01:13:53.000 : We Are Never Ever Getting Back Together<br>
+01:17:47.116 : Enchanted / Wildest Dreams<br>
+01:24:23.000 : Out of the Woods<br>
+01:31:11.066 : Shake It Off<br>
+01:39:06.500 : Credits</div>
+</div><br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
-<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
 </div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[caladan]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ AUD] - Acid Rain Noizu • Madge Flac]]></title>
+                <link><![CDATA[https://sharemania.us/threads/acid-rain-noizu-%E2%80%A2-madge-flac.242992/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+thanks
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[zeihjeorih]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Maroon 5 iTunes Festival Live in London 2014 1080p AMZN WEB-DL DDP2.0 H.264-SiGLA]]></title>
+                <link><![CDATA[https://sharemania.us/threads/maroon-5-itunes-festival-live-in-london-2014-1080p-amzn-web-dl-ddp2-0-h-264-sigla.243023/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+Thanks
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
@@ -93,16 +217,37 @@ Forced                                   : No
 
                 
                 <item>
-                <title><![CDATA[【Bugs!】Ed Sheeran &amp; Taylor Swift - The Joker And The Queen (Bugs! 1080p)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/ed-sheeran-taylor-swift-the-joker-and-the-queen-bugs-1080p.243019/]]></link>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Linkin Park London iTunes Festival Live in London 2011 1080p AMZN WEB-DL DDP2.0 H.264-SiGLA]]></title>
+                <link><![CDATA[https://sharemania.us/threads/linkin-park-london-itunes-festival-live-in-london-2011-1080p-amzn-web-dl-ddp2-0-h-264-sigla.243022/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://images2.imgbox.com/84/34/4gtnhl6Y_o.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/84/34/4gtnhl6Y_o.png" style=""><br>
-<div style="text-align: center">
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div>
+Thanks
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[-C.A.A]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ AUD] - Jon Secada Greatest Hits]]></title>
+                <link><![CDATA[https://sharemania.us/threads/jon-secada-greatest-hits.242991/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+Thx <img src="styles/default/xenforo/smilies/big_smile-48.png" class="mceSmilie" alt=":)" title="Smile    :)">
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[Jim King]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【PRORES HD】Ed Sheeran &amp; Taylor Swift - The Joker And The Queen (Master ProRes 1080p)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/ed-sheeran-taylor-swift-the-joker-and-the-queen-master-prores-1080p.243021/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+Thanks
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
@@ -111,100 +256,28 @@ Forced                                   : No
 
                 
                 <item>
-                <title><![CDATA[【HD Live Performances】WEB-DL - Avril Lavigne Live in Calgary 2007 1080p AMZN WEB-DL DDP2.0 H.264-SiGLA]]></title>
-                <link><![CDATA[https://sharemania.us/threads/avril-lavigne-live-in-calgary-2007-1080p-amzn-web-dl-ddp2-0-h-264-sigla.243017/]]></link>
+                <title><![CDATA[【Requests】[REQ AUD] - Etu Songs [Qobuz 16bits/44.1kHz]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/etu-songs-qobuz-16bits-44-1khz.242996/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center"><img src="https://ptpimg.me/88408n.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://ptpimg.me/88408n.jpg" style="">​</div><br>
-<div style="text-align: left">
-<div class="bbCodeBlock bbCodeCode">
-<div class="type">Code:</div>
-<pre>General
-Unique ID                                : 212865390600164655610909300397948121830 (0xA024620B814FB2FBB4541120C979B2E6)
-Complete name                            : Avril.Lavigne.Live.in.Calgary.2007.1080p.AMZN.WEB-DL.DDP2.0.H.264-SiGLA.mkv
-Format                                   : Matroska
-Format version                           : Version 4
-File size                                : 3.48 GiB
-Duration                                 : 53 min 19 s
-Overall bit rate mode                    : Constant
-Overall bit rate                         : 9 340 kb/s
-Movie name                               : Avril.Lavigne.Live.in.Calgary.2007.1080p.AMZN.WEB-DL.DDP2.0.H.264-SiGLA
-Writing application                      : mkvmerge v62.0.0 ('SiGLA') 64-bit
-Writing library                          : libebml v1.4.2 + libmatroska v1.6.4
-
-Video
-ID                                       : 1
-Format                                   : AVC
-Format/Info                              : Advanced Video Codec
-Format profile                           : High@L4
-Format settings                          : CABAC / 4 Ref Frames
-Format settings, CABAC                   : Yes
-Format settings, Reference frames        : 4 frames
-Codec ID                                 : V_MPEG4/ISO/AVC
-Duration                                 : 53 min 19 s
-Bit rate mode                            : Constant
-Bit rate                                 : 9 114 kb/s
-Nominal bit rate                         : 10 000 kb/s
-Width                                    : 1 920 pixels
-Height                                   : 1 080 pixels
-Display aspect ratio                     : 16:9
-Frame rate mode                          : Constant
-Frame rate                               : 25.000 FPS
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0
-Bit depth                                : 8 bits
-Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.176
-Stream size                              : 3.39 GiB (98%)
-Default                                  : Yes
-Forced                                   : No
-Color range                              : Limited
-Color primaries                          : BT.709
-Transfer characteristics                 : BT.709
-Matrix coefficients                      : BT.709
-
-Audio
-ID                                       : 2
-Format                                   : E-AC-3
-Format/Info                              : Enhanced AC-3
-Commercial name                          : Dolby Digital Plus
-Codec ID                                 : A_EAC3
-Duration                                 : 53 min 19 s
-Bit rate mode                            : Constant
-Bit rate                                 : 224 kb/s
-Channel(s)                               : 2 channels
-Channel layout                           : L R
-Sampling rate                            : 48.0 kHz
-Frame rate                               : 31.250 FPS (1536 SPF)
-Compression mode                         : Lossy
-Stream size                              : 85.4 MiB (2%)
-Language                                 : English
-Service kind                             : Complete Main
-Default                                  : Yes
-Forced                                   : No
-</pre>
-</div></div><br>
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div>
+gracias
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[-C.A.A]]></author>
+                <author><![CDATA[HaloBearer]]></author>
                 </item>
 
                 
                 <item>
-                <title><![CDATA[【HD Live Performances】WEB-DL - Coldplay Live in London 2011 1080p AMZN WEB-DL DDP2.0 H.264-SiGLA]]></title>
-                <link><![CDATA[https://sharemania.us/threads/coldplay-live-in-london-2011-1080p-amzn-web-dl-ddp2-0-h-264-sigla.243018/]]></link>
+                <title><![CDATA[【Requests】[REQ AUD] - Tainted Love - the Remixes Soft Cell Flac]]></title>
+                <link><![CDATA[https://sharemania.us/threads/tainted-love-the-remixes-soft-cell-flac.242993/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-thanks
+Thank you!
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[-C.A.A]]></author>
+                <author><![CDATA[zqerutyoulm]]></author>
                 </item>
 
                 </channel></rss>
