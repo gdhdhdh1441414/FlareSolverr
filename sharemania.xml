@@ -8,36 +8,36 @@
 
  
                 <item>
-                <title><![CDATA[【Apple Music】WEB-RiP - Linkin Park - Heavy (feat. Kiiara) [Apple Music WEB-DL 1080p HD]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/linkin-park-heavy-feat-kiiara-apple-music-web-dl-1080p-hd.243405/]]></link>
+                <title><![CDATA[【Apple Music】WEB-RiP - Linkin Park - Good Goodbye (feat. Pusha T &amp; Stormzy) [Apple Music WEB-DL 1080p HD]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/linkin-park-good-goodbye-feat-pusha-t-stormzy-apple-music-web-dl-1080p-hd.243408/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<span style="font-size: 22px"><b>Linkin Park - Heavy (feat. Kiiara) [Apple Music WEB-DL 1080p HD]</b></span><br>
+<span style="font-size: 22px"><b>Linkin Park - Good Goodbye (feat. Pusha T &amp; Stormzy) [Apple Music WEB-DL 1080p HD]</b></span><br>
 <br>
-<img src="https://imgur.com/Q6Of2ep.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://imgur.com/Q6Of2ep.jpg" style=""><br>
+<img src="https://imgur.com/SM6oBov.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://imgur.com/SM6oBov.jpg" style=""><br>
 <br>
 <div class="bbCodeBlock bbCodeCode">
 <div class="type">Code:</div>
 <pre>General
 Format                         : MPEG-4
 Codec ID                       : M4V  (isom/iso4/M4V /mp42)
-File size                      : 139 MiB
-Duration                       : 2 min 48 s
+File size                      : 191 MiB
+Duration                       : 3 min 57 s
 Overall bit rate mode          : Variable
-Overall bit rate               : 6 941 kb/s
-Movie name                     : Heavy (feat. Kiiara)
+Overall bit rate               : 6 745 kb/s
+Movie name                     : Good Goodbye (feat. Pusha T &amp; Stormzy)
 Performer                      : LINKIN PARK
-Genre                          : Pop
+Genre                          : Alternative
 ContentType                    : Music Video
-Recorded date                  : UTC 2017-03-09 08:00:00
-Encoded date                   : UTC 2024-02-17 17:18:52
-Tagged date                    : UTC 2024-02-17 17:18:52
+Recorded date                  : UTC 2017-05-05 07:00:00
+Encoded date                   : UTC 2024-03-03 09:23:41
+Tagged date                    : UTC 2024-03-03 09:23:41
 Copyright                      : ℗ 2017 Warner Records Inc.
 Cover                          : Yes
-Rating                         : Explicit
-GenreID                        : 1614
+Rating                         : None
+GenreID                        : 1620
 AlbumTitleID                   : 148662
-AppleStoreCatalogID            : 1213487864
+AppleStoreCatalogID            : 1233883940
 
 Video
 ID                             : 2
@@ -49,32 +49,28 @@ Format settings, CABAC         : Yes
 Format settings, Reference fra : 5 frames
 Codec ID                       : avc1
 Codec ID/Info                  : Advanced Video Coding
-Duration                       : 2 min 48 s
-Source duration                : 2 min 48 s
-Bit rate                       : 6 677 kb/s
-Maximum bit rate               : 14.3 Mb/s
+Duration                       : 3 min 56 s
+Bit rate                       : 6 473 kb/s
+Maximum bit rate               : 14.2 Mb/s
 Width                          : 1 920 pixels
-Height                         : 724 pixels
-Display aspect ratio           : 2.652
-Frame rate mode                : Variable
-Frame rate                     : 23.976 (23976/1000) FPS
-Minimum frame rate             : 23.976 FPS
-Maximum frame rate             : 8 000.000 FPS
+Height                         : 796 pixels
+Display aspect ratio           : 2.40:1
+Frame rate mode                : Constant
+Frame rate                     : 23.976 (24000/1001) FPS
 Color space                    : YUV
 Chroma subsampling             : 4:2:0
 Bit depth                      : 8 bits
 Scan type                      : Progressive
-Bits/(Pixel*Frame)             : 0.200
-Stream size                    : 134 MiB (96%)
-Source stream size             : 134 MiB (96%)
+Bits/(Pixel*Frame)             : 0.177
+Stream size                    : 183 MiB (96%)
 Title                          : Core Media Video
-Encoded date                   : UTC 2024-02-17 17:18:55
-Tagged date                    : UTC 2024-04-30 07:46:16
+Language                       : English
+Encoded date                   : UTC 2024-03-03 09:23:54
+Tagged date                    : UTC 2024-04-30 07:50:30
 Color range                    : Limited
 Color primaries                : BT.709
 Transfer characteristics       : BT.709
 Matrix coefficients            : BT.709
-mdhd_Duration                  : 168126
 Codec configuration box        : avcC
 
 Audio
@@ -82,20 +78,36 @@ ID                             : 1
 Format                         : AAC LC
 Format/Info                    : Advanced Audio Codec Low Complexity
 Codec ID                       : mp4a-40-2
-Duration                       : 2 min 48 s
-Duration_LastFrame             : -20 ms
+Duration                       : 3 min 57 s
+Duration_LastFrame             : -4 ms
 Bit rate mode                  : Variable
-Bit rate                       : 254 kb/s
-Maximum bit rate               : 405 kb/s
+Bit rate                       : 265 kb/s
+Maximum bit rate               : 339 kb/s
 Channel(s)                     : 2 channels
 Channel layout                 : L R
 Sampling rate                  : 48.0 kHz
 Frame rate                     : 46.875 FPS (1024 SPF)
 Compression mode               : Lossy
-Stream size                    : 5.09 MiB (4%)
+Stream size                    : 7.33 MiB (4%)
 Title                          : Core Media Audio
-Encoded date                   : UTC 2024-02-17 17:18:52
-Tagged date                    : UTC 2024-04-30 07:46:16
+Encoded date                   : UTC 2024-03-03 09:23:41
+Tagged date                    : UTC 2024-04-30 07:50:30
+
+Text
+ID                             : 3
+Format                         : EIA-608
+Codec ID                       : c608
+Duration                       : 3 min 45 s
+Bit rate mode                  : Variable
+Bit rate                       : 145 b/s
+Maximum bit rate               : 832 b/s
+Frame rate                     : 0.262 FPS
+Stream size                    : 3.98 KiB (0%)
+Title                          : Core Media Closed Caption
+Language                       : English
+Forced                         : No
+Encoded date                   : UTC 2024-03-03 09:23:54
+Tagged date                    : UTC 2024-04-30 07:50:30
 </pre>
 </div>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
@@ -106,6 +118,40 @@ Tagged date                    : UTC 2024-04-30 07:46:16
 </blockquote>
 </article>]]></description>
                 <author><![CDATA[Ron001]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Albums (lossless)】PACK - Carly Rae Jepsen - Discography | Apple Music Japan | Apple LAC + Digital Master | .M4A 16-24bits &amp; 44.1-48.0kHz]]></title>
+                <link><![CDATA[https://sharemania.us/threads/carly-rae-jepsen-discography-apple-music-japan-apple-lac-digital-master-m4a-16-24bits-44-1-48-0khz.243407/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<div style="text-align: center"><img src="https://i.scdn.co/image/ab67616d00001e020b94bcd5cc1332a8b42174ab" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.scdn.co/image/ab67616d00001e020b94bcd5cc1332a8b42174ab" style=""> <img src="https://i.scdn.co/image/ab67616d00001e0286a7e6f6153a762fc5c266c4" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.scdn.co/image/ab67616d00001e0286a7e6f6153a762fc5c266c4" style=""> <img src="https://tiermaker.com/images/chart/chart/carly-rae-jepsen-albums-1635547/carlyraejepsenkissremixpng.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://tiermaker.com/images/chart/chart/carly-rae-jepsen-albums-1635547/carlyraejepsenkissremixpng.png" style=""> <img src="https://i.scdn.co/image/ab67616d00001e026bf67b063a3a7e8b4f508be4" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.scdn.co/image/ab67616d00001e026bf67b063a3a7e8b4f508be4" style=""> <img src="https://i.scdn.co/image/ab67616d00001e02ac4fad250e1794be6e438717" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.scdn.co/image/ab67616d00001e02ac4fad250e1794be6e438717" style=""> <img src="https://i.scdn.co/image/ab67616d00001e023188158b6cfdc17994be4c5f" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.scdn.co/image/ab67616d00001e023188158b6cfdc17994be4c5f" style=""> <img src="https://www.universal-music.co.jp/carly-rae-jepsen/wp-content/uploads/sites/6/2019/04/2%E3%82%AB%E3%83%BC%E3%83%AA%E3%83%BC-300x300.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://www.universal-music.co.jp/carly-rae-jepsen/wp-content/uploads/sites/6/2019/04/2%E3%82%AB%E3%83%BC%E3%83%AA%E3%83%BC-300x300.png" style=""> <img src="https://upload.wikimedia.org/wikipedia/en/5/50/Dedicated_Side_B.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://upload.wikimedia.org/wikipedia/en/5/50/Dedicated_Side_B.png" style=""> <img src="https://upload.wikimedia.org/wikipedia/he/4/44/The_Loneliest_Time_-_Carly_Rae_Jepsen.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://upload.wikimedia.org/wikipedia/he/4/44/The_Loneliest_Time_-_Carly_Rae_Jepsen.png" style=""> <img src="https://i.scdn.co/image/ab67616d00001e02521ccb4f47088d061f26aa4d" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.scdn.co/image/ab67616d00001e02521ccb4f47088d061f26aa4d" style=""> <br>
+<br>
+<span style="font-family: 'Times New Roman'"><span style="font-size: 15px"><span style="color: #000000"><b>Size: 5, 35GB</b></span><br>
+<br>
+<span style="color: #000000">
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></span></span></span>​</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[Nuric]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Albums (lossy)】iTunes Plus - Santigold – Spirituals [iTunes Plus AAC M4A]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/santigold-%E2%80%93-spirituals-itunes-plus-aac-m4a.243406/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+Please! Can't find it anywhere. Any of her albums would be much appreciated
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[chiwaro]]></author>
                 </item>
 
                 </channel></rss>
