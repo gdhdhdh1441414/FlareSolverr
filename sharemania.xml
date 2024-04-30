@@ -8,43 +8,36 @@
 
  
                 <item>
-                <title><![CDATA[【Apple Music】WEB-RiP - Linkin Park - The Catalyst [Apple Music WEB-DL 1080p HD]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/linkin-park-the-catalyst-apple-music-web-dl-1080p-hd.243404/]]></link>
+                <title><![CDATA[【Apple Music】WEB-RiP - Linkin Park - Heavy (feat. Kiiara) [Apple Music WEB-DL 1080p HD]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/linkin-park-heavy-feat-kiiara-apple-music-web-dl-1080p-hd.243405/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<span style="font-size: 22px"><b>Linkin Park - The Catalyst [Apple Music WEB-DL 1080p HD]</b></span><br>
+<span style="font-size: 22px"><b>Linkin Park - Heavy (feat. Kiiara) [Apple Music WEB-DL 1080p HD]</b></span><br>
 <br>
-<img src="https://imgur.com/PII8hLN.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://imgur.com/PII8hLN.jpg" style=""><br>
+<img src="https://imgur.com/Q6Of2ep.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://imgur.com/Q6Of2ep.jpg" style=""><br>
 <br>
 <div class="bbCodeBlock bbCodeCode">
 <div class="type">Code:</div>
 <pre>General
 Format                         : MPEG-4
 Codec ID                       : M4V  (isom/iso4/M4V /mp42)
-File size                      : 231 MiB
-Duration                       : 4 min 43 s
+File size                      : 139 MiB
+Duration                       : 2 min 48 s
 Overall bit rate mode          : Variable
-Overall bit rate               : 6 821 kb/s
-Movie name                     : The Catalyst
-Album                          : A Thousand Suns (Deluxe Edition)
-Album/Performer                : LINKIN PARK
-Part/Position                  : 1
-Part/Total                     : 1
-Track name/Position            : 17
-Track name/Total               : 18
+Overall bit rate               : 6 941 kb/s
+Movie name                     : Heavy (feat. Kiiara)
 Performer                      : LINKIN PARK
-Genre                          : Alternative
+Genre                          : Pop
 ContentType                    : Music Video
-Recorded date                  : UTC 2010-09-10 07:00:00
-Encoded date                   : UTC 2024-03-01 10:03:34
-Tagged date                    : UTC 2024-03-01 10:03:34
-Copyright                      : ℗ 2010 Warner Records Inc.
+Recorded date                  : UTC 2017-03-09 08:00:00
+Encoded date                   : UTC 2024-02-17 17:18:52
+Tagged date                    : UTC 2024-02-17 17:18:52
+Copyright                      : ℗ 2017 Warner Records Inc.
 Cover                          : Yes
-Rating                         : None
-GenreID                        : 1620
+Rating                         : Explicit
+GenreID                        : 1614
 AlbumTitleID                   : 148662
-PlayListID                     : 590434066
-AppleStoreCatalogID            : 590434083
+AppleStoreCatalogID            : 1213487864
 
 Video
 ID                             : 2
@@ -54,30 +47,34 @@ Format profile                 : High@L4
 Format settings                : CABAC / 5 Ref Frames
 Format settings, CABAC         : Yes
 Format settings, Reference fra : 5 frames
-Format settings, GOP           : M=2, N=77
 Codec ID                       : avc1
 Codec ID/Info                  : Advanced Video Coding
-Duration                       : 4 min 43 s
-Bit rate                       : 6 547 kb/s
-Maximum bit rate               : 14.0 Mb/s
+Duration                       : 2 min 48 s
+Source duration                : 2 min 48 s
+Bit rate                       : 6 677 kb/s
+Maximum bit rate               : 14.3 Mb/s
 Width                          : 1 920 pixels
-Height                         : 704 pixels
-Display aspect ratio           : 2.727
-Frame rate mode                : Constant
+Height                         : 724 pixels
+Display aspect ratio           : 2.652
+Frame rate mode                : Variable
 Frame rate                     : 23.976 (23976/1000) FPS
+Minimum frame rate             : 23.976 FPS
+Maximum frame rate             : 8 000.000 FPS
 Color space                    : YUV
 Chroma subsampling             : 4:2:0
 Bit depth                      : 8 bits
 Scan type                      : Progressive
-Bits/(Pixel*Frame)             : 0.202
-Stream size                    : 221 MiB (96%)
+Bits/(Pixel*Frame)             : 0.200
+Stream size                    : 134 MiB (96%)
+Source stream size             : 134 MiB (96%)
 Title                          : Core Media Video
-Encoded date                   : UTC 2024-03-01 10:03:46
-Tagged date                    : UTC 2024-04-25 06:38:42
+Encoded date                   : UTC 2024-02-17 17:18:55
+Tagged date                    : UTC 2024-04-30 07:46:16
 Color range                    : Limited
 Color primaries                : BT.709
 Transfer characteristics       : BT.709
 Matrix coefficients            : BT.709
+mdhd_Duration                  : 168126
 Codec configuration box        : avcC
 
 Audio
@@ -85,20 +82,20 @@ ID                             : 1
 Format                         : AAC LC
 Format/Info                    : Advanced Audio Codec Low Complexity
 Codec ID                       : mp4a-40-2
-Duration                       : 4 min 43 s
-Duration_LastFrame             : -15 ms
+Duration                       : 2 min 48 s
+Duration_LastFrame             : -20 ms
 Bit rate mode                  : Variable
-Bit rate                       : 265 kb/s
-Maximum bit rate               : 428 kb/s
+Bit rate                       : 254 kb/s
+Maximum bit rate               : 405 kb/s
 Channel(s)                     : 2 channels
 Channel layout                 : L R
 Sampling rate                  : 48.0 kHz
 Frame rate                     : 46.875 FPS (1024 SPF)
 Compression mode               : Lossy
-Stream size                    : 8.87 MiB (4%)
+Stream size                    : 5.09 MiB (4%)
 Title                          : Core Media Audio
-Encoded date                   : UTC 2024-03-01 10:03:34
-Tagged date                    : UTC 2024-04-25 06:38:42
+Encoded date                   : UTC 2024-02-17 17:18:52
+Tagged date                    : UTC 2024-04-30 07:46:16
 </pre>
 </div>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
