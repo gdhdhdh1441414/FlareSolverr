@@ -1,5 +1,7 @@
+threads/genesis-duke-2007-remaster-1980-cd.243982/
+threads/charlie-puth-voicenotes-dolby-atmos.243981/
 threads/denise-richards-moshana-halbert-and-other-blue-mountain-state-2011-1080p.243980/
-threads/genesis-we-cant-dance-2007-remaster-1991-flac-cd.243979/
+threads/genesis-we-cant-dance-2007-remaster-1991-cd.243979/
 threads/madonna-the-mdna-tour-2012-complete-mbluray-copyriot.243977/
 threads/david-archuleta-%E2%80%94-albums-eps-singles-%E2%80%94-flac-16-bit-%E2%80%A2-hi-res-%E2%80%A2-m4a-44-1khz.243976/
 threads/madonna-sticky-sweet-tour-2009-complete-mbluray.243973/
@@ -19,6 +21,4 @@ threads/taylor-swift-studio-albums-discography-flac-16-bit-44-1khz-cd.243960/
 threads/f-x-discography-album-flac-cd.243959/
 threads/various-artists-%E3%83%99%E3%82%B9%E3%83%88%E3%82%A6%E3%82%A4%E3%83%83%E3%82%B7%E3%83%A5-%E5%BF%83%E3%81%AE%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AC-ep-16bit-44-1khz.243958/
 threads/taylor-swift-youre-losing-me-from-the-vault-morajp-hires-24bit-48khz.243957/
-threads/chris-brown-11x-music-videos-in-vob-no-logos.243956/
-threads/dua-lipas-levitating-remixes-in-lossless-quality-flac.243955/
-threads/jaira-burns-goddess-flac.243954/
+threads/chris-brown-music-videos-in-vob-no-logos.243956/
