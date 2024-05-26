@@ -8,148 +8,43 @@
 
  
                 <item>
-                <title><![CDATA[【HD Live Performances】WEB-DL - Gaga.Chromatica.Ball.1080p.MAX.WEB-DL.DDP5.1.x264-HoB [CHAPTER MENU]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/gaga-chromatica-ball-1080p-max-web-dl-ddp5-1-x264-hob-chapter-menu.245251/]]></link>
+                <title><![CDATA[【Requests】[REQ CAP] - Assembled: The Making of X-Men '97]]></title>
+                <link><![CDATA[https://sharemania.us/threads/assembled-the-making-of-x-men-97.245285/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://i.postimg.cc/2yYgLwTt/chromatica-banner.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/2yYgLwTt/chromatica-banner.jpg" style=""><br>
-<img src="https://i.postimg.cc/43TSKnm2/vlcsnap-2024-05-26-03h29m19s243.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/43TSKnm2/vlcsnap-2024-05-26-03h29m19s243.png" style=""><br>
-<img src="https://i.postimg.cc/8zvYPLPr/Gaga-Chromatica-Ball-1080p-MAX-WEB-DL-DDP5-1-x264-Ho-B-mkv.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/8zvYPLPr/Gaga-Chromatica-Ball-1080p-MAX-WEB-DL-DDP5-1-x264-Ho-B-mkv.jpg" style=""><br>
-Credits: <a href="https://sharemania.us/members/80518/" class="username" data-user="80518, @taeweishin">@taeweishin</a><br>
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
-<div class="SpoilerTarget bbCodeSpoilerText">
-<div class="bbCodeBlock bbCodeCode">
-<div class="type">Code:</div>
-<pre>General
-Unique ID                   : 270814356601729746340606894023083948150 (0xCBBCF2A7EE54E2C32021DE343649F876)
-Complete name               : Gaga.Chromatica.Ball.1080p.MAX.WEB-DL.DDP5.1.x264-HoB.mkv
-Format                      : Matroska
-Format version              : Version 4
-File size                   : 5.58 GiB
-Duration                    : 1 h 52 min
-Overall bit rate mode       : Variable
-Overall bit rate            : 7 114 kb/s
-Frame rate                  : 29.970 FPS
-Writing application         : Lavf59.28.100
-Writing library             : Lavf59.28.100
-ErrorDetectionType          : Per level 1
-
-Video
-ID                          : 2
-Format                      : AVC
-Format/Info                 : Advanced Video Codec
-Format profile              : High@L4.1
-Format settings             : CABAC / 4 Ref Frames
-Format settings, CABAC      : Yes
-Format settings, Reference  : 4 frames
-Codec ID                    : V_MPEG4/ISO/AVC
-Duration                    : 1 h 52 min
-Bit rate mode               : Variable
-Bit rate                    : 6 717 kb/s
-Maximum bit rate            : 10 000 kb/s
-Width                       : 1 920 pixels
-Height                      : 1 080 pixels
-Display aspect ratio        : 16:9
-Frame rate mode             : Constant
-Frame rate                  : 29.970 (30000/1001) FPS
-Color space                 : YUV
-Chroma subsampling          : 4:2:0
-Bit depth                   : 8 bits
-Scan type                   : Progressive
-Bits/(Pixel*Frame)          : 0.108
-Stream size                 : 5.27 GiB (94%)
-Writing library             : x264 core 164
-Encoding settings           : cabac=1 / ref=4 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=24 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / stitchable=1 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=120 / keyint_min=61 / scenecut=0 / intra_refresh=0 / rc_lookahead=120 / rc=crf / mbtree=1 / crf=20.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=10000 / vbv_bufsize=40000 / crf_max=0.0 / nal_hrd=vbr / filler=0 / ip_ratio=1.40 / aq=1:1.00
-Default                     : Yes
-Forced                      : No
-Color range                 : Limited
-Color primaries             : BT.709
-Transfer characteristics    : BT.709
-Matrix coefficients         : BT.709
-VENDOR_ID                   : [0][0][0][0]
-
-Audio
-ID                          : 1
-Format                      : E-AC-3
-Format/Info                 : Enhanced AC-3
-Commercial name             : Dolby Digital Plus
-Codec ID                    : A_EAC3
-Duration                    : 1 h 52 min
-Bit rate mode               : Constant
-Bit rate                    : 256 kb/s
-Channel(s)                  : 6 channels
-Channel layout              : L R C LFE Ls Rs
-Sampling rate               : 48.0 kHz
-Frame rate                  : 31.250 FPS (1536 SPF)
-Bit depth                   : 32 bits
-Compression mode            : Lossy
-Stream size                 : 206 MiB (4%)
-Language                    : English
-Service kind                : Complete Main
-Default                     : Yes
-Forced                      : No
-VENDOR_ID                   : [0][0][0][0]
-
-Text #1
-ID                          : 3
-Format                      : D_WEBVTT/SUBTITLES
-Codec ID                    : D_WEBVTT/SUBTITLES
-Duration                    : 13 min 25 s
-Default                     : Yes
-Forced                      : No
-
-Text #2
-ID                          : 4
-Format                      : D_WEBVTT/SUBTITLES
-Codec ID                    : D_WEBVTT/SUBTITLES
-Duration                    : 45 min 46 s
-Default                     : No
-Forced                      : No
-
-Menu
-00:00:06.265                : Opening Film
-00:02:45.558                : Bad Romance
-00:07:53.613                : Just Dance
-00:10:30.008                : Poker Face
-00:14:03.401                : The Operation
-00:16:33.785                : Alice
-00:20:23.967                : Replay
-00:23:35.219                : Monster
-00:27:44.637                : Flowers
-00:30:07.795                : 911
-00:32:22.470                : Sour Candy
-00:34:57.555                : Telephone
-00:37:35.212                : LoveGame
-00:42:09.893                : The Birth of Freedom
-00:43:01.110                : Babylon
-00:46:16.149                : Free Woman
-00:52:05.314                : Born This Way (intro)
-00:55:12.168                : Born This Way
-00:58:34.857                : Tamara
-00:59:59.058                : Shallow (Lady Gaga &amp; Bradley Cooper cover)
-01:07:34.962                : Always Remember Us This Way
-01:11:43.392                : The Edge of Glory
-01:19:17.239                : 1000 Doves
-01:24:05.833                : Fun Tonight (intro)
-01:25:30.279                : Fun Tonight
-01:27:47.288                : Enigma
-01:32:29.971                : Sonnet
-01:33:59.504                : Stupid Love
-01:38:37.911                : Rain on Me
-01:42:18.660                : Hold My Hand
-01:47:15.622                : (Credits)
-</pre>
-</div></div>
-</div>
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div>
+Would anyone be able to capture this from Disney + please. I cancelled my subscription last week! <img src="styles/default/xenforo/smilies/cry-48.png" class="mceSmilie" alt=":cry:" title="Cry    :cry:">
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[AlexVicente]]></author>
+                <author><![CDATA[Leemond]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ CAP] - Assembled: The Making of X-Men '97]]></title>
+                <link><![CDATA[https://sharemania.us/threads/assembled-the-making-of-x-men-97.245286/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+Would anyone be able to capture this from Disney + please. I cancelled my subscription last week! <img src="styles/default/xenforo/smilies/cry-48.png" class="mceSmilie" alt=":cry:" title="Cry    :cry:">
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[Leemond]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ CAP] - Assembled: The Making of X-Men '97]]></title>
+                <link><![CDATA[https://sharemania.us/threads/assembled-the-making-of-x-men-97.245287/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+Would anyone be able to capture this from Disney + please. I cancelled my subscription last week! <br>
+<br>
+Thank you!
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[Leemond]]></author>
                 </item>
 
                 </channel></rss>
