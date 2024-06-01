@@ -8,40 +8,249 @@
 
  
                 <item>
-                <title><![CDATA[【Singles (lossy)】Dolby Atmos - Björk - Hunter (UNNOFICIAL MIX) [EAC3 JOC - 768kbps]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/bj%C3%B6rk-hunter-unnoficial-mix-eac3-joc-768kbps.245916/]]></link>
+                <title><![CDATA[【Albums (lossless)】FLAC - Lorde - Melodrama (Japanese Edition) | CD Rip | WEB FLAC | .FLAC 16bits ／ 44.1kHz]]></title>
+                <link><![CDATA[https://sharemania.us/threads/lorde-melodrama-japanese-edition-cd-rip-web-flac-flac-16bits-%EF%BC%8F-44-1khz.245918/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://i.scdn.co/image/ab67616d00001e0261340a8868455be0d958fb39" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.scdn.co/image/ab67616d00001e0261340a8868455be0d958fb39" style=""><br>
+<div style="text-align: center"><img src="https://i.imgur.com/BjnWUwH.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/BjnWUwH.jpeg" style=""> <br>
 <br>
-<b>Title: </b>Hunter<br>
-<b>Artist:</b> Bjork<br>
-<b>Format: </b>Enhanced AC-3 with Joint Object<br>
-<b>Bitrate/Sampling Rate: </b>768kbps/48KHz<br>
-<b><br>
-Made from lossless 24bit/48KHz stems, mixed by me with Studio One 6.</b> Atmos mix with a lot of overhead effects. Feedback will be appreciated!<br>
+<span style="font-family: 'Book Antiqua'"><span style="font-size: 12px"><span style="color: #000000"><b><i>**IT'S NOT MY RIP!</i></b><br>
+contains <i>Scans</i><br>
 <br>
+<span style="font-size: 12px">
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">.log</span></span></button>
+<div class="SpoilerTarget bbCodeSpoilerText">Exact Audio Copy V1.3 from 2. September 2016<br>
+<br>
+EAC extraction logfile from 12. July 2017, 19:00<br>
+<br>
+Lorde / Melodrama<br>
+<br>
+Used drive : ASUS BW-16D1HT Adapter: 1 ID: 0<br>
+<br>
+Read mode : Secure<br>
+Utilize accurate stream : Yes<br>
+Defeat audio cache : Yes<br>
+Make use of C2 pointers : No<br>
+<br>
+Read offset correction : 6<br>
+Overread into Lead-In and Lead-Out : No<br>
+Fill up missing offset samples with silence : Yes<br>
+Delete leading and trailing silent blocks : No<br>
+Null samples used in CRC calculations : Yes<br>
+Used interface : Native Win32 interface for Win NT &amp; 2000<br>
+Gap handling : Appended to previous track<br>
+<br>
+Used output format : User Defined Encoder<br>
+Selected bitrate : 896 kBit/s<br>
+Quality : High<br>
+Add ID3 tag : No<br>
+Command line compressor : C:\Program Files (x86)\Exact Audio Copy\Flac\flac.exe<br>
+Additional command line options : -V -8 -T "Genre=%genre%" -T "Artist=%artist%" -T "Title=%title%" -T "Album=%albumtitle%" -T "Totaldiscs=%totalcds%" -T "Discnumber=%cdnumber%" -T "Date=%year%" -T "Tracknumber=%tracknr%" -T "Comment=%comment%" -T "Composer=%composer%" %source%<br>
+<br>
+<br>
+TOC of the extracted CD<br>
+<br>
+Track | Start | Length | Start sector | End sector <br>
+---------------------------------------------------------<br>
+1 | 0:00.00 | 3:54.49 | 0 | 17598 <br>
+2 | 3:54.49 | 3:17.17 | 17599 | 32390 <br>
+3 | 7:11.66 | 3:09.60 | 32391 | 46625 <br>
+4 | 10:21.51 | 4:31.07 | 46626 | 66957 <br>
+5 | 14:52.58 | 2:51.54 | 66958 | 79836 <br>
+6 | 17:44.37 | 6:07.29 | 79837 | 107390 <br>
+7 | 23:51.66 | 2:58.48 | 107391 | 120788 <br>
+8 | 26:50.39 | 3:36.46 | 120789 | 137034 <br>
+9 | 30:27.10 | 4:37.38 | 137035 | 157847 <br>
+10 | 35:04.48 | 2:16.02 | 157848 | 168049 <br>
+11 | 37:20.50 | 3:41.54 | 168050 | 184678 <br>
+12 | 41:02.29 | 4:08.31 | 184679 | 203309 <br>
+<br>
+<br>
+Track 1<br>
+<br>
+Filename D:\CDrip\01. Green Light.wav<br>
+<br>
+Pre-gap length 0:00:02.00<br>
+<br>
+Peak level 99.8 %<br>
+Extraction speed 4.5 X<br>
+Track quality 100.0 %<br>
+Test CRC 97689C26<br>
+Copy CRC 97689C26<br>
+Track not present in AccurateRip database<br>
+Copy OK<br>
+<br>
+Track 2<br>
+<br>
+Filename D:\CDrip\02. Sober.wav<br>
+<br>
+Peak level 96.1 %<br>
+Extraction speed 4.2 X<br>
+Track quality 99.9 %<br>
+Test CRC 1DA24671<br>
+Copy CRC 1DA24671<br>
+Track not present in AccurateRip database<br>
+Copy OK<br>
+<br>
+Track 3<br>
+<br>
+Filename D:\CDrip\03. Homemade Dynamite.wav<br>
+<br>
+Peak level 95.2 %<br>
+Extraction speed 5.1 X<br>
+Track quality 100.0 %<br>
+Test CRC 4591BD56<br>
+Copy CRC 4591BD56<br>
+Track not present in AccurateRip database<br>
+Copy OK<br>
+<br>
+Track 4<br>
+<br>
+Filename D:\CDrip\04. The Louvre.wav<br>
+<br>
+Peak level 99.8 %<br>
+Extraction speed 5.7 X<br>
+Track quality 100.0 %<br>
+Test CRC CE2CE6D7<br>
+Copy CRC CE2CE6D7<br>
+Track not present in AccurateRip database<br>
+Copy OK<br>
+<br>
+Track 5<br>
+<br>
+Filename D:\CDrip\05. Liability.wav<br>
+<br>
+Peak level 99.8 %<br>
+Extraction speed 5.7 X<br>
+Track quality 100.0 %<br>
+Test CRC 301B45EC<br>
+Copy CRC 301B45EC<br>
+Track not present in AccurateRip database<br>
+Copy OK<br>
+<br>
+Track 6<br>
+<br>
+Filename D:\CDrip\06. Hard Feelings , Loveless.wav<br>
+<br>
+Peak level 99.8 %<br>
+Extraction speed 6.6 X<br>
+Track quality 100.0 %<br>
+Test CRC 8B630CF5<br>
+Copy CRC 8B630CF5<br>
+Track not present in AccurateRip database<br>
+Copy OK<br>
+<br>
+Track 7<br>
+<br>
+Filename D:\CDrip\07. Sober II (Melodrama).wav<br>
+<br>
+Peak level 99.8 %<br>
+Extraction speed 5.6 X<br>
+Track quality 99.9 %<br>
+Test CRC D2024652<br>
+Copy CRC D2024652<br>
+Track not present in AccurateRip database<br>
+Copy OK<br>
+<br>
+Track 8<br>
+<br>
+Filename D:\CDrip\08. Writer In The Dark.wav<br>
+<br>
+Peak level 86.3 %<br>
+Extraction speed 6.8 X<br>
+Track quality 100.0 %<br>
+Test CRC 61148BC5<br>
+Copy CRC 61148BC5<br>
+Track not present in AccurateRip database<br>
+Copy OK<br>
+<br>
+Track 9<br>
+<br>
+Filename D:\CDrip\09. Supercut.wav<br>
+<br>
+Peak level 99.8 %<br>
+Extraction speed 7.4 X<br>
+Track quality 100.0 %<br>
+Test CRC 913A35E0<br>
+Copy CRC 913A35E0<br>
+Track not present in AccurateRip database<br>
+Copy OK<br>
+<br>
+Track 10<br>
+<br>
+Filename D:\CDrip\10. Liability (Reprise).wav<br>
+<br>
+Peak level 99.8 %<br>
+Extraction speed 6.8 X<br>
+Track quality 100.0 %<br>
+Test CRC 5E32D1D9<br>
+Copy CRC 5E32D1D9<br>
+Track not present in AccurateRip database<br>
+Copy OK<br>
+<br>
+Track 11<br>
+<br>
+Filename D:\CDrip\11. Perfect Places.wav<br>
+<br>
+Peak level 99.8 %<br>
+Extraction speed 7.5 X<br>
+Track quality 100.0 %<br>
+Test CRC D9081E47<br>
+Copy CRC D9081E47<br>
+Track not present in AccurateRip database<br>
+Copy OK<br>
+<br>
+Track 12<br>
+<br>
+Filename D:\CDrip\12. Green Light (Chromeo Remix).wav<br>
+<br>
+Peak level 99.6 %<br>
+Extraction speed 7.8 X<br>
+Track quality 100.0 %<br>
+Test CRC 10F5019F<br>
+Copy CRC 10F5019F<br>
+Track not present in AccurateRip database<br>
+Copy OK<br>
+<br>
+<br>
+None of the tracks are present in the AccurateRip database<br>
+<br>
+No errors occurred<br>
+<br>
+End of status report<br>
+<br>
+---- CUETools DB Plugin V2.1.6<br>
+<br>
+[CTDB TOCID: gI9mUCurN_UAuzZ8cncvEfw0iqk-] found<br>
+Submit result: gI9mUCurN_UAuzZ8cncvEfw0iqk- has been confirmed<br>
+Track | CTDB Status<br>
+1 | (2/2) Accurately ripped<br>
+2 | (2/2) Accurately ripped<br>
+3 | (2/2) Accurately ripped<br>
+4 | (2/2) Accurately ripped<br>
+5 | (2/2) Accurately ripped<br>
+6 | (2/2) Accurately ripped<br>
+7 | (2/2) Accurately ripped<br>
+8 | (2/2) Accurately ripped<br>
+9 | (2/2) Accurately ripped<br>
+10 | (2/2) Accurately ripped<br>
+11 | (2/2) Accurately ripped<br>
+12 | (2/2) Accurately ripped<br>
+<br>
+<br>
+==== Log checksum 0EC8AD209045B9BD217A7A8A241A7F44626085CBD1D3078CA0B747C013E5DA61 ====</div>
+</div></span><br>
+<br>
+<i><span style="font-size: 12px">
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
-<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></span></i></span></span></span>​</div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[mrhertzz]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Red Hot Chili Peppers - Tokyo Dome 1st &amp; 2nd Night 2024 (CD)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/red-hot-chili-peppers-tokyo-dome-1st-2nd-night-2024-cd.245917/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-thanks
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[Hotspace82]]></author>
+                <author><![CDATA[Nuric]]></author>
                 </item>
 
                 </channel></rss>
