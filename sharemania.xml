@@ -8,53 +8,91 @@
 
  
                 <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Melody Gardot - Studio albums [iTunes or M4A]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/melody-gardot-studio-albums-itunes-or-m4a.246842/]]></link>
+                <title><![CDATA[【Interviews / TV shows / Others】WEB-RiP - Céline Dion: I Will Sing Again - The National Special Presentation [CBC.ca, 2024-06-13] 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/c%C3%A9line-dion-i-will-sing-again-the-national-special-presentation-cbc-ca-2024-06-13-1080p.246843/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-Hello, wonderful people,<br>
+<div style="text-align: center"><b><span style="font-size: 18px"><i>Céline Dion: I Will Sing Again - The National Special Presentation [CBC.ca, 2024-06-13]</i></span></b><br>
 <br>
-I recently lost a lot of files from my PC, and one of my biggest regrets is not backing up my Melody Gardot albums on my external drive. If anyone could help me, I would be incredibly grateful .<br>
+<i>In this intensely personal, candid and revealing Canadian English-language exclusive from the team at The National, Céline Dion opens up to CBC News chief correspondent Adrienne Arsenault about coping with stiff person syndrome, losing the voice that has guided her life and how she is determined to perform again.</i><br>
 <br>
-<ol>
-<li>Worrisome Heart <a href="https://music.apple.com/ca/album/worrisome-heart/1440749986" target="_blank" class="externalLink" rel="nofollow">Link</a></li>
-<li>My One and Only Thrill <a href="https://music.apple.com/ca/album/my-one-and-only-thrill-deluxe-version/1442880141" target="_blank" class="externalLink" rel="nofollow">Link</a><br>
-</li>
-<li>The Absence <a href="https://music.apple.com/ca/album/the-absence/1440742764" target="_blank" class="externalLink" rel="nofollow">Link</a><br>
-</li>
-<li>Currency of Man <a href="https://music.apple.com/ca/album/currency-of-man-the-artists-cut/1440986345" target="_blank" class="externalLink" rel="nofollow">Link</a></li>
-<li>Sunset in the Blue <a href="https://music.apple.com/ca/album/sunset-in-the-blue-deluxe-version/1738287033" target="_blank" class="externalLink" rel="nofollow">Link</a></li>
-<li>Entre eux deux <a href="https://music.apple.com/ca/album/entre-eux-deux/1609264803" target="_blank" class="externalLink" rel="nofollow">Link</a><br>
-</li>
-</ol><br>
-<div style="text-align: center"><img src="https://www.memesmonkey.com/images/memesmonkey/d4/d4dadfbb00f40478956856ab038bbec8.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://www.memesmonkey.com/images/memesmonkey/d4/d4dadfbb00f40478956856ab038bbec8.jpeg" style="">​</div>
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[qadeera.official]]></author>
-                </item>
+<img src="https://i.imgur.com/khYegeB.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/khYegeB.jpeg" style=""><br>
+​</div>
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>General
+ID: 1 (0x1)
+Complete name: Céline Dion I Will Sing Again - The National Special Presentation [2024-06-13, CBC.ca] 1080p.ts
+Format: MPEG-TS
+File size: 1.72 GiB
+Duration: 44 min 8 s
+Overall bit rate mode: Variable
+Overall bit rate: 5 561 kb/s
+Frame rate: 29.970 FPS
 
-                
-                <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Troye Sivan Lossless Audio]]></title>
-                <link><![CDATA[https://sharemania.us/threads/troye-sivan-lossless-audio.246841/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-Hello guys, i'm looking for these releases and tracks:<br>
-<br>
-My My My! Remixes:<br>
-<a href="https://www.discogs.com/release/20516317-Troye-Sivan-My-My-My" target="_blank" class="externalLink" rel="nofollow">https://www.discogs.com/release/20516317-Troye-Sivan-My-My-My</a><br>
-<br>
-Blue Neighbourhood (Deluxe Clean Version)<br>
-Bloom (Album Vinyl Rip)<br>
-Postcard (feat. Gordi) (Clean Version)<br>
-Rush Remixes (Clean Version)<br>
-<br>
-Thanks
+Video
+ID: 256 (0x100)
+Menu ID: 1 (0x1)
+Format: AVC
+Format/Info: Advanced Video Codec
+Format profile: Main@L4
+Format settings: CABAC / 3 Ref Frames
+Format settings, CABAC: Yes
+Format settings, Reference frames: 3 frames
+Format settings, GOP: M=1, N=60
+Codec ID: 27
+Duration: 44 min 10 s
+Bit rate mode: Constant
+Nominal bit rate: 5 000 kb/s
+Width: 1 920 pixels
+Height: 1 080 pixels
+Display aspect ratio: 16:9
+Frame rate: 29.970 (30000/1001) FPS
+Standard: NTSC
+Color space: YUV
+Chroma subsampling: 4:2:0
+Bit depth: 8 bits
+Scan type: Progressive
+Bits/(Pixel*Frame): 0.080
+Color range: Limited
+Color primaries: BT.709
+Transfer characteristics: BT.709
+Matrix coefficients: BT.709
+
+Audio
+ID: 257 (0x101)
+Menu ID: 1 (0x1)
+Format: AAC LC
+Format/Info: Advanced Audio Codec Low Complexity
+Format version: Version 4
+Muxing mode: ADTS
+Codec ID: 15-2
+Duration: 44 min 10 s
+Bit rate mode: Variable
+Channel(s): 2 channels
+Channel layout: L R
+Sampling rate: 48.0 kHz
+Frame rate: 46.875 FPS (1024 SPF)
+Compression mode: Lossy
+
+Menu
+ID: 4096 (0x1000)
+Menu ID: 1 (0x1)
+Format: AVC / AAC
+Duration: 44 min 8 s
+List: 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Service name: Service01
+Service provider: FFmpeg
+Service type : digital television</pre>
+</div><div style="text-align: center">
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[pray for the wicked]]></author>
+                <author><![CDATA[mavs88]]></author>
                 </item>
 
                 </channel></rss>
