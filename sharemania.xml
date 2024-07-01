@@ -8,34 +8,8 @@
 
  
                 <item>
-                <title><![CDATA[【Unreleased/Unofficial (lossless)】.......]]></title>
-                <link><![CDATA[https://sharemania.us/threads/248455/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="text-align: center">........​</div>
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[narxerino]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Poxyclub Qobuz]]></title>
-                <link><![CDATA[https://sharemania.us/threads/poxyclub-qobuz.248453/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<a href="https://www.qobuz.com/us-en/album/poxyclub-poxy-club/ew4qkzd1rtr9a" target="_blank" class="externalLink" rel="nofollow">https://www.qobuz.com/us-en/album/poxyclub-poxy-club/ew4qkzd1rtr9a</a>
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[Sergiote12]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Unreleased/Unofficial (lossless)】FLAC - Beyoncé - COWBOY CARTER (True Immersive 5.1) 16bits 44.1 kHz 6ch]]></title>
-                <link><![CDATA[https://sharemania.us/threads/beyonc%C3%A9-cowboy-carter-true-immersive-5-1-16bits-44-1-khz-6ch.248456/]]></link>
+                <title><![CDATA[【Unreleased/Unofficial (lossy)】M4A - Beyoncé - COWBOY CARTER (True Immersive 5.1) 16bits 44.1 kHz 6ch 512kbps]]></title>
+                <link><![CDATA[https://sharemania.us/threads/beyonc%C3%A9-cowboy-carter-true-immersive-5-1-16bits-44-1-khz-6ch-512kbps.248457/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 <div style="text-align: center"><img src="https://i.imgur.com/CndjSkf.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/CndjSkf.jpeg" style=""> <br>
@@ -46,44 +20,54 @@ Beyoncé's studio has not released an immersive version of this album, so my tea
 <br>
 Feel free to distribute this album in True Immersive, but please do not reuse the sounds to make a Dolby Atmos version and/or other similar audio technologies. Spread the word.<br>
 <br>
-<span style="color: #b30059">You may need to activate Dolby Atmos on your device...</span></b>​</div><br>
-<span style="color: #000000">
+<span style="color: #b30059">You may need to activate Dolby Atmos on your device...</span></b><br>
+​</div><span style="color: #000000">
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
 <button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
 <div class="SpoilerTarget bbCodeSpoilerText">Format : MPEG-4<br>
-Format profile : Base Media / Version 2<br>
-Codec ID : mp42 (mp41/isom)<br>
+Format profile : Apple audio with iTunes info<br>
+Codec ID : M4A (M4A /isom/iso2)<br>
 File size : -<br>
 Duration : 1 hour 18 minutes<br>
-Overall bit rate mode : Variable<br>
-Overall bit rate : 1 593 kb/s<br>
-Encoded date : 2024-07-01 14:28:51 UTC<br>
-Tagged date : 2024-07-01 14:28:51 UTC<br>
+Overall bit rate mode : Constant<br>
+Overall bit rate : 514 kb/s<br>
+Album : COWBOY CARTER<br>
+Track name : <br>
+Track name/Position : <br>
+Track name/Total : <br>
+Performer : Beyoncé<br>
+Genre : Country<br>
+Recorded date : 2024<br>
+Encoded date : 2024-07-01 14:26:56 UTC<br>
+Tagged date : 2024-07-01 14:26:56 UTC<br>
+Writing application : Lavf60.23.100<br>
+Copyright : ℗ 2024 Parkwood Entertainment LLC, under exclusive license to Columbia Records, a Division of Sony Music Entertainment<br>
+Comment : True Immersive audio made by not so secret lab and published by narXerino. / / All credits goes to: ℗ 2024 Parkwood Entertainment LLC, under exclusive license to Columbia Records, a Division of Sony Music Entertainment<br>
 <br>
 Audio<br>
-ID : 2<br>
-Format : FLAC<br>
-Format/Info : Free Lossless Audio Codec<br>
-Codec ID : fLaC<br>
+ID : 1<br>
+Format : AAC LC<br>
+Format/Info : Advanced Audio Codec Low Complexity<br>
+Codec ID : mp4a-40-2<br>
 Duration : 1 hour 18 minutes<br>
 Source duration : 1 hour 18 minutes<br>
-Bit rate mode : Variable<br>
-Bit rate : 1 593 kb/s<br>
+Bit rate mode : Constant<br>
+Bit rate : 512 kb/s<br>
 Channel(s) : 6 channels<br>
-Channel layout : L R C LFE Ls Rs<br>
+Channel layout : C L R Ls Rs LFE<br>
 Sampling rate : 44.1 kHz<br>
-Bit depth : 16 bits<br>
-Compression mode : Lossless<br>
+Frame rate : 43.066 FPS (1024 SPF)<br>
+Compression mode : Lossy<br>
 Stream size : -<br>
 Source stream size : -<br>
-Writing library : libFLAC 1.3.0 (2013-05-26)<br>
-Encoded date : 2024-07-01 14:28:51 UTC<br>
-Tagged date : 2024-07-01 14:28:51 UTC<br>
-mdhd_Duration : 258722<br>
-MD5 of the unencoded conten : 8A81E0AB1B2F824A9429EEBFF1A23C37</div>
+Default : Yes<br>
+Alternate group : 1<br>
+Encoded date : 2024-07-01 14:26:56 UTC<br>
+Tagged date : 2024-07-01 14:26:56 UTC<br>
+mdhd_Duration : 101378</div>
 </div></span><br>
 <br>
-<div style="text-align: center"><span style="color: #000000"><b>Download (Google Drive)</b><br>
+<div style="text-align: center"><span style="color: #000000"> <b>Download (Google Drive)</b><br>
 <b>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
@@ -93,19 +77,6 @@ MD5 of the unencoded conten : 8A81E0AB1B2F824A9429EEBFF1A23C37</div>
 </blockquote>
 </article>]]></description>
                 <author><![CDATA[narxerino]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Music Video Artist's Collections】feelslikeimfallinginlove Coldplay Tidal Music Video]]></title>
-                <link><![CDATA[https://sharemania.us/threads/feelslikeimfallinginlove-coldplay-tidal-music-video.248454/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-REQ <a href="https://tidal.com/browse/video/372503562" target="_blank" class="externalLink" rel="nofollow">https://tidal.com/browse/video/372503562</a> please
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[laricoldplay]]></author>
                 </item>
 
                 </channel></rss>
