@@ -8,21 +8,21 @@
 
  
                 <item>
-                <title><![CDATA[【VEVO】WEB-RiP - Natalia Oreiro ft. Rubén Rada - Corazón Valiente [VEVO 1080p_ARM4V1600016]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/natalia-oreiro-ft-rub%C3%A9n-rada-coraz%C3%B3n-valiente-vevo-1080p_arm4v1600016.248548/]]></link>
+                <title><![CDATA[【VEVO】WEB-RiP - Shakira ft. Wyclef Jean - Hips Don't Lie (Live At The Grammys 2007) [VEVO 1080p_USSM20902219]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/shakira-ft-wyclef-jean-hips-dont-lie-live-at-the-grammys-2007-vevo-1080p_ussm20902219.248549/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<img src="https://i.imgur.com/nz8vWMC.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/nz8vWMC.png" style=""> <br>
+<img src="https://i.imgur.com/auIh2nI.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/auIh2nI.png" style=""> <br>
 <br>
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
 <button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Mediainfo</span></span></button>
 <div class="SpoilerTarget bbCodeSpoilerText">General<br>
 ID : 1 (0x1)<br>
 Format : MPEG-TS<br>
-File size : 124 MiB<br>
-Duration : 3 min 30 s<br>
+File size : 150 MiB<br>
+Duration : 3 min 39 s<br>
 Overall bit rate mode : Variable<br>
-Overall bit rate : 4 944 kb/s<br>
+Overall bit rate : 5 715 kb/s<br>
 Video<br>
 ID : 256 (0x100)<br>
 Menu ID : 1 (0x1)<br>
@@ -31,20 +31,20 @@ Format/Info : Advanced Video Codec<br>
 Format profile : Main@L4<br>
 Format settings : CABAC / 4 Ref Frames<br>
 Format settings, CABAC : Yes<br>
-Format settings, Reference frames : 4 frames<br>
+Format settings, Reference fra : 4 frames<br>
 Codec ID : 27<br>
-Duration : 3 min 31 s<br>
-Nominal bit rate : 4 420 kb/s<br>
+Duration : 3 min 39 s<br>
+Nominal bit rate : 5 200 kb/s<br>
 Width : 1 920 pixels<br>
 Height : 1 080 pixels<br>
-Display aspect ratio : 16:9<br>
+Display aspect ratio : 16:10<br>
 Frame rate mode : Variable<br>
 Color space : YUV<br>
 Chroma subsampling : 4:2:0<br>
 Bit depth : 8 bits<br>
 Scan type : Progressive<br>
-Writing library : x264 core 144 r2 40bb568<br>
-Encoding settings : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x1:0x131 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=125 / keyint_min=12 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=abr / mbtree=1 / bitrate=4420 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=5200 / vbv_bufsize=5200 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00<br>
+Writing library : x264 core 142 r2479 dd79a61<br>
+Encoding settings : cabac=1 / ref=4 / deblock=1:0:0 / analyse=0x1:0x111 / me=umh / subme=8 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=12 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=50 / rc=cbr / mbtree=1 / bitrate=5200 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=5200 / vbv_bufsize=5200 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00<br>
 Audio<br>
 ID : 257 (0x101)<br>
 Menu ID : 1 (0x1)<br>
@@ -53,31 +53,29 @@ Format/Info : Advanced Audio Codec Low Complexity<br>
 Format version : Version 4<br>
 Muxing mode : ADTS<br>
 Codec ID : 15-2<br>
-Duration : 3 min 31 s<br>
+Duration : 3 min 39 s<br>
 Bit rate mode : Variable<br>
 Channel(s) : 2 channels<br>
 Channel layout : L R<br>
 Sampling rate : 44.1 kHz<br>
 Frame rate : 43.066 FPS (1024 SPF)<br>
 Compression mode : Lossy<br>
-Delay relative to video : -46 ms<br>
-Language : English<br>
+Delay relative to video : -36 ms<br>
 Menu<br>
 ID : 4096 (0x1000)<br>
 Menu ID : 1 (0x1)<br>
 Format : AVC / AAC<br>
-Duration : 3 min 30 s<br>
-List : 256 (0x100) (AVC) / 257 (0x101) (AAC, English)<br>
-Language : / English<br>
-Service name : ARM4V1600016<br>
+Duration : 3 min 39 s<br>
+List : 256 (0x100) (AVC) / 257 (0x101) (AAC)<br>
+Service name : USSM20902219<br>
 Service provider : FFmpeg<br>
 Service type : digital television</div>
 </div><br>
-<b><span style="font-size: 15px">Download:</span></b><br>
+<b><span style="font-size: 15px">Download:<br>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
-<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div></span></b>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
