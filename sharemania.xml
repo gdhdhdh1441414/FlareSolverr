@@ -8,112 +8,368 @@
 
  
                 <item>
-                <title><![CDATA[【HD Live Performances】FEED - Philadelphia 4th of July Concert (2024) 1080i HDTV Backhaul MPA2.0 H.264-TrollHD]]></title>
-                <link><![CDATA[https://sharemania.us/threads/philadelphia-4th-of-july-concert-2024-1080i-hdtv-backhaul-mpa2-0-h-264-trollhd.249364/]]></link>
+                <title><![CDATA[【Apple Music】WEB-RiP - Blanka - Rodeo (1080p)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/blanka-rodeo-1080p.249369/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<div style="padding-left: 30px"><div style="padding-left: 30px"><div style="padding-left: 30px"><div style="padding-left: 30px"><div style="padding-left: 30px"><b><span style="font-size: 22px"><span style="color: rgb(255, 77, 77)">Philadelphia 4th of July Concert (2024) </span></span></b>​</div><b><span style="font-size: 22px"><span style="color: rgb(255, 77, 77)">1080i HDTV Backhaul MPA2.0 H.264-TrollHD</span></span></b>​</div></div></div></div><br>
-<img src="https://images2.imgbox.com/9a/9c/KFxcBqQj_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/9a/9c/KFxcBqQj_o.jpg" style=""><br>
+<img src="https://i.postimg.cc/FKp6Bn0R/Blanka-Rodeo-mp4.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/FKp6Bn0R/Blanka-Rodeo-mp4.jpg" style=""><br>
 <br>
 <div class="bbCodeBlock bbCodeCode">
 <div class="type">Code:</div>
 <pre>General
-Unique ID                      : 169609115403082705325872555827327362747 (0x7F998704F8431D154FAF6978091F66BB)
-Format                         : Matroska
-Format version                 : Version 4
-File size                      : 11.6 GiB
-Duration                       : 2 h 57 min
-Overall bit rate mode          : Constant
-Overall bit rate               : 9 359 kb/s
-Encoded date                   : UTC 2024-07-05 17:16:07
-Writing application            : mkvmerge v77.0 ('Elemental') 64-bit
-Writing library                : libebml v1.4.4 + libmatroska v1.7.1
+Complete name                  : G:\Новая папка\Blanka - Rodeo.mp4
+Format                         : MPEG-4
+Format profile                 : Base Media
+Codec ID                       : isom (isom/iso2/avc1/mp41)
+File size                      : 189 MiB
+Duration                       : 2 min 38 s
+Overall bit rate               : 10.0 Mb/s
+Frame rate                     : 25.000 FPS
+Movie name                     : Rodeo
+Performer                      : Blanka
+Genre                          : Pop
+ContentType                    : Music Video
+Recorded date                  : 2023-09-22 07:00:00 UTC
+Writing application            : Lavf56.30.100
+Copyright                      : ℗ © 2023 Warner Music Poland
 
 Video
 ID                             : 1
 Format                         : AVC
 Format/Info                    : Advanced Video Codec
 Format profile                 : High@L4
-Format settings                : CABAC / 3 Ref Frames
+Format settings                : CABAC / 5 Ref Frames
 Format settings, CABAC         : Yes
-Format settings, Reference fra : 3 frames
-Format settings, GOP           : M=3, N=15
-Codec ID                       : V_MPEG4/ISO/AVC
-Duration                       : 2 h 57 min
-Bit rate mode                  : Constant
-Bit rate                       : 9 000 kb/s
+Format settings, Reference fra : 5 frames
+Format settings, Slice count   : 8 slices per frame
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 2 min 38 s
+Bit rate                       : 9 759 kb/s
 Width                          : 1 920 pixels
-Height                         : 1 080 pixels
-Display aspect ratio           : 16:9
-Frame rate mode                : Variable
-Frame rate                     : 59.940 (59940/1000) FPS
-Original frame rate            : 29.970 (30000/1001) FPS
+Height                         : 822 pixels
+Display aspect ratio           : 2.35:1
+Frame rate mode                : Constant
+Frame rate                     : 25.000 FPS
 Color space                    : YUV
 Chroma subsampling             : 4:2:0
 Bit depth                      : 8 bits
-Scan type                      : Interlaced
-Scan type, store method        : Separated fields
-Scan order                     : Top Field First
-Bits/(Pixel*Frame)             : 0.072
-Stream size                    : 11.1 GiB (96%)
-Writing library                : x264 core 160 r3000
-Encoding settings              : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=16 / lookahead_threads=4 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=tff / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=0 / keyint=15 / keyint_min=1 / scenecut=0 / intra_refresh=0 / rc_lookahead=15 / rc=abr / mbtree=1 / bitrate=8625 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=9000 / vbv_bufsize=4500 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
-Default                        : Yes
-Forced                         : No
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.247
+Stream size                    : 184 MiB (97%)
 Color range                    : Limited
 Color primaries                : BT.709
 Transfer characteristics       : BT.709
 Matrix coefficients            : BT.709
+Codec configuration box        : avcC
 
 Audio
 ID                             : 2
-Format                         : MPEG Audio
-Format version                 : Version 1
-Format profile                 : Layer 2
-Format settings                : Intensity Stereo + MS Stereo
-Codec ID                       : A_MPEG/L2
-Codec ID/Hint                  : MP2
-Duration                       : 2 h 57 min
+Format                         : AAC LC
+Format/Info                    : Advanced Audio Codec Low Complexity
+Codec ID                       : mp4a-40-2
+Duration                       : 2 min 38 s
+Duration_LastFrame             : -15 ms
 Bit rate mode                  : Constant
-Bit rate                       : 384 kb/s
+Bit rate                       : 265 kb/s
 Channel(s)                     : 2 channels
+Channel layout                 : L R
 Sampling rate                  : 48.0 kHz
-Frame rate                     : 41.666 FPS (1152 SPF)
+Frame rate                     : 46.875 FPS (1024 SPF)
 Compression mode               : Lossy
-Stream size                    : 489 MiB (4%)
-Language                       : English
+Stream size                    : 4.99 MiB (3%)
 Default                        : Yes
-Forced                         : No
-
-Menu
-00:02:32.000                   : en:Adam Blackstone
-00:46:16.000                   : en:Kesha
-01:51:45.000                   : en:Ne-Yo
-02:39:47.000                   : en:Fireworks
+Alternate group                : 1
 
 </pre>
 </div>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 <div class="attribution type">Hidden Content:</div>
 <blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div><br>
-<br>
-<b><span style="color: rgb(255, 77, 77)">Credits goes to <a href="https://sharemania.us/members/1219/" class="username" data-user="1219, @TrollHD">@TrollHD</a> !!!<br>
-<br>
-<img src="styles/default/xenforo/smilies/super_man-48.png" class="mceSmilie" alt=":super:" title="Super Man    :super:"><img src="styles/default/xenforo/smilies/super_man-48.png" class="mceSmilie" alt=":super:" title="Super Man    :super:"><img src="styles/default/xenforo/smilies/super_man-48.png" class="mceSmilie" alt=":super:" title="Super Man    :super:"></span></b>
+</div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[Dream66]]></author>
+                <author><![CDATA[vitalya3]]></author>
                 </item>
 
                 
                 <item>
-                <title><![CDATA[【Apple Music】WEB-RiP - YouNotUs - Samba (feat. Louis III) (1080p)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/younotus-samba-feat-louis-iii-1080p.249363/]]></link>
+                <title><![CDATA[【SD】Charlean Dance - Mr.DJ (2007, DVD-Rip, House)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/charlean-dance-mr-dj-2007-dvd-rip-house.249367/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<b><span style="font-size: 22px"><span style="color: rgb(255, 77, 77)">*Sadly they added tv logo for <span style="text-decoration: underline">Ne-Yo</span> set and after that they just removed for fireworks show <img src="styles/default/xenforo/smilies/exciting-48.png" class="mceSmilie" alt=":D" title="Big Grin    :D"></span></span></b>
+Charlean Dance - Mr.DJ (2007, DVD-Rip, House)<br>
+<br>
+<img src="https://images2.imgbox.com/a4/8d/bE88xEt1_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/a4/8d/bE88xEt1_o.jpg" style=""> <br>
+<br>
+<span data-s9e-mediaembed="youtube" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:56.25%"><iframe allowfullscreen="" loading="lazy" scrolling="no" style="background:url(https://i.ytimg.com/vi/NizhBJUebzw/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%" src="https://www.youtube.com/embed/NizhBJUebzw"></iframe></span></span><br>
+<br>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>Greets, 3rsin.
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[fritching]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Apple Music】WEB-RiP - Blanka - Boys Like Toys (1080p)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/blanka-boys-like-toys-1080p.249368/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<img src="https://i.postimg.cc/6qPJ11JR/Blanka-Boys-Like-Toys-mp4.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/6qPJ11JR/Blanka-Boys-Like-Toys-mp4.jpg" style=""><br>
+<br>
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>General
+Complete name                  : G:\Новая папка\Blanka - Boys Like Toys.mp4
+Format                         : MPEG-4
+Format profile                 : Base Media
+Codec ID                       : isom (isom/iso2/avc1/mp41)
+File size                      : 190 MiB
+Duration                       : 2 min 39 s
+Overall bit rate               : 10 000 kb/s
+Frame rate                     : 25.000 FPS
+Movie name                     : Boys Like Toys
+Performer                      : Blanka
+Genre                          : Pop
+ContentType                    : Music Video
+Recorded date                  : 2023-04-07 07:00:00 UTC
+Writing application            : Lavf56.30.100
+Copyright                      : ℗ © 2023 Warner Music Poland
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4
+Format settings                : CABAC / 4 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 4 frames
+Format settings, Slice count   : 8 slices per frame
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 2 min 39 s
+Bit rate                       : 9 735 kb/s
+Width                          : 1 920 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 25.000 FPS
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.188
+Stream size                    : 185 MiB (97%)
+Color range                    : Limited
+Color primaries                : BT.709
+Transfer characteristics       : BT.709
+Matrix coefficients            : BT.709
+Codec configuration box        : avcC
+
+Audio
+ID                             : 2
+Format                         : AAC LC
+Format/Info                    : Advanced Audio Codec Low Complexity
+Codec ID                       : mp4a-40-2
+Duration                       : 2 min 39 s
+Duration_LastFrame             : -17 ms
+Bit rate mode                  : Constant
+Bit rate                       : 265 kb/s
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 46.875 FPS (1024 SPF)
+Compression mode               : Lossy
+Stream size                    : 4.97 MiB (3%)
+Default                        : Yes
+Alternate group                : 1
+
+</pre>
+</div>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[vitalya3]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Apple Music】WEB-RiP - Mabel - Look At My Body (Pt. II) (1080p)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/mabel-look-at-my-body-pt-ii-1080p.249365/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<img src="https://i.postimg.cc/y86Xrrdk/Mabel-Look-At-My-Body-Pt-II-mp4.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/y86Xrrdk/Mabel-Look-At-My-Body-Pt-II-mp4.jpg" style=""><br>
+<br>
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>General
+Complete name                  : G:\Новая папка\Mabel - Look At My Body (Pt. II).mp4
+Format                         : MPEG-4
+Format profile                 : Base Media
+Codec ID                       : isom (isom/iso2/avc1/mp41)
+File size                      : 204 MiB
+Duration                       : 2 min 48 s
+Overall bit rate               : 10.1 Mb/s
+Frame rate                     : 25.000 FPS
+Movie name                     : Look At My Body (Pt. II)
+Performer                      : Mabel
+Genre                          : R&amp;B/Soul
+ContentType                    : Music Video
+Recorded date                  : 2024-05-10 07:00:00 UTC
+Writing application            : Lavf56.30.100
+Copyright                      : ℗ A Polydor Records Release; © 2024 Mabel McVey, under exclusive licence to Universal Music Operations Limited
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4
+Format settings                : CABAC / 4 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 4 frames
+Format settings, Slice count   : 8 slices per frame
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 2 min 48 s
+Bit rate                       : 9 870 kb/s
+Width                          : 1 800 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 5:3
+Frame rate mode                : Constant
+Frame rate                     : 25.000 FPS
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.203
+Stream size                    : 199 MiB (97%)
+Color range                    : Limited
+Color primaries                : BT.709
+Transfer characteristics       : BT.709
+Matrix coefficients            : BT.709
+Codec configuration box        : avcC
+
+Audio
+ID                             : 2
+Format                         : AAC LC
+Format/Info                    : Advanced Audio Codec Low Complexity
+Codec ID                       : mp4a-40-2
+Duration                       : 2 min 48 s
+Duration_LastFrame             : -9 ms
+Bit rate mode                  : Constant
+Bit rate                       : 251 kb/s
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 46.875 FPS (1024 SPF)
+Compression mode               : Lossy
+Stream size                    : 5.05 MiB (2%)
+Default                        : Yes
+Alternate group                : 1
+
+</pre>
+</div>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+<div class="messageTextEndMarker">&nbsp;</div>
+</blockquote>
+</article>]]></description>
+                <author><![CDATA[vitalya3]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Apple Music】WEB-RiP - Mabel - Vitamins (1080p)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/mabel-vitamins-1080p.249366/]]></link>
+                <description><![CDATA[<article>
+<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+<img src="https://i.postimg.cc/XNdYTjGz/Mabel-Vitamins-mp4.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/XNdYTjGz/Mabel-Vitamins-mp4.jpg" style=""><br>
+<br>
+<div class="bbCodeBlock bbCodeCode">
+<div class="type">Code:</div>
+<pre>General
+Complete name                  : G:\Новая папка\Mabel - Vitamins.mp4
+Format                         : MPEG-4
+Format profile                 : Base Media
+Codec ID                       : isom (isom/iso2/avc1/mp41)
+File size                      : 164 MiB
+Duration                       : 3 min 20 s
+Overall bit rate               : 6 884 kb/s
+Frame rate                     : 24.000 FPS
+Movie name                     : Vitamins
+Performer                      : Mabel
+Genre                          : R&amp;B/Soul
+ContentType                    : Music Video
+Recorded date                  : 2024-06-06 07:00:00 UTC
+Writing application            : Lavf56.30.100
+Copyright                      : ℗ A Polydor Records Release; © 2024 Mabel McVey, under exclusive licence to Universal Music Operations Limited
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4
+Format settings                : CABAC / 5 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 5 frames
+Format settings, Slice count   : 8 slices per frame
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 3 min 19 s
+Bit rate                       : 6 625 kb/s
+Width                          : 1 416 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 4:3
+Frame rate mode                : Constant
+Frame rate                     : 24.000 FPS
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.181
+Stream size                    : 158 MiB (96%)
+Color range                    : Limited
+Color primaries                : BT.709
+Transfer characteristics       : BT.709
+Matrix coefficients            : BT.709
+Codec configuration box        : avcC
+
+Audio
+ID                             : 2
+Format                         : AAC LC
+Format/Info                    : Advanced Audio Codec Low Complexity
+Codec ID                       : mp4a-40-2
+Duration                       : 3 min 20 s
+Duration_LastFrame             : -11 ms
+Bit rate mode                  : Constant
+Bit rate                       : 255 kb/s
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 46.875 FPS (1024 SPF)
+Compression mode               : Lossy
+Stream size                    : 6.08 MiB (4%)
+Default                        : Yes
+Alternate group                : 1
+
+</pre>
+</div>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+<div class="attribution type">Hidden Content:</div>
+<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
