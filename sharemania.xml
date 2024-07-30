@@ -8,123 +8,23 @@
 
  
                 <item>
-                <title><![CDATA[【Albums (lossless)】Dolby Atmos - Matt Darey - Wolf - [MLP Lossless Dolby Atmos 16 ch - 7.1 ch TrueHD core 24bit 48kHz]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/dolby-atmos-matt-darey-wolf-mlp-lossless-dolby-atmos-16-ch-7-1-ch-truehd-core-24bit-48khz.251421/]]></link>
+                <title><![CDATA[【Requests】[REQ AUD] - (Apple Music Lossless) Hawo Beats &amp; YZERR]]></title>
+                <link><![CDATA[https://sharemania.us/threads/apple-music-lossless-hawo-beats-yzerr.251424/]]></link>
                 <description><![CDATA[<article>
 <blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<b>Matt Darey - Wolf - Dolby Atmos with TrueHD 7.1 Core<br>
-Released: </b>2017<br>
-<b>Genre: Electronic </b>- Electronic (Progressive House, Deep House, Tech House, Progressive Trance)<br>
-<b>Format / Quality: m4a</b> / MLP Lossless Dolby Atmos 16 channel with 7.1 channel TrueHD core 24bit 48kHz – 4900 – 6000 kbps<br>
+Hi, I want this albums.<br>
 <br>
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1c/46/65/1c466500-68ee-0a50-d697-f41b89bfe688/8718522370595.png/316x316bb.webp" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1c/46/65/1c466500-68ee-0a50-d697-f41b89bfe688/8718522370595.png/316x316bb.webp" style=""> <br>
+Hawo Beats - Hawo Land 2<br>
+<a href="https://music.apple.com/jp/album/hawo-land-2/1731155533?l=en-US" target="_blank" class="externalLink" rel="nofollow">https://music.apple.com/jp/album/hawo-land-2/1731155533?l=en-US</a><br>
 <br>
-This album was made specifically with dolby atmos in mind rather that after the fact. I came across it while searching out reviews for the best dolby atmos music albums. I think its worth a listen to if you appreciate surround sound music and are interested in the capabilities of dolby atmos for music or even just surround sound in general, regardless of this is your taste in music i think its worth giving a listen. I personally don't have a dolby atmos setup yet but its pretty awesome sounding in truehd 7.1.<br>
+YZERR - Rich or Die 2<br>
+<a href="https://music.apple.com/jp/album/rich-or-die-2/1684777398?l=en-US" target="_blank" class="externalLink" rel="nofollow">https://music.apple.com/jp/album/rich-or-die-2/1684777398?l=en-US</a><br>
 <br>
-I took this from a bluray video and extracted the atmos audio and put it in a m4a container. This plays with foobar (when setup properly, see attached image for playback with FFMPEG decoding the TrueHD 7.1 core). You can also play the ATMOS when bitstreaming through VLC and MPC-HC (tested) and presumably powerdvd among other video players. Apologies if my highlighted instructions on Foobar FFMPEG decoding of atmos is the wrong custom file format. Its one of the ones listed in the picture for sure though. You need to have copy of FFMPEG new enough that it includes dolby atmos decoding and setup foobar to be pointed to its file folder location.<br>
-<br>
-<a href="https://www.mattdarey.com/post/wolfalbum" target="_blank" class="externalLink" rel="nofollow">https://www.mattdarey.com/post/wolfalbum</a><br>
-<br>
-<span data-s9e-mediaembed="youtube" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:56.25%"><iframe allowfullscreen="" loading="lazy" scrolling="no" style="background:url(https://i.ytimg.com/vi/IBG60upim6I/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%" src="https://www.youtube.com/embed/IBG60upim6I"></iframe></span></span><br>
-<br>
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Tracklist - Matt Darey - Wolf - Dolby Atmos with TrueHD 7.1 Core</span></span></button>
-<div class="SpoilerTarget bbCodeSpoilerText">1 Wolf 0:07:00<br>
-2 Ashamed 0:06:34<br>
-3 Step Outside Part 1 0:05:10<br>
-4 The Beast 0:08:46<br>
-5 I Cant Help Myself 0:06:18<br>
-6 Promises 0:08:43<br>
-7 New Horizon 0:07:35<br>
-8 No Words 0:05:46<br>
-9 Should Have Known 0:06:19<br>
-10 There Is a Place (Argentinox remix) 0:06:16</div>
-</div><br>
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Mediainfo - Matt Darey - Wolf - Dolby Atmos with TrueHD 7.1 Core</span></span></button>
-<div class="SpoilerTarget bbCodeSpoilerText">General<br>
-Complete name : F:\BLURAY MUSIC\Matt Darey Wolf Dolby Atmos\01. Wolf.m4a<br>
-Format : MPEG-4<br>
-Format profile : Base Media<br>
-Codec ID : isom (isom/dby1/iso2/mp41)<br>
-File size : 270 MiB<br>
-Duration : 6 min 54 s<br>
-Overall bit rate mode : Variable<br>
-Overall bit rate : 5 468 kb/s<br>
-Album : Wolf<br>
-Track name : Wolf<br>
-Track name/Position : 1<br>
-Performer : Matt Darey<br>
-Writing application : Lavf61.1.100<br>
-Audio<br>
-ID : 1<br>
-Format : MLP FBA 16-ch<br>
-Format/Info : Meridian Lossless Packing FBA with 16-channel presentation<br>
-Commercial name : Dolby TrueHD with Dolby Atmos<br>
-Codec ID : mlpa<br>
-Duration : 6 min 54 s<br>
-Bit rate mode : Variable<br>
-Bit rate : 5 429 kb/s<br>
-Maximum bit rate : 6 912 kb/s<br>
-Channel(s) : 8 channels<br>
-Channel layout : L R C LFE Ls Rs Lb Rb<br>
-Sampling rate : 48.0 kHz<br>
-Frame rate : 1 200.000 FPS (40 SPF)<br>
-Compression mode : Lossless<br>
-Stream size : 268 MiB (99%)<br>
-Language : English<br>
-Default : Yes<br>
-Alternate group : 1<br>
-Number of dynamic objects : 15<br>
-Bed channel count : 1 channel<br>
-Bed channel configuration : LFE</div>
-</div><br>
-Matt Darey - Wolf - Dolby Atmos with TrueHD 7.1 core<br>
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div><img src="https://i.imgur.com/l8bbdim.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/l8bbdim.png" style="">
+Thanks.
 <div class="messageTextEndMarker">&nbsp;</div>
 </blockquote>
 </article>]]></description>
-                <author><![CDATA[schism]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Requests】[REQ VID] - Movie Request - The Quiet Girl / An Cailín Ciúin (4K)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/movie-request-the-quiet-girl-an-cail%C3%ADn-ci%C3%BAin-4k.251422/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-The 1080p streaming / BluRay version and a fake upscaled Web 4K version of this film are available, however, I couldn't seem to find a native 4K one which was released on both Apple TV and Amazon Prime. If anyone can help find or rip it I would be so grateful!<br>
-<br>
-<a href="https://tv.apple.com/au/movie/the-quiet-girl/umc.cmc.4trsint6sb5khg55tt0hl0mhy" target="_blank" class="externalLink" rel="nofollow">https://tv.apple.com/au/movie/the-quiet-girl/umc.cmc.4trsint6sb5khg55tt0hl0mhy</a><br>
-<a href="https://www.primevideo.com/detail/The-Quiet-Girl/0S8H7FNROHSW8EUA23CQXYUPFI" target="_blank" class="externalLink" rel="nofollow">https://www.primevideo.com/detail/The-Quiet-Girl/0S8H7FNROHSW8EUA23CQXYUPFI</a>
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[AwesomeMe]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【HD Live Performances】WEB-RiP - Billie Eilish - Songline [1080p] (Amazon Music)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/billie-eilish-songline-1080p-amazon-music.251423/]]></link>
-                <description><![CDATA[<article>
-<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-<span style="font-size: 22px">Source : </span><a href="https://music.amazon.com/videos/B0DB5M8BWR?marketplaceId=ATVPDKIKX0DER&amp;musicTerritory=US&amp;ref=dm_sh_WLkKl5WfyRtMuQ34DpBCyR6nJ" target="_blank" class="externalLink" rel="nofollow"><span style="font-size: 22px">Amazon Music</span></a><br>
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-<div class="attribution type">Hidden Content:</div>
-<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
-<div class="messageTextEndMarker">&nbsp;</div>
-</blockquote>
-</article>]]></description>
-                <author><![CDATA[jerksjsekzkw.]]></author>
+                <author><![CDATA[MAGMA BOY]]></author>
                 </item>
 
                 </channel></rss>
