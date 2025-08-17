@@ -37,8 +37,7 @@ jobs:
         run: sudo apt-get install xvfb
       - name: Running the Python script
         run: |
-          sudo git clone https://github.com/FlareSolverr/FlareSolverr && cd FlareSolverr && sudo pip install -r requirements.txt && sudo python src/flaresolverr.py & 
-          sleep 30 &&   sudo python Selenium-Template.py 
+          sudo git clone https://github.com/FlareSolverr/FlareSolverr && cd FlareSolverr && sudo pip install -r requirements.txt && sudo python src/flaresolverr.py & sleep 30 && sudo python Selenium-Template.py 
           #sudo git clone https://github.com/FlareSolverr/FlareSolverr && cd FlareSolverr && sudo pip install -r requirements.txt && sudo python src/flaresolverr.py & sudo python Selenium-Template.py
         
 
