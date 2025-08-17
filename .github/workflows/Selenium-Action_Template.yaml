@@ -38,7 +38,7 @@ jobs:
       - name: Running the Python script
         run: |
           sudo git clone https://github.com/FlareSolverr/FlareSolverr && cd FlareSolverr && sudo pip install -r requirements.txt && sudo python src/flaresolverr.py & 
-          sleep 30 && sudo python FlareSolverr.py https://supjav.com/ja/category/amateur > sharemania...html
+          sleep 30 && sudo python FlareSolverr.py https://sharemania.us > sharemania...html
           #sudo python Selenium-Template.py 
           #sudo git clone https://github.com/FlareSolverr/FlareSolverr && cd FlareSolverr && sudo pip install -r requirements.txt && sudo python src/flaresolverr.py & sudo python Selenium-Template.py
         
