@@ -16,12 +16,14 @@ curl_cmd = "curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' 
 #result = subprocess.check_output(curl_cmd, shell=True)
 file_path = "sharemania...html"  # 替换为实际路径
 with open(file_path, "r", encoding="utf-8") as f:
-    result = f.read()
+    response = f.read()
 
 # 解析 JSON 数据
-data = json.loads(result.decode('utf-8'))
-response = data.get("solution", {}).get("response")
-#print(response)  # 输出 response 数据
+#data = json.loads(result.decode('utf-8'))
+#response = data.get("solution", {}).get("response")
+
+
+
 
 pattern = r'href\=\"(threads\/.+?)\"\>'
 links = re.findall(pattern, response)
