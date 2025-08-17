@@ -37,12 +37,6 @@ jobs:
         run: sudo apt-get install xvfb
       - name: Running the Python script
         run: |
-          curl -L https://github.com/362227/Python-Selenium-Action/raw/main/gost > gost && sudo chmod 755 ./gost && ./gost -L=:1087 ${{ secrets.GOST_GITHUB_GOST }} &
-          sleep 5 && echo 代理ip：&& curl --proxy 127.0.0.1:1087 ifconfig.me
-          sudo chmod +x bin/v2ray
-          curl -L ${{ secrets.KY_GITHUB_URL }} > bin/ky-github.json && bin/v2ray -config bin/ky-github.json & curl -x 127.0.0.1:1085 -L https://example.com &
-          sleep 34
-
           sudo git clone https://github.com/FlareSolverr/FlareSolverr && cd FlareSolverr && sudo pip install -r requirements.txt && sudo python src/flaresolverr.py & 
           sleep 30 && sudo python Selenium-Template.py
           #sudo git clone https://github.com/FlareSolverr/FlareSolverr && cd FlareSolverr && sudo pip install -r requirements.txt && sudo python src/flaresolverr.py & sudo python Selenium-Template.py
