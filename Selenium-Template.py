@@ -28,11 +28,17 @@ result = subprocess.check_output(curl_cmd, shell=True)
 try:
     # 尝试解析 JSON
     data = json.loads(result.decode('utf-8'))
-    response = data.get("solution", {}).get("response", "000000")  # 默认值
+    response = data.get("solution", {}).get("response", "破盾失败")  # 默认值
+    with open("sharemania.html", "w", encoding="utf-8") as file:
+     response = "some content"
+     file.write(f"{response}")
 except (json.JSONDecodeError, AttributeError, UnicodeDecodeError) as e:
     # 如果解析失败（无效 JSON、非字节数据、解码错误等）
     print(f"解析 JSON 失败: {e}")
-    response = "000000"  # 强制设为默认值
+    response = "破盾失败"  # 强制设为默认值
+    with open("sharemania.html", "w", encoding="utf-8") as file:
+     response = "some content"
+     file.write(f"{response}")
 
 
 
