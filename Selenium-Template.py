@@ -93,7 +93,7 @@ with open('./sharemania.html', 'w', encoding='utf-8') as f:
 
 regex_link = r'link rel\=\"canonical\" href="(.+?)\"'
 regex_tit = r'\<title\>(.+?) \| ShareMania\.US'
-regex_con = r'[\s\S]*?(<article>[\s\S]*?<\/article>)[\s\S]*'
+regex_con = r'[\s\S]*?(\<article\>[\s\S]*?\<\/article\>)[\s\S]*'
 regex_prefix = r'Discussion in.+?\>(.+?)\<\/a\>'
 regex_author = r'started by.+?\>(.+?)\<\/a\>'
 
@@ -127,7 +127,7 @@ if re.findall(regex_link, html) and re.findall(regex_tit, html):
         prefix = re.sub(r'\Discussion in.+?\>(.+?)\<\/a\>', r'\1', prefixs[i])
         title = re.sub(r'\<title\>(.+?) \| ShareMania\.US', r'\1', titles[i])
         author = re.sub(r'started by.+?\>(.+?)\<\/a\>', r'\1', authors[i])
-        article = re.sub(r'[\s\S]*?(<article>[\s\S]*?<\/article>)[\s\S]*', '\1', articles[i], flags=re.DOTALL)
+        article = re.sub(r'[\s\S]*?(\<article\>[\s\S]*?\<\/article\>)[\s\S]*', '\1', articles[i], flags=re.DOTALL)
         
 
 
