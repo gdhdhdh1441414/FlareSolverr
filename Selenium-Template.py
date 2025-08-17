@@ -6,6 +6,10 @@ import json
 import subprocess
 from datetime import datetime
 
+now = datetime.now()
+date = now.strftime("%m-%d")
+hour = now.strftime("%H")
+
 #subprocess.Popen(['sudo', 'python', 'src/flaresolverr.py'])
 
 # 睡眠 20 秒以确保 flaresolverr.py 已经启动
@@ -20,9 +24,15 @@ curl_cmd = "curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' 
 result = subprocess.check_output(curl_cmd, shell=True)
 
 
-# 解析 JSON 数据
-data = json.loads(result.decode('utf-8'))
-response = data.get("solution", {}).get("response")
+# 假设 result 是字节数据（如从网络请求获取的响应）
+try:
+    # 尝试解析 JSON
+    data = json.loads(result.decode('utf-8'))
+    response = data.get("solution", {}).get("response", "000000")  # 默认值
+except (json.JSONDecodeError, AttributeError, UnicodeDecodeError) as e:
+    # 如果解析失败（无效 JSON、非字节数据、解码错误等）
+    print(f"解析 JSON 失败: {e}")
+    response = "000000"  # 强制设为默认值
 
 
 
@@ -75,9 +85,7 @@ with open('./sharemania.html', 'w', encoding='utf-8') as f:
     
     
 
-now = datetime.now()
-date = now.strftime("%m-%d")
-hour = now.strftime("%H")
+
 
 regex_link = r'link rel\=\"canonical\" href="(.+?)\"'
 regex_tit = r'\<title\>(.+?) \| ShareMania\.US'
