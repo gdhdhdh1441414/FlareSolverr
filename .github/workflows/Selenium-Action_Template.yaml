@@ -31,7 +31,7 @@ jobs:
        # Need to fetch reqs if needed
       - name: Installing all necessary packages
         #run: pip install chromedriver-autoinstaller selenium pyvirtualdisplay
-        run: pip install selenium pyvirtualdisplay && sudo ln -s /opt/hostedtoolcache/setup-chrome/chromium/126.0.6478.182/x64/chrome /usr/bin/chrome && ls /opt/hostedtoolcache/setup-chrome/chromium/ > 目前安装的chrome版本目录.txt
+        run: pip install selenium pyvirtualdisplay && sudo ln -s /opt/hostedtoolcache/setup-chrome/chromium/126.0.6478.182/x64/chrome /usr/bin/chrome ; ls /opt/hostedtoolcache/setup-chrome/chromium/ > 目前安装的chrome版本目录.txt
         
       - name: Install xvfb
         run: sudo apt-get install xvfb
