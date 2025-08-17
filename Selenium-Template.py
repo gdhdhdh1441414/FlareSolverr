@@ -12,15 +12,15 @@ from datetime import datetime
 time.sleep(36)
 
 # 使用 subprocess 模块调用 curl 命令，并捕获命令输出结果
-#curl_cmd = "curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"https://sharemania.us/\",\"maxTimeout\": 20000}'"
-#result = subprocess.check_output(curl_cmd, shell=True)
-file_path = "sharemania...html"  # 替换为实际路径
-with open(file_path, "r", encoding="utf-8") as f:
-    response = f.read()
+curl_cmd = "curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"https://sharemania.us/\",\"maxTimeout\": 20000}'"
+
+
+result = subprocess.check_output(curl_cmd, shell=True)
+
 
 # 解析 JSON 数据
-#data = json.loads(result.decode('utf-8'))
-#response = data.get("solution", {}).get("response")
+data = json.loads(result.decode('utf-8'))
+response = data.get("solution", {}).get("response")
 
 
 
