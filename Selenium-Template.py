@@ -52,7 +52,7 @@ for link in new_links:
             url = "https://sharemania.us/" + link
             print(url)
             os.system("pkill chrome;pkill chromedriver")
-            curl_cmd = "curl -s 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"" + url + "\",\"maxTimeout\": 20000}'"
+            curl_cmd = "curl -s 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"" + url + "\",\"maxTimeout\": 60000}'"
             result = subprocess.check_output(curl_cmd, shell=True)
             data = json.loads(result.decode('utf-8'))
             response = data.get("solution", {}).get("response")
