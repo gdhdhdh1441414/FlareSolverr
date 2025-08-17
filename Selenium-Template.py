@@ -144,5 +144,5 @@ if re.findall(regex_link, html) and re.findall(regex_tit, html):
        f.write(rss_feed)
 else:
     url = "https://sharemania.us/"
-    rss = f'{header}\n\t<item>\n\t\t<title>出错，请检查 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t</item>\n{footer}'
+    rss = f'{header}\n\t<item>\n\t\t<title>出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t</item>\n{footer}'
     print(rss)
