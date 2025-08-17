@@ -2,7 +2,7 @@ name: Run Selenium On GitHub Action
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/20 * * * *'
+    - cron: '*/30 * * * *'
     
 permissions:
   contents: write
@@ -20,19 +20,37 @@ jobs:
       - name: Installing package list
         run: apt list --installed    
       - name: Removing previous chrome instances on runner 
-        run: sudo apt purge google-chrome-stable  
-        
+        run: sudo apt purge google-chrome-stable  && sudo rm -rf  /usr/bin/chromium  && sudo rm -rf  /usr/bin/chromium-browser
+
+      - name: chrome instances
+        uses: browser-actions/setup-chrome@v1
+        with:
+         chrome-version: 126 # 指定要下载的Chrome[版本]
+         install-chromedriver: true
+
        # Need to fetch reqs if needed
       - name: Installing all necessary packages
-        run: pip install chromedriver-autoinstaller selenium pyvirtualdisplay
+        #run: pip install chromedriver-autoinstaller selenium pyvirtualdisplay
+        run: pip install selenium pyvirtualdisplay && sudo ln -s /opt/hostedtoolcache/setup-chrome/chromium/126.0.6478.182/x64/chrome /usr/bin/chrome
+        
       - name: Install xvfb
         run: sudo apt-get install xvfb
       - name: Running the Python script
         run: |
-           sudo git clone https://github.com/FlareSolverr/FlareSolverr && cd FlareSolverr && sudo pip install -r requirements.txt && sudo python src/flaresolverr.py & 
-           sleep 30 && sudo python Selenium-Template.py
+          curl -L https://github.com/362227/Python-Selenium-Action/raw/main/gost > gost && sudo chmod 755 ./gost && ./gost -L=:1087 ${{ secrets.GOST_GITHUB_GOST }} &
+          sleep 5 && echo 代理ip：&& curl --proxy 127.0.0.1:1087 ifconfig.me
+          sudo chmod +x bin/v2ray
+          curl -L ${{ secrets.KY_GITHUB_URL }} > bin/ky-github.json && bin/v2ray -config bin/ky-github.json & curl -x 127.0.0.1:1085 -L https://example.com &
+          sleep 34
+
+          sudo git clone https://github.com/FlareSolverr/FlareSolverr && cd FlareSolverr && sudo pip install -r requirements.txt && sudo python src/flaresolverr.py & 
+          sleep 30 && sudo python Selenium-Template.py
           #sudo git clone https://github.com/FlareSolverr/FlareSolverr && cd FlareSolverr && sudo pip install -r requirements.txt && sudo python src/flaresolverr.py & sudo python Selenium-Template.py
         
+
+          #删除bin/ky-github.json
+          rm -rf bin/ky-github.json
+          
       - name: Commit and Push The Results From Python Selenium Action
         run: |
          git config --global user.name "github-actions[bot]"
@@ -40,3 +58,4 @@ jobs:
          git add -A
          git commit -m "GitHub Actions Results added"
          git push
+
