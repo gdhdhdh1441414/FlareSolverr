@@ -25,7 +25,7 @@ jobs:
       - name: chrome instances
         uses: browser-actions/setup-chrome@v1
         with:
-         chrome-version: latest  # 指定要下载的Chrome[版本] 比如 138、136、128、latest
+         chrome-version: 138  # 指定要下载的Chrome[版本] 比如 138、136、128、latest
          install-chromedriver: true
 
        # Need to fetch reqs if needed
