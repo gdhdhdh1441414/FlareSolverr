@@ -30,7 +30,7 @@ jobs:
            sudo rm -rf google-chrome-stable_current_amd64.deb
            google-chrome --version
            /usr/bin/google-chrome --version
-           sudo chmod +x bin/v2ray
+
         
       - name: Running the Python script
         run: |
