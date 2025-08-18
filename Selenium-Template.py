@@ -45,7 +45,7 @@ if response is None:
     print(rss)
     with open('./sharemania.xml', 'w', encoding='utf-8') as f:
        f.write(rss)
-       sys.exit(0)
+    sys.exit(0)
 
 pattern = r'href\=\"(threads\/.+?)\"\>'
 links = re.findall(pattern, response)
