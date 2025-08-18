@@ -40,7 +40,12 @@ except (json.JSONDecodeError, AttributeError, UnicodeDecodeError) as e:
      file.write(f"{response}")
 
 
-
+if response is None:
+    rss = f'{header}\n\t<item>\n\t\t<title>抓取首页出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t</item>\n{footer}'
+    print(rss)
+    with open('./sharemania.xml', 'w', encoding='utf-8') as f:
+       f.write(rss)
+       sys.exit(0)
 
 pattern = r'href\=\"(threads\/.+?)\"\>'
 links = re.findall(pattern, response)
