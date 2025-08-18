@@ -52,7 +52,8 @@ with open('links.txt', 'r') as f:
 # Find the new links
 new_links = set(links) - saved_links
 if not new_links:  # or len(new_links) == 0
-    sys.exit("无新链接")
+    print("无新链接") 
+    sys.exit(0)  # 0 表示成功退出，GitHub Actions 不会报错
 
 if len(links) != 0 and len(links) >= 5:
     with open('links.txt', 'w') as f:
