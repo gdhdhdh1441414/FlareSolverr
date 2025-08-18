@@ -17,30 +17,13 @@ hour = now.strftime("%H")
 time.sleep(36)
 
 # 使用 subprocess 模块调用 curl 命令，并捕获命令输出结果
-curl_cmd = "curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"https://sharemania.us/\",\"maxTimeout\": 60000}'"
+curl_cmd = "curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"https://sharemania.us/\",\"maxTimeout\": 60000}' | tee FlareSolverr.log"
 
-max_retries = 4
-retry_count = 0
-success = False
 
-while retry_count < max_retries and not success:
-    try:
-        result = subprocess.check_output(curl_cmd, shell=True, text=True)
-        if "Challenge solved!" in result:
-            success = True
-            print("Success! Challenge solved!")
-            print(result)
-        else:
-            retry_count += 1
-            print(f"Attempt {retry_count}: Challenge not solved, retrying...")
-    except subprocess.CalledProcessError as e:
-        retry_count += 1
-        print(f"Attempt {retry_count}: Error occurred - {e.output}")
-        rss = f'{header}\n\t<item>\n\t\t<title>抓取首页出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t</item>\n{footer}'
-        print(rss)
-        with open('./sharemania.xml', 'w', encoding='utf-8') as f:
-         f.write(rss)
-         sys.exit(0)
+
+
+result = subprocess.check_output(curl_cmd, shell=True)
+
 
 # 假设 result 是字节数据（如从网络请求获取的响应）
 try:
