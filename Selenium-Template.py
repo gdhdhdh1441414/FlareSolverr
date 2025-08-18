@@ -50,7 +50,8 @@ with open('links.txt', 'r') as f:
 
 # Find the new links
 new_links = set(links) - saved_links
-
+if not new_links:  # or len(new_links) == 0
+    sys.exit("无新链接")
 
 if len(links) != 0 and len(links) >= 5:
     with open('links.txt', 'w') as f:
@@ -148,5 +149,7 @@ if re.findall(regex_link, html) and re.findall(regex_tit, html):
        f.write(rss_feed)
 else:
     url = "https://sharemania.us/"
-    rss = f'{header}\n\t<item>\n\t\t<title>出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t</item>\n{footer}'
+    rss = f'{header}\n\t<item>\n\t\t<title>出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t</item>\n{footer}'
     print(rss)
+    with open('./sharemania.xml', 'w', encoding='utf-8') as f:
+       f.write(rss)
