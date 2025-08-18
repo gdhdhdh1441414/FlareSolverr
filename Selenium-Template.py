@@ -133,7 +133,10 @@ if re.findall(regex_link, html) and re.findall(regex_tit, html):
         article = re.sub(r'meta name\=\"description\"[\s\S]*?(\<article\>[\s\S]*?\<\/article\>)', r'\1', articles[i])
         
 
-
+        if not author or len(author) > 30 or len(author) < 1:
+            print("抓取全文出错，强制退出")
+            sys.exit(0)
+            
         rss += f'''
                 <item>
                 <title><![CDATA[【{prefix}】{title}]]></title>
