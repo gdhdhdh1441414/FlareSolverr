@@ -36,6 +36,11 @@ while retry_count < max_retries and not success:
     except subprocess.CalledProcessError as e:
         retry_count += 1
         print(f"Attempt {retry_count}: Error occurred - {e.output}")
+        rss = f'{header}\n\t<item>\n\t\t<title>抓取首页出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t</item>\n{footer}'
+        print(rss)
+        with open('./sharemania.xml', 'w', encoding='utf-8') as f:
+         f.write(rss)
+         sys.exit(0)
 
 # 假设 result 是字节数据（如从网络请求获取的响应）
 try:
