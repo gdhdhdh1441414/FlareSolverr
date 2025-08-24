@@ -8,421 +8,74 @@
 
  
                 <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Bruno Mars &amp; Camila Cabello - Turn It Up FLAC]]></title>
-                <link><![CDATA[https://sharemania.us/threads/bruno-mars-camila-cabello-turn-it-up-flac.282371/]]></link>
+                <title><![CDATA[【UPSCALED】Madonna - Bedtime Story (Starlight AI) ~60fps]]></title>
+                <link><![CDATA[https://sharemania.us/threads/madonna-bedtime-story-starlight-ai-60fps.282372/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					Anyone?
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[freefresh]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【HD Live Performances】HDTV - Lady Gaga - The Edge Of Glory &amp; Judas // Born This Way (Live Saturday Night Live 2011) [HDTV 1080p].TS]]></title>
-                <link><![CDATA[https://sharemania.us/threads/lady-gaga-the-edge-of-glory-judas-born-this-way-live-saturday-night-live-2011-hdtv-1080p-ts.282370/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<b>Lady Gaga - The Edge of Glory &amp; Judas // Born This Way (Live Saturday Night Live 2011) [1080p HDTV]</b><br>
-<br>
-<br>
-Format                                   : MPEG-TS<br>
-File size                                : 550 MiB<br>
-Duration                                 : 4 min 42s<br>
-Overall bit rate mode                    : Variável<br>
-Overall bit rate                         : 16.3 Mb/s<br>
-Frame rate                               : 29.970 FPS<br>
-Title                                    : Saturday Night Live<br>
-Law rating                               : TV-14<br>
-<br>
-Vídeo<br>
-ID                                       : 33 (0x21)<br>
-Menu ID                                  : 1 (0x1)<br>
-Format                                   : MPEG Video<br>
-Format version                           : Version 2<br>
-Format profile                           : Main@High<br>
-Format settings                          : CustomMatrix / BVOP<br>
-Format settings, BVOP                    : Sim<br>
-Format settings, Matrix                  : Personalizada<br>
-Format settings, GOP                     : Variable<br>
-Format settings, picture structure       : Frame<br>
-Codec ID                                 : 2<br>
-Duration                                 : 4 min 42s<br>
-Bit rate mode                            : Variável<br>
-Bit rate                                 : 15.1 Mb/s<br>
-Maximum bit rate                         : 38.7 Mb/s<br>
+					<span style="font-family: 'Courier New'"><span style="font-size: 12px">Video<br>
+ID                                       : 1<br>
+Format                                   : AVC<br>
+Format/Info                              : Advanced Video Codec<br>
+Format profile                           : Main@L4.2<br>
+Format settings                          : CABAC / 1 Ref Frames<br>
+Format settings, CABAC                   : Yes<br>
+Format settings, Reference frames        : 1 frame<br>
+Format settings, GOP                     : M=1, N=30<br>
+Muxing mode                              : Container profile=Baseline@3.0<br>
+Codec ID                                 : V_MPEG4/ISO/AVC<br>
+Duration                                 : 4 min 25 s<br>
+Bit rate                                 : 8 875 kb/s<br>
 Width                                    : 1 920 pixels<br>
 Height                                   : 1 080 pixels<br>
 Display aspect ratio                     : 16:9<br>
-Frame rate                               : 29.970 (30000/1001) FPS<br>
+Frame rate mode                          : Constant<br>
+Frame rate                               : 60.000 FPS<br>
+Standard                                 : Component<br>
 Color space                              : YUV<br>
 Chroma subsampling                       : 4:2:0<br>
 Bit depth                                : 8 bits<br>
-Scan type                                : Entrelaçado<br>
-Scan order                               : Primeiro a área superior<br>
+Scan type                                : Progressive<br>
+Bits/(Pixel*Frame)                       : 0.071<br>
+Stream size                              : 281 MiB (98%)<br>
+Default                                  : Yes<br>
+Forced                                   : No<br>
+Color range                              : Limited<br>
+Color primaries                          : BT.709<br>
+Transfer characteristics                 : BT.709<br>
+Matrix coefficients                      : BT.709<br>
+<br>
+Audio<br>
+ID                                       : 2<br>
+Format                                   : AAC LC<br>
+Format/Info                              : Advanced Audio Codec Low Complexity<br>
+Codec ID                                 : A_AAC-2<br>
+Duration                                 : 4 min 24 s<br>
+Bit rate                                 : 192 kb/s<br>
+Channel(s)                               : 2 channels<br>
+Channel layout                           : L R<br>
+Sampling rate                            : 44.1 kHz<br>
+Frame rate                               : 43.066 FPS (1024 SPF)<br>
 Compression mode                         : Lossy<br>
-Bits/(Pixel*Frame)                       : 0.243<br>
-Time code of first frame                 : 00:00:00;00<br>
-Time code source                         : Group of pictures header<br>
-Stream size                              : 509 MiB (93%)<br>
+Stream size                              : 6.06 MiB (2%)<br>
+Default                                  : Yes<br>
+Forced                                   : No</span></span><br>
 <br>
-Áudio<br>
-ID                                       : 36 (0x24)<br>
-Menu ID                                  : 1 (0x1)<br>
-Format                                   : AC-3<br>
-Format/Info                              : Audio Coding 3<br>
-Commercial name                          : Dolby Digital<br>
-Codec ID                                 : 129<br>
-Duration                                 : 4 min 42s<br>
-Bit rate mode                            : Constante<br>
-Bit rate                                 : 384 kb/s<br>
-Channel(s)                               : 6 canais<br>
-Channel layout                           : L R C LFE Ls Rs<br>
-Sampling rate                            : 48.0 kHz<br>
-Frame rate                               : 31.250 FPS (1536 SPF)<br>
-Compression mode                         : Lossy<br>
-Stream size                              : 12.9 MiB (2%)<br>
-Language                                 : Inglês<br>
-Service kind                             : Complete Main<br>
-Dialog Normalization                     : -24 dB<br>
-compr                                    : -0.56 dB<br>
-dynrng                                   : -0.42 dB<br>
-cmixlev                                  : -3.0 dB<br>
-surmixlev                                : -3 dB<br>
-dialnorm_Average                         : -24 dB<br>
-dialnorm_Minimum                         : -24 dB<br>
-dialnorm_Maximum                         : -24 dB<br>
+<img src="https://i.imgur.com/IkpOawA.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/IkpOawA.png" style=""><br>
 <br>
-Texto #1<br>
-ID                                       : 33 (0x21)-CC1<br>
-Menu ID                                  : 1 (0x1)<br>
-Format                                   : EIA-608<br>
-Muxing mode                              : A/53 / DTVCC Transport<br>
-Muxing mode, more info                   : Muxed in Video #1<br>
-Duration                                 : 4 min 42s<br>
-Duration of the visible content          : 4 min 26s<br>
-Start time                               : 12s 227 ms<br>
-End time                                 : 4 min 38s<br>
-Bit rate mode                            : Constante<br>
-Stream size                              : 0.00 Byte (0%)<br>
-Count of frames before first event       : 378<br>
-Type of the first event                  : RollUp<br>
-<br>
-Texto #2<br>
-ID                                       : 33 (0x21)-CC3<br>
-Menu ID                                  : 1 (0x1)<br>
-Format                                   : EIA-608<br>
-Muxing mode                              : A/53 / DTVCC Transport<br>
-Muxing mode, more info                   : Muxed in Video #1<br>
-Duration                                 : 4 min 42s<br>
-Bit rate mode                            : Constante<br>
-Stream size                              : 0.00 Byte (0%)<br>
-<br>
-<br>
-<br>
-<br>
-Format                                   : MPEG-TS<br>
-File size                                : 557 MiB<br>
-Duration                                 : 4 min 43s<br>
-Overall bit rate mode                    : Variável<br>
-Overall bit rate                         : 16.5 Mb/s<br>
-Frame rate                               : 29.970 FPS<br>
-Title                                    : Saturday Night Live<br>
-Law rating                               : TV-14<br>
-<br>
-Vídeo<br>
-ID                                       : 33 (0x21)<br>
-Menu ID                                  : 1 (0x1)<br>
-Format                                   : MPEG Video<br>
-Format version                           : Version 2<br>
-Format profile                           : Main@High<br>
-Format settings                          : CustomMatrix / BVOP<br>
-Format settings, BVOP                    : Sim<br>
-Format settings, Matrix                  : Personalizada<br>
-Format settings, GOP                     : Variable<br>
-Format settings, picture structure       : Frame<br>
-Codec ID                                 : 2<br>
-Duration                                 : 4 min 43s<br>
-Bit rate mode                            : Variável<br>
-Bit rate                                 : 15.3 Mb/s<br>
-Maximum bit rate                         : 38.7 Mb/s<br>
-Width                                    : 1 920 pixels<br>
-Height                                   : 1 080 pixels<br>
-Display aspect ratio                     : 16:9<br>
-Frame rate                               : 29.970 (30000/1001) FPS<br>
-Color space                              : YUV<br>
-Chroma subsampling                       : 4:2:0<br>
-Bit depth                                : 8 bits<br>
-Scan type                                : Entrelaçado<br>
-Scan order                               : Primeiro a área superior<br>
-Compression mode                         : Lossy<br>
-Bits/(Pixel*Frame)                       : 0.246<br>
-Time code of first frame                 : 00:00:00;00<br>
-Time code source                         : Group of pictures header<br>
-Stream size                              : 516 MiB (93%)<br>
-<br>
-Áudio<br>
-ID                                       : 36 (0x24)<br>
-Menu ID                                  : 1 (0x1)<br>
-Format                                   : AC-3<br>
-Format/Info                              : Audio Coding 3<br>
-Commercial name                          : Dolby Digital<br>
-Codec ID                                 : 129<br>
-Duration                                 : 4 min 43s<br>
-Bit rate mode                            : Constante<br>
-Bit rate                                 : 384 kb/s<br>
-Channel(s)                               : 6 canais<br>
-Channel layout                           : L R C LFE Ls Rs<br>
-Sampling rate                            : 48.0 kHz<br>
-Frame rate                               : 31.250 FPS (1536 SPF)<br>
-Compression mode                         : Lossy<br>
-Stream size                              : 13.0 MiB (2%)<br>
-Language                                 : Inglês<br>
-Service kind                             : Complete Main<br>
-Dialog Normalization                     : -24 dB<br>
-compr                                    : -0.28 dB<br>
-dynrng                                   : -0.42 dB<br>
-cmixlev                                  : -3.0 dB<br>
-surmixlev                                : -3 dB<br>
-dialnorm_Average                         : -24 dB<br>
-dialnorm_Minimum                         : -24 dB<br>
-dialnorm_Maximum                         : -24 dB<br>
-<br>
-Texto #1<br>
-ID                                       : 33 (0x21)-CC1<br>
-Menu ID                                  : 1 (0x1)<br>
-Format                                   : EIA-608<br>
-Muxing mode                              : A/53 / DTVCC Transport<br>
-Muxing mode, more info                   : Muxed in Video #1<br>
-Duration                                 : 4 min 43s<br>
-Duration of the visible content          : 4 min 19s<br>
-Start time                               : 9s 958 ms<br>
-End time                                 : 4 min 29s<br>
-Bit rate mode                            : Constante<br>
-Stream size                              : 0.00 Byte (0%)<br>
-Count of frames before first event       : 307<br>
-Type of the first event                  : RollUp<br>
-<br>
-Texto #2<br>
-ID                                       : 33 (0x21)-CC3<br>
-Menu ID                                  : 1 (0x1)<br>
-Format                                   : EIA-608<br>
-Muxing mode                              : A/53 / DTVCC Transport<br>
-Muxing mode, more info                   : Muxed in Video #1<br>
-Duration                                 : 4 min 43s<br>
-Start time                               : 5s 287 ms<br>
-Bit rate mode                            : Constante<br>
-Stream size                              : 0.00 Byte (0%)<br>
-<br>
-Geral<br>
-ID                                       : 1 (0x1)<br>
-Complete name                            : C:\Users\Nan\Desktop\Lady Gaga SNL 2011\Lady Gaga The Edge of Glory Judas SNL 21.05.11 1080i HDTV DD5.1 MPEG2.ts<br>
-Format                                   : MPEG-TS<br>
-File size                                : 550 MiB<br>
-Duration                                 : 4 min 42s<br>
-Overall bit rate mode                    : Variável<br>
-Overall bit rate                         : 16.3 Mb/s<br>
-Frame rate                               : 29.970 FPS<br>
-Title                                    : Saturday Night Live<br>
-Law rating                               : TV-14<br>
-<br>
-Vídeo<br>
-ID                                       : 33 (0x21)<br>
-Menu ID                                  : 1 (0x1)<br>
-Format                                   : MPEG Video<br>
-Format version                           : Version 2<br>
-Format profile                           : Main@High<br>
-Format settings                          : CustomMatrix / BVOP<br>
-Format settings, BVOP                    : Sim<br>
-Format settings, Matrix                  : Personalizada<br>
-Format settings, GOP                     : Variable<br>
-Format settings, picture structure       : Frame<br>
-Codec ID                                 : 2<br>
-Duration                                 : 4 min 42s<br>
-Bit rate mode                            : Variável<br>
-Bit rate                                 : 15.1 Mb/s<br>
-Maximum bit rate                         : 38.7 Mb/s<br>
-Width                                    : 1 920 pixels<br>
-Height                                   : 1 080 pixels<br>
-Display aspect ratio                     : 16:9<br>
-Frame rate                               : 29.970 (30000/1001) FPS<br>
-Color space                              : YUV<br>
-Chroma subsampling                       : 4:2:0<br>
-Bit depth                                : 8 bits<br>
-Scan type                                : Entrelaçado<br>
-Scan order                               : Primeiro a área superior<br>
-Compression mode                         : Lossy<br>
-Bits/(Pixel*Frame)                       : 0.243<br>
-Time code of first frame                 : 00:00:00;00<br>
-Time code source                         : Group of pictures header<br>
-Stream size                              : 509 MiB (93%)<br>
-<br>
-Áudio<br>
-ID                                       : 36 (0x24)<br>
-Menu ID                                  : 1 (0x1)<br>
-Format                                   : AC-3<br>
-Format/Info                              : Audio Coding 3<br>
-Commercial name                          : Dolby Digital<br>
-Codec ID                                 : 129<br>
-Duration                                 : 4 min 42s<br>
-Bit rate mode                            : Constante<br>
-Bit rate                                 : 384 kb/s<br>
-Channel(s)                               : 6 canais<br>
-Channel layout                           : L R C LFE Ls Rs<br>
-Sampling rate                            : 48.0 kHz<br>
-Frame rate                               : 31.250 FPS (1536 SPF)<br>
-Compression mode                         : Lossy<br>
-Stream size                              : 12.9 MiB (2%)<br>
-Language                                 : Inglês<br>
-Service kind                             : Complete Main<br>
-Dialog Normalization                     : -24 dB<br>
-compr                                    : -0.56 dB<br>
-dynrng                                   : -0.42 dB<br>
-cmixlev                                  : -3.0 dB<br>
-surmixlev                                : -3 dB<br>
-dialnorm_Average                         : -24 dB<br>
-dialnorm_Minimum                         : -24 dB<br>
-dialnorm_Maximum                         : -24 dB<br>
-<br>
-Texto #1<br>
-ID                                       : 33 (0x21)-CC1<br>
-Menu ID                                  : 1 (0x1)<br>
-Format                                   : EIA-608<br>
-Muxing mode                              : A/53 / DTVCC Transport<br>
-Muxing mode, more info                   : Muxed in Video #1<br>
-Duration                                 : 4 min 42s<br>
-Duration of the visible content          : 4 min 26s<br>
-Start time                               : 12s 227 ms<br>
-End time                                 : 4 min 38s<br>
-Bit rate mode                            : Constante<br>
-Stream size                              : 0.00 Byte (0%)<br>
-Count of frames before first event       : 378<br>
-Type of the first event                  : RollUp<br>
-<br>
-Texto #2<br>
-ID                                       : 33 (0x21)-CC3<br>
-Menu ID                                  : 1 (0x1)<br>
-Format                                   : EIA-608<br>
-Muxing mode                              : A/53 / DTVCC Transport<br>
-Muxing mode, more info                   : Muxed in Video #1<br>
-Duration                                 : 4 min 42s<br>
-Bit rate mode                            : Constante<br>
-Stream size                              : 0.00 Byte (0%)<br>
-<br>
-Geral<br>
-ID                                       : 1 (0x1)<br>
-Complete name                            : C:\Users\Nan\Desktop\Lady Gaga Born this Way SNL 21.05.11 1080i HDTV DD5.1 MPEG2.ts<br>
-Format                                   : MPEG-TS<br>
-File size                                : 557 MiB<br>
-Duration                                 : 4 min 43s<br>
-Overall bit rate mode                    : Variável<br>
-Overall bit rate                         : 16.5 Mb/s<br>
-Frame rate                               : 29.970 FPS<br>
-Title                                    : Saturday Night Live<br>
-Law rating                               : TV-14<br>
-<br>
-Vídeo<br>
-ID                                       : 33 (0x21)<br>
-Menu ID                                  : 1 (0x1)<br>
-Format                                   : MPEG Video<br>
-Format version                           : Version 2<br>
-Format profile                           : Main@High<br>
-Format settings                          : CustomMatrix / BVOP<br>
-Format settings, BVOP                    : Sim<br>
-Format settings, Matrix                  : Personalizada<br>
-Format settings, GOP                     : Variable<br>
-Format settings, picture structure       : Frame<br>
-Codec ID                                 : 2<br>
-Duration                                 : 4 min 43s<br>
-Bit rate mode                            : Variável<br>
-Bit rate                                 : 15.3 Mb/s<br>
-Maximum bit rate                         : 38.7 Mb/s<br>
-Width                                    : 1 920 pixels<br>
-Height                                   : 1 080 pixels<br>
-Display aspect ratio                     : 16:9<br>
-Frame rate                               : 29.970 (30000/1001) FPS<br>
-Color space                              : YUV<br>
-Chroma subsampling                       : 4:2:0<br>
-Bit depth                                : 8 bits<br>
-Scan type                                : Entrelaçado<br>
-Scan order                               : Primeiro a área superior<br>
-Compression mode                         : Lossy<br>
-Bits/(Pixel*Frame)                       : 0.246<br>
-Time code of first frame                 : 00:00:00;00<br>
-Time code source                         : Group of pictures header<br>
-Stream size                              : 516 MiB (93%)<br>
-<br>
-Áudio<br>
-ID                                       : 36 (0x24)<br>
-Menu ID                                  : 1 (0x1)<br>
-Format                                   : AC-3<br>
-Format/Info                              : Audio Coding 3<br>
-Commercial name                          : Dolby Digital<br>
-Codec ID                                 : 129<br>
-Duration                                 : 4 min 43s<br>
-Bit rate mode                            : Constante<br>
-Bit rate                                 : 384 kb/s<br>
-Channel(s)                               : 6 canais<br>
-Channel layout                           : L R C LFE Ls Rs<br>
-Sampling rate                            : 48.0 kHz<br>
-Frame rate                               : 31.250 FPS (1536 SPF)<br>
-Compression mode                         : Lossy<br>
-Stream size                              : 13.0 MiB (2%)<br>
-Language                                 : Inglês<br>
-Service kind                             : Complete Main<br>
-Dialog Normalization                     : -24 dB<br>
-compr                                    : -0.28 dB<br>
-dynrng                                   : -0.42 dB<br>
-cmixlev                                  : -3.0 dB<br>
-surmixlev                                : -3 dB<br>
-dialnorm_Average                         : -24 dB<br>
-dialnorm_Minimum                         : -24 dB<br>
-dialnorm_Maximum                         : -24 dB<br>
-<br>
-Texto #1<br>
-ID                                       : 33 (0x21)-CC1<br>
-Menu ID                                  : 1 (0x1)<br>
-Format                                   : EIA-608<br>
-Muxing mode                              : A/53 / DTVCC Transport<br>
-Muxing mode, more info                   : Muxed in Video #1<br>
-Duration                                 : 4 min 43s<br>
-Duration of the visible content          : 4 min 19s<br>
-Start time                               : 9s 958 ms<br>
-End time                                 : 4 min 29s<br>
-Bit rate mode                            : Constante<br>
-Stream size                              : 0.00 Byte (0%)<br>
-Count of frames before first event       : 307<br>
-Type of the first event                  : RollUp<br>
-<br>
-Texto #2<br>
-ID                                       : 33 (0x21)-CC3<br>
-Menu ID                                  : 1 (0x1)<br>
-Format                                   : EIA-608<br>
-Muxing mode                              : A/53 / DTVCC Transport<br>
-Muxing mode, more info                   : Muxed in Video #1<br>
-Duration                                 : 4 min 43s<br>
-Start time                               : 5s 287 ms<br>
-Bit rate mode                            : Constante<br>
-Stream size                              : 0.00 Byte (0%)<br>
-<br>
-<br>
-<br>
-
+<span style="font-family: 'Courier New'"><span style="font-size: 12px"><i><b><span style="font-family: 'Tahoma'"><span style="font-size: 26px"><span style="color: rgb(0, 0, 255)">Click Here:</span></span></span></b></i></span></span><br>
+<span style="font-family: 'Courier New'"><span style="font-size: 12px">
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
 	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div>
+</div></span></span>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[Naner77]]></author>
+                <author><![CDATA[austin_066]]></author>
                 </item>
 
                 </channel></rss>
