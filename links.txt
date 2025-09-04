@@ -1,3 +1,10 @@
+threads/glenn-hughes-chosen-24bit-2025.283310/
+threads/fime-just-cant-win-24bit-48khz-2025.283309/
+threads/3quency-top-down.283308/
+threads/faithless-champion-sound-24bit-2025.283307/
+threads/leilani-madness-thing-cd-16bits-44-1khz.283306/
+threads/womack-womack-teardrops-hd-remaster-am-1080p-avc-pcm-24-bit.283305/
+threads/elmiene-heat-the-streets-24bit-48khz-2025.283304/
 threads/el-michels-affair-24-hr-sports-2025.283303/
 threads/curtis-harding-departures-arrivals-adventures-of-captain-curt-24bit-96khz-2025.283302/
 threads/tammin-sursok-whatever-will-be-qobuz-cd-16bits-44-1khz.283301/
@@ -15,10 +22,3 @@ threads/dear-jayne-talkin-bout-himself-cd-16bits-44-1khz.283290/
 threads/dear-jayne-rain-cd-16bits-44-1khz.283289/
 threads/saint-etienne-international-24bit-2025.283288/
 threads/ajr-what-no-ones-thinking-explicit-24bit-2025.283287/
-threads/migos-culture-explicit-flac.283286/
-threads/suede-antidepressants-24bit-48khz-2025.283285/
-threads/tallah-%E2%80%93-primeval-obsession-detachmen-explicit-2025.283284/
-threads/sl-block-tales-explicit-2025.283283/
-threads/rob-thomas-all-night-days-24bit-48khz-2025.283282/
-threads/ivy-traces-of-you-24bit-88khz-2025.283281/
-threads/david-byrne-who-is-the-sky-explicit-24bit-96khz-2025.283280/
