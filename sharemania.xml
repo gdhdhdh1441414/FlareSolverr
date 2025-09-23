@@ -8,741 +8,18 @@
 
  
                 <item>
-                <title><![CDATA[【Live Audios (lossless)】FLAC - Björk - Biophilia (Live) | CD Rip | .FLAC 16bits ⋆ 44.1kHz]]></title>
-                <link><![CDATA[https://sharemania.us/threads/bj%C3%B6rk-biophilia-live-cd-rip-flac-16bits-%E2%8B%86-44-1khz.284769/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<div style="text-align: center"><img src="https://i.imgur.com/4Z6BzVY.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/4Z6BzVY.png" style=""><br>
-<br>
-<span style="font-family: 'Book Antiqua'"><span style="font-size: 10px"><span style="color: #000000">includes <b><i>Scans</i></b>.</span></span></span><br>
-<br>
-<span style="font-family: 'Book Antiqua'"><span style="font-size: 12px"><span style="color: #000000">Tracklist:<br>
-</span><br>
-<span style="color: #4da6ff">— CD O1 —</span><br>
-<br>
-<span style="color: #b35900">1. Óskasteinar (Live)<br>
-2. Thunderbolt (Live)<br>
-3. Moon (Live)<br>
-4. Crystalline (Live)<br>
-5. Hollow (Live)<br>
-6. Dark Matter (Live)<br>
-7. Hidden Place (Live)<br>
-8. Virus (Live)<br>
-9. Possibly Maybe (Live)<br>
-10. Mouth's Cradle (Live)</span><br>
-<br>
-<span style="color: #4dffa6">— CD O2 —</span><br>
-<br>
-<span style="color: #99ccff">1. Isobel (Live)<br>
-2. Sonnets / Unrealities (Live)<br>
-3. Mutual Core (Live)<br>
-4. Cosmogony (Live)<br>
-5. Solstice (Live)<br>
-6. One Day (Live)<br>
-7. Náttúra (Live)<br>
-8. Declare Independence (Live)<br>
-9. Sacrifice (Live)<br>
-10. Bat Sounds (feat. Jeremy Deller) [Live]</span><br>
-<span style="color: #000000"><br>
-
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">.log (CD O1)</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">Exact Audio Copy V1.0 beta 3 from 29. August 2011 <br>
-<br>
-EAC extraction logfile from 10. December 2014, 18:54 <br>
-<br>
-Björk / Biophilia Live (CD 1) <br>
-<br>
-Used drive : Optiarc DVD RW AD-5260S Adapter: 5 ID: 0 <br>
-<br>
-Read mode : Secure <br>
-Utilize accurate stream : Yes <br>
-Defeat audio cache : Yes <br>
-Make use of C2 pointers : No <br>
-<br>
-Read offset correction : 48 <br>
-Overread into Lead-In and Lead-Out : No <br>
-Fill up missing offset samples with silence : Yes <br>
-Delete leading and trailing silent blocks : No <br>
-Null samples used in CRC calculations : Yes <br>
-Used interface : Native Win32 interface for Win NT &amp; 2000 <br>
-Gap handling : Appended to previous track <br>
-<br>
-Used output format : User Defined Encoder <br>
-Selected bitrate : 1024 kBit/s <br>
-Quality : High <br>
-Add ID3 tag : No <br>
-Command line compressor : C:\Program Files (x86)\Exact Audio Copy\Flac\flac.exe <br>
-Additional command line options : -8 -V -T "ARTIST=%artist%" -T "TITLE=%title%" -T "ALBUM=%albumtitle%" -T "DATE=%year%" -T "TRACKNUMBER=%tracknr%" -T "GENRE=%genre%" -T "PERFORMER=%albuminterpret%" -T "COMPOSER=%composer%" %haslyrics%--tag-from-file=LYRICS="%lyricsfile%"%haslyrics% -T "ALBUMARTIST=%albumartist%" -T "DISCNUMBER=%cdnumber%" -T "TOTALDISCS=%totalcds%" -T "TOTALTRACKS=%numtracks%" -T "COMMENT=%comment%" %source% -o %dest% <br>
-<br>
-<br>
-TOC of the extracted CD <br>
-<br>
-     Track | Start | Length | Start sector | End sector <br>
-    --------------------------------------------------------- <br>
-        1 | 0:00.00 | 2:49.50 | 0 | 12724 <br>
-        2 | 2:49.50 | 5:21.49 | 12725 | 36848 <br>
-        3 | 8:11.24 | 6:05.11 | 36849 | 64234 <br>
-        4 | 14:16.35 | 5:11.58 | 64235 | 87617 <br>
-        5 | 19:28.18 | 6:00.29 | 87618 | 114646 <br>
-        6 | 25:28.47 | 3:05.00 | 114647 | 128521 <br>
-        7 | 28:33.47 | 5:47.69 | 128522 | 154615 <br>
-        8 | 34:21.41 | 5:35.71 | 154616 | 179811 <br>
-        9 | 39:57.37 | 5:06.47 | 179812 | 202808 <br>
-       10 | 45:04.09 | 4:17.31 | 202809 | 222114 <br>
-<br>
-<br>
-Track 1 <br>
-<br>
-     Filename C:\EAC Rips\Björk\2014 - Biophilia Live (CD 1) [FLAC]\01 - Óskasteinar.wav <br>
-<br>
-     Pre-gap length 0:00:02.00 <br>
-<br>
-     Peak level 63.2 % <br>
-     Extraction speed 0.3 X <br>
-     Track quality 99.3 % <br>
-     Test CRC 55AA7B63 <br>
-     Copy CRC 55AA7B63 <br>
-     Track not present in AccurateRip database <br>
-     Copy OK <br>
-<br>
-Track 2 <br>
-<br>
-     Filename C:\EAC Rips\Björk\2014 - Biophilia Live (CD 1) [FLAC]\02 - Thunderbolt.wav <br>
-<br>
-     Peak level 97.1 % <br>
-     Extraction speed 1.2 X <br>
-     Track quality 99.7 % <br>
-     Test CRC EEFDAA65 <br>
-     Copy CRC EEFDAA65 <br>
-     Track not present in AccurateRip database <br>
-     Copy OK <br>
-<br>
-Track 3 <br>
-<br>
-     Filename C:\EAC Rips\Björk\2014 - Biophilia Live (CD 1) [FLAC]\03 - Moon.wav <br>
-<br>
-     Peak level 96.3 % <br>
-     Extraction speed 2.5 X <br>
-     Track quality 99.9 % <br>
-     Test CRC 20850D67 <br>
-     Copy CRC 20850D67 <br>
-     Track not present in AccurateRip database <br>
-     Copy OK <br>
-<br>
-Track 4 <br>
-<br>
-     Filename C:\EAC Rips\Björk\2014 - Biophilia Live (CD 1) [FLAC]\04 - Crystalline.wav <br>
-<br>
-     Peak level 97.8 % <br>
-     Extraction speed 2.6 X <br>
-     Track quality 99.9 % <br>
-     Test CRC CAD132A5 <br>
-     Copy CRC CAD132A5 <br>
-     Track not present in AccurateRip database <br>
-     Copy OK <br>
-<br>
-Track 5 <br>
-<br>
-     Filename C:\EAC Rips\Björk\2014 - Biophilia Live (CD 1) [FLAC]\05 - Hollow.wav <br>
-<br>
-     Peak level 96.9 % <br>
-     Extraction speed 3.5 X <br>
-     Track quality 100.0 % <br>
-     Test CRC 040DDB11 <br>
-     Copy CRC 040DDB11 <br>
-     Track not present in AccurateRip database <br>
-     Copy OK <br>
-<br>
-Track 6 <br>
-<br>
-     Filename C:\EAC Rips\Björk\2014 - Biophilia Live (CD 1) [FLAC]\06 - Dark Matter.wav <br>
-<br>
-     Peak level 96.2 % <br>
-     Extraction speed 3.4 X <br>
-     Track quality 100.0 % <br>
-     Test CRC 04C756F4 <br>
-     Copy CRC 04C756F4 <br>
-     Track not present in AccurateRip database <br>
-     Copy OK <br>
-<br>
-Track 7 <br>
-<br>
-     Filename C:\EAC Rips\Björk\2014 - Biophilia Live (CD 1) [FLAC]\07 - Hidden Place.wav <br>
-<br>
-     Peak level 100.0 % <br>
-     Extraction speed 3.5 X <br>
-     Track quality 99.9 % <br>
-     Test CRC 26095031 <br>
-     Copy CRC 26095031 <br>
-     Track not present in AccurateRip database <br>
-     Copy OK <br>
-<br>
-Track 8 <br>
-<br>
-     Filename C:\EAC Rips\Björk\2014 - Biophilia Live (CD 1) [FLAC]\08 - Virus.wav <br>
-<br>
-     Peak level 96.4 % <br>
-     Extraction speed 3.7 X <br>
-     Track quality 99.9 % <br>
-     Test CRC EC5EFBC9 <br>
-     Copy CRC EC5EFBC9 <br>
-     Track not present in AccurateRip database <br>
-     Copy OK <br>
-<br>
-Track 9 <br>
-<br>
-     Filename C:\EAC Rips\Björk\2014 - Biophilia Live (CD 1) [FLAC]\09 - Possibly Maybe.wav <br>
-<br>
-     Peak level 98.4 % <br>
-     Extraction speed 4.3 X <br>
-     Track quality 100.0 % <br>
-     Test CRC FC7DB930 <br>
-     Copy CRC FC7DB930 <br>
-     Track not present in AccurateRip database <br>
-     Copy OK <br>
-<br>
-Track 10 <br>
-<br>
-     Filename C:\EAC Rips\Björk\2014 - Biophilia Live (CD 1) [FLAC]\10 - Mouth's Cradle.wav <br>
-<br>
-     Peak level 96.6 % <br>
-     Extraction speed 4.3 X <br>
-     Track quality 100.0 % <br>
-     Test CRC E7879B6D <br>
-     Copy CRC E7879B6D <br>
-     Track not present in AccurateRip database <br>
-     Copy OK <br>
-<br>
-<br>
-None of the tracks are present in the AccurateRip database <br>
-<br>
-No errors occurred <br>
-<br>
-End of status report <br>
-<br>
----- CUETools DB Plugin V2.1.3 <br>
-<br>
-[CTDB TOCID: MHQqsbcsdBjbfP4PCSilJ557ndM-] disk not present in database, Submit result: MHQqsbcsdBjbfP4PCSilJ557ndM- has been uploaded <br>
-<br>
-<br>
-==== Log checksum EF1430168FBDA98258BC331092DFC4FE85E54B09497CA6A4AADC8D951A8A94D6 ====</div>
-</div><br>
-
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">.log (CD O2)</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">Exact Audio Copy V1.0 beta 3 from 29. August 2011 <br>
-<br>
-EAC extraction logfile from 10. December 2014, 19:31 <br>
-<br>
-Björk / Biophilia Live (CD 2) <br>
-<br>
-Used drive : Optiarc DVD RW AD-5260S Adapter: 5 ID: 0 <br>
-<br>
-Read mode : Secure <br>
-Utilize accurate stream : Yes <br>
-Defeat audio cache : Yes <br>
-Make use of C2 pointers : No <br>
-<br>
-Read offset correction : 48 <br>
-Overread into Lead-In and Lead-Out : No <br>
-Fill up missing offset samples with silence : Yes <br>
-Delete leading and trailing silent blocks : No <br>
-Null samples used in CRC calculations : Yes <br>
-Used interface : Native Win32 interface for Win NT &amp; 2000 <br>
-Gap handling : Appended to previous track <br>
-<br>
-Used output format : User Defined Encoder <br>
-Selected bitrate : 1024 kBit/s <br>
-Quality : High <br>
-Add ID3 tag : No <br>
-Command line compressor : C:\Program Files (x86)\Exact Audio Copy\Flac\flac.exe <br>
-Additional command line options : -8 -V -T "ARTIST=%artist%" -T "TITLE=%title%" -T "ALBUM=%albumtitle%" -T "DATE=%year%" -T "TRACKNUMBER=%tracknr%" -T "GENRE=%genre%" -T "PERFORMER=%albuminterpret%" -T "COMPOSER=%composer%" %haslyrics%--tag-from-file=LYRICS="%lyricsfile%"%haslyrics% -T "ALBUMARTIST=%albumartist%" -T "DISCNUMBER=%cdnumber%" -T "TOTALDISCS=%totalcds%" -T "TOTALTRACKS=%numtracks%" -T "COMMENT=%comment%" %source% -o %dest% <br>
-<br>
-<br>
-TOC of the extracted CD <br>
-<br>
-     Track | Start | Length | Start sector | End sector <br>
-    --------------------------------------------------------- <br>
-        1 | 0:00.00 | 6:11.39 | 0 | 27863 <br>
-        2 | 6:11.39 | 2:02.59 | 27864 | 37072 <br>
-        3 | 8:14.23 | 5:18.18 | 37073 | 60940 <br>
-        4 | 13:32.41 | 5:23.21 | 60941 | 85186 <br>
-        5 | 18:55.62 | 5:43.55 | 85187 | 110966 <br>
-        6 | 24:39.42 | 7:10.37 | 110967 | 143253 <br>
-        7 | 31:50.04 | 3:32.32 | 143254 | 159185 <br>
-        8 | 35:22.36 | 4:54.41 | 159186 | 181276 <br>
-        9 | 40:17.02 | 5:17.72 | 181277 | 205123 <br>
-       10 | 45:34.74 | 1:38.57 | 205124 | 212530 <br>
-<br>
-<br>
-Track 1 <br>
-<br>
-     Filename C:\EAC Rips\Björk\2014 - Biophilia Live (CD 2) [FLAC]\01 - Isobel.wav <br>
-<br>
-     Pre-gap length 0:00:02.00 <br>
-<br>
-     Peak level 97.2 % <br>
-     Extraction speed 2.2 X <br>
-     Track quality 99.9 % <br>
-     Test CRC 74326FED <br>
-     Copy CRC 74326FED <br>
-     Track not present in AccurateRip database <br>
-     Copy OK <br>
-<br>
-Track 2 <br>
-<br>
-     Filename C:\EAC Rips\Björk\2014 - Biophilia Live (CD 2) [FLAC]\02 - Unrealities.wav <br>
-<br>
-     Peak level 83.3 % <br>
-     Extraction speed 1.5 X <br>
-     Track quality 99.8 % <br>
-     Test CRC 978CEF1E <br>
-     Copy CRC 978CEF1E <br>
-     Track not present in AccurateRip database <br>
-     Copy OK <br>
-<br>
-Track 3 <br>
-<br>
-     Filename C:\EAC Rips\Björk\2014 - Biophilia Live (CD 2) [FLAC]\03 - Mutual Core.wav <br>
-<br>
-     Peak level 97.4 % <br>
-     Extraction speed 2.9 X <br>
-     Track quality 100.0 % <br>
-     Test CRC 55A71EA6 <br>
-     Copy CRC 55A71EA6 <br>
-     Track not present in AccurateRip database <br>
-     Copy OK <br>
-<br>
-Track 4 <br>
-<br>
-     Filename C:\EAC Rips\Björk\2014 - Biophilia Live (CD 2) [FLAC]\04 - Cosmogony.wav <br>
-<br>
-     Peak level 100.0 % <br>
-     Extraction speed 3.1 X <br>
-     Track quality 100.0 % <br>
-     Test CRC 8C722B80 <br>
-     Copy CRC 8C722B80 <br>
-     Track not present in AccurateRip database <br>
-     Copy OK <br>
-<br>
-Track 5 <br>
-<br>
-     Filename C:\EAC Rips\Björk\2014 - Biophilia Live (CD 2) [FLAC]\05 - Solstice.wav <br>
-<br>
-     Peak level 89.8 % <br>
-     Extraction speed 3.5 X <br>
-     Track quality 100.0 % <br>
-     Test CRC C207174A <br>
-     Copy CRC C207174A <br>
-     Track not present in AccurateRip database <br>
-     Copy OK <br>
-<br>
-Track 6 <br>
-<br>
-     Filename C:\EAC Rips\Björk\2014 - Biophilia Live (CD 2) [FLAC]\06 - One Day.wav <br>
-<br>
-     Peak level 98.7 % <br>
-     Extraction speed 3.0 X <br>
-     Track quality 99.9 % <br>
-     Test CRC E9716BCD <br>
-     Copy CRC E9716BCD <br>
-     Track not present in AccurateRip database <br>
-     Copy OK <br>
-<br>
-Track 7 <br>
-<br>
-     Filename C:\EAC Rips\Björk\2014 - Biophilia Live (CD 2) [FLAC]\07 - Náttúra.wav <br>
-<br>
-     Peak level 100.0 % <br>
-     Extraction speed 2.9 X <br>
-     Track quality 99.9 % <br>
-     Test CRC 11F3E706 <br>
-     Copy CRC 11F3E706 <br>
-     Track not present in AccurateRip database <br>
-     Copy OK <br>
-<br>
-Track 8 <br>
-<br>
-     Filename C:\EAC Rips\Björk\2014 - Biophilia Live (CD 2) [FLAC]\08 - Declare Independence.wav <br>
-<br>
-     Peak level 100.0 % <br>
-     Extraction speed 4.1 X <br>
-     Track quality 100.0 % <br>
-     Test CRC 111D0C44 <br>
-     Copy CRC 111D0C44 <br>
-     Track not present in AccurateRip database <br>
-     Copy OK <br>
-<br>
-Track 9 <br>
-<br>
-     Filename C:\EAC Rips\Björk\2014 - Biophilia Live (CD 2) [FLAC]\09 - Sacrifice.wav <br>
-<br>
-     Peak level 96.9 % <br>
-     Extraction speed 4.3 X <br>
-     Track quality 100.0 % <br>
-     Test CRC C7547BC7 <br>
-     Copy CRC C7547BC7 <br>
-     Track not present in AccurateRip database <br>
-     Copy OK <br>
-<br>
-Track 10 <br>
-<br>
-     Filename C:\EAC Rips\Björk\2014 - Biophilia Live (CD 2) [FLAC]\10 - Bat Sounds.wav <br>
-<br>
-     Peak level 43.9 % <br>
-     Extraction speed 3.6 X <br>
-     Track quality 100.0 % <br>
-     Test CRC 4342F77D <br>
-     Copy CRC 4342F77D <br>
-     Track not present in AccurateRip database <br>
-     Copy OK <br>
-<br>
-<br>
-None of the tracks are present in the AccurateRip database <br>
-<br>
-No errors occurred <br>
-<br>
-End of status report <br>
-<br>
----- CUETools DB Plugin V2.1.3 <br>
-<br>
-[CTDB TOCID: qF0oX3RX9cai75rBVUvFgmvffE0-] disk not present in database, Submit result: qF0oX3RX9cai75rBVUvFgmvffE0- has been uploaded <br>
-<br>
-<br>
-==== Log checksum F6F07A3C70E8ABBBD7FCAD39F9816C01B863D00B0BB5FD2A32E2338D85DAB659 ====</div>
-</div><br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></span></span></span>​</div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[Nuric]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Live Audios (lossless)】FLAC - Björk - Vulnicura (Live) | CD Rip | .FLAC 16bits ⋆ 44.1kHz]]></title>
-                <link><![CDATA[https://sharemania.us/threads/bj%C3%B6rk-vulnicura-live-cd-rip-flac-16bits-%E2%8B%86-44-1khz.284768/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<div style="text-align: center"><span style="font-size: 12px"><span style="color: #000000"><img src="https://i.imgur.com/YJHoLWT.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/YJHoLWT.jpeg" style=""><br>
-</span></span><br>
-<span style="font-family: 'Book Antiqua'"><span style="font-size: 10px"><span style="color: #000000">includes </span><b><i><span style="color: #cc99ff">Scans</span></i></b><span style="color: #000000">.</span></span><br>
-<span style="font-size: 12px"><span style="color: #336600"><br>
-Tracklist</span><span style="color: #006633">:</span><br>
-<br>
-<span style="color: #a6ff4d">1. Stonemilker (Live)<br>
-2. Lionsong (Live)<br>
-3. History of Touches (Live)<br>
-4. Black Lake (Live)<br>
-5. Family (Live)<br>
-6. Notget (Live)<br>
-7. Undo (Live)<br>
-8. Come to Me (Live)<br>
-9. I See Who You Are (Live)<br>
-10. Wanderlust (Live)<br>
-11. Quicksand (Live)<br>
-12. Mutual Core (Live)<br>
-13. Mouth Mantra (Live)</span><br>
-<span style="color: #000000"><br>
-
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">.log</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">Exact Audio Copy V1.1 from 23. June 2015 <br>
-<br>
-EAC extraction logfile from 13. August 2016, 22:33 <br>
-<br>
-Bjork / Vulnicura Live <br>
-<br>
-Used drive : TSSTcorpCDDVDW SH-224DB Adapter: 1 ID: 0 <br>
-<br>
-Read mode : Secure <br>
-Utilize accurate stream : Yes <br>
-Defeat audio cache : Yes <br>
-Make use of C2 pointers : No <br>
-<br>
-Read offset correction : 6 <br>
-Overread into Lead-In and Lead-Out : No <br>
-Fill up missing offset samples with silence : Yes <br>
-Delete leading and trailing silent blocks : No <br>
-Null samples used in CRC calculations : Yes <br>
-Used interface : Native Win32 interface for Win NT &amp; 2000 <br>
-Gap handling : Appended to previous track <br>
-<br>
-Used output format : User Defined Encoder <br>
-Selected bitrate : 896 kBit/s <br>
-Quality : High <br>
-Add ID3 tag : No <br>
-Command line compressor : C:\Program Files (x86)\Exact Audio Copy\Flac\flac.exe <br>
-Additional command line options : -8 -V -T "ARTIST=%artist%" -T "TITLE=%title%" -T "ALBUM=%albumtitle%" -T "DATE=%year%" -T "TRACKNUMBER=%tracknr%" -T "TOTALTRACKS=%numtracks%" -T "GENRE=%genre%" -T "ALBUMARTIST=%albumartist%" -T "ALBUM ARTIST=%albumartist%" -T "COMMENT=EAC Secure Mode, Test &amp; Copy, AccurateRip, FLAC -8" %source% <br>
-<br>
-<br>
-TOC of the extracted CD <br>
-<br>
-     Track | Start | Length | Start sector | End sector <br>
-    --------------------------------------------------------- <br>
-        1 | 0:00.00 | 7:24.74 | 0 | 33373 <br>
-        2 | 7:24.74 | 6:35.45 | 33374 | 63043 <br>
-        3 | 14:00.44 | 3:18.27 | 63044 | 77920 <br>
-        4 | 17:18.71 | 10:44.32 | 77921 | 126252 <br>
-        5 | 28:03.28 | 7:51.15 | 126253 | 161592 <br>
-        6 | 35:54.43 | 5:14.02 | 161593 | 185144 <br>
-        7 | 41:08.45 | 6:13.21 | 185145 | 213140 <br>
-        8 | 47:21.66 | 5:23.22 | 213141 | 237387 <br>
-        9 | 52:45.13 | 4:04.58 | 237388 | 255745 <br>
-       10 | 56:49.71 | 6:20.37 | 255746 | 284282 <br>
-       11 | 63:10.33 | 3:58.47 | 284283 | 302179 <br>
-       12 | 67:09.05 | 5:08.44 | 302180 | 325323 <br>
-       13 | 72:17.49 | 6:29.27 | 325324 | 354525 <br>
-<br>
-<br>
-Track 1 <br>
-<br>
-     Filename E:\Musica\Bjork\Bjork - Vulnicura Live (2015) [FLAC]\01 - Stonemilker (Live).wav <br>
-<br>
-     Pre-gap length 0:00:02.00 <br>
-<br>
-     Peak level 96.4 % <br>
-     Extraction speed 2.1 X <br>
-     Track quality 100.0 % <br>
-     Test CRC A7417E29 <br>
-     Copy CRC A7417E29 <br>
-     Accurately ripped (confidence 2) [EEBB176B] (AR v2) <br>
-     Copy OK <br>
-<br>
-Track 2 <br>
-<br>
-     Filename E:\Musica\Bjork\Bjork - Vulnicura Live (2015) [FLAC]\02 - Lionsong (Live).wav <br>
-<br>
-     Peak level 96.6 % <br>
-     Extraction speed 2.4 X <br>
-     Track quality 100.0 % <br>
-     Test CRC D21C9C5E <br>
-     Copy CRC D21C9C5E <br>
-     Accurately ripped (confidence 2) [EC685460] (AR v2) <br>
-     Copy OK <br>
-<br>
-Track 3 <br>
-<br>
-     Filename E:\Musica\Bjork\Bjork - Vulnicura Live (2015) [FLAC]\03 - History Of Touches (Live).wav <br>
-<br>
-     Peak level 96.0 % <br>
-     Extraction speed 2.4 X <br>
-     Track quality 100.0 % <br>
-     Test CRC 6B222364 <br>
-     Copy CRC 6B222364 <br>
-     Accurately ripped (confidence 2) [33F21AFD] (AR v2) <br>
-     Copy OK <br>
-<br>
-Track 4 <br>
-<br>
-     Filename E:\Musica\Bjork\Bjork - Vulnicura Live (2015) [FLAC]\04 - Black Lake (Live).wav <br>
-<br>
-     Peak level 96.4 % <br>
-     Extraction speed 2.7 X <br>
-     Track quality 99.9 % <br>
-     Test CRC B2E16EFA <br>
-     Copy CRC B2E16EFA <br>
-     Accurately ripped (confidence 2) [09EFE5DC] (AR v2) <br>
-     Copy OK <br>
-<br>
-Track 5 <br>
-<br>
-     Filename E:\Musica\Bjork\Bjork - Vulnicura Live (2015) [FLAC]\05 - Family (Live).wav <br>
-<br>
-     Peak level 96.3 % <br>
-     Extraction speed 3.2 X <br>
-     Track quality 100.0 % <br>
-     Test CRC 09406709 <br>
-     Copy CRC 09406709 <br>
-     Accurately ripped (confidence 2) [C353063D] (AR v2) <br>
-     Copy OK <br>
-<br>
-Track 6 <br>
-<br>
-     Filename E:\Musica\Bjork\Bjork - Vulnicura Live (2015) [FLAC]\06 - Notget (Live).wav <br>
-<br>
-     Peak level 98.5 % <br>
-     Extraction speed 2.7 X <br>
-     Track quality 99.9 % <br>
-     Test CRC 783F91D7 <br>
-     Copy CRC 783F91D7 <br>
-     Accurately ripped (confidence 2) [BA6E00EB] (AR v2) <br>
-     Copy OK <br>
-<br>
-Track 7 <br>
-<br>
-     Filename E:\Musica\Bjork\Bjork - Vulnicura Live (2015) [FLAC]\07 - Undo (Live).wav <br>
-<br>
-     Peak level 96.3 % <br>
-     Extraction speed 3.4 X <br>
-     Track quality 100.0 % <br>
-     Test CRC F6C99B3F <br>
-     Copy CRC F6C99B3F <br>
-     Accurately ripped (confidence 2) [EF35DB54] (AR v2) <br>
-     Copy OK <br>
-<br>
-Track 8 <br>
-<br>
-     Filename E:\Musica\Bjork\Bjork - Vulnicura Live (2015) [FLAC]\08 - Come to Me (Live).wav <br>
-<br>
-     Peak level 96.4 % <br>
-     Extraction speed 3.5 X <br>
-     Track quality 100.0 % <br>
-     Test CRC 07D8F417 <br>
-     Copy CRC 07D8F417 <br>
-     Accurately ripped (confidence 2) [0C6CAEEB] (AR v2) <br>
-     Copy OK <br>
-<br>
-Track 9 <br>
-<br>
-     Filename E:\Musica\Bjork\Bjork - Vulnicura Live (2015) [FLAC]\09 - I See Who You Are (Live).wav <br>
-<br>
-     Peak level 97.8 % <br>
-     Extraction speed 3.5 X <br>
-     Track quality 100.0 % <br>
-     Test CRC 3BF83148 <br>
-     Copy CRC 3BF83148 <br>
-     Accurately ripped (confidence 2) [A18790A0] (AR v2) <br>
-     Copy OK <br>
-<br>
-Track 10 <br>
-<br>
-     Filename E:\Musica\Bjork\Bjork - Vulnicura Live (2015) [FLAC]\10 - Wanderlast (Live).wav <br>
-<br>
-     Peak level 96.5 % <br>
-     Extraction speed 3.8 X <br>
-     Track quality 100.0 % <br>
-     Test CRC EC3AFC23 <br>
-     Copy CRC EC3AFC23 <br>
-     Accurately ripped (confidence 2) [6BAC4690] (AR v2) <br>
-     Copy OK <br>
-<br>
-Track 11 <br>
-<br>
-     Filename E:\Musica\Bjork\Bjork - Vulnicura Live (2015) [FLAC]\11 - Quicksand (Live).wav <br>
-<br>
-     Peak level 98.9 % <br>
-     Extraction speed 3.7 X <br>
-     Track quality 100.0 % <br>
-     Test CRC CE1052C7 <br>
-     Copy CRC CE1052C7 <br>
-     Accurately ripped (confidence 2) [DC10D529] (AR v2) <br>
-     Copy OK <br>
-<br>
-Track 12 <br>
-<br>
-     Filename E:\Musica\Bjork\Bjork - Vulnicura Live (2015) [FLAC]\12 - Mutual Core (Live).wav <br>
-<br>
-     Peak level 98.6 % <br>
-     Extraction speed 3.9 X <br>
-     Track quality 100.0 % <br>
-     Test CRC CF92675D <br>
-     Copy CRC CF92675D <br>
-     Accurately ripped (confidence 2) [D77459C8] (AR v2) <br>
-     Copy OK <br>
-<br>
-Track 13 <br>
-<br>
-     Filename E:\Musica\Bjork\Bjork - Vulnicura Live (2015) [FLAC]\13 - Mouth Mantra (Live).wav <br>
-<br>
-     Peak level 97.5 % <br>
-     Extraction speed 4.1 X <br>
-     Track quality 100.0 % <br>
-     Test CRC CC969DE5 <br>
-     Copy CRC CC969DE5 <br>
-     Accurately ripped (confidence 2) [A44EBF36] (AR v2) <br>
-     Copy OK <br>
-<br>
-<br>
-All tracks accurately ripped <br>
-<br>
-No errors occurred <br>
-<br>
-End of status report <br>
-<br>
----- CUETools DB Plugin V2.1.6 <br>
-<br>
-[CTDB TOCID: uy06hqD2mV.nmRF35k26AkTc4Ww-] found <br>
-Submit result: already submitted <br>
-Track | CTDB Status <br>
-  1 | (11/11) Accurately ripped <br>
-  2 | (11/11) Accurately ripped <br>
-  3 | (11/11) Accurately ripped <br>
-  4 | (11/11) Accurately ripped <br>
-  5 | (11/11) Accurately ripped <br>
-  6 | (11/11) Accurately ripped <br>
-  7 | (11/11) Accurately ripped <br>
-  8 | (11/11) Accurately ripped <br>
-  9 | (11/11) Accurately ripped <br>
- 10 | (11/11) Accurately ripped <br>
- 11 | (11/11) Accurately ripped <br>
- 12 | (11/11) Accurately ripped <br>
- 13 | (11/11) Accurately ripped <br>
-<br>
-<br>
-==== Log checksum 359953F6AE5A005161F3039D0BA0FCECF030D10AD5ACD32FCB818B68DDA3E7D5 ====</div>
-</div><br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></span></span></span>​</div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[Nuric]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Actresses】France Zobda - Sheena (1984)1080p]]></title>
-                <link><![CDATA[https://sharemania.us/threads/france-zobda-sheena-1984-1080p.284770/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					France Zobda - Sheena (1984)1080p<br>
-<br>
-<a href="https://imgbox.com/Hh9TiAnb" target="_blank" class="externalLink" rel="nofollow"><img src="https://thumbs2.imgbox.com/98/7c/Hh9TiAnb_t.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://thumbs2.imgbox.com/98/7c/Hh9TiAnb_t.jpg"></a> <a href="https://imgbox.com/FNOwgv1k" target="_blank" class="externalLink" rel="nofollow"><img src="https://thumbs2.imgbox.com/b4/3c/FNOwgv1k_t.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://thumbs2.imgbox.com/b4/3c/FNOwgv1k_t.jpg"></a> <a href="https://imgbox.com/pkIbdOdT" target="_blank" class="externalLink" rel="nofollow"><img src="https://thumbs2.imgbox.com/26/a7/pkIbdOdT_t.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://thumbs2.imgbox.com/26/a7/pkIbdOdT_t.jpg"></a> <a href="https://imgbox.com/70mbfhS5" target="_blank" class="externalLink" rel="nofollow"><img src="https://thumbs2.imgbox.com/e7/4d/70mbfhS5_t.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://thumbs2.imgbox.com/e7/4d/70mbfhS5_t.jpg"></a> <a href="https://imgbox.com/0JXr77Sm" target="_blank" class="externalLink" rel="nofollow"><img src="https://thumbs2.imgbox.com/98/3a/0JXr77Sm_t.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://thumbs2.imgbox.com/98/3a/0JXr77Sm_t.jpg"></a> <a href="https://imgbox.com/mSAS7AlE" target="_blank" class="externalLink" rel="nofollow"><img src="https://thumbs2.imgbox.com/34/8a/mSAS7AlE_t.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://thumbs2.imgbox.com/34/8a/mSAS7AlE_t.jpg"></a><br>
-Duration: 00:01:13 Resolution: 1920x1080 Format: mp4 Size: 40.24 MB<br>
-<a href="https://filejoker.net/t1g5ebn3uxln" target="_blank" class="externalLink" rel="nofollow">https://filejoker.net/t1g5ebn3uxln</a>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[piqeros]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Albums (lossless)】FLAC - Girls' Generation - Tell Me Your Wish (Genie) CD]]></title>
-                <link><![CDATA[https://sharemania.us/threads/girls-generation-tell-me-your-wish-genie-cd.284767/]]></link>
+                <title><![CDATA[【Albums (lossless)】FLAC - Girls' Generation - Gee CD]]></title>
+                <link><![CDATA[https://sharemania.us/threads/girls-generation-gee-cd.284771/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
 					And you can download it for free here, then I will immediately receive your request for access permission. ♥️<br>
-<img src="https://lh3.googleusercontent.com/R1MqTa6qIbPzRWvifZxY8SzGIltea6zZylxg4bB3Nc45lcv1aDSX4ubqBKwm1eK05ewE1oGiKHYswKNy=w544-h544-l90-rj" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://lh3.googleusercontent.com/R1MqTa6qIbPzRWvifZxY8SzGIltea6zZylxg4bB3Nc45lcv1aDSX4ubqBKwm1eK05ewE1oGiKHYswKNy=w544-h544-l90-rj" style=""><br>
-<span style="font-size: 22px"><b>소원을 말해봐 Genie - The Second Mini Album</b></span><br>
+<br>
+<img src="https://lh3.googleusercontent.com/0KCJ1r421gyQ1Yvdut5eV1qvkHhi4wasAmOs-_BjPhVa14wx53-Roj6L5NZ5CNwjl_LAQyVRJHZZRafw-g=w544-h544-l90-rj" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://lh3.googleusercontent.com/0KCJ1r421gyQ1Yvdut5eV1qvkHhi4wasAmOs-_BjPhVa14wx53-Roj6L5NZ5CNwjl_LAQyVRJHZZRafw-g=w544-h544-l90-rj" style=""><br>
+<span style="font-size: 22px"><b>Gee - The First Mini Album</b></span><br>
 EP • 2009<br>
 <br>
-With of size 168mb<br>
+With of size 144mb<br>
 <br>
 #GirlsGeneration #GG #NationGirlGroup<br>
 <br>
@@ -760,6 +37,190 @@ With of size 168mb<br>
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[RadifGrande]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Albums (lossless)】FLAC - Björk - Telegram | CD Rip | .FLAC 16bits ⋆ 44.1kHz]]></title>
+                <link><![CDATA[https://sharemania.us/threads/bj%C3%B6rk-telegram-cd-rip-flac-16bits-%E2%8B%86-44-1khz.284772/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center"><img src="https://i.imgur.com/5VA9vui.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/5VA9vui.jpeg" style=""><br>
+<br>
+<span style="font-family: 'Book Antiqua'"><span style="font-size: 12px"><span style="color: #000000">Tracklist:<br>
+<br>
+1. Possibly Maybe (Lucy Mix)<br>
+2. Hyper - Ballad (Brodsky Quartet Version)<br>
+3. Enjoy (Further over the Edge Mix)<br>
+4. My Spine 02:34<br>
+5. I Miss You (Dobie Rub Part One) [Sunshine Mix]<br>
+6. Isobel (Deodata Mix)<br>
+7. You've Been Flirting Again (Flirt Is a Promise Mix)<br>
+8. Cover Me (Dillinja Mix)<br>
+9. Army of Me (Masseymix)<br>
+10. Headphones (Ø Remix)<br>
+11. I Miss You (Original Mix)*<br>
+<br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">.log</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">EAC extraction logfile from 20. February 2007, 17:58 for CD <br>
+Björk / Telegram <br>
+<br>
+Used drive : TSSTcorpCD/DVDW SH-S162L Adapter: 0 ID: 0 <br>
+Read mode : Secure with NO C2, accurate stream, disable cache <br>
+Read offset correction : 6 <br>
+Overread into Lead-In and Lead-Out : No <br>
+<br>
+Used output format : C:\Program Files\Exact Audio Copy\flac.exe (User Defined Encoder) <br>
+                     192 kBit/s <br>
+                     Additional command line options : -V -5 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s <br>
+<br>
+Other options : <br>
+    Fill up missing offset samples with silence : Yes <br>
+    Delete leading and trailing silent blocks : No <br>
+    Installed external ASPI interface <br>
+<br>
+<br>
+Track 1 <br>
+     Filename F:\Songs\Björk\Bjork - Telegram FLAC\01 - Björk - Possibly Maybe (Lucy Mix).wav <br>
+<br>
+     Pre-gap length 0:00:02.42 <br>
+<br>
+     Peak level 98.8 % <br>
+     Track quality 100.0 % <br>
+     Test CRC D6E91CFB <br>
+     Copy CRC D6E91CFB <br>
+     Copy OK <br>
+<br>
+Track 2 <br>
+     Filename F:\Songs\Björk\Bjork - Telegram FLAC\02 - Björk - Hyperballad (Brodsky Quartet Version).wav <br>
+<br>
+     Pre-gap length 0:00:00.06 <br>
+<br>
+     Peak level 94.4 % <br>
+     Track quality 100.0 % <br>
+     Test CRC 9FB86018 <br>
+     Copy CRC 9FB86018 <br>
+     Copy OK <br>
+<br>
+Track 3 <br>
+     Filename F:\Songs\Björk\Bjork - Telegram FLAC\03 - Björk - Enjoy (Further Over The Edge Mix).wav <br>
+<br>
+     Pre-gap length 0:00:00.53 <br>
+<br>
+     Peak level 94.4 % <br>
+     Track quality 100.0 % <br>
+     Test CRC 19FBAF09 <br>
+     Copy CRC 19FBAF09 <br>
+     Copy OK <br>
+<br>
+Track 4 <br>
+     Filename F:\Songs\Björk\Bjork - Telegram FLAC\04 - Björk - My Spine.wav <br>
+<br>
+     Pre-gap length 0:00:01.96 <br>
+<br>
+     Peak level 69.2 % <br>
+     Track quality 100.0 % <br>
+     Test CRC A8913F91 <br>
+     Copy CRC A8913F91 <br>
+     Copy OK <br>
+<br>
+Track 5 <br>
+     Filename F:\Songs\Björk\Bjork - Telegram FLAC\05 - Björk - I Miss You (Dobie Rub Part One - Sunshine Mix).wav <br>
+<br>
+     Peak level 94.4 % <br>
+     Track quality 100.0 % <br>
+     Test CRC 241BA6EE <br>
+     Copy CRC 241BA6EE <br>
+     Copy OK <br>
+<br>
+Track 6 <br>
+     Filename F:\Songs\Björk\Bjork - Telegram FLAC\06 - Björk - Isobel (Deodato Mix).wav <br>
+<br>
+     Pre-gap length 0:00:01.38 <br>
+<br>
+     Peak level 93.3 % <br>
+     Track quality 100.0 % <br>
+     Test CRC C1D9E589 <br>
+     Copy CRC C1D9E589 <br>
+     Copy OK <br>
+<br>
+Track 7 <br>
+     Filename F:\Songs\Björk\Bjork - Telegram FLAC\07 - Björk - You've Been Flirting Again (Flirt Is A Promise Mix).wav <br>
+<br>
+     Pre-gap length 0:00:01.80 <br>
+<br>
+     Peak level 93.3 % <br>
+     Track quality 100.0 % <br>
+     Test CRC E82CB8EB <br>
+     Copy CRC E82CB8EB <br>
+     Copy OK <br>
+<br>
+Track 8 <br>
+     Filename F:\Songs\Björk\Bjork - Telegram FLAC\08 - Björk - Cover Me (Dillinja Mix).wav <br>
+<br>
+     Pre-gap length 0:00:00.38 <br>
+<br>
+     Peak level 94.4 % <br>
+     Track quality 100.0 % <br>
+     Test CRC 30D6EAD3 <br>
+     Copy CRC 30D6EAD3 <br>
+     Copy OK <br>
+<br>
+Track 9 <br>
+     Filename F:\Songs\Björk\Bjork - Telegram FLAC\09 - Björk - Army Of Me (Masseymix).wav <br>
+<br>
+     Pre-gap length 0:00:00.58 <br>
+<br>
+     Peak level 84.1 % <br>
+     Track quality 100.0 % <br>
+     Test CRC A940D6AA <br>
+     Copy CRC A940D6AA <br>
+     Copy OK <br>
+<br>
+Track 10 <br>
+     Filename F:\Songs\Björk\Bjork - Telegram FLAC\10 - Björk - Headphones (Ø Remix).wav <br>
+<br>
+     Pre-gap length 0:00:02.22 <br>
+<br>
+     Peak level 93.3 % <br>
+     Track quality 99.9 % <br>
+     Test CRC DC1E37E7 <br>
+     Copy CRC DC1E37E7 <br>
+     Copy OK <br>
+<br>
+Track 11 <br>
+     Filename F:\Songs\Björk\Bjork - Telegram FLAC\11 - Björk - I Miss You (Original Mix).wav <br>
+<br>
+     Pre-gap length 0:00:00.82 <br>
+<br>
+     Peak level 98.8 % <br>
+     Track quality 100.0 % <br>
+     Test CRC E34BCC96 <br>
+     Copy CRC E34BCC96 <br>
+     Copy OK <br>
+<br>
+No errors occured <br>
+<br>
+<br>
+End of status report</div>
+</div><br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></span></span></span>​</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Nuric]]></author>
                 </item>
 
                 </channel></rss>
