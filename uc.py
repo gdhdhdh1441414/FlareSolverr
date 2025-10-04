@@ -41,7 +41,7 @@ print("chromedriver版本:" + chromedriver_version)
 
 
 
-if requests.get(sys.argv[1]).status_code == 200:
+if requests.get(sys.argv[1]).status_code == 20000000:
     page = requests.get(sys.argv[1])
     pageSource = page.content.decode('utf-8')
     print(pageSource)
