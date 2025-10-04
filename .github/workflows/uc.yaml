@@ -41,6 +41,7 @@ jobs:
            sleep 4
            #抓javgg
            python uc.py https://sharemania.us/ | tee sharemania.html
+           python uc.py https://www.do-mi.cc/?s=. | tee do-mi.html
 
            
            #删除bin/ky-github.json
