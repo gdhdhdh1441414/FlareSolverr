@@ -8,25 +8,25 @@
 
  
                 <item>
-                <title><![CDATA[【HD Live Performances】WEB-DL - Die große Silvester-Schlagerparty 2019 - 31-12-2019 mdrHD IPTV 720p]]></title>
-                <link><![CDATA[https://sharemania.us/threads/die-gro%C3%9Fe-silvester-schlagerparty-2019-31-12-2019-mdrhd-iptv-720p.285585/]]></link>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Silvester Show mit Jörg Pilawa - 31-12-2019 DasErsteHD IPTV 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/silvester-show-mit-j%C3%B6rg-pilawa-31-12-2019-daserstehd-iptv-1080p.285587/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.imgur.com/eg4u6h2.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/eg4u6h2.jpeg" style=""><br>
+					<img src="https://i.imgur.com/4Vwd9Ba.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/4Vwd9Ba.jpeg" style=""><br>
 <br>
 
 
 <div class="bbCodeBlock bbCodeCode">
 	<div class="type">Code:</div>
 	<pre>General
-Unique ID                                : 236199454312083265412479054278542872085 (0xB1B25C35761FE8D52F9BEC82503DCE15)
-Complete name                            : Die große Silvester-Schlagerparty 2019 - 31-12-2019 mdrHD IPTV 720p (02).mkv
+Unique ID                                : 297732703070331545713520407789092100803 (0xDFFD3B9A87018D319E8BE11102525AC3)
+Complete name                            : Silvester Show mit Jörg Pilawa - 31-12-2019 DasErsteHD IPTV 1080p.mkv
 Format                                   : Matroska
 Format version                           : Version 4
-File size                                : 10.3 GiB
-Duration                                 : 4 h 45 min
-Overall bit rate                         : 5 162 kb/s
+File size                                : 14.6 GiB
+Duration                                 : 4 h 15 min
+Overall bit rate                         : 8 187 kb/s
 Frame rate                               : 50.000 FPS
 Writing application                      : VideoReDo (Lavf58.29.100)
 Writing library                          : VideoReDo (Lavf58.29.100)
@@ -35,16 +35,15 @@ Video
 ID                                       : 1
 Format                                   : AVC
 Format/Info                              : Advanced Video Codec
-Format profile                           : Main@L3.2
+Format profile                           : Main@L4.2
 Format settings                          : CABAC / 2 Ref Frames
 Format settings, CABAC                   : Yes
 Format settings, Reference frames        : 2 frames
 Codec ID                                 : V_MPEG4/ISO/AVC
-Duration                                 : 4 h 45 min
-Bit rate                                 : 4 803 kb/s
-Nominal bit rate                         : 2 792 kb/s
-Width                                    : 1 280 pixels
-Height                                   : 720 pixels
+Duration                                 : 4 h 15 min
+Bit rate                                 : 7 820 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
 Display aspect ratio                     : 16:9
 Frame rate mode                          : Constant
 Frame rate                               : 50.000 FPS
@@ -52,10 +51,10 @@ Color space                              : YUV
 Chroma subsampling                       : 4:2:0
 Bit depth                                : 8 bits
 Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.104
-Stream size                              : 9.56 GiB (93%)
+Bits/(Pixel*Frame)                       : 0.075
+Stream size                              : 13.9 GiB (95%)
 Writing library                          : x264 core 160 r3000
-Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=12 / lookahead_threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=200 / keyint_min=20 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=2792 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=19999 / vbv_bufsize=3000 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=8 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=200 / keyint_min=20 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=7820 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=49999 / vbv_bufsize=9375 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
 Default                                  : No
 Forced                                   : No
 Audio
@@ -64,7 +63,7 @@ Format                                   : E-AC-3
 Format/Info                              : Enhanced AC-3
 Commercial name                          : Dolby Digital Plus
 Codec ID                                 : A_EAC3
-Duration                                 : 4 h 45 min
+Duration                                 : 4 h 15 min
 Bit rate mode                            : Constant
 Bit rate                                 : 256 kb/s
 Channel(s)                               : 6 channels
@@ -72,7 +71,7 @@ ChannelLayout_Original                   : L R C LFE Ls Rs
 Sampling rate                            : 48.0 kHz
 Frame rate                               : 31.250 FPS (1536 SPF)
 Compression mode                         : Lossy
-Stream size                              : 522 MiB (5%)
+Stream size                              : 469 MiB (3%)
 Language                                 : German
 Service kind                             : Complete Main
 Default                                  : Yes
@@ -99,6 +98,28 @@ won't be reuploaded<br>
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[LLAVE1]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Live Audios (lossless)】ALAC - Taylor Swift - iTunes Live from SoHo [16Bits / 44.1 kHz] [2007] [Apple Music Lossless]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/taylor-swift-itunes-live-from-soho-16bits-44-1-khz-2007-apple-music-lossless.285586/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center"><img src="https://img1.pixhost.to/images/9217/648135679_cover.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://img1.pixhost.to/images/9217/648135679_cover.jpg" style=""> <br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></div><div style="text-align: left"><b>Credits to the original ripper.</b>​</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[crwelsummer]]></author>
                 </item>
 
                 </channel></rss>
