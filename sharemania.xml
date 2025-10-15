@@ -8,72 +8,259 @@
 
  
                 <item>
-                <title><![CDATA[【Requests】[REQ VID] - Bluey S1-3 Blu-ray X264 Remux]]></title>
-                <link><![CDATA[https://sharemania.us/threads/bluey-s1-3-blu-ray-x264-remux.286261/]]></link>
+                <title><![CDATA[【Music Videos】Coldplay - A Film For The Future [AV1 I 4K 2016p @25 I E-AC-3 JOC I 5.1 I 768 kb/s]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/coldplay-a-film-for-the-future-av1-i-4k-2016p-25-i-e-ac-3-joc-i-5-1-i-768-kb-s.286265/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					Is anyone able to remux the Blu-ray release of Bluey S1-03?
+					Hello there Coldplayers!!!<br>
+<br>
+(sorry in advance for my basic english)<br>
+<br>
+I know it was ten days ago, but for the 1st Moon Music birthday, I wanted to bring to this community afftf in 4K and with Dolby Digital Plus with Dolby Atmos 5.1. I know there wasn't a version with this audio quality, but I took it from the previous version of the music album from here (thanks to the <a href="https://sharemania.us/members/szymek04sawicki.145617/" class="internalLink">szymek04sawicki</a> post), and I just synced it and added to the AV1 2160p video we all know (which was easy, or at least I though that at first because didn´t know how to convert some time units as s to frames, and frames to ms, etc), but the complicated thing here (at least for me) was to achieve the merging and syncing without processing or re-decoding the whole audio file without losing the surround dd+ properties (frequency, audio channels, bitrate, tags, etc.) so I had to know and learn cmd ffmpeg commands, and of course, see they works (unluckily for me, ffpmeg doesn't support those lossless audio codecs and was a totally waste of time ). So, doing a little research (or I though it would be quick, again), I realized that mkvmerge (a mkvtoolnix muxing instance) do actually support the right DD+ codecs, but the commands were a little different, but anyway, it was just a matter of time to figured out and to get a very clean result, and, at the end, I decided to add 2 audio tracks for compatibility purposes, the main one is the DD- E-AC3 5.1, and second one it's a AAC 5.1 48.0 kHz based in the first one.<br>
+<br>
+So, I hope you'll enjoy as much as I did!! <br>
+(just 10 days late, but totally worth it). <br>
+<br>
+<img src="https://m.media-amazon.com/images/M/MV5BMDdiMTA1OWUtMGIxNC00NTM4LTg1ZTEtMGE1YjQ0YzZkYjI5XkEyXkFqcGc@._V1_FMjpg_UY1640_.jpg 1080w" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://m.media-amazon.com/images/M/MV5BMDdiMTA1OWUtMGIxNC00NTM4LTg1ZTEtMGE1YjQ0YzZkYjI5XkEyXkFqcGc@._V1_FMjpg_UY1640_.jpg 1080w" style=""> <br>
+<br>
+The visual accompaniment to Coldplay's album Moon Music, which was created by over 150 different visual artists from 45 countries. Each artist was given a handful of music snippets from Moon Music and asked to create corresponding visuals.<br>
+<br>
+<img src="https://imgur.com/a/JiUFDC8" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://imgur.com/a/JiUFDC8" style=""> <br>
+<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                      : 296269083606468545156758832354042626777 (0xDEE35997B98AD21EF1F61B46A258C2D9)
+Complete name                  : E:\Coldplay - A Film For The Future (2025).mkv
+Format                         : Matroska
+Format version                 : Version 4
+File size                      : 3.83 GiB
+Duration                       : 43 min 51 s
+Overall bit rate               : 12.5 Mb/s
+Frame rate                     : 25.000 FPS
+Movie name                     : Coldplay - A Film For The Future (2025)
+Encoded date                   : 2025-10-11 10:08:35 UTC
+Writing application            : mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+Writing library                : libebml v1.4.5 + libmatroska v1.7.1 / Lavf61.1.100
+Cover                          : Yes
+Attachments                    : cover.jpg
+
+Video
+ID                             : 1
+Format                         : AV1
+Format/Info                    : AOMedia Video 1
+Format profile                 : Main@L5.0
+Codec ID                       : V_AV1
+Duration                       : 43 min 50 s
+Bit rate                       : 11.6 Mb/s
+Width                          : 3 840 pixels
+Height                         : 2 160 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 25.000 FPS
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Bits/(Pixel*Frame)             : 0.056
+Stream size                    : 3.54 GiB (92%)
+Title                          : ISO Media file produced by Google Inc.
+Language                       : English
+Default                        : Yes
+Forced                         : No
+Color range                    : Limited
+Color primaries                : BT.709
+Transfer characteristics       : BT.709
+Matrix coefficients            : BT.709
+VENDOR_ID                      : [0][0][0][0]
+
+Audio #1
+ID                             : 2
+Format                         : E-AC-3 JOC
+Format/Info                    : Enhanced AC-3 with Joint Object Coding
+Commercial name                : Dolby Digital Plus with Dolby Atmos
+Codec ID                       : A_EAC3
+Duration                       : 43 min 49 s
+Bit rate mode                  : Constant
+Bit rate                       : 768 kb/s
+Channel(s)                     : 6 channels
+Channel layout                 : L R C LFE Ls Rs
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 31.250 FPS (1536 SPF)
+Compression mode               : Lossy
+Stream size                    : 241 MiB (6%)
+Language                       : English
+Service kind                   : Complete Main
+Default                        : Yes
+Forced                         : Yes
+Complexity index               : 16
+Number of dynamic objects      : 15
+Bed channel count              : 1 channel
+Bed channel configuration      : LFE
+Dialog Normalization           : -20 dB
+compr                          : -0.28 dB
+dmixmod                        : Lo/Ro
+ltrtcmixlev                    : -3.0 dB
+ltrtsurmixlev                  : -3.0 dB
+lorocmixlev                    : -3.0 dB
+lorosurmixlev                  : -3.0 dB
+dialnorm_Average               : -20 dB
+dialnorm_Minimum               : -20 dB
+dialnorm_Maximum               : -20 dB
+
+Audio #2
+ID                             : 3
+Format                         : AAC LC
+Format/Info                    : Advanced Audio Codec Low Complexity
+Codec ID                       : A_AAC-2
+Duration                       : 43 min 51 s
+Bit rate                       : 169 kb/s
+Channel(s)                     : 6 channels
+Channel layout                 : C L R Ls Rs LFE
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 46.875 FPS (1024 SPF)
+Compression mode               : Lossy
+Stream size                    : 53.1 MiB (1%)
+Language                       : English
+Default                        : Yes
+Forced                         : No</pre>
+</div><br>
+<span style="text-decoration: underline">DOWNLOAD:</span><br>
+<br>
+<br>
+<b>TERABOX:</b><br>
+[HYDE-REPLY]<i><a href="https://1024terabox.com/s/14SSivIWpqZ37TP03OgSTIA" target="_blank" class="externalLink" rel="nofollow">https://1024terabox.com/s/14SSivIWpqZ37TP03OgSTIA</a></i>[/HYDE-REPLY]<br>
+<br>
+<br>
+<b>PIXELDRAIN:</b><br>
+[HYDE-REPLY]<i><a href="https://pixeldrain.com/u/AeiFuAsq" target="_blank" class="externalLink" rel="nofollow">https://pixeldrain.com/u/AeiFuAsq</a></i>[/HYDE-REPLY]
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[NathBro]]></author>
+                <author><![CDATA[Ashiroi42]]></author>
                 </item>
 
                 
                 <item>
-                <title><![CDATA[【Albums (lossless)】FLAC - Grey Daze - 2020 - Amends (Vinyl Rip) (Limited Edition) [24bit-192kHz]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/grey-daze-2020-amends-vinyl-rip-limited-edition-24bit-192khz.286262/]]></link>
+                <title><![CDATA[【Requests】[REQ AUD] - Carrie Underwood Storyteller Deluxe New Zealand And Australia Tour Editions In Flac or Higher]]></title>
+                <link><![CDATA[https://sharemania.us/threads/carrie-underwood-storyteller-deluxe-new-zealand-and-australia-tour-editions-in-flac-or-higher.286264/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<div style="text-align: center"><img src="https://static.qobuz.com/images/covers/ea/7c/vyg4t3tm07cea_600.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://static.qobuz.com/images/covers/ea/7c/vyg4t3tm07cea_600.jpg" style=""> <br>
+					If Someone can share this I'd be very appreciative
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[DrakoAssault]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【UPSCALED】Lady Gaga - Poker Face (AI UPSCALED) 4K ProRes]]></title>
+                <link><![CDATA[https://sharemania.us/threads/lady-gaga-poker-face-ai-upscaled-4k-prores.286263/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.ibb.co/FbtG4LHx/Poker-Face-2160p-mov-00-25-158.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/FbtG4LHx/Poker-Face-2160p-mov-00-25-158.png" style=""><br>
+<img src="https://i.ibb.co/qFVPx1P2/Poker-Face-2160p-mov-00-33-466.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/qFVPx1P2/Poker-Face-2160p-mov-00-33-466.png" style=""><br>
+<img src="https://i.ibb.co/hJGrHBg2/Poker-Face-2160p-mov-01-05-498.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/hJGrHBg2/Poker-Face-2160p-mov-01-05-498.png" style=""><br>
+<img src="https://i.ibb.co/hRJvxBxF/Poker-Face-2160p-mov-02-01-621.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/hRJvxBxF/Poker-Face-2160p-mov-02-01-621.png" style=""><br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Format                                   : MPEG-4
+Format profile                           : QuickTime
+Codec ID                                 : qt   0000.02 (qt  )
+File size                                : 3.83 GiB
+Duration                                 : 3 min 40 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 149 Mb/s
+Frame rate                               : 29.970 FPS
+major_brand                              : qt
+minor_version                            : 512
+compatible_brands                        : qt
+encoder                                  : Lavf62.0.102
+
+Video
+ID                                       : 1
+Format                                   : ProRes
+Format version                           : Version 0
+Format profile                           : 422 Proxy
+Codec ID                                 : apco
+Duration                                 : 3 min 40 s
+Bit rate mode                            : Variable
+Bit rate                                 : 149 Mb/s
+Width                                    : 3 240 pixels
+Height                                   : 2 160 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:2
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.710
+Stream size                              : 3.82 GiB (100%)
+Writing library                          : Apple
+Matrix coefficients                      : BT.709
+Codec configuration box                  : glbl
+
+Audio
+ID                                       : 2
+Format                                   : .mp2
+Codec ID                                 : .mp2
+Duration                                 : 3 min 40 s
+Bit rate mode                            : Constant
+Bit rate                                 : 384 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Stream size                              : 10.1 MiB (0%)
+Default                                  : Yes
+Alternate group                          : 1
+</pre>
+</div></div>
+</div><div style="text-align: center"><b>Download</b><br>
+<a href="https://usersdrive.com/dt0danjmr97m.html" target="_blank" class="externalLink" rel="nofollow">ProRes 422 Proxy </a>​</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[itunesboy]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Cinema Center】WEB-DL - Haul Out The Halloween (2025) 1080p WEBRip x264 AAC-LAMA]]></title>
+                <link><![CDATA[https://sharemania.us/threads/haul-out-the-halloween-2025-1080p-webrip-x264-aac-lama.286266/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center"><img src="https://m.media-amazon.com/images/M/MV5BZDdlMDY0MzctY2ZhNi00MTY5LThmNTktNmUyYzU4ZmExMzZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://m.media-amazon.com/images/M/MV5BZDdlMDY0MzctY2ZhNi00MTY5LThmNTktNmUyYzU4ZmExMzZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" style=""> <br>
 <br>
-<b>Band</b>: Grey Daze<br>
-<b>Album</b>: Amends (Vinyl Rip) (Limited Edition)<br>
-<b>Date</b>: 26 June 2020<br>
-<b>Genre</b>: Alternative Rock / Post-Grunge<br>
-<b>Quality</b>: 24bit-192kHz<br>
-<b>Country</b>: USA<br>
-<b>Size</b>: 1,5GB<br>
+New, Halloween-obsessed neighbors inspire residents of Evergreen Lane to haul out their spookiest costumes and décor to become EverSCREAM Lane.<br>
+<a href="https://www.imdb.com/title/tt37211211" target="_blank" class="externalLink" rel="nofollow">https://www.imdb.com/title/tt37211211</a><br>
 <br>
-<b>Tracklist</b>:<br>
-<br>
-01. Sickness (2:51)<br>
-02. Sometimes (3:26)<br>
-03. What's In The Eye (3:25)<br>
-04. The Syndrome (3:49)<br>
-05. In Time (3:54)<br>
-06. Just Like Heroin (3:25)<br>
-07. B12 (3:33)<br>
-08. Soul Song (4:06)<br>
-09. Morei Sky (3:52)<br>
-10. She Shines (3:35)<br>
-11. Shouting Out (3:19)<br>
-<br>
-<b><span style="font-size: 26px"><span style="color: #660000">userdrive</span></span></b>:<br>
-<br>
+Download links:<br>
 
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div><b><span style="font-size: 26px"><span style="color: #336600">Filedot</span></span></b>:<br>
-<br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
 </div></div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[XRB80]]></author>
+                <author><![CDATA[gubrakz]]></author>
                 </item>
 
                 </channel></rss>
