@@ -8,247 +8,397 @@
 
  
                 <item>
-                <title><![CDATA[【Music Videos】Coldplay - A Film For The Future [AV1 I 4K 2016p @25 I E-AC-3 JOC I 5.1 I 768 kb/s]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/coldplay-a-film-for-the-future-av1-i-4k-2016p-25-i-e-ac-3-joc-i-5-1-i-768-kb-s.286265/]]></link>
+                <title><![CDATA[【Cinema Center】MOVIE - Diary of a Wimpy Kid: Rodrick Rules (2011) 1080p Bluray Dual DTS 5.1 (pt-br/english)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/diary-of-a-wimpy-kid-rodrick-rules-2011-1080p-bluray-dual-dts-5-1-pt-br-english.286268/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					Hello there Coldplayers!!!<br>
-<br>
-(sorry in advance for my basic english)<br>
-<br>
-I know it was ten days ago, but for the 1st Moon Music birthday, I wanted to bring to this community afftf in 4K and with Dolby Digital Plus with Dolby Atmos 5.1. I know there wasn't a version with this audio quality, but I took it from the previous version of the music album from here (thanks to the <a href="https://sharemania.us/members/szymek04sawicki.145617/" class="internalLink">szymek04sawicki</a> post), and I just synced it and added to the AV1 2160p video we all know (which was easy, or at least I though that at first because didn´t know how to convert some time units as s to frames, and frames to ms, etc), but the complicated thing here (at least for me) was to achieve the merging and syncing without processing or re-decoding the whole audio file without losing the surround dd+ properties (frequency, audio channels, bitrate, tags, etc.) so I had to know and learn cmd ffmpeg commands, and of course, see they works (unluckily for me, ffpmeg doesn't support those lossless audio codecs and was a totally waste of time ). So, doing a little research (or I though it would be quick, again), I realized that mkvmerge (a mkvtoolnix muxing instance) do actually support the right DD+ codecs, but the commands were a little different, but anyway, it was just a matter of time to figured out and to get a very clean result, and, at the end, I decided to add 2 audio tracks for compatibility purposes, the main one is the DD- E-AC3 5.1, and second one it's a AAC 5.1 48.0 kHz based in the first one.<br>
-<br>
-So, I hope you'll enjoy as much as I did!! <br>
-(just 10 days late, but totally worth it). <br>
-<br>
-<img src="https://m.media-amazon.com/images/M/MV5BMDdiMTA1OWUtMGIxNC00NTM4LTg1ZTEtMGE1YjQ0YzZkYjI5XkEyXkFqcGc@._V1_FMjpg_UY1640_.jpg 1080w" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://m.media-amazon.com/images/M/MV5BMDdiMTA1OWUtMGIxNC00NTM4LTg1ZTEtMGE1YjQ0YzZkYjI5XkEyXkFqcGc@._V1_FMjpg_UY1640_.jpg 1080w" style=""> <br>
-<br>
-The visual accompaniment to Coldplay's album Moon Music, which was created by over 150 different visual artists from 45 countries. Each artist was given a handful of music snippets from Moon Music and asked to create corresponding visuals.<br>
-<br>
-<img src="https://imgur.com/a/JiUFDC8" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://imgur.com/a/JiUFDC8" style=""> <br>
-<br>
-
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>General
-Unique ID                      : 296269083606468545156758832354042626777 (0xDEE35997B98AD21EF1F61B46A258C2D9)
-Complete name                  : E:\Coldplay - A Film For The Future (2025).mkv
-Format                         : Matroska
-Format version                 : Version 4
-File size                      : 3.83 GiB
-Duration                       : 43 min 51 s
-Overall bit rate               : 12.5 Mb/s
-Frame rate                     : 25.000 FPS
-Movie name                     : Coldplay - A Film For The Future (2025)
-Encoded date                   : 2025-10-11 10:08:35 UTC
-Writing application            : mkvmerge v95.0 ('Goodbye Stranger') 64-bit
-Writing library                : libebml v1.4.5 + libmatroska v1.7.1 / Lavf61.1.100
-Cover                          : Yes
-Attachments                    : cover.jpg
-
-Video
-ID                             : 1
-Format                         : AV1
-Format/Info                    : AOMedia Video 1
-Format profile                 : Main@L5.0
-Codec ID                       : V_AV1
-Duration                       : 43 min 50 s
-Bit rate                       : 11.6 Mb/s
-Width                          : 3 840 pixels
-Height                         : 2 160 pixels
-Display aspect ratio           : 16:9
-Frame rate mode                : Constant
-Frame rate                     : 25.000 FPS
-Color space                    : YUV
-Chroma subsampling             : 4:2:0
-Bit depth                      : 8 bits
-Bits/(Pixel*Frame)             : 0.056
-Stream size                    : 3.54 GiB (92%)
-Title                          : ISO Media file produced by Google Inc.
-Language                       : English
-Default                        : Yes
-Forced                         : No
-Color range                    : Limited
-Color primaries                : BT.709
-Transfer characteristics       : BT.709
-Matrix coefficients            : BT.709
-VENDOR_ID                      : [0][0][0][0]
-
-Audio #1
-ID                             : 2
-Format                         : E-AC-3 JOC
-Format/Info                    : Enhanced AC-3 with Joint Object Coding
-Commercial name                : Dolby Digital Plus with Dolby Atmos
-Codec ID                       : A_EAC3
-Duration                       : 43 min 49 s
-Bit rate mode                  : Constant
-Bit rate                       : 768 kb/s
-Channel(s)                     : 6 channels
-Channel layout                 : L R C LFE Ls Rs
-Sampling rate                  : 48.0 kHz
-Frame rate                     : 31.250 FPS (1536 SPF)
-Compression mode               : Lossy
-Stream size                    : 241 MiB (6%)
-Language                       : English
-Service kind                   : Complete Main
-Default                        : Yes
-Forced                         : Yes
-Complexity index               : 16
-Number of dynamic objects      : 15
-Bed channel count              : 1 channel
-Bed channel configuration      : LFE
-Dialog Normalization           : -20 dB
-compr                          : -0.28 dB
-dmixmod                        : Lo/Ro
-ltrtcmixlev                    : -3.0 dB
-ltrtsurmixlev                  : -3.0 dB
-lorocmixlev                    : -3.0 dB
-lorosurmixlev                  : -3.0 dB
-dialnorm_Average               : -20 dB
-dialnorm_Minimum               : -20 dB
-dialnorm_Maximum               : -20 dB
-
-Audio #2
-ID                             : 3
-Format                         : AAC LC
-Format/Info                    : Advanced Audio Codec Low Complexity
-Codec ID                       : A_AAC-2
-Duration                       : 43 min 51 s
-Bit rate                       : 169 kb/s
-Channel(s)                     : 6 channels
-Channel layout                 : C L R Ls Rs LFE
-Sampling rate                  : 48.0 kHz
-Frame rate                     : 46.875 FPS (1024 SPF)
-Compression mode               : Lossy
-Stream size                    : 53.1 MiB (1%)
-Language                       : English
-Default                        : Yes
-Forced                         : No</pre>
-</div><br>
-<span style="text-decoration: underline">DOWNLOAD:</span><br>
+					<img src="https://i.imgur.com/gznTVAK.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/gznTVAK.jpeg" style=""><br>
 <br>
 <br>
-<b>TERABOX:</b><br>
-[HYDE-REPLY]<i><a href="https://1024terabox.com/s/14SSivIWpqZ37TP03OgSTIA" target="_blank" class="externalLink" rel="nofollow">https://1024terabox.com/s/14SSivIWpqZ37TP03OgSTIA</a></i>[/HYDE-REPLY]<br>
 <br>
+<span style="font-size: 22px">Diary of a Wimpy Kid: Rodrick Rules (2011)</span><br>
+<span style="font-size: 15px"><span style="color: #bfbfbf">Diário de um Banana: Rodrick é o Cara</span></span><br>
 <br>
-<b>PIXELDRAIN:</b><br>
-[HYDE-REPLY]<i><a href="https://pixeldrain.com/u/AeiFuAsq" target="_blank" class="externalLink" rel="nofollow">https://pixeldrain.com/u/AeiFuAsq</a></i>[/HYDE-REPLY]
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[Ashiroi42]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Carrie Underwood Storyteller Deluxe New Zealand And Australia Tour Editions In Flac or Higher]]></title>
-                <link><![CDATA[https://sharemania.us/threads/carrie-underwood-storyteller-deluxe-new-zealand-and-australia-tour-editions-in-flac-or-higher.286264/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					If Someone can share this I'd be very appreciative
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[DrakoAssault]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【UPSCALED】Lady Gaga - Poker Face (AI UPSCALED) 4K ProRes]]></title>
-                <link><![CDATA[https://sharemania.us/threads/lady-gaga-poker-face-ai-upscaled-4k-prores.286263/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<img src="https://i.ibb.co/FbtG4LHx/Poker-Face-2160p-mov-00-25-158.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/FbtG4LHx/Poker-Face-2160p-mov-00-25-158.png" style=""><br>
-<img src="https://i.ibb.co/qFVPx1P2/Poker-Face-2160p-mov-00-33-466.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/qFVPx1P2/Poker-Face-2160p-mov-00-33-466.png" style=""><br>
-<img src="https://i.ibb.co/hJGrHBg2/Poker-Face-2160p-mov-01-05-498.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/hJGrHBg2/Poker-Face-2160p-mov-01-05-498.png" style=""><br>
-<img src="https://i.ibb.co/hRJvxBxF/Poker-Face-2160p-mov-02-01-621.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/hRJvxBxF/Poker-Face-2160p-mov-02-01-621.png" style=""><br>
+<span style="font-size: 15px"><span style="color: #000000">Comentário: O filme é um Bluray sem compactação (por isso o tamanho), para esse filme foi utilizada a fonte: (BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR) e adicionado o áudio e legendas em português retiradas do DVD original<br>
+<br>
+Comment: The movie is an uncompressed Blu-ray (hence the size), for this film the source was used: (BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR) and the audio and subtitles in Portuguese taken from the original DVD were added.<br>
+</span><br>
+</span><br>
 
 
 
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MEDIAINFO</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">General<br>
+<br>
+Unique ID                                : 164077768406830019161918549226905521471 (0x7B703A8E97C7778CAF95F65D742DCD3F)<br>
+<br>
+Complete name                            : Diary.of.a.Wimpy.Kid.Rodrick.Rules.2011.BluRay.1080p.Dual.DTS-HD.MA.5.1.AVC.REMUX-fgump.mkv<br>
+<br>
+Format                                   : Matroska<br>
+<br>
+Format version                           : Version 4<br>
+<br>
+File size                                : 26.1 GiB<br>
+<br>
+Duration                                 : 1 h 39 min<br>
+<br>
+Overall bit rate mode                    : Variable<br>
+<br>
+Overall bit rate                         : 37.5 Mb/s<br>
+<br>
+Frame rate                               : 23.976 FPS<br>
+<br>
+Encoded date                             : 2025-10-15 03:36:05 UTC<br>
+<br>
+Writing application                      : mkvmerge 73.0.0 ('25 or 6 to 4') 64-bit<br>
+<br>
+Writing library                          : libebml v1.4.4 + libmatroska v1.7.1<br>
+<br>
+<br>
+<br>
+Video<br>
+<br>
+ID                                       : 1<br>
+<br>
+Format                                   : AVC<br>
+<br>
+Format/Info                              : Advanced Video Codec<br>
+<br>
+Format profile                           : High@L4.1<br>
+<br>
+Format settings                          : CABAC / 4 Ref Frames<br>
+<br>
+Format settings, CABAC                   : Yes<br>
+<br>
+Format settings, Reference frames        : 4 frames<br>
+<br>
+Format settings, GOP                     : M=2, N=24<br>
+<br>
+Format settings, Slice count             : 4 slices per frame<br>
+<br>
+Codec ID                                 : V_MPEG4/ISO/AVC<br>
+<br>
+Duration                                 : 1 h 39 min<br>
+<br>
+Bit rate mode                            : Variable<br>
+<br>
+Bit rate                                 : 33.3 Mb/s<br>
+<br>
+Maximum bit rate                         : 35.5 Mb/s<br>
+<br>
+Width                                    : 1 920 pixels<br>
+<br>
+Height                                   : 1 080 pixels<br>
+<br>
+Display aspect ratio                     : 16:9<br>
+<br>
+Frame rate mode                          : Constant<br>
+<br>
+Frame rate                               : 23.976 (24000/1001) FPS<br>
+<br>
+Color space                              : YUV<br>
+<br>
+Chroma subsampling                       : 4:2:0<br>
+<br>
+Bit depth                                : 8 bits<br>
+<br>
+Scan type                                : Progressive<br>
+<br>
+Bits/(Pixel*Frame)                       : 0.670<br>
+<br>
+Stream size                              : 23.2 GiB (89%)<br>
+<br>
+Default                                  : Yes<br>
+<br>
+Forced                                   : No<br>
+<br>
+<br>
+<br>
+Audio #1<br>
+<br>
+ID                                       : 2<br>
+<br>
+Format                                   : AC-3<br>
+<br>
+Format/Info                              : Audio Coding 3<br>
+<br>
+Commercial name                          : Dolby Digital<br>
+<br>
+Codec ID                                 : A_AC3<br>
+<br>
+Duration                                 : 1 h 39 min<br>
+<br>
+Bit rate mode                            : Constant<br>
+<br>
+Bit rate                                 : 384 kb/s<br>
+<br>
+Channel(s)                               : 6 channels<br>
+<br>
+Channel layout                           : L R C LFE Ls Rs<br>
+<br>
+Sampling rate                            : 48.0 kHz<br>
+<br>
+Frame rate                               : 31.250 FPS (1536 SPF)<br>
+<br>
+Compression mode                         : Lossy<br>
+<br>
+Stream size                              : 273 MiB (1%)<br>
+<br>
+Title                                    : Dolby Digital 5.1<br>
+<br>
+Language                                 : Portuguese (BR)<br>
+<br>
+Service kind                             : Complete Main<br>
+<br>
+Default                                  : Yes<br>
+<br>
+Forced                                   : No<br>
+<br>
+Dialog Normalization                     : -31 dB<br>
+<br>
+compr                                    : -0.28 dB<br>
+<br>
+cmixlev                                  : -3.0 dB<br>
+<br>
+surmixlev                                : -3 dB<br>
+<br>
+dmixmod                                  : Lt/Rt<br>
+<br>
+ltrtcmixlev                              : -3.0 dB<br>
+<br>
+ltrtsurmixlev                            : -3.0 dB<br>
+<br>
+lorocmixlev                              : -3.0 dB<br>
+<br>
+lorosurmixlev                            : -3.0 dB<br>
+<br>
+dialnorm_Average                         : -31 dB<br>
+<br>
+dialnorm_Minimum                         : -31 dB<br>
+<br>
+dialnorm_Maximum                         : -31 dB<br>
+<br>
+<br>
+<br>
+Audio #2<br>
+<br>
+ID                                       : 3<br>
+<br>
+Format                                   : DTS XLL<br>
+<br>
+Format/Info                              : Digital Theater Systems<br>
+<br>
+Commercial name                          : DTS-HD Master Audio<br>
+<br>
+Codec ID                                 : A_DTS<br>
+<br>
+Duration                                 : 1 h 39 min<br>
+<br>
+Bit rate mode                            : Variable<br>
+<br>
+Bit rate                                 : 3 790 kb/s<br>
+<br>
+Channel(s)                               : 6 channels<br>
+<br>
+Channel layout                           : C L R Ls Rs LFE<br>
+<br>
+Sampling rate                            : 48.0 kHz<br>
+<br>
+Frame rate                               : 93.750 FPS (512 SPF)<br>
+<br>
+Bit depth                                : 24 bits<br>
+<br>
+Compression mode                         : Lossless<br>
+<br>
+Stream size                              : 2.64 GiB (10%)<br>
+<br>
+Title                                    : DTS-HD MA 5.1<br>
+<br>
+Language                                 : English<br>
+<br>
+Default                                  : Yes<br>
+<br>
+Forced                                   : No<br>
+<br>
+<br>
+<br>
+Text #1<br>
+<br>
+ID                                       : 4<br>
+<br>
+Format                                   : VobSub<br>
+<br>
+Muxing mode                              : zlib<br>
+<br>
+Codec ID                                 : S_VOBSUB<br>
+<br>
+Codec ID/Info                            : Picture based subtitle format used on DVDs<br>
+<br>
+Duration                                 : 1 h 39 min<br>
+<br>
+Bit rate                                 : 2 862 b/s<br>
+<br>
+Frame rate                               : 0.207 FPS<br>
+<br>
+Count of elements                        : 1239<br>
+<br>
+Stream size                              : 2.04 MiB (0%)<br>
+<br>
+Title                                    : Portuguese<br>
+<br>
+Language                                 : Portuguese (BR)<br>
+<br>
+Default                                  : No<br>
+<br>
+Forced                                   : No<br>
+<br>
+<br>
+<br>
+Text #2<br>
+<br>
+ID                                       : 5<br>
+<br>
+Format                                   : PGS<br>
+<br>
+Muxing mode                              : zlib<br>
+<br>
+Codec ID                                 : S_HDMV/PGS<br>
+<br>
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs<br>
+<br>
+Duration                                 : 1 h 39 min<br>
+<br>
+Bit rate                                 : 48.7 kb/s<br>
+<br>
+Frame rate                               : 0.565 FPS<br>
+<br>
+Count of elements                        : 3356<br>
+<br>
+Stream size                              : 34.5 MiB (0%)<br>
+<br>
+Title                                    : English (SDH)<br>
+<br>
+Language                                 : English<br>
+<br>
+Default                                  : No<br>
+<br>
+Forced                                   : No<br>
+<br>
+<br>
+<br>
+Menu<br>
+<br>
+00:00:00.000                             : en:Chapter 1<br>
+<br>
+00:09:01.624                             : en:Chapter 2<br>
+<br>
+00:09:31.988                             : en:Chapter 3<br>
+<br>
+00:12:16.069                             : en:Chapter 4<br>
+<br>
+00:14:14.687                             : en:Chapter 5<br>
+<br>
+00:17:10.780                             : en:Chapter 6<br>
+<br>
+00:19:58.697                             : en:Chapter 7<br>
+<br>
+00:24:10.741                             : en:Chapter 8<br>
+<br>
+00:28:00.178                             : en:Chapter 9<br>
+<br>
+00:36:13.797                             : en:Chapter 10<br>
+<br>
+00:41:47.714                             : en:Chapter 11<br>
+<br>
+00:46:37.545                             : en:Chapter 12<br>
+<br>
+00:50:34.865                             : en:Chapter 13<br>
+<br>
+00:54:10.497                             : en:Chapter 14<br>
+<br>
+00:57:14.181                             : en:Chapter 15<br>
+<br>
+01:01:52.042                             : en:Chapter 16<br>
+<br>
+01:04:19.064                             : en:Chapter 17<br>
+<br>
+01:08:09.043                             : en:Chapter 18<br>
+<br>
+01:12:24.674                             : en:Chapter 19<br>
+<br>
+01:16:14.779                             : en:Chapter 20<br>
+<br>
+01:20:05.092                             : en:Chapter 21<br>
+<br>
+01:25:53.273                             : en:Chapter 22<br>
+<br>
+01:29:43.503                             : en:Chapter 23<br>
+<br>
+01:33:11.878                             : en:Chapter 24</div>
+</div><br>
+SCREENSHOTS:<br>
+<br>
+<img src="https://i.imgur.com/zHmzQZG.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/zHmzQZG.png" style=""><br>
+<br>
+<img src="https://i.imgur.com/cLVRieP.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/cLVRieP.jpeg" style=""><br>
+<br>
+<img src="https://i.imgur.com/iY1OqEk.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/iY1OqEk.jpeg" style=""><br>
+<br>
+<img src="https://i.imgur.com/ArQYrPQ.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/ArQYrPQ.jpeg" style=""><br>
+<br>
+<span style="font-size: 22px"><span style="color: #000000">LINKS:</span></span><br>
+<span style="font-size: 18px">GOFILE: 
 
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>General
-Format                                   : MPEG-4
-Format profile                           : QuickTime
-Codec ID                                 : qt   0000.02 (qt  )
-File size                                : 3.83 GiB
-Duration                                 : 3 min 40 s
-Overall bit rate mode                    : Variable
-Overall bit rate                         : 149 Mb/s
-Frame rate                               : 29.970 FPS
-major_brand                              : qt
-minor_version                            : 512
-compatible_brands                        : qt
-encoder                                  : Lavf62.0.102
 
-Video
-ID                                       : 1
-Format                                   : ProRes
-Format version                           : Version 0
-Format profile                           : 422 Proxy
-Codec ID                                 : apco
-Duration                                 : 3 min 40 s
-Bit rate mode                            : Variable
-Bit rate                                 : 149 Mb/s
-Width                                    : 3 240 pixels
-Height                                   : 2 160 pixels
-Display aspect ratio                     : 4:3
-Frame rate mode                          : Constant
-Frame rate                               : 29.970 (30000/1001) FPS
-Color space                              : YUV
-Chroma subsampling                       : 4:2:2
-Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.710
-Stream size                              : 3.82 GiB (100%)
-Writing library                          : Apple
-Matrix coefficients                      : BT.709
-Codec configuration box                  : glbl
 
-Audio
-ID                                       : 2
-Format                                   : .mp2
-Codec ID                                 : .mp2
-Duration                                 : 3 min 40 s
-Bit rate mode                            : Constant
-Bit rate                                 : 384 kb/s
-Channel(s)                               : 2 channels
-Channel layout                           : L R
-Sampling rate                            : 48.0 kHz
-Stream size                              : 10.1 MiB (0%)
-Default                                  : Yes
-Alternate group                          : 1
-</pre>
-</div></div>
-</div><div style="text-align: center"><b>Download</b><br>
-<a href="https://usersdrive.com/dt0danjmr97m.html" target="_blank" class="externalLink" rel="nofollow">ProRes 422 Proxy </a>​</div>
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></span><br>
+<br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">DONT CLICK</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText"><img src="https://i.imgur.com/uDpE1Mv.gif" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/uDpE1Mv.gif" style=""><br>
+<span style="font-size: 26px"><span style="color: #ccff99">T</span><span style="color: #ff0000">H</span><span style="color: #00b3b3">A</span><span style="color: #0080ff">N</span><span style="color: #b300b3">K</span><span style="color: #003366">S</span><span style="color: #000000">!</span><span style="color: #006666">!</span><span style="color: #8000ff">!</span></span></div>
+</div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[itunesboy]]></author>
+                <author><![CDATA[forrestgump]]></author>
                 </item>
 
                 
                 <item>
-                <title><![CDATA[【Cinema Center】WEB-DL - Haul Out The Halloween (2025) 1080p WEBRip x264 AAC-LAMA]]></title>
-                <link><![CDATA[https://sharemania.us/threads/haul-out-the-halloween-2025-1080p-webrip-x264-aac-lama.286266/]]></link>
+                <title><![CDATA[【Cinema Center】SERIES - Splinter Cell Deathwatch S01 1080p NF WEB-DL [Lat-Ing]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/splinter-cell-deathwatch-s01-1080p-nf-web-dl-lat-ing.286267/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<div style="text-align: center"><img src="https://m.media-amazon.com/images/M/MV5BZDdlMDY0MzctY2ZhNi00MTY5LThmNTktNmUyYzU4ZmExMzZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://m.media-amazon.com/images/M/MV5BZDdlMDY0MzctY2ZhNi00MTY5LThmNTktNmUyYzU4ZmExMzZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" style=""> <br>
+					<img src="https://images2.imgbox.com/c5/0b/j6yn4yh1_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/c5/0b/j6yn4yh1_o.jpg" style=""> <br>
+<div style="text-align: center"><b>Sinopsis</b><br>
+En el sombrío mundo del espionaje, Sam Fisher es a la vez un rumor y una leyenda, y vuelve a la acción para ayudar a una nueva recluta a destapar una conspiración mundial.<br>
+<b>Datos Tecnicos</b><br>
+Fuente video: WEB-DL 1080p H264 1920x1080 (Main@L4, AVC)<br>
+Fuente audios: WEB-DL E-AC3 5.1 a 640 kb/s<br>
+Fuente audios: WEB-DL E-AC3 5.1 a 768 kb/s<br>
+Idiomas audios:English, Español (Latinoamérica)<br>
+Formato de subtítulos: SubRip (.srt)<br>
+Idiomas subtitulos: Español (Latinoamérica),English<br>
+Servidor: Mega<br>
+Peso por Cap 1 GB aproximado<br>
+Capitulos : 8<br>
+Contraseña: Subtronics<br>
 <br>
-New, Halloween-obsessed neighbors inspire residents of Evergreen Lane to haul out their spookiest costumes and décor to become EverSCREAM Lane.<br>
-<a href="https://www.imdb.com/title/tt37211211" target="_blank" class="externalLink" rel="nofollow">https://www.imdb.com/title/tt37211211</a><br>
+<b>Capturas<br>
+<img src="https://images2.imgbox.com/d4/64/zT5HuWyr_o.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/d4/64/zT5HuWyr_o.png" style=""> <img src="https://images2.imgbox.com/32/b7/XhBPmQim_o.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/32/b7/XhBPmQim_o.png" style=""> <br>
 <br>
-Download links:<br>
+Descargar<br>
+</b><br>
 
 
 
@@ -260,7 +410,7 @@ Download links:<br>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[gubrakz]]></author>
+                <author><![CDATA[Subtronics]]></author>
                 </item>
 
                 </channel></rss>
