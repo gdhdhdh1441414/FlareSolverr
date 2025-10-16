@@ -1,3 +1,5 @@
+threads/bbno-bbno-tidal-max-16bit-44-1khz.286405/
+threads/pinkpantheress-fancy-that-qobuz-24bit-96khz.286404/
 threads/of-monsters-and-men-all-is-love-and-pain-in-the-mouse-parade-qobuz-hi-res-24bit-48-0khz.286403/
 threads/grimes-artificial-angels-qobuz-hi-res-24bit-48-0khz.286402/
 threads/leigh-anne-dead-and-gone-tidal-max-24bit-48-0khz.286401/
@@ -20,5 +22,3 @@ threads/rihanna-whats-my-name-cdr-promo-2010.286385/
 threads/melanie-c-sweat-itunes-aac-m4a.286384/
 threads/metallica-master-of-puppets-1986-838-141-2-thrash-metal-cdrip-16bit-44-1khz-tracks-log-cue.286383/
 threads/monaleo-who-did-the-body-qobuz-hi-res-24bit-44-1khz.286382/
-threads/maggie-lindemann-i-feel-everything-qobuz-hi-res-24bit-44-1khz.286381/
-threads/lexie-liu-teenage-ramble-ep-qobuz-hi-res-24bit-44-1khz.286380/
