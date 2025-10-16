@@ -8,62 +8,93 @@
 
  
                 <item>
-                <title><![CDATA[【Albums (lossless)】FLAC - Felix Cartal - i, sabotage | Qobuz CD 16bit / 44.1kHz]]></title>
-                <link><![CDATA[https://sharemania.us/threads/felix-cartal-i-sabotage-qobuz-cd-16bit-44-1khz.286406/]]></link>
+                <title><![CDATA[【UPSCALED】Fergie - Fergalicious (AI UPSCALED) 4K ProRes]]></title>
+                <link><![CDATA[https://sharemania.us/threads/fergie-fergalicious-ai-upscaled-4k-prores.286408/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<div style="text-align: center"><img src="https://static.qobuz.com/images/covers/xb/e7/hmh0yzfsne7xb_600.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://static.qobuz.com/images/covers/xb/e7/hmh0yzfsne7xb_600.jpg" style=""><br>
-<span style="font-size: 15px"><b>Felix Cartal - i, sabotage</b></span><br>
-<br>
-<span style="font-size: 12px"><b>Tracklist</b></span><br>
-<b>1.</b> Felix Cartal – Nothing Like This (feat. Charlie Houston)<br>
-<b>2.</b> Felix Cartal &amp; Aiko – Wanna Go <i>(03:38)</i><br>
-<b>3.</b> Felix Cartal – Sabotage<br>
-<b>4.</b> Felix Cartal &amp; Rêve – Dancing In A Dream <i>(02:38)</i><br>
-<b>5.</b> Felix Cartal &amp; Reo Cragun – Summer Rain <i>(02:57)</i><br>
-<b>6.</b> Felix Cartal &amp; Tegan and Sara – Right On Time <i>(03:15)</i><br>
-<b>7.</b> Felix Cartal &amp; Lizzy Land – Caught In A Loop (I've Changed)<br>
-<b>8.</b> Felix Cartal &amp; Ofelia K – Mouth Of Madness <i>(04:05)</i><br>
-<b>9.</b> Felix Cartal &amp; Vox Rea – Dissociate <i>(04:30)</i><br>
-<b>10.</b> Felix Cartal &amp; PHEA – No Air<br>
-<b>11.</b> Felix Cartal – At Pace<br>
-<b>12.</b> Felix Cartal &amp; Gucci Caliente – Dance And Cry<br>
-<b>13.</b> Felix Cartal – Can't Stop Thinking<br>
-<b>14.</b> Felix Cartal &amp; Elohim – Set Me Free<br>
-<b>15.</b> Felix Cartal &amp; Lights – Feel Less <i>(04:01)</i><br>
+					<img src="https://i.ibb.co/G4WWhjX2/Fergalicious-2160p-mov-00-42-142.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/G4WWhjX2/Fergalicious-2160p-mov-00-42-142.png" style=""><br>
+<img src="https://i.ibb.co/8DTtgHn3/Fergalicious-2160p-mov-00-50-683.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/8DTtgHn3/Fergalicious-2160p-mov-00-50-683.png" style=""><br>
+<img src="https://i.ibb.co/9LkYy7N/Fergalicious-2160p-mov-02-07-994.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/9LkYy7N/Fergalicious-2160p-mov-02-07-994.png" style=""><br>
+<img src="https://i.ibb.co/rGxZMmSy/Fergalicious-2160p-mov-02-38-558.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/rGxZMmSy/Fergalicious-2160p-mov-02-38-558.png" style=""> <br>
 
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Format                                   : MPEG-4
+Format profile                           : QuickTime
+Codec ID                                 : qt   0000.02 (qt  )
+File size                                : 4.21 GiB
+Duration                                 : 4 min 23 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 137 Mb/s
+Frame rate                               : 29.970 FPS
+minor_version                            : 512
+major_brand                              : qt
+compatible_brands                        : qt
+encoder                                  : Lavf62.0.102
+
+Video
+ID                                       : 1
+Format                                   : ProRes
+Format version                           : Version 0
+Format profile                           : 422 Proxy
+Codec ID                                 : apco
+Duration                                 : 4 min 23 s
+Bit rate mode                            : Variable
+Bit rate                                 : 135 Mb/s
+Width                                    : 3 240 pixels
+Height                                   : 2 160 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:2
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.644
+Stream size                              : 4.14 GiB (98%)
+Writing library                          : Apple
+Matrix coefficients                      : BT.601
+Codec configuration box                  : glbl
+
+Audio
+ID                                       : 2
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : in24
+Duration                                 : 4 min 23 s
+Source duration                          : 4 min 8 s
+Bit rate mode                            : Constant
+Bit rate                                 : 2 304 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Stream size                              : 72.4 MiB (2%)
+Source stream size                       : 68.2 MiB (2%)
+Language                                 : English
+Default                                  : Yes
+Alternate group                          : 1
+</pre>
+</div></div>
+</div><div style="text-align: center">
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
 </div></div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[Yennefer]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Natalia Kills - Controversy (Cyberkills REMIX) FLAC/WAV]]></title>
-                <link><![CDATA[https://sharemania.us/threads/natalia-kills-controversy-cyberkills-remix-flac-wav.286407/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					Hi!<br>
-<br>
-Could someone upload this remix in wav or flac quality?<br>
-<br>
-<span data-s9e-mediaembed="bandcamp" style="display:inline-block;width:100%;max-width:400px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:100%"><iframe allowfullscreen="" loading="lazy" scrolling="no" style="border:0;height:100%;left:0;position:absolute;width:100%" src="//bandcamp.com/EmbeddedPlayer/size=large/minimal=true/track=1904713560"></iframe></span></span><br>
-<br>
-Thanks!
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[dubego]]></author>
+                <author><![CDATA[itunesboy]]></author>
                 </item>
 
                 </channel></rss>
