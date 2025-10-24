@@ -8,15 +8,12 @@
 
  
                 <item>
-                <title><![CDATA[【UPSCALED】Demi Lovato - Let You Go (Live) (AI UPSCALED) 4K ProRes]]></title>
-                <link><![CDATA[https://sharemania.us/threads/demi-lovato-let-you-go-live-ai-upscaled-4k-prores.286918/]]></link>
+                <title><![CDATA[【Cinema Center】MOVIE - Helloween 2025 1080p Blu-ray Remux AVC DTS-HD MA 5.1-HDT]]></title>
+                <link><![CDATA[https://sharemania.us/threads/helloween-2025-1080p-blu-ray-remux-avc-dts-hd-ma-5-1-hdt.286919/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.ibb.co/qMv1XVJn/Let-You-Go-Live.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/qMv1XVJn/Let-You-Go-Live.jpg" style=""><br>
-<img src="https://i.ibb.co/vvvXPG5z/Let-You-Go-Live-2.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/vvvXPG5z/Let-You-Go-Live-2.jpg" style=""><br>
-<img src="https://i.ibb.co/Ng33gRZr/Let-You-Go-Live-3.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/Ng33gRZr/Let-You-Go-Live-3.jpg" style=""><br>
-<img src="https://i.ibb.co/VYwV2MBr/Let-You-Go-Live-4.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/VYwV2MBr/Let-You-Go-Live-4.jpg" style=""><br>
+					<img src="https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ac/78/b5/ac78b5b5-3ebb-0375-f1cf-1eaeca819e07/Helloween_iTunes_Poster_2000x3000.png/2000x3000CA.TVA23C01.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ac/78/b5/ac78b5b5-3ebb-0375-f1cf-1eaeca819e07/Helloween_iTunes_Poster_2000x3000.png/2000x3000CA.TVA23C01.jpg" style=""> <br>
 
 
 
@@ -27,76 +24,101 @@
 <div class="bbCodeBlock bbCodeCode">
 	<div class="type">Code:</div>
 	<pre>General
-Format                                   : MPEG-4
-Format profile                           : QuickTime
-Codec ID                                 : qt   0000.02 (qt  )
-File size                                : 2.18 GiB
-Duration                                 : 3 min 20 s
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 19.8 GiB
+Duration                                 : 1 h 20 min
 Overall bit rate mode                    : Variable
-Overall bit rate                         : 93.7 Mb/s
-Frame rate                               : 24.000 FPS
-Encoded date                             : 2025-10-23 17:51:50 UTC
-Tagged date                              : 2025-10-23 17:51:50 UTC
-compatible_brands                        : isomiso4
-major_brand                              : isom
-minor_version                            : 1
-creation_time                            : 2025-10-23T17:51:50.000000Z
-artist                                   : Demi Lovato
-title                                    : Let You Go (Live)
-genre                                    : Pop
-date                                     : 2025-10-24
-rating                                   : 0
-track                                    : 0
-performers                               : Demi Lovato
-encoder                                  : Lavf62.0.102
+Overall bit rate                         : 35.3 Mb/s
+Frame rate                               : 23.976 FPS
+Encoded date                             : 2025-10-24 12:58:23 UTC
+Writing application                      : mkvmerge v87.0 ('Black as the Sky') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
 
 Video
 ID                                       : 1
-Format                                   : ProRes
-Format version                           : Version 0
-Format profile                           : 422 Proxy
-Codec ID                                 : apco
-Duration                                 : 3 min 20 s
+ID in the original source medium         : 4113 (0x1011)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, GOP                     : M=3, N=24
+Format settings, Slice count             : 4 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 20 min
 Bit rate mode                            : Variable
-Bit rate                                 : 93.4 Mb/s
-Width                                    : 3 144 pixels
-Height                                   : 2 160 pixels
-Display aspect ratio                     : 3:2
+Bit rate                                 : 33.3 Mb/s
+Maximum bit rate                         : 35.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
 Frame rate mode                          : Constant
-Frame rate                               : 24.000 FPS
+Frame rate                               : 23.976 (24000/1001) FPS
+Standard                                 : NTSC
 Color space                              : YUV
-Chroma subsampling                       : 4:2:2
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
 Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.573
-Stream size                              : 2.18 GiB (100%)
-Writing library                          : Apple
-Encoded date                             : 2025-10-23 17:51:50 UTC
-Tagged date                              : 2025-10-23 17:51:50 UTC
+Bits/(Pixel*Frame)                       : 0.669
+Stream size                              : 18.7 GiB (94%)
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
 Color primaries                          : BT.709
 Transfer characteristics                 : BT.709
 Matrix coefficients                      : BT.709
-Codec configuration box                  : glbl
+Original source medium                   : Blu-ray
 
 Audio
 ID                                       : 2
-Format                                   : AAC LC
-Format/Info                              : Advanced Audio Codec Low Complexity
-Codec ID                                 : mp4a-40-2
-Duration                                 : 3 min 20 s
-Duration_LastFrame                       : -15 ms
-Bit rate mode                            : Constant
-Bit rate                                 : 265 kb/s
-Channel(s)                               : 2 channels
-Channel layout                           : L R
+ID in the original source medium         : 4352 (0x1100)
+Format                                   : DTS XLL
+Format/Info                              : Digital Theater Systems
+Commercial name                          : DTS-HD Master Audio
+Codec ID                                 : A_DTS
+Duration                                 : 1 h 20 min
+Bit rate mode                            : Variable
+Bit rate                                 : 2 000 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
 Sampling rate                            : 48.0 kHz
-Frame rate                               : 46.875 FPS (1024 SPF)
-Compression mode                         : Lossy
-Stream size                              : 6.31 MiB (0%)
-Title                                    : Core Media Audio
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Stream size                              : 1.12 GiB (6%)
+Language                                 : English
 Default                                  : Yes
-Alternate group                          : 1
-Encoded date                             : 2025-10-23 17:51:50 UTC
-Tagged date                              : 2025-10-23 17:51:50 UTC
+Forced                                   : No
+Original source medium                   : Blu-ray
+
+Text
+ID                                       : 3
+ID in the original source medium         : 4608 (0x1200)
+Format                                   : PGS
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 1 h 19 min
+Bit rate                                 : 30.5 kb/s
+Frame rate                               : 0.513 FPS
+Count of elements                        : 2458
+Stream size                              : 17.4 MiB (0%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Original source medium                   : Blu-ray
+
+Menu
+00:00:00.000                             : en:Chapter 01
+00:12:17.027                             : en:Chapter 02
+00:23:47.926                             : en:Chapter 03
+00:35:28.626                             : en:Chapter 04
+00:46:36.210                             : en:Chapter 05
+00:55:58.355                             : en:Chapter 06
+01:08:47.665                             : en:Chapter 07
+01:16:34.131                             : en:Chapter 08
+
 </pre>
 </div></div>
 </div><div style="text-align: center">
@@ -111,6 +133,940 @@ Tagged date                              : 2025-10-23 17:51:50 UTC
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[itunesboy]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Goldene Henne 2021 - 17-09-2021 mdrHD IPTV 720p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/goldene-henne-2021-17-09-2021-mdrhd-iptv-720p.286925/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/gRC8BaK.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/gRC8BaK.jpeg" style=""><br>
+<br>
+Musikalische Höhepunkte der Show sind Auftritte von Ray Dalton, Nathan Evans, Silly, Jeanette Biedermann, Die Prinzen, Alice Merton, Max Giesinger, Cassandra Steen, Leony und Wincent Weiss.<br>
+<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 125504565243628228516925474979515419422 (0x5E6B4CCF28C9D337A048662D42974B1E)
+Complete name                            : Goldene Henne 2021 - 17-09-2021 mdrHD IPTV 720p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 7.48 GiB
+Duration                                 : 3 h 32 min
+Overall bit rate                         : 5 045 kb/s
+Frame rate                               : 50.000 FPS
+Writing application                      : VideoReDo (Lavf58.29.100)
+Writing library                          : VideoReDo (Lavf58.29.100)
+ErrorDetectionType                       : Per level 1
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 3 h 32 min
+Bit rate                                 : 4 794 kb/s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.104
+Stream size                              : 6.96 GiB (93%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=12 / lookahead_threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=4794 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=19999 / vbv_bufsize=3000 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : No
+Forced                                   : No
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 3 h 32 min
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 6 channels
+ChannelLayout_Original                   : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 389 MiB (5%)
+Language                                 : German
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+Menu
+00:00:00.000                             : Chapter 1
+
+</pre>
+</div>won't be reuploaded<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[LLAVE1]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Schlager oder N!xxx - 10-09-2021 mdrHD IPTV 720p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/schlager-oder-n-xxx-10-09-2021-mdrhd-iptv-720p.286920/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/wcUE8lx.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/wcUE8lx.jpeg" style=""><br>
+<br>
+So viel Spaß hat der Schlager noch nie gemacht! In einer neuen Folge der spannendsten und lustigsten Schlagershow im deutschen Fernsehen lernt Florian Silbereisen die Stars von einer völlig neuen Seite kennen. DJ Ötzi, Ireen Sheer, Melissa Naschenweng, Ross Antony und Team 5ünf stellen sich einigen ungewohnten Herausforderungen. Denn alle möchten möglichst viele Schlager singen! (Text: MDR)<br>
+<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 186779128571542500189861943902384849197 (0x8C845A070FB93CFFE270FBA5514A812D)
+Complete name                            : Schlager oder N!xxx - 10-09-2021 mdrHD IPTV 720p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 4.24 GiB
+Duration                                 : 1 h 59 min
+Overall bit rate                         : 5 083 kb/s
+Frame rate                               : 50.000 FPS
+Writing application                      : VideoReDo (Lavf58.29.100)
+Writing library                          : VideoReDo (Lavf58.29.100)
+ErrorDetectionType                       : Per level 1
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 59 min
+Bit rate                                 : 4 725 kb/s
+Nominal bit rate                         : 5 008 kb/s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.103
+Stream size                              : 3.94 GiB (93%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=12 / lookahead_threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=58 / keyint_min=5 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=5008 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=19999 / vbv_bufsize=3000 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : No
+Forced                                   : No
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 1 h 59 min
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 6 channels
+ChannelLayout_Original                   : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 219 MiB (5%)
+Language                                 : German
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+Menu
+00:00:00.000                             : Chapter 1
+
+</pre>
+</div>won't be reuploaded<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[LLAVE1]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Schlager-Spaß mit Andy Borg - 11-09-2021 ORF2HD IPTV 720p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/schlager-spa%C3%9F-mit-andy-borg-11-09-2021-orf2hd-iptv-720p.286922/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/NOpytXt.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/NOpytXt.jpeg" style=""><br>
+<br>
+Ob Florian Silbereisen und Thomas Anders, Stefan Mross, Patrick Lindner, Ireen Sheer, Peter Kraus, die jungen Zillertaler und die Schlagerpiloten – die Gäste haben einige Überraschungen für Andy Borg vorbereitet. (Text: ORF)<br>
+<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 138932713647874113001436156698693866794 (0x688577A40C96E59A2C4D82EA1212152A)
+Complete name                            : Schlager-Spaß mit Andy Borg - 11-09-2021 ORF2HD IPTV 720p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 4.22 GiB
+Duration                                 : 1 h 59 min
+Overall bit rate                         : 5 077 kb/s
+Frame rate                               : 50.000 FPS
+Writing application                      : VideoReDo (Lavf58.29.100)
+Writing library                          : VideoReDo (Lavf58.29.100)
+ErrorDetectionType                       : Per level 1
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 59 min
+Bit rate                                 : 4 720 kb/s
+Nominal bit rate                         : 2 433 kb/s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.102
+Stream size                              : 3.93 GiB (93%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=12 / lookahead_threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=2433 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=19999 / vbv_bufsize=3000 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : No
+Forced                                   : No
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 1 h 59 min
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 6 channels
+ChannelLayout_Original                   : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 218 MiB (5%)
+Language                                 : German
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+Menu
+00:00:00.000                             : Chapter 1
+
+</pre>
+</div>won't be reuploaded<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[LLAVE1]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Die Giovanni Zarrella Show E01 - 11-09-2021 ZDFHD IPTV 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/die-giovanni-zarrella-show-e01-11-09-2021-zdfhd-iptv-1080p.286921/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/MOcEEPy.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/MOcEEPy.jpeg" style=""><br>
+<br>
+Giovanni Zarrella feiert sein mit Spannung erwartetes Debüt und präsentiert live aus Berlin „Die Giovanni Zarrella Show“. Bei seiner Premiere begrüßt der Sänger, Moderator und Entertainer befreundete Kolleg*innen, darunter die Schlagerstars Andrea Berg, Kerstin Ott, Nino de Angelo und Santiano, die Popkünstler Sasha und Pietro Lombardi sowie die Sopranistin Sarah Brightman.<br>
+<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 76822082123534778842152098952634464158 (0x39CB6513EB407ED3F16E3841F9A4779E)
+Complete name                            : Die Giovanni Zarrella Show - Folge 1 - 11-09-2021 ZDFHD IPTV 1080p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 10.1 GiB
+Duration                                 : 3 h 4 min
+Overall bit rate                         : 7 836 kb/s
+Frame rate                               : 50.000 FPS
+Writing application                      : VideoReDo (Lavf58.29.100)
+Writing library                          : VideoReDo (Lavf58.29.100)
+ErrorDetectionType                       : Per level 1
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 3 h 4 min
+Bit rate                                 : 7 425 kb/s
+Nominal bit rate                         : 6 838 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.072
+Stream size                              : 9.55 GiB (95%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=8 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=6838 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=49999 / vbv_bufsize=9375 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : No
+Forced                                   : No
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 3 h 4 min
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 6 channels
+ChannelLayout_Original                   : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 337 MiB (3%)
+Language                                 : German
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+Menu
+00:00:00.000                             : Chapter 1
+
+</pre>
+</div>won't be reuploaded<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[LLAVE1]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - ZDF-Fernsehgarten - 12-09-2021 ZDFHD IPTV 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/zdf-fernsehgarten-12-09-2021-zdfhd-iptv-1080p.286924/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/xTqi0SK.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/xTqi0SK.jpeg" style=""><br>
+<br>
+Musikalische Gäste: Chris de Burgh, Beatrice Egli, Fools Garden, Nick Howard, Karsten Walter, Julia Kautz, Tim Peters, Neonlicht und Chris Thompson. (Text: ZDF)<br>
+<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 246103167555728927100242016590130400659 (0xB925BEF8928442B3D849E47F8CE94D93)
+Complete name                            : ZDF-Fernsehgarten - Wald und Berge - 12-09-2021 ZDFHD IPTV 1080p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 7.18 GiB
+Duration                                 : 2 h 12 min
+Overall bit rate                         : 7 781 kb/s
+Frame rate                               : 50.000 FPS
+Writing application                      : VideoReDo (Lavf58.29.100)
+Writing library                          : VideoReDo (Lavf58.29.100)
+ErrorDetectionType                       : Per level 1
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 12 min
+Bit rate                                 : 7 370 kb/s
+Nominal bit rate                         : 6 195 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.071
+Stream size                              : 6.80 GiB (95%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=8 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=6195 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=49999 / vbv_bufsize=9375 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : No
+Forced                                   : No
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 2 h 12 min
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 6 channels
+ChannelLayout_Original                   : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 242 MiB (3%)
+Language                                 : German
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+Menu
+00:00:00.000                             : Chapter 1
+
+</pre>
+</div>won't be reuploaded<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[LLAVE1]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - SEAT Music Awards 2021 - 09-09-2021 RAI1HD IPTV 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/seat-music-awards-2021-09-09-2021-rai1hd-iptv-1080p.286927/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/WsYbkGK.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/WsYbkGK.jpeg" style=""><br>
+<br>
+Gigi D'Alessio, Clementino, Enzo Dong, Ivan Granatino, Lele Blade e Samurai Jay – Medley di Como suena el corazon / Guagliune / Buongiorno<br>
+Madame – Medley di Marea / Voce<br>
+Il Volo – Your Love[6]<br>
+Sangiovanni – Malibu<br>
+Ligabue – Piccola stella senza cielo<br>
+Alessandra Amoroso – Medley di Immobile / Sorriso grande / Tutte le volte<br>
+Claudio Baglioni – Mal d’amore<br>
+Marco Mengoni – Medley di L'essenziale / Ti ho voluto bene veramente / Hola (I Say)<br>
+Marco Mengoni con Purple Disco Machine – Ma stasera<br>
+Mahmood e Elisa – Rubini<br>
+Zucchero – Medley di Per colpa di chi? / Spirito nel buio<br>
+Orietta Berti – Mille[7]<br>
+Achille Lauro – Latte+<br>
+Fiorella Mannoia – Il peso del coraggio[8]<br>
+Andrea Bocelli – Nessun dorma[9]<br>
+Jerry Calà – Medley di Che sarà / Bandiera gialla / La canzone del sole<br>
+Purple Disco Machine, Moss Kena e The Knocks – Fireworks<br>
+AKA 7even – Medley di Mi manchi / Loca<br>
+Random – Sono un bravo ragazzo un po' fuori di testa<br>
+Massimo Pericolo – Stupido<br>
+Mecna – Mille cose<br>
+Psicologi – Spensieratezza<br>
+<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 328194533183312313327043689967671286964 (0xF6E7F7C891B73F430D2D9E249DA79CB4)
+Complete name                            : SEAT Music Awards 2021 - 09-09-2021 RAI1HD IPTV 1080p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 11.6 GiB
+Duration                                 : 3 h 30 min
+Overall bit rate                         : 7 890 kb/s
+Frame rate                               : 50.000 FPS
+Encoded date                             : 2025-10-24 15:17:58 UTC
+Writing application                      : mkvmerge 88.0 ('All I Know') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 3 h 30 min
+Bit rate                                 : 7 631 kb/s
+Nominal bit rate                         : 500 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.074
+Stream size                              : 11.2 GiB (97%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=8 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=500 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=49999 / vbv_bufsize=9375 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : No
+Forced                                   : No
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 3 h 30 min
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 385 MiB (3%)
+Language                                 : Italian
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+</pre>
+</div>won't be reuploaded<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[LLAVE1]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - SEAT Music Awards 2021 - 10-09-2021 RAI1HD IPTV 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/seat-music-awards-2021-10-09-2021-rai1hd-iptv-1080p.286928/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/puXO1BV.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/puXO1BV.jpeg" style=""><br>
+<br>
+Gué Pequeno – Chico / Lifestyle<br>
+Mara Sattei – Altalene<br>
+Deddy – Il cielo contromano<br>
+Ernia – Ferma a guardare / Superclassico<br>
+Pinguini Tattici Nucleari – Scrivile scemo<br>
+Emma – Medley di Stupida allegria / Latina / Fortuna / Io sono bella<br>
+Emma e Loredana Bertè – Che sogno incredibile<br>
+Diodato – Che vita meravigliosa<br>
+Colapesce e Dimartino – Musica leggerissima<br>
+Loretta Goggi – Maledetta primavera<br>
+Noemi e Carl Brave – Makumba<br>
+Negramaro – Contatto<br>
+Irama – La genesi del tuo colore e Melodia proibita<br>
+Annalisa con Federico Rossi – Movimento lento<br>
+Boomdabash con Baby K – Mohicani<br>
+Marco Masini con Vanessa Incontrada – Momento<br>
+Elettra Lamborghini – Pistolero<br>
+Blanco – Blu celeste<br>
+Blanco e Mace – La canzone nostra<br>
+Rocco Hunt con Ana Mena – Un bacio all'improvviso / A un passo dalla Luna<br>
+Nek – Un'estate normale<br>
+Takagi &amp; Ketra con Giusy Ferreri – Shimmy Shimmy<br>
+Malika Ayane<br>
+Rkomi e Irama con Shablo – Nuovo Range / Luna piena / Partire da te<br>
+Francesco Gabbani – La rete<br>
+Fred De Palma – Ti raggiungerò<br>
+Tancredi – Las Vegas<br>
+Capo Plaza<br>
+Shade – Autostop<br>
+Emis Killa, Jake La Furia e Massimo Pericolo<br>
+Il Tre – Ali<br>
+Gli Autogol, DJ Matrix, Arisa e Ludwig – Coro azzurro<br>
+Arisa – Psyco<br>
+<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 13422025700708125466658327224338151586 (0xA18FCF581AE3A4C00B50FABACCCF8A2)
+Complete name                            : SEAT Music Awards 2021 - 10-09-2021 RAI1HD IPTV 1080p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 11.4 GiB
+Duration                                 : 3 h 26 min
+Overall bit rate                         : 7 916 kb/s
+Frame rate                               : 50.000 FPS
+Encoded date                             : 2025-10-24 15:21:17 UTC
+Writing application                      : mkvmerge 88.0 ('All I Know') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 3 h 26 min
+Bit rate                                 : 7 656 kb/s
+Nominal bit rate                         : 500 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.074
+Stream size                              : 11.1 GiB (97%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=8 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=500 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=49999 / vbv_bufsize=9375 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : No
+Forced                                   : No
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 3 h 26 min
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 379 MiB (3%)
+Language                                 : Italian
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+</pre>
+</div>won't be reuploaded<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[LLAVE1]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - SEAT Music Awards 2021 - Speciale disco estate - 12-09-2021 RAI1HD IPTV 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/seat-music-awards-2021-speciale-disco-estate-12-09-2021-rai1hd-iptv-1080p.286929/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/up8lfno.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/up8lfno.jpeg" style=""><br>
+<br>
+Paolo Belli<br>
+Michele Bravi<br>
+Red Canzian<br>
+Clementino<br>
+Coma Cose<br>
+Gaia<br>
+Gaudiano<br>
+Enrico Nigiotti<br>
+Matteo Romano<br>
+Federico Rossi<br>
+Sottotono<br>
+<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 33661392235257530278394174249778886145 (0x1952F2C598640DA89D15E12E90853601)
+Complete name                            : SEAT Music Awards 2021 - Speciale disco estate - 12-09-2021 RAI1HD IPTV 1080p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 7.91 GiB
+Duration                                 : 2 h 22 min
+Overall bit rate                         : 7 926 kb/s
+Frame rate                               : 50.000 FPS
+Encoded date                             : 2025-10-24 15:23:42 UTC
+Writing application                      : mkvmerge 88.0 ('All I Know') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 22 min
+Bit rate                                 : 7 666 kb/s
+Nominal bit rate                         : 500 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.074
+Stream size                              : 7.65 GiB (97%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=8 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=51 / keyint_min=5 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=500 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=49999 / vbv_bufsize=9375 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : No
+Forced                                   : No
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 2 h 22 min
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 262 MiB (3%)
+Language                                 : Italian
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+</pre>
+</div>won't be reuploaded<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[LLAVE1]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ AUD] - Paul McCartney Complete Kisses]]></title>
+                <link><![CDATA[https://sharemania.us/threads/paul-mccartney-complete-kisses.286926/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Can someone help me find a 24Bit-96kHz FLAC file of Paul McCartney’s “Kisses On The Bottom: Complete Kisses”?
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[ThomasMcCaleb]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - SWR4 Schlagerfest aus Zweibrücken - 11-09-2021 SWRHD IPTV 720p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/swr4-schlagerfest-aus-zweibr%C3%BCcken-11-09-2021-swrhd-iptv-720p.286923/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/l4eCr7p.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/l4eCr7p.jpeg" style=""><br>
+<br>
+Mitwirkende: Kerstin Ott, Semino Rossi, Geschwister Hofmann, Julian David<br>
+Im Rosengarten in Zweibrücken lädt SWR4 Rheinland-Pfalz zu einem Schlagerfest der besonderen Art: Inmitten von 45.000 Rosen mit 1.500 unterschiedlichen Sorten bereiten beliebte Stars ein unvergessliches Schlagererlebnis mit bester deutscher Musik. Auf der Bühne erfreut Sängerin und Gitarristin Kerstin Ott mit ihren unverwechselbaren Songs das Publikum. Schlager-Star Semino Rossi hat die großen Bühnen erobert und zahlreiche Auszeichnungen für seine gefühlvolle Musik erhalten, die an diesem Abend durch den Rosengarten klingen wird. Das Gesangsduo Anita &amp; Alexandra Hofmann von der Schwäbischen Alb performt „Wilde Zeiten“, so der Titel seines neuesten Albums, und Pop-Schlager-Sänger Julian David singt einmal mehr „Ohne Limit“. (Text: SWR)<br>
+<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 158640242611428900566685534726559873281 (0x7758FFD64142AE40E457BA01C763B901)
+Complete name                            : SWR4 Schlagerfest aus Zweibrücken - 11-09-2021 SWRHD IPTV 720p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 3.19 GiB
+Duration                                 : 1 h 30 min
+Overall bit rate                         : 5 079 kb/s
+Frame rate                               : 50.000 FPS
+Writing application                      : VideoReDo (Lavf58.29.100)
+Writing library                          : VideoReDo (Lavf58.29.100)
+ErrorDetectionType                       : Per level 1
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 30 min
+Bit rate                                 : 4 810 kb/s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.104
+Stream size                              : 2.97 GiB (93%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=12 / lookahead_threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=4810 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=19999 / vbv_bufsize=3000 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : No
+Forced                                   : No
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 1 h 30 min
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 6 channels
+ChannelLayout_Original                   : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 165 MiB (5%)
+Language                                 : German
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+Menu
+00:00:00.000                             : Chapter 1
+
+</pre>
+</div>won't be reuploaded<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[LLAVE1]]></author>
                 </item>
 
                 </channel></rss>
