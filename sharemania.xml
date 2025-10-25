@@ -8,160 +8,119 @@
 
  
                 <item>
-                <title><![CDATA[【Music Videos】PACK - Naykilla, Tenxi &amp; Jemsii - Kasih Aba Aba (MV)[4K.YT.WEB|Dolby Atmos, PCM|Closed Caption]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/naykilla-tenxi-jemsii-kasih-aba-aba-mv-4k-yt-web-dolby-atmos-pcm-closed-caption.286989/]]></link>
+                <title><![CDATA[【Apple Music】WEB-RiP - Michael Jackson - In the Closet (Michael Jackson's Vision) | Apple Music WEB-DL 4K]]></title>
+                <link><![CDATA[https://sharemania.us/threads/michael-jackson-in-the-closet-michael-jacksons-vision-apple-music-web-dl-4k.286990/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://thumbs2.imgbox.com/d4/82/zwZSKJyt_t.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://thumbs2.imgbox.com/d4/82/zwZSKJyt_t.jpg" style=""><br>
-<br>
-<b>Artist: Naykilla, Tenxi &amp; Jemsii<br>
-Format Audio:</b><br>
-<span style="font-family: 'Courier New'"><b>WAV</b><br>
-<b>[PCM, 16bit/44.1kHz, 1.4Mbps] 2.0 Stereo</b><br>
-<br>
-<b>Dolby Atmos</b><br>
-<b>[EAC3-JOC, 16bit/48kHz, 768Kbps] 5.1 Surround</b><br>
-<br>
-<br>
-TRACKLIST:<br>
-1. Kasih Aba Aba<br>
-<br>
-<br>
-
+					<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Thumbnails</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText"><img src="https://i.ibb.co/dwBZBh3K/In-the-Closet-Michael-Jackson-s-Vision-mp4-thumbs.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/dwBZBh3K/In-the-Closet-Michael-Jackson-s-Vision-mp4-thumbs.png" style=""></div>
+</div>
 
 
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Dolby Atmos, PCM</span></span></button>
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Mediainfo</span></span></button>
 	<div class="SpoilerTarget bbCodeSpoilerText">
 
 <div class="bbCodeBlock bbCodeCode">
 	<div class="type">Code:</div>
 	<pre>General
-Unique ID                   : 114514055641559029373146576728687692448 (0x56269AD980BC4AE022F2F1DA6998CAA0)
-Complete name               : Naykilla, Tenxi &amp; Jemsii - Kasih Aba-Aba (EC3,PCM).mkv
-Format                      : Matroska
-Format version              : Version 4
-File size                   : 215 MiB
-Duration                    : 2 min 58 s
-Overall bit rate            : 10.1 Mb/s
-Frame rate                  : 25.000 FPS
-Writing application         : Lavf61.7.100
-Writing library             : Lavf61.7.100
-ErrorDetectionType          : Per level 1
+Complete name                  : In the Closet (Michael Jackson's Vision).mp4
+Format                         : MPEG-4
+Format profile                 : Base Media
+Codec ID                       : isom (isom/iso4)
+File size                      : 1.05 GiB
+Duration                       : 6 min 6 s
+Overall bit rate mode          : Variable
+Overall bit rate               : 24.6 Mb/s
+Frame rate                     : 29.970 FPS
+Movie name                     : In the Closet (Michael Jackson's Vision)
+Performer                      : Michael Jackson
+Genre                          : Pop
+ContentType                    : Music Video
+Recorded date                  : 2010-11-19 08:00:00 UTC
+Encoded date                   : 2025-10-24 20:45:21 UTC
+Tagged date                    : 2025-10-24 20:45:21 UTC
+Copyright                      : ℗ (C) 2010 MJJ Productions, Inc.
+Cover                          : Yes
+Rating                         : None
+GenreID                        : 1614
+AlbumTitleID                   : 32940
+AppleStoreCountry              : Brazil
+AppleStoreCatalogID            : 460824210
 
 Video
-ID                          : 1
-Format                      : AV1
-Format/Info                 : AOMedia Video 1
-Format profile              : Main@L5.0
-Codec ID                    : V_AV1
-Duration                    : 2 min 58 s
-Bit rate                    : 6 837 kb/s
-Width                       : 3 840 pixels
-Height                      : 2 160 pixels
-Display aspect ratio        : 16:9
-Frame rate mode             : Constant
-Frame rate                  : 25.000 FPS
-Color space                 : YUV
-Chroma subsampling          : 4:2:0
-Bit depth                   : 8 bits
-Bits/(Pixel*Frame)          : 0.033
-Stream size                 : 145 MiB (68%)
-Title                       : ISO Media file produced by Google Inc.
-Language                    : Indonesian
-Default                     : Yes
-Forced                      : No
-Color range                 : Limited
-Color primaries             : BT.709
-Transfer characteristics    : BT.709
-Matrix coefficients         : BT.709
-VENDOR_ID                   : [0][0][0][0]
+ID                             : 2
+Format                         : HEVC
+Format/Info                    : High Efficiency Video Coding
+Format profile                 : Main 10@L5@High
+Codec ID                       : hvc1
+Codec ID/Info                  : High Efficiency Video Coding
+Duration                       : 6 min 6 s
+Source duration                : 6 min 6 s
+Bit rate                       : 24.3 Mb/s
+Maximum bit rate               : 41.6 Mb/s
+Width                          : 2 870 pixels
+Height                         : 2 160 pixels
+Display aspect ratio           : 4:3
+Frame rate mode                : Constant
+Frame rate                     : 29.970 (30000/1001) FPS
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 10 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.131
+Stream size                    : 1.04 GiB (99%)
+Source stream size             : 1.04 GiB (99%)
+Title                          : Core Media Video
+Encoded date                   : 2025-10-24 20:45:34 UTC
+Tagged date                    : 2025-10-25 15:50:36 UTC
+Color range                    : Limited
+Color primaries                : BT.709
+Transfer characteristics       : BT.709
+Matrix coefficients            : BT.709
+Codec configuration box        : hvcC
 
-Audio #1
-ID                          : 2
-Format                      : E-AC-3 JOC
-Format/Info                 : Enhanced AC-3 with Joint Object Coding
-Commercial name             : Dolby Digital Plus with Dolby Atmos
-Codec ID                    : A_EAC3
-Duration                    : 2 min 58 s
-Bit rate mode               : Constant
-Bit rate                    : 768 kb/s
-Channel(s)                  : 6 channels
-Channel layout              : L R C LFE Ls Rs
-Sampling rate               : 48.0 kHz
-Frame rate                  : 31.250 FPS (1536 SPF)
-Bit depth                   : 32 bits
-Compression mode            : Lossy
-Stream size                 : 16.3 MiB (8%)
-Title                       : Dolby Atmos
-Language                    : Indonesian
-Service kind                : Complete Main
-Default                     : Yes
-Forced                      : No
-Complexity index            : 16
-Number of dynamic objects   : 15
-Bed channel count           : 1 channel
-Bed channel configuration   : LFE
-Dialog Normalization        : -20 dB
-compr                       : -0.28 dB
-dmixmod                     : Lo/Ro
-ltrtcmixlev                 : -3.0 dB
-ltrtsurmixlev               : -3.0 dB
-lorocmixlev                 : -3.0 dB
-lorosurmixlev               : -3.0 dB
-dialnorm_Average            : -20 dB
-dialnorm_Minimum            : -20 dB
-dialnorm_Maximum            : -20 dB
+Audio
+ID                             : 1
+Format                         : AAC LC
+Format/Info                    : Advanced Audio Codec Low Complexity
+Codec ID                       : mp4a-40-2
+Duration                       : 6 min 6 s
+Bit rate mode                  : Variable
+Bit rate                       : 265 kb/s
+Maximum bit rate               : 354 kb/s
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 46.875 FPS (1024 SPF)
+Compression mode               : Lossy
+Stream size                    : 11.5 MiB (1%)
+Title                          : Core Media Audio
+Encoded date                   : 2025-10-24 20:45:21 UTC
+Tagged date                    : 2025-10-25 15:50:36 UTC
 
-Audio #2
-ID                          : 3
-Format                      : PCM
-Format settings             : Little / Signed
-Codec ID                    : A_PCM/INT/LIT
-Duration                    : 2 min 58 s
-Bit rate mode               : Constant
-Bit rate                    : 2 304 kb/s
-Channel(s)                  : 2 channels
-Sampling rate               : 48.0 kHz
-Bit depth                   : 24 bits
-Stream size                 : 49.0 MiB (23%)
-Title                       : PCM Lossless
-Language                    : Indonesian
-Default                     : No
-Forced                      : No
-
-Text
-ID                          : 4
-Format                      : ASS
-Codec ID                    : S_TEXT/ASS
-Codec ID/Info               : Advanced Sub Station Alpha
-Duration                    : 2 min 25 s
-Compression mode            : Lossless
-Title                       : Indonesia
-Default                     : Yes
-Forced                      : No
 </pre>
 </div></div>
-</div><br>
-<b>Dolby Digital [AC3] Version:</b><br>
-<span data-s9e-mediaembed="youtube" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:56.25%"><iframe allowfullscreen="" loading="lazy" scrolling="no" style="background:url(https://i.ytimg.com/vi/udrPUxPtpf4/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%" src="https://www.youtube.com/embed/udrPUxPtpf4"></iframe></span></span><br>
-<br>
-PASSWORD ZIP: sharemania<br>
-link<br>
+</div>
 
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Download</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
 	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div><span style="font-family: 'Times New Roman'"><i>Audio Only:</i></span></span><br>
-<span style="font-family: 'Courier New'"><span style="font-family: 'Times New Roman'"><i><a href="https://sharemania.us/threads/naykilla-tenxi-jemsii-%E2%80%93-kasih-aba-aba-eac3-joc-16bit-48khz-768kbps-5-1s.286901/" class="internalLink">&gt;&gt;Dolby Atmos&lt;&lt;</a></i></span></span>
+</div></div>
+</div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[andammm777]]></author>
+                <author><![CDATA[glomatico]]></author>
                 </item>
 
                 </channel></rss>
