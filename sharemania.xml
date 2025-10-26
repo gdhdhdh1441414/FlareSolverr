@@ -8,27 +8,27 @@
 
  
                 <item>
-                <title><![CDATA[【HD Live Performances】WEB-DL - Schlager-Spaß mit Andy Borg - 25-09-2021 SWRHD IPTV 720p]]></title>
-                <link><![CDATA[https://sharemania.us/threads/schlager-spa%C3%9F-mit-andy-borg-25-09-2021-swrhd-iptv-720p.287024/]]></link>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Die Schlagernacht 2021 in der Berliner Waldbühne - 01-10-2021 rbbHD IPTV 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/die-schlagernacht-2021-in-der-berliner-waldb%C3%BChne-01-10-2021-rbbhd-iptv-1080p.287028/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.imgur.com/tG4OcVy.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/tG4OcVy.jpeg" style=""><br>
+					<img src="https://i.imgur.com/8F3oBU7.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/8F3oBU7.jpeg" style=""><br>
 <br>
-Ob Florian Silbereisen und Thomas Anders, Stefan Mross, Ireen Sheer oder Peter Kraus – die Stars haben einige Überraschungen für den Gastgeber vorbereitet.<br>
+Es ist wieder so weit: Schlagerfans aus ganz Deutschland feiern in der Berliner Waldbühne die Stars des deutschen Schlagers. Gastgeberin Kim Fisher und Antenne-Moderator Christofer Hameister begrüßen Stars und Sternchen wie Kerstin Ott, Matthias Reim, Mickie Krause, Giovanni Zarrella, Ramon Roselly und viele andere.<br>
 <br>
 
 
 <div class="bbCodeBlock bbCodeCode">
 	<div class="type">Code:</div>
 	<pre>General
-Unique ID                                : 265917928425153800549213517753699082606 (0xC80DEE1BB61EE3FE199BFD8E14ED216E)
-Complete name                            : Schlager-Spaß mit Andy Borg - 25-09-2021 SWRHD IPTV 720p.mkv
+Unique ID                                : 246307290105488148407074552846521203725 (0xB94D0EFD5CC5FAA6E39F931FA25FFC0D)
+Complete name                            : Die Schlagernacht 2021 in der Berliner Waldbühne - 01-10-2021 rbbHD IPTV 1080p.mkv
 Format                                   : Matroska
 Format version                           : Version 4
-File size                                : 4.21 GiB
-Duration                                 : 1 h 59 min
-Overall bit rate                         : 5 059 kb/s
+File size                                : 8.23 GiB
+Duration                                 : 2 h 29 min
+Overall bit rate                         : 7 911 kb/s
 Frame rate                               : 50.000 FPS
 Writing application                      : VideoReDo (Lavf58.29.100)
 Writing library                          : VideoReDo (Lavf58.29.100)
@@ -37,16 +37,16 @@ Video
 ID                                       : 1
 Format                                   : AVC
 Format/Info                              : Advanced Video Codec
-Format profile                           : Main@L3.2
+Format profile                           : Main@L4.2
 Format settings                          : CABAC / 2 Ref Frames
 Format settings, CABAC                   : Yes
 Format settings, Reference frames        : 2 frames
 Codec ID                                 : V_MPEG4/ISO/AVC
-Duration                                 : 1 h 59 min
-Bit rate                                 : 4 703 kb/s
-Nominal bit rate                         : 2 490 kb/s
-Width                                    : 1 280 pixels
-Height                                   : 720 pixels
+Duration                                 : 2 h 29 min
+Bit rate                                 : 7 497 kb/s
+Nominal bit rate                         : 4 626 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
 Display aspect ratio                     : 16:9
 Frame rate mode                          : Constant
 Frame rate                               : 50.000 FPS
@@ -54,10 +54,10 @@ Color space                              : YUV
 Chroma subsampling                       : 4:2:0
 Bit depth                                : 8 bits
 Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.102
-Stream size                              : 3.91 GiB (93%)
+Bits/(Pixel*Frame)                       : 0.072
+Stream size                              : 7.80 GiB (95%)
 Writing library                          : x264 core 160 r3000
-Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=12 / lookahead_threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=2490 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=19999 / vbv_bufsize=3000 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=8 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=4626 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=49999 / vbv_bufsize=9375 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
 Default                                  : No
 Forced                                   : No
 Audio
@@ -66,7 +66,7 @@ Format                                   : E-AC-3
 Format/Info                              : Enhanced AC-3
 Commercial name                          : Dolby Digital Plus
 Codec ID                                 : A_EAC3
-Duration                                 : 1 h 59 min
+Duration                                 : 2 h 29 min
 Bit rate mode                            : Constant
 Bit rate                                 : 256 kb/s
 Channel(s)                               : 6 channels
@@ -74,7 +74,7 @@ ChannelLayout_Original                   : L R C LFE Ls Rs
 Sampling rate                            : 48.0 kHz
 Frame rate                               : 31.250 FPS (1536 SPF)
 Compression mode                         : Lossy
-Stream size                              : 218 MiB (5%)
+Stream size                              : 273 MiB (3%)
 Language                                 : German
 Service kind                             : Complete Main
 Default                                  : Yes
@@ -104,25 +104,229 @@ Menu
 
                 
                 <item>
-                <title><![CDATA[【HD Live Performances】WEB-DL - Musik für Sie - Präsentiert von Uta Bresan - 24-09-2021 mdrHD IPTV 720p]]></title>
-                <link><![CDATA[https://sharemania.us/threads/musik-f%C3%BCr-sie-pr%C3%A4sentiert-von-uta-bresan-24-09-2021-mdrhd-iptv-720p.287023/]]></link>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Helene Fischer - Im Rausch der Sinne - 16-10-2021 ZDFHD IPTV 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/helene-fischer-im-rausch-der-sinne-16-10-2021-zdfhd-iptv-1080p.287030/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.imgur.com/tJsJztl.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/tJsJztl.jpeg" style=""><br>
+					<img src="https://i.imgur.com/dd5KEKB.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/dd5KEKB.png" style=""><br>
 <br>
 
 
 <div class="bbCodeBlock bbCodeCode">
 	<div class="type">Code:</div>
 	<pre>General
-Unique ID                                : 92212930663926328647072456254840176363 (0x455F907F4E587311DD700C73743CFEEB)
-Complete name                            : Musik für Sie - Präsentiert von Uta Bresan - 24-09-2021 mdrHD IPTV 720p.mkv
+Unique ID                                : 15266048087166912934311532033987251943 (0xB7C22483606B4164CE06A230CCF0EE7)
+Complete name                            : Helene Fischer - Im Rausch der Sinne - 16-10-2021 ZDFHD IPTV 1080p.mkv
 Format                                   : Matroska
 Format version                           : Version 4
-File size                                : 3.08 GiB
+File size                                : 3.54 GiB
+Duration                                 : 1 h 6 min
+Overall bit rate                         : 7 577 kb/s
+Frame rate                               : 50.000 FPS
+Writing application                      : VideoReDo (Lavf58.29.100)
+Writing library                          : VideoReDo (Lavf58.29.100)
+ErrorDetectionType                       : Per level 1
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 6 min
+Bit rate                                 : 7 171 kb/s
+Nominal bit rate                         : 6 752 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.069
+Stream size                              : 3.35 GiB (95%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=8 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=6752 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=49999 / vbv_bufsize=9375 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : No
+Forced                                   : No
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 1 h 6 min
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 6 channels
+ChannelLayout_Original                   : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 122 MiB (3%)
+Language                                 : German
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+Menu
+00:00:00.000                             : Chapter 1
+
+</pre>
+</div>
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[LLAVE1]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Starnacht aus der Wachau - 25-09-2021 ORF2HD IPTV 720p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/starnacht-aus-der-wachau-25-09-2021-orf2hd-iptv-720p.287025/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/uRRxYLN.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/uRRxYLN.jpeg" style=""><br>
+<br>
+Allessa singt ihr Lied „Das kann’s doch nicht gewesen sein“<br>
+Ben Zucker singt seine Songs „Ich weine nicht um Dich“ und „Bist Du der Mensch“<br>
+Chris de Burgh singt seine Songs „Don’t Pay The Ferryman“ und „Live Life, Live Well“<br>
+Chris Cronauer singt sein Lied „Ich lass dich nie mehr los“<br>
+DJ Ötzi singt seine Songs „Der Moment“ und „Can’t Take My Eyes Off You“<br>
+Edmund singt das Lied „Die Blonde mit’n Mittelscheitl“<br>
+Francine Jordi singt ihre Songs „Crazy“ und „Voyage, Voyage“<br>
+Maite Kelly singt ihre Lieder „Einmal ist immer das erste Mal“ und „Einfach Hello“<br>
+More Than Words (Stefanie Hertel und Familie) singen die Songs „Help“ und „I Can Do Better“<br>
+Nathan Evans singt die Songs „Told You So“ und „Wellerman“<br>
+OPUS singen die Lieder „Live is Life“ und „We made it“<br>
+Ronja Forcher singt das Lied „Tanz für dich“<br>
+Ross Antony singt die Songs „Willkommen im Club“ und „YMCA“<br>
+Simone singt das Lied „Gaga“<br>
+<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 299371429361289736268714617542490122098 (0xE138D70C364B1941B1F448B2D412E772)
+Complete name                            : Starnacht aus der Wachau - 25-09-2021 ORF2HD IPTV 720p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 4.50 GiB
+Duration                                 : 2 h 6 min
+Overall bit rate                         : 5 079 kb/s
+Frame rate                               : 50.000 FPS
+Writing application                      : VideoReDo (Lavf58.29.100)
+Writing library                          : VideoReDo (Lavf58.29.100)
+ErrorDetectionType                       : Per level 1
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 6 min
+Bit rate                                 : 4 722 kb/s
+Nominal bit rate                         : 3 266 kb/s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.102
+Stream size                              : 4.18 GiB (93%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=12 / lookahead_threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=3266 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=19999 / vbv_bufsize=3000 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : No
+Forced                                   : No
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 2 h 6 min
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 6 channels
+ChannelLayout_Original                   : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 232 MiB (5%)
+Language                                 : German
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+Menu
+00:00:00.000                             : Chapter 1
+
+</pre>
+</div>won't be reuploaded<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[LLAVE1]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - SWR4 Schlagerfest aus Trechtingshausen von der Burg Reichenstein - 25-09-2021 SWRHD IPTV 720p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/swr4-schlagerfest-aus-trechtingshausen-von-der-burg-reichenstein-25-09-2021-swrhd-iptv-720p.287026/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/4CKlxY4.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/4CKlxY4.jpeg" style=""><br>
+<br>
+SWR4 Rheinland-Pfalz und das SWR Fernsehen laden ein zum „SWR4 Schlagerfest von der Burg Reichenstein in Trechtingshausen“. Mit dabei sind Ramon Roselly, Laura Wilde, Ross Antony, Mitch Keller, Paulina Wagner, Vincent Gross und Emilija Wellrock.<br>
+<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 8516085425622329627678775654407795929 (0x668236DB98830A56D8192142EB4F4D9)
+Complete name                            : SWR4 Schlagerfest aus Trechtingshausen von der Burg Reichenstein - 25-09-2021 SWRHD IPTV 720p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 3.17 GiB
 Duration                                 : 1 h 29 min
-Overall bit rate                         : 4 931 kb/s
+Overall bit rate                         : 5 076 kb/s
 Frame rate                               : 50.000 FPS
 Writing application                      : VideoReDo (Lavf58.29.100)
 Writing library                          : VideoReDo (Lavf58.29.100)
@@ -137,8 +341,7 @@ Format settings, CABAC                   : Yes
 Format settings, Reference frames        : 2 frames
 Codec ID                                 : V_MPEG4/ISO/AVC
 Duration                                 : 1 h 29 min
-Bit rate                                 : 4 577 kb/s
-Nominal bit rate                         : 2 266 kb/s
+Bit rate                                 : 4 825 kb/s
 Width                                    : 1 280 pixels
 Height                                   : 720 pixels
 Display aspect ratio                     : 16:9
@@ -148,10 +351,10 @@ Color space                              : YUV
 Chroma subsampling                       : 4:2:0
 Bit depth                                : 8 bits
 Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.099
-Stream size                              : 2.85 GiB (93%)
+Bits/(Pixel*Frame)                       : 0.105
+Stream size                              : 2.95 GiB (93%)
 Writing library                          : x264 core 160 r3000
-Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=12 / lookahead_threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=2266 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=19999 / vbv_bufsize=3000 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=12 / lookahead_threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=4825 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=19999 / vbv_bufsize=3000 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
 Default                                  : No
 Forced                                   : No
 Audio
@@ -194,6 +397,121 @@ Menu
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[LLAVE1]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - ZDF-Fernsehgarten on tour - Wittenberg (1) - 10-10-2021 ZDFHD IPTV 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/zdf-fernsehgarten-on-tour-wittenberg-1-10-10-2021-zdfhd-iptv-1080p.287029/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/g0cRbjS.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/g0cRbjS.jpeg" style=""><br>
+<br>
+Gäste: Bonnie Tyler, Alex Christensen &amp; The Berlin Orchestra feat. Ana Kohler, Nino de Angelo, Saltatio Mortis, Alle Achtung, Chris Cronauer und die Prinzen.<br>
+<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 153612383298256712465058093612335656434 (0x7390AB3BDE7E7711E5C768F030A06DF2)
+Complete name                            : ZDF-Fernsehgarten on tour - Wittenberg (1) - 10-10-2021 ZDFHD IPTV 1080p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 7.14 GiB
+Duration                                 : 2 h 12 min
+Overall bit rate                         : 7 737 kb/s
+Frame rate                               : 50.000 FPS
+Writing application                      : VideoReDo (Lavf58.29.100)
+Writing library                          : VideoReDo (Lavf58.29.100)
+ErrorDetectionType                       : Per level 1
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 12 min
+Bit rate                                 : 7 327 kb/s
+Nominal bit rate                         : 5 729 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.071
+Stream size                              : 6.76 GiB (95%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=8 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=5729 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=49999 / vbv_bufsize=9375 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : No
+Forced                                   : No
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 2 h 12 min
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 6 channels
+ChannelLayout_Original                   : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 242 MiB (3%)
+Language                                 : German
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+Menu
+00:00:00.000                             : Chapter 1
+
+</pre>
+</div>won't be reuploaded<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[LLAVE1]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ VID] - [REQ Music VID] Available on Apple - Wig Wam - “Do Ya Wanna Taste It”]]></title>
+                <link><![CDATA[https://sharemania.us/threads/req-music-vid-available-on-apple-wig-wam-%E2%80%9Cdo-ya-wanna-taste-it%E2%80%9D.287027/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Please share a music video copy available on Apple of - <br>
+<span style="font-size: 22px"><b>Wig Wam - “Do Ya Wanna Taste It”</b><br>
+<br>
+<b>The copy on youtube is pretty bad.</b><br>
+<br>
+<b>Thanks in advance.</b></span>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[cart99]]></author>
                 </item>
 
                 </channel></rss>
