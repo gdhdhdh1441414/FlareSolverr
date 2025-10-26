@@ -8,31 +8,29 @@
 
  
                 <item>
-                <title><![CDATA[【HD Live Performances】WEB-DL - Wetten, dass.. - 40 Jahre Wetten, dass .. - 06-11-2021 ZDFHD IPTV 1080p]]></title>
-                <link><![CDATA[https://sharemania.us/threads/wetten-dass-40-jahre-wetten-dass-06-11-2021-zdfhd-iptv-1080p.287049/]]></link>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Helene Fischer - Ein Abend im Rausch - 18-11-2021 ProSiebenHD IPTV 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/helene-fischer-ein-abend-im-rausch-18-11-2021-prosiebenhd-iptv-1080p.287052/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.imgur.com/i7R8txf.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/i7R8txf.jpeg" style=""><br>
-<br>
-Thomas Gottschalk, Helene Fischer, ABBA (Björn Ulvaeus und Benny Andersson), Michelle Hunziker, Giovanni Zarrella, Udo Lindenberg &amp; das Panikorchester, Joko Winterscheidt, Klaas Heufer-Umlauf, Heino Ferch, Svenja Jung, Lisa und Lena, Ensemble von Disneys Die Eiskönigin – Das Musical<br>
+					<img src="https://i.imgur.com/3jG9lj9.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/3jG9lj9.jpeg" style=""><br>
 <br>
 
 
 <div class="bbCodeBlock bbCodeCode">
 	<div class="type">Code:</div>
 	<pre>General
-Unique ID                                : 208067414553796332148635471478297524277 (0x9C88538FDED5FED4F9D7AA4E1220F835)
-Complete name                            : Wetten, dass.. - 40 Jahre Wetten, dass .. - 06-11-2021 ZDFHD IPTV 1080p.mkv
+Unique ID                                : 54002290341135363901898777535299643773 (0x28A0767A47BECCD6C80A30884A76E97D)
+Complete name                            : Helene Fischer - Ein Abend im Rausch - 18-11-2021 ProSiebenHD IPTV 1080p.mkv
 Format                                   : Matroska
 Format version                           : Version 4
-File size                                : 11.5 GiB
-Duration                                 : 3 h 31 min
-Overall bit rate                         : 7 749 kb/s
+File size                                : 5.40 GiB
+Duration                                 : 1 h 38 min
+Overall bit rate                         : 7 854 kb/s
 Frame rate                               : 50.000 FPS
-Encoded date                             : 2025-10-26 19:52:21 UTC
-Writing application                      : mkvmerge 88.0 ('All I Know') 64-bit
-Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Writing application                      : VideoReDo (Lavf58.29.100)
+Writing library                          : VideoReDo (Lavf58.29.100)
+ErrorDetectionType                       : Per level 1
 Video
 ID                                       : 1
 Format                                   : AVC
@@ -42,8 +40,8 @@ Format settings                          : CABAC / 2 Ref Frames
 Format settings, CABAC                   : Yes
 Format settings, Reference frames        : 2 frames
 Codec ID                                 : V_MPEG4/ISO/AVC
-Duration                                 : 3 h 31 min
-Bit rate                                 : 7 173 kb/s
+Duration                                 : 1 h 38 min
+Bit rate                                 : 7 603 kb/s
 Width                                    : 1 920 pixels
 Height                                   : 1 080 pixels
 Display aspect ratio                     : 16:9
@@ -53,10 +51,10 @@ Color space                              : YUV
 Chroma subsampling                       : 4:2:0
 Bit depth                                : 8 bits
 Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.069
-Stream size                              : 11.1 GiB (97%)
+Bits/(Pixel*Frame)                       : 0.073
+Stream size                              : 5.12 GiB (95%)
 Writing library                          : x264 core 160 r3000
-Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=8 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=7173 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=49999 / vbv_bufsize=9375 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=8 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=7603 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=49999 / vbv_bufsize=9375 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
 Default                                  : No
 Forced                                   : No
 Audio
@@ -65,15 +63,15 @@ Format                                   : E-AC-3
 Format/Info                              : Enhanced AC-3
 Commercial name                          : Dolby Digital Plus
 Codec ID                                 : A_EAC3
-Duration                                 : 3 h 31 min
+Duration                                 : 1 h 38 min
 Bit rate mode                            : Constant
 Bit rate                                 : 256 kb/s
 Channel(s)                               : 6 channels
-Channel layout                           : L R C LFE Ls Rs
+ChannelLayout_Original                   : L R C LFE Ls Rs
 Sampling rate                            : 48.0 kHz
 Frame rate                               : 31.250 FPS (1536 SPF)
 Compression mode                         : Lossy
-Stream size                              : 388 MiB (3%)
+Stream size                              : 180 MiB (3%)
 Language                                 : German
 Service kind                             : Complete Main
 Default                                  : Yes
@@ -82,10 +80,14 @@ Dialog Normalization                     : -31 dB
 dialnorm_Average                         : -31 dB
 dialnorm_Minimum                         : -31 dB
 dialnorm_Maximum                         : -31 dB
+Menu
+00:00:00.000                             : Chapter 1
+00:29:07.700                             : Chapter 2
+00:46:57.380                             : Chapter 3
+01:18:04.820                             : Chapter 4
 
 </pre>
-</div>won't be reuploaded<br>
-
+</div>
 
 
 
@@ -101,25 +103,79 @@ dialnorm_Maximum                         : -31 dB
 
                 
                 <item>
-                <title><![CDATA[【HD Live Performances】WEB-DL - Immer wieder sonntags - Best of 2021 - 31-10-2021 hrHD IPTV 1080p]]></title>
-                <link><![CDATA[https://sharemania.us/threads/immer-wieder-sonntags-best-of-2021-31-10-2021-hrhd-iptv-1080p.287048/]]></link>
+                <title><![CDATA[【Requests】[REQ VID] - Ariana Grande - iHeartRadio Jingle Ball Z100 NY 2013 HDTV 1080i]]></title>
+                <link><![CDATA[https://sharemania.us/threads/ariana-grande-iheartradio-jingle-ball-z100-ny-2013-hdtv-1080i.287053/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.imgur.com/71DUlZm.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/71DUlZm.jpeg" style=""><br>
+					Been lookin' for this performance, by any chance someone could share it?
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[motomaddy]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Die Giovanni Zarrella Show E02 - 13-11-2021 ZDFHD IPTV 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/die-giovanni-zarrella-show-e02-13-11-2021-zdfhd-iptv-1080p.287050/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/JubTA1g.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/JubTA1g.jpeg" style=""><br>
+<br>
+Giovanni Zarrella:                                Opening-Medley<br>
+Basta! Basta!<br>
+Na und?!<br>
+80 Millionen<br>
+Bellissimo<br>
+Maite Kelly:                                       Ich steh dazu<br>
+Semino Rossi:                                     Was, bitte was?<br>
+Angelo Kelly &amp; Family:                        Go Tell It On The Mountain<br>
+Max Giesinger:                                    Irgendwo da draußen<br>
+Ute Freudenberg &amp; Giovanni Zarrella: Jugendliebe / Il primo amore<br>
+Marie Reim:     Ich bin so verliebt<br>
+Ben Zucker:                                        Wieder zurück<br>
+Sotiria &amp; Giovanni Zarrella:                 Geboren um zu leben<br>
+Lord Of The Dance       Medley<br>
+Michael Patrick Kelly:                         Blurry Eyes<br>
+Giovanni Zarrella:                                Schlager-Special mit Maite Kelly, Neonlicht, Daria<br>
+Abenteuerland<br>
+Ein Stern (der deinen Namen trägt)<br>
+Wunder gibt es immer wieder<br>
+Auf uns<br>
+Peter Maffay &amp; Giovanni Zarrella:       So bist du / Così sei tu<br>
+Michelle:       Wer Liebe lebt<br>
+Revolverheld:                                      Das Größte<br>
+Ben Zucker &amp; Giovanni Zarrella:          Was für eine geile Zeit<br>
+Giovanni Zarrella:  Sette ponti devi attraversare ((„Über sieben Brücken musst du geh’n“))<br>
+Santiano:                                            Was du liebst<br>
+Calum Scott:                                       Rise<br>
+Calum Scott &amp; Giovanni Zarrella:         You Are The Reason Sarah Zucker:    Un, deux, trois<br>
+Kerstin Ott:                                        Sag mir (wann beginnt endlich die Zeit)<br>
+Semino Rossi &amp; Giovanni Zarrella:       Latin-Special<br>
+Despacito<br>
+Baila Me<br>
+María<br>
+Peter Maffay:                                      Wann Immer<br>
+Maite Kelly:                                       Hit-Medley<br>
+Sieben Leben für dich<br>
+Einfach Hello<br>
+Warum hast du nicht nein gesagt<br>
+Giovanni Zarrella:         Ciao!<br>
 <br>
 
 
 <div class="bbCodeBlock bbCodeCode">
 	<div class="type">Code:</div>
 	<pre>General
-Unique ID                                : 82074907275113576498308637720714603880 (0x3DBF0D5A6235654D72D94E55BD02ED68)
-Complete name                            : Immer wieder sonntags - Best of - Aus dem Europapark Rust - 31-10-2021 hrHD IPTV 1080p.mkv
+Unique ID                                : 287772185069735333433411723268947255382 (0xD87EE82695AAEB0E7371866E74A12056)
+Complete name                            : Die Giovanni Zarrella Show - Folge 2 - 13-11-2021 ZDFHD IPTV 1080p.mkv
 Format                                   : Matroska
 Format version                           : Version 4
-File size                                : 6.24 GiB
-Duration                                 : 1 h 54 min
-Overall bit rate                         : 7 806 kb/s
+File size                                : 9.79 GiB
+Duration                                 : 2 h 59 min
+Overall bit rate                         : 7 808 kb/s
 Frame rate                               : 50.000 FPS
 Writing application                      : VideoReDo (Lavf58.29.100)
 Writing library                          : VideoReDo (Lavf58.29.100)
@@ -133,9 +189,9 @@ Format settings                          : CABAC / 2 Ref Frames
 Format settings, CABAC                   : Yes
 Format settings, Reference frames        : 2 frames
 Codec ID                                 : V_MPEG4/ISO/AVC
-Duration                                 : 1 h 54 min
-Bit rate                                 : 7 395 kb/s
-Nominal bit rate                         : 8 260 kb/s
+Duration                                 : 2 h 59 min
+Bit rate                                 : 7 396 kb/s
+Nominal bit rate                         : 6 380 kb/s
 Width                                    : 1 920 pixels
 Height                                   : 1 080 pixels
 Display aspect ratio                     : 16:9
@@ -146,9 +202,9 @@ Chroma subsampling                       : 4:2:0
 Bit depth                                : 8 bits
 Scan type                                : Progressive
 Bits/(Pixel*Frame)                       : 0.071
-Stream size                              : 5.92 GiB (95%)
+Stream size                              : 9.27 GiB (95%)
 Writing library                          : x264 core 160 r3000
-Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=8 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=60 / keyint_min=6 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=8260 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=49999 / vbv_bufsize=9375 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=8 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=6380 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=49999 / vbv_bufsize=9375 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
 Default                                  : No
 Forced                                   : No
 Audio
@@ -157,7 +213,7 @@ Format                                   : E-AC-3
 Format/Info                              : Enhanced AC-3
 Commercial name                          : Dolby Digital Plus
 Codec ID                                 : A_EAC3
-Duration                                 : 1 h 54 min
+Duration                                 : 2 h 59 min
 Bit rate mode                            : Constant
 Bit rate                                 : 256 kb/s
 Channel(s)                               : 6 channels
@@ -165,7 +221,7 @@ ChannelLayout_Original                   : L R C LFE Ls Rs
 Sampling rate                            : 48.0 kHz
 Frame rate                               : 31.250 FPS (1536 SPF)
 Compression mode                         : Lossy
-Stream size                              : 210 MiB (3%)
+Stream size                              : 329 MiB (3%)
 Language                                 : German
 Service kind                             : Complete Main
 Default                                  : Yes
@@ -191,6 +247,20 @@ Menu
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[LLAVE1]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ VID] - Iheartradio Fiesta Latina 2025]]></title>
+                <link><![CDATA[https://sharemania.us/threads/iheartradio-fiesta-latina-2025.287051/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Did someone grab the livestream to share in the forum? Thanks.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[ondemand]]></author>
                 </item>
 
                 </channel></rss>
