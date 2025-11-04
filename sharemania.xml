@@ -8,50 +8,511 @@
 
  
                 <item>
-                <title><![CDATA[【Albums (lossy)】MP3 - ROSALÍA - LUX | CDRiP MP3 320kbps / 44.1kHz]]></title>
-                <link><![CDATA[https://sharemania.us/threads/rosal%C3%8Da-lux-cdrip-mp3-320kbps-44-1khz.287663/]]></link>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Immer wieder sonntags - 21-08-2022 DasErsteHD IPTV 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/immer-wieder-sonntags-21-08-2022-daserstehd-iptv-1080p.287674/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<div style="text-align: center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/ae/80/95ae8046-a6b9-e493-0def-5ae33d63f43a/196873722672.jpg/1200x630bb.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/ae/80/95ae8046-a6b9-e493-0def-5ae33d63f43a/196873722672.jpg/1200x630bb.jpg" style=""><br>
-<b><span style="font-size: 15px">Tracklist</span></b><br>
-MOV I<br>
-1. SEXO, VIOLENCIA Y LLANTAS<br>
-2. RELIQUIA<br>
-3. DIVINIZE<br>
-4. PORCELANA<br>
-5. MIO CRISTO<br>
+					<img src="https://i.imgur.com/KUyYGbY.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/KUyYGbY.jpeg" style=""><br>
 <br>
-MOV II<br>
-6. BERGHAIN<br>
-7. LA PERLA<br>
-8. MUNDO NUEVO<br>
-9. DE MADRUGÁ<br>
+Eloy de Jong, Giovanni Zarrella, Hansy Vogt, Jill Fisher, Jonny Hill, Isabel Varell, Kastelruther Spatzen, Marc Pircher, Saskia Leppin, Sebastian Reich &amp; Amanda, voXXclub<br>
 <br>
-MOV III<br>
-10. DIOS ES UN STALKER<br>
-11. LA YUGULAR<br>
-12. FOCU ‘RANNI [EXCLUSIVE]<br>
-13. SAUVIGNON BLANC<br>
-14. JEANNE [EXCLUSIVE]<br>
-<br>
-MOV IV<br>
-15. NOVIA ROBOT [EXCLUSIVE]<br>
-16. LA RUMBA DEL PERDÓN<br>
-17. MEMÓRIA<br>
-18. MAGNOLIAS<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 118691976022958462073209553994505239078 (0x594B3E3A5DF80DE24A5131805A03BA26)
+Complete name                            : Immer wieder sonntags - Folge 10 - 21-08-2022 DasErsteHD IPTV 1080p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 6.27 GiB
+Duration                                 : 1 h 55 min
+Overall bit rate                         : 7 797 kb/s
+Frame rate                               : 50.000 FPS
+Writing application                      : VideoReDo (Lavf58.29.100)
+Writing library                          : VideoReDo (Lavf58.29.100)
+ErrorDetectionType                       : Per level 1
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 55 min
+Bit rate                                 : 7 139 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.069
+Stream size                              : 5.94 GiB (95%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=8 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=7139 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=49999 / vbv_bufsize=9375 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : No
+Forced                                   : No
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 1 h 55 min
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 6 channels
+ChannelLayout_Original                   : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 211 MiB (3%)
+Language                                 : German
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+Menu
+00:00:00.000                             : Chapter 1
+
+</pre>
+</div>won't be reuploaded<br>
 
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[Yennefer]]></author>
+                <author><![CDATA[LLAVE1]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - ZDF-Fernsehgarten - 14-08-2022 ZDFHD IPTV 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/zdf-fernsehgarten-14-08-2022-zdfhd-iptv-1080p.287672/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/OMuGCpV.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/OMuGCpV.jpeg" style=""><br>
+<br>
+Wir freuen uns auf Justin Jesso, die Söhne Mannheims, Giovanni Zarrella, Charly Klauser, Eric Philippi, Alle Achtung, Daniele Puccia, Steffen Jung, Marie Reim und Magic Affair.<br>
+<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 90444099005613552248823004098313144742 (0x440AE65D03F6196FE4669F51EF8549A6)
+Complete name                            : ZDF-Fernsehgarten - 14-08-2022 ZDFHD IPTV 1080p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 7.24 GiB
+Duration                                 : 2 h 12 min
+Overall bit rate                         : 7 834 kb/s
+Frame rate                               : 50.000 FPS
+Writing application                      : VideoReDo (Lavf58.29.100)
+Writing library                          : VideoReDo (Lavf58.29.100)
+ErrorDetectionType                       : Per level 1
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 12 min
+Bit rate                                 : 7 325 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.071
+Stream size                              : 6.86 GiB (95%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=8 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=7325 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=49999 / vbv_bufsize=9375 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : No
+Forced                                   : No
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 2 h 12 min
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 6 channels
+ChannelLayout_Original                   : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 242 MiB (3%)
+Language                                 : German
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+Menu
+00:00:00.000                             : Chapter 1
+
+</pre>
+</div>won't be reuploaded<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[LLAVE1]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ AUD] - Rip a TIDAL playlist in Dolby Atmos (E-AC3 JOC)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/rip-a-tidal-playlist-in-dolby-atmos-e-ac3-joc.287671/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Hello! A while ago I put together a library with songs in Dolby Atmos from TIDAL that were not uploaded here, or that had the links down so I could rip them if I could. It seemed like a bad idea because I haven't been able to achieve it until now. I wanted to know if someone could help me rip this playlist on E-AC3 JOC. Please, don't upload on Terabox! Thank you!<br>
+<br>
+<a href="https://tidal.com/playlist/9641d4b7-80ae-4d15-aca6-472190a5a872" target="_blank" class="externalLink" rel="nofollow">https://tidal.com/playlist/9641d4b7-80ae-4d15-aca6-472190a5a872</a>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[VizioPIU]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Immer wieder sonntags - 07-08-2022 DasErsteHD IPTV 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/immer-wieder-sonntags-07-08-2022-daserstehd-iptv-1080p.287669/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/yR0Pyzo.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/yR0Pyzo.jpeg" style=""><br>
+<br>
+Claudia Jung, DJ Ötzi, Francine Jordi, Ireen Sheer, Karsten Walter &amp; Marina Marx, Mitch Keller, Oesch‘ die Dritten, Olaf Berger, Sarah Zucker und, Tanja Lasch<br>
+<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 50356808007461252159146736254781539359 (0x25E25E52618301F057F2F82C0788C41F)
+Complete name                            : Immer wieder sonntags - 07-08-2022 DasErsteHD IPTV 1080p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 6.27 GiB
+Duration                                 : 1 h 54 min
+Overall bit rate                         : 7 830 kb/s
+Frame rate                               : 50.000 FPS
+Writing application                      : VideoReDo (Lavf58.29.100)
+Writing library                          : VideoReDo (Lavf58.29.100)
+ErrorDetectionType                       : Per level 1
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 54 min
+Bit rate                                 : 7 418 kb/s
+Nominal bit rate                         : 6 922 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.072
+Stream size                              : 5.94 GiB (95%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=8 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=6922 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=49999 / vbv_bufsize=9375 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : No
+Forced                                   : No
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 1 h 54 min
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 6 channels
+ChannelLayout_Original                   : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 210 MiB (3%)
+Language                                 : German
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+Menu
+00:00:00.000                             : Chapter 1
+
+</pre>
+</div>won't be reuploaded<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[LLAVE1]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【SD】Floyy Menor &amp; Cris MJ - Gata Only (PO)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/floyy-menor-cris-mj-gata-only-po.287668/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://imgbox.com/2ZvyDmAW https://imgbox.com/eMfxq9bq" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://imgbox.com/2ZvyDmAW https://imgbox.com/eMfxq9bq" style=""> <img src="https://imgur.com/a/fcTqeCM" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://imgur.com/a/fcTqeCM" style="">Floyy Menor y Cris MJ - Solo Gata (PO)<br>
+<br>
+<a href="https://www.mediafire.com/file/g3bq1sf0ohdr648/Floyy_Menor_%2526_Cris_MJ_-_Gata_Only_%2528PO%2529.mp4/file" target="_blank" class="externalLink" rel="nofollow">https://www.mediafire.com/file/g3bq1sf0ohdr648/Floyy_Menor_%26_Cris_MJ_-_Gata_Only_%28PO%29.mp4/file</a>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Superchango1989]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - ZDF-Fernsehgarten - 07-08-2022 ZDFHD IPTV 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/zdf-fernsehgarten-07-08-2022-zdfhd-iptv-1080p.287670/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/aVzAemj.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/aVzAemj.jpeg" style=""><br>
+<br>
+Wir freuen uns auf Lucas Cordalis, Marianne Rosenberg, Patricia Kelly, The Flames, Brenner, BenjRose, Phil The Beat, Pietro Basile und ATC – A Touch of Class.<br>
+<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 85970209068887198648893630478278854066 (0x40AD428F2B81F7CCAE50C9F20E2605B2)
+Complete name                            : ZDF-Fernsehgarten - 07-08-2022 ZDFHD IPTV 1080p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 7.32 GiB
+Duration                                 : 2 h 12 min
+Overall bit rate                         : 7 911 kb/s
+Frame rate                               : 50.000 FPS
+Writing application                      : VideoReDo (Lavf58.29.100)
+Writing library                          : VideoReDo (Lavf58.29.100)
+ErrorDetectionType                       : Per level 1
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 12 min
+Bit rate                                 : 7 830 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.076
+Stream size                              : 6.94 GiB (95%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=8 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=7830 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=49999 / vbv_bufsize=9375 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : No
+Forced                                   : No
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 2 h 12 min
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 6 channels
+ChannelLayout_Original                   : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 243 MiB (3%)
+Language                                 : German
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+Menu
+00:00:00.000                             : Chapter 1
+
+</pre>
+</div>won't be reuploaded<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[LLAVE1]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Donnschtig-Jass - 18-08-2022 SRF1HD IPTV 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/donnschtig-jass-18-08-2022-srf1hd-iptv-1080p.287673/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/L89v55U.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/L89v55U.jpeg" style=""><br>
+<br>
+Dario Cologna, Oesch’s die Dritten, Megawatt, Fäaschtbänkler<br>
+<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 135969971112152519938813705466186438558 (0x664ADD27E917CC8EFCCE40C0F29E179E)
+Complete name                            : Donnschtig-Jass - 18-08-2022 SRF1HD IPTV 1080p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 5.19 GiB
+Duration                                 : 1 h 37 min
+Overall bit rate                         : 7 612 kb/s
+Frame rate                               : 50.000 FPS
+Writing application                      : VideoReDo (Lavf58.29.100)
+Writing library                          : VideoReDo (Lavf58.29.100)
+ErrorDetectionType                       : Per level 1
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 37 min
+Bit rate                                 : 7 204 kb/s
+Nominal bit rate                         : 4 316 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.069
+Stream size                              : 4.91 GiB (95%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=8 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=4316 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=49999 / vbv_bufsize=9375 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : No
+Forced                                   : No
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 1 h 37 min
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 6 channels
+ChannelLayout_Original                   : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 179 MiB (3%)
+Language                                 : German
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+Menu
+00:00:00.000                             : Chapter 1
+
+</pre>
+</div>won't be reuploaded<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[LLAVE1]]></author>
                 </item>
 
                 </channel></rss>
