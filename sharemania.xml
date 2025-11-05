@@ -8,15 +8,15 @@
 
  
                 <item>
-                <title><![CDATA[【UPSCALED】Nicki Minaj &amp; Rihanna - Fly (AI UPSCALED) 4K ProRes]]></title>
-                <link><![CDATA[https://sharemania.us/threads/nicki-minaj-rihanna-fly-ai-upscaled-4k-prores.287710/]]></link>
+                <title><![CDATA[【UPSCALED】Nicki Minaj &amp; Lil Wayne - High School (AI UPSCALED) 4K ProRes]]></title>
+                <link><![CDATA[https://sharemania.us/threads/nicki-minaj-lil-wayne-high-school-ai-upscaled-4k-prores.287711/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.ibb.co/N21Vc2Dn/fly-167894701-mov-00-08-875.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/N21Vc2Dn/fly-167894701-mov-00-08-875.png" style=""><br>
-<img src="https://i.ibb.co/rRnc6pq5/fly-167894701-mov-00-55-822.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/rRnc6pq5/fly-167894701-mov-00-55-822.png" style=""><br>
-<img src="https://i.ibb.co/yF3Y7Qn9/fly-167894701-mov-01-09-969.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/yF3Y7Qn9/fly-167894701-mov-01-09-969.png" style=""><br>
-<img src="https://i.ibb.co/YFwcTLMT/fly-167894701-mov-01-57-584.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/YFwcTLMT/fly-167894701-mov-01-57-584.png" style=""><br>
+					<img src="https://i.ibb.co/ksygTWqF/High-School-mov-00-17-392.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/ksygTWqF/High-School-mov-00-17-392.png" style=""><br>
+<img src="https://i.ibb.co/BVWJBCtP/High-School-mov-00-23-857.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/BVWJBCtP/High-School-mov-00-23-857.png" style=""><br>
+<img src="https://i.ibb.co/TBXjWBCT/High-School-mov-00-38-705.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/TBXjWBCT/High-School-mov-00-38-705.png" style=""><br>
+<img src="https://i.ibb.co/Xf7pSjVw/High-School-mov-00-50-133.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/Xf7pSjVw/High-School-mov-00-50-133.png" style=""><br>
 
 
 
@@ -30,14 +30,24 @@
 Format                                   : MPEG-4
 Format profile                           : QuickTime
 Codec ID                                 : qt   0000.02 (qt  )
-File size                                : 4.76 GiB
-Duration                                 : 4 min 32 s
+File size                                : 2.57 GiB
+Duration                                 : 4 min 8 s
 Overall bit rate mode                    : Variable
-Overall bit rate                         : 150 Mb/s
-Frame rate                               : 29.970 FPS
-major_brand                              : qt 
-minor_version                            : 512
-compatible_brands                        : qt 
+Overall bit rate                         : 89.0 Mb/s
+Frame rate                               : 23.976 FPS
+Encoded date                             : 2024-03-03 20:11:09 UTC
+Tagged date                              : 2024-03-03 20:11:09 UTC
+compatible_brands                        : isomiso4
+major_brand                              : isom
+minor_version                            : 1
+creation_time                            : 2024-03-03T20:11:09.000000Z
+artist                                   : Nicki Minaj
+title                                    : High School (feat. Lil Wayne)
+genre                                    : Hip-Hop/Rap
+date                                     : 2013-01-01
+rating                                   : 2
+track                                    : 0
+performers                               : Nicki Minaj
 encoder                                  : Lavf62.0.102
 
 Video
@@ -46,43 +56,47 @@ Format                                   : ProRes
 Format version                           : Version 0
 Format profile                           : 422 Proxy
 Codec ID                                 : apco
-Duration                                 : 4 min 32 s
+Duration                                 : 4 min 8 s
 Bit rate mode                            : Variable
-Bit rate                                 : 148 Mb/s
+Bit rate                                 : 88.8 Mb/s
 Width                                    : 3 840 pixels
-Height                                   : 2 160 pixels
-Display aspect ratio                     : 16:9
+Height                                   : 1 606 pixels
+Display aspect ratio                     : 2.39:1
 Frame rate mode                          : Constant
-Frame rate                               : 29.970 (30000/1001) FPS
+Frame rate                               : 23.976 (23976/1000) FPS
 Color space                              : YUV
 Chroma subsampling                       : 4:2:2
 Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.595
-Stream size                              : 4.69 GiB (98%)
+Bits/(Pixel*Frame)                       : 0.601
+Stream size                              : 2.57 GiB (100%)
 Writing library                          : Apple
+Encoded date                             : 2024-03-03 20:11:09 UTC
+Tagged date                              : 2024-03-03 20:11:09 UTC
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
 Matrix coefficients                      : BT.709
 Codec configuration box                  : glbl
 
 Audio
 ID                                       : 2
-Format                                   : PCM
-Format settings                          : Little / Signed
-Codec ID                                 : in24
-Duration                                 : 4 min 32 s
-Source duration                          : 4 min 32 s
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : mp4a-40-2
+Duration                                 : 4 min 8 s
+Duration_LastFrame                       : -11 ms
 Bit rate mode                            : Constant
-Bit rate                                 : 2 304 kb/s
+Bit rate                                 : 238 kb/s
 Channel(s)                               : 2 channels
 Channel layout                           : L R
 Sampling rate                            : 48.0 kHz
-Bit depth                                : 24 bits
-Stream size                              : 74.8 MiB (2%)
-Source stream size                       : 74.8 MiB (2%)
-Language                                 : English
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 7.03 MiB (0%)
+Title                                    : Core Media Audio
 Default                                  : Yes
 Alternate group                          : 1
-mdhd_Duration                            : 272375
-
+Encoded date                             : 2024-03-03 20:11:09 UTC
+Tagged date                              : 2024-03-03 20:11:09 UTC
 </pre>
 </div></div>
 </div><div style="text-align: center">
