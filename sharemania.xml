@@ -8,66 +8,134 @@
 
  
                 <item>
-                <title><![CDATA[【Singles (lossy)】Dolby AC-4 - Flo Rida - Low (feat. T-Pain) [AC-4 IMS | 48kHz | 2.0 | 256kbits]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/flo-rida-low-feat-t-pain-ac-4-ims-48khz-2-0-256kbits.287706/]]></link>
+                <title><![CDATA[【Albums (lossless)】PACK - Bon Jovi - This Left Feels Right (2003) (Island Def Jam Music Group) [SACD-R Pure Audio] BDMV 2.0 &amp; 5.1]]></title>
+                <link><![CDATA[https://sharemania.us/threads/bon-jovi-this-left-feels-right-2003-island-def-jam-music-group-sacd-r-pure-audio-bdmv-2-0-5-1.287708/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://resources.tidal.com/images/4e545c1d/7ead/4c77/a4be/f536611d1347/1280x1280.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://resources.tidal.com/images/4e545c1d/7ead/4c77/a4be/f536611d1347/1280x1280.jpg" style=""> <br>
-<span style="font-family: 'Verdana'"><br>
-<b>Artists</b>: Flo Rida, T-Pain<br>
-<b>Single</b>: Low (feat. T-Pain)<br>
-<b>Release</b>: 2007-01-01<br>
-<b>Format</b>: .m4a Dolby Audio Coding 4<br>
-<b>Sample Rate</b>: 256 kbps, 48.0 kHz - 2.0 <span style="font-size: 12px">Immersive Sound</span><br>
-<b>Quality</b>: High Quality, Lossy Audio<br>
-<b>Source</b>: <b><a href="https://tidal.com/browse/track/230157308?u" target="_blank" class="externalLink" rel="nofollow">TIDAL</a></b><br>
+					<img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/05/aa/19/05aa19e9-6fde-747a-1a31-cd882016411e/14UMGIM44524.rgb.jpg/100000x100000bb.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/05/aa/19/05aa19e9-6fde-747a-1a31-cd882016411e/14UMGIM44524.rgb.jpg/100000x100000bb.png" style=""> <br>
+<b>Record format/Record source: </b>[BR][SACD-R][OF]<br>
+<b>Genre:</b> Rock<br>
+<b>Year of publication:</b> 2003<br>
+<b>Publisher (label): </b>Island Def Jam Music Group<br>
+<b>Audio 1:</b> LPCM 2.0 4608 Kbps 24-bit/96kHz<br>
+<b>Audio 2:</b> LPCM 5.1 13824 Kbps 24-bit/96kHz<br>
+<b>Rip type:</b> BDMV<br>
+<b>Ripped by:</b> <i>Leliktronik</i><br>
+<b>Duration: </b>00:51:16.458, 00:51:44.000<br>
 <br>
-<b>DOWNLOAD</b></span><br>
+Recording on BD-25 by ImgBurn.<br>
+1. Collected the menu for this disk in Java.<br>
+2. We switch between tracks and audio roads using arrows on the remote control.<br>
+3. We make a direct transition to any track with numbers on the remote control.<br>
+4. We make a direct transition to any audio road by pressing the yellow and red button of the remote control. The correspondence of these buttons to the audio road is indicated in the menu.<br>
+5. Disabled the protection. Tested on stationary players and computers. Used equipment that supports Blu-Ray format.<br>
+<br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Quality check log 2.0 is DR8, 5.1 is DR13</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>foobar2000 1.6.2/Dynamic Range Meter 1.1.1
+
+log date: 2023-05-17 22:13:04
+
+----------------------------------------------------------------------
+Analyzed: Bon Jovi/This Left Feels Right
+----------------------------------------------------------------------
+
+DR Peak RMS Duration Track
+-----------------------------------------------------------------------
+DR8 -0.46 dB -11.02 dB 3:46 01-Wanted Dead Or Alive
+DR9 -0.32 dB -11.21 dB 3:41 02-Livin' On A Prayer
+DR8 -0.58 dB -10.24 dB 4:27 03-Bad Medicine
+DR9 -0.87 dB -11.82 dB 3:42 04-It's My Life
+DR8 -0.59 dB -10.90 dB 4:27 05-Lay Your Hands On Me
+DR9 -0.51 dB -11.30 dB 3:30 06-You Give Love A Bad Name
+DR9 -0.53 dB -12.41 dB 5:38 07-Bed Of Roses
+DR8 -0.15 dB -11.58 dB 3:45 08-Everyday
+DR8 -0.62 dB -10.20 dB 5:28 09-Born To Be My Baby
+DR8 -0.16 dB -10.73 dB 4:12 10-Keep The Faith
+DR8 -0.16 dB -10.04 dB 4:22 11-I'll Be There For You
+DR8 -0.34 dB -10.86 dB 4:18 12-Always
+----------------------------------------------------------------------
+
+Number of tracks: 12
+Official DR value: DR8
+
+Samplerate: 96000 Hz
+Channels: 2
+Bits per sample: 24
+Bitrate: 4608 kbps
+Codec: PCM
+=========================================================================
+
+foobar2000 1.6.2/Dynamic Range Meter 1.1.1
+log date: 2023-05-21 21:10:14
+
+----------------------------------------------------------------------
+Analyzed: Bon Jovi/This Left Feels Right
+----------------------------------------------------------------------
+
+DR Peak RMS Duration Track
+----------------------------------------------------------------------
+DR12 -0.54 dB -15.23 dB 3:44 01-Wanted Dead Or Alive
+DR14 -0.89 dB -16.31 dB 4:16 02-Livin' On A Prayer
+DR14 -0.75 dB -15.87 dB 4:27 03-Bad Medicine
+DR11 -1.63 dB -15.67 dB 3:42 04-It's My Life
+DR11 -0.90 dB -14.02 dB 4:27 05-Lay Your Hands On Me
+DR14 -1.13 dB -15.21 dB 3:26 06-You Give Love A Bad Name
+DR11 -0.89 dB -16.93 dB 5:38 07-Bed Of Roses
+DR14 -0.35 dB -16.05 dB 3:45 08-Everyday
+DR14 -1.24 dB -16.15 dB 5:28 09-Born To Be My Baby
+DR11 -0.96 dB -15.87 dB 4:12 10-Keep The Faith
+DR13 -1.32 dB -15.69 dB 4:22 11-I'll Be There For You
+DR12 -0.15 dB -16.33 dB 4:18 12-Always
+----------------------------------------------------------------------
+
+Number of tracks: 12
+Official DR value: DR13
+
+Samplerate: 96000 Hz
+Channels: 6
+Bits per sample: 24
+Bitrate: 13824 kbps
+Codec: PCM
+=========================================================================
+</pre>
+</div></div>
+</div><br>
+<b>Tracklist:</b><br>
+01. Wanted Dead Or Alive<br>
+02. Livin' On A Prayer<br>
+03. Bad Medicine<br>
+04. It's My Life<br>
+05. Lay Your Hands On Me<br>
+06. You Give Love A Bad Name<br>
+07. Bed Of Roses<br>
+08. Everyday<br>
+09. Born To Be My Baby<br>
+10. Keep The Faith<br>
+11. I'll Be There For You<br>
+12. Always<br>
+<br>
+<span style="color: #ff0000"><b>DOWNLOAD:</b></span><br>
 
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
 </div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[Kenchana]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Singles (lossy)】Dolby Atmos - Flo Rida - Low (feat. T-Pain) [E-AC3 JOC | 16bit/48kHz | 5.1 | 768kbits]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/flo-rida-low-feat-t-pain-e-ac3-joc-16bit-48khz-5-1-768kbits.287707/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<img src="https://resources.tidal.com/images/4e545c1d/7ead/4c77/a4be/f536611d1347/1280x1280.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://resources.tidal.com/images/4e545c1d/7ead/4c77/a4be/f536611d1347/1280x1280.jpg" style=""> <br>
-<span style="font-family: 'Verdana'"><br>
-<b>Artists</b>: Flo Rida, T-Pain<br>
-<b>Single</b>: Low (feat. T-Pain)<br>
-<b>Release</b>: 2007-01-01<br>
-<b>Format</b>: .m4a Enhanced AC-3 with Joint Object Coding<br>
-<b>Sample Rate</b>: 768 kbps, 48.0 kHz - 5.1 Surround Sound<br>
-<b>Quality</b>: High Quality, Lossy Audio<br>
-<b>Source</b>: <b><a href="https://tidal.com/browse/track/230157308?u" target="_blank" class="externalLink" rel="nofollow">TIDAL</a></b><br>
-<br>
-<b>DOWNLOAD</b></span><br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[Kenchana]]></author>
+                <author><![CDATA[olobersykes99]]></author>
                 </item>
 
                 </channel></rss>
