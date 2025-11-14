@@ -8,107 +8,121 @@
 
  
                 <item>
-                <title><![CDATA[【HD Live Performances】WEB-DL - aespa - Live at Amazon Music Live 2025 1080p WEB AAC2.0 H.264-JL92]]></title>
-                <link><![CDATA[https://sharemania.us/threads/aespa-live-at-amazon-music-live-2025-1080p-web-aac2-0-h-264-jl92.288367/]]></link>
+                <title><![CDATA[【Requests】[REQ AUD] - My Only Wish - David Archuleta]]></title>
+                <link><![CDATA[https://sharemania.us/threads/my-only-wish-david-archuleta.288370/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.ibb.co/jZ859tPM/cover.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/jZ859tPM/cover.jpg" style=""><br>
-<img src="https://i.ibb.co/gbpLG25n/Amazon-Music-Live-2025-aespa-1080p-WEB-DL-AAC2-0-H-264-JL92.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/gbpLG25n/Amazon-Music-Live-2025-aespa-1080p-WEB-DL-AAC2-0-H-264-JL92.png" style=""><br>
+					Does anyone have his new mini Holiday EP?<br>
+<br>
+Thank you!
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Anticonformity]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - aespa - Live @ Amazon Music Live 2025 (Nov 14, 2025) [1080p]-sidmonster]]></title>
+                <link><![CDATA[https://sharemania.us/threads/aespa-live-amazon-music-live-2025-nov-14-2025-1080p-sidmonster.288369/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center"><img src="https://i.postimg.cc/X7zJLKC1/Screenshot-2025-11h.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/X7zJLKC1/Screenshot-2025-11h.png" style=""><br>
+<br>
 
 
 
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Details</span></span></button>
 	<div class="SpoilerTarget bbCodeSpoilerText">
 
 <div class="bbCodeBlock bbCodeCode">
 	<div class="type">Code:</div>
-	<pre>General
-Format                                   : Matroska
+	<pre>Format                                   : Matroska
 Format version                           : Version 4
-File size                                : 1.46 GiB
-Duration                                 : 39 min 44 s
-Overall bit rate                         : 5 262 kb/s
-Frame rate                               : 29.970 FPS
-Writing application                      : Lavf58.76.100
-Writing library                          : Lavf58.76.100
-ErrorDetectionType                       : Per level 1
+File size                                : 2.58 GiB
+Duration                                 : 40 min 56 s
+Overall bit rate                         : 9 009 kb/s
+Frame rate                               : 30.000 FPS
+Encoded date                             : 2025-11-14 06:55:03 UTC
+Writing application                      : mkvmerge 95.0 ('Goodbye Stranger') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
 
 Video
 ID                                       : 1
 Format                                   : AVC
 Format/Info                              : Advanced Video Codec
-Format profile                           : Main@L4
-Format settings                          : CABAC / 2 Ref Frames
+Format profile                           : High@L4
+Format settings                          : CABAC / 3 Ref Frames
 Format settings, CABAC                   : Yes
-Format settings, Reference frames        : 2 frames
+Format settings, Reference frames        : 3 frames
 Format settings, Slice count             : 4 slices per frame
 Codec ID                                 : V_MPEG4/ISO/AVC
-Duration                                 : 39 min 44 s
+Duration                                 : 40 min 56 s
 Bit rate mode                            : Constant
-Nominal bit rate                         : 5 000 kb/s
+Bit rate                                 : 9 000 kb/s
 Width                                    : 1 920 pixels
 Height                                   : 1 080 pixels
 Display aspect ratio                     : 16:9
 Frame rate mode                          : Constant
-Frame rate                               : 29.970 (30000/1001) FPS
-Standard                                 : NTSC
+Frame rate                               : 30.000 FPS
 Color space                              : YUV
 Chroma subsampling                       : 4:2:0
 Bit depth                                : 8 bits
 Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.080
+Bits/(Pixel*Frame)                       : 0.145
+Stream size                              : 2.54 GiB (99%)
 Default                                  : Yes
 Forced                                   : No
-Color range                              : Limited
-Color primaries                          : BT.709
-Transfer characteristics                 : BT.709
-Matrix coefficients                      : BT.709
 
 Audio
 ID                                       : 2
 Format                                   : AAC LC
 Format/Info                              : Advanced Audio Codec Low Complexity
 Codec ID                                 : A_AAC-2
-Duration                                 : 39 min 44 s
+Duration                                 : 40 min 56 s
+Bit rate                                 : 126 kb/s
 Channel(s)                               : 2 channels
 Channel layout                           : L R
-Sampling rate                            : 48.0 kHz
-Frame rate                               : 46.875 FPS (1024 SPF)
+Sampling rate                            : 32.0 kHz
+Frame rate                               : 31.250 FPS (1024 SPF)
 Compression mode                         : Lossy
-Delay relative to video                  : 2 ms
+Delay relative to video                  : 16 ms
+Stream size                              : 37.0 MiB (1%)
+Language                                 : English
 Default                                  : Yes
 Forced                                   : No
-
 </pre>
 </div></div>
-</div><div style="text-align: center">
+</div><br>
+<img src="https://i.postimg.cc/3JnpTDDG/aespa-Live-from-Amazon-Music-Live-2025-sidmonster-mkv-thumbs.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/3JnpTDDG/aespa-Live-from-Amazon-Music-Live-2025-sidmonster-mkv-thumbs.jpg" style=""><br>
+<br>
+<img src="https://i.postimg.cc/jS0cDfj5/video-capture-t0592-45seg-6192.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/jS0cDfj5/video-capture-t0592-45seg-6192.png" style=""><br>
+<br>
+<img src="https://i.postimg.cc/mgfjP9rk/video-capture-t1828-71seg-2150.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/mgfjP9rk/video-capture-t1828-71seg-2150.png" style=""><br>
+<br>
+<br>
+<b><span style="color: rgb(255, 0, 128)">______________________________________________</span></b><br>
+<span style="color: rgb(0, 0, 255)"><br>
+</span><br>
+<b><span style="color: rgb(0, 0, 255)">Download:</span></b><br>
+<br>
+
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div></div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div><span style="color: rgb(0, 0, 0)"><br>
+</span><br>
+<b><span style="color: rgb(255, 0, 128)">________________________________________________________________________</span></b>​</div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[itunesboy]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Gabbie Hanna's Discography Lossless (Flac)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/gabbie-hannas-discography-lossless-flac.288368/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					Hi, this was uploaded before a few years ago but the link is dead and i asked about a new link but went unanswered. it was like 14 singles and an album or two. anyone have this?? thank you!!
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[hardtymz2517]]></author>
+                <author><![CDATA[sidmonster1231]]></author>
                 </item>
 
                 </channel></rss>
