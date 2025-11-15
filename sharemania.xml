@@ -8,15 +8,12 @@
 
  
                 <item>
-                <title><![CDATA[【UPSCALED】Robyn - Dopamine (AI UPSCALED) 4K ProRes]]></title>
-                <link><![CDATA[https://sharemania.us/threads/robyn-dopamine-ai-upscaled-4k-prores.288441/]]></link>
+                <title><![CDATA[【Music Videos】Jessie J - H.A.P.P.Y (Live in Brazil) [Apple Music 4K]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/jessie-j-h-a-p-p-y-live-in-brazil-apple-music-4k.288443/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.ibb.co/Qg06fhz/Dopamine-mov-00-07-759.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/Qg06fhz/Dopamine-mov-00-07-759.png" style=""><br>
-<img src="https://i.ibb.co/wNm8Dxzf/Dopamine-mov-00-12-240.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/wNm8Dxzf/Dopamine-mov-00-12-240.png" style=""><br>
-<img src="https://i.ibb.co/LdzBdQqR/Dopamine-mov-00-34-759.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/LdzBdQqR/Dopamine-mov-00-34-759.png" style=""><br>
-<img src="https://i.ibb.co/23qP4wqm/Dopamine-mov-01-58-040.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/23qP4wqm/Dopamine-mov-01-58-040.png" style=""><br>
+					<img src="https://i.ibb.co/xSFhbwpD/H-A-P-P-Y-Live-in-Brazil-1.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/xSFhbwpD/H-A-P-P-Y-Live-in-Brazil-1.png" style=""><br>
 
 
 
@@ -28,64 +25,66 @@
 	<div class="type">Code:</div>
 	<pre>General
 Format                                   : MPEG-4
-Format profile                           : QuickTime
-Codec ID                                 : qt   0000.02 (qt  )
-File size                                : 2.33 GiB
-Duration                                 : 3 min 38 s
-Overall bit rate mode                    : Variable
-Overall bit rate                         : 91.7 Mb/s
+Format profile                           : Base Media
+Codec ID                                 : isom (isom/iso2/mp41)
+File size                                : 468 MiB
+Duration                                 : 3 min 12 s
+Overall bit rate                         : 20.4 Mb/s
 Frame rate                               : 25.000 FPS
-minor_version                            : 512
-major_brand                              : M4V
-compatible_brands                        : M4V isomiso2avc1
-title                                    : Dopamine
-artist                                   : Robyn
-genre                                    : Pop
-date                                     : 2025-11-12T08:00:00Z
-rating                                   : 0
-media_type                               : 6
-copyright                                : ℗ 2025 Konichiwa Records AB under exclusive license to Young
-encoder                                  : Lavf62.0.102
+Movie name                               : H.A.P.P.Y (Live in Brazil)
+Performer                                : Jessie J
+Genre                                    : Pop
+ContentType                              : Music Video
+Recorded date                            : 2025-11-14 08:00:00 UTC
+Copyright                                : ℗ 2025 Jessie J, under exclusive licence to D.A.P.
+Cover                                    : Yes
+Rating                                   : None
+GenreID                                  : 1614
+AppleStoreCountry                        : Brazil
+AlbumTitleID                             : 405360400
+AppleStoreCatalogID                      : 1852477578
 
 Video
 ID                                       : 1
-Format                                   : ProRes
-Format version                           : Version 0
-Format profile                           : 422 Proxy
-Codec ID                                 : apco
-Duration                                 : 3 min 38 s
-Bit rate mode                            : Variable
-Bit rate                                 : 91.4 Mb/s
-Width                                    : 2 868 pixels
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L5@High
+Codec ID                                 : hvc1
+Codec ID/Info                            : High Efficiency Video Coding
+Duration                                 : 3 min 12 s
+Bit rate                                 : 20.1 Mb/s
+Width                                    : 3 840 pixels
 Height                                   : 2 160 pixels
-Display aspect ratio                     : 4:3
+Display aspect ratio                     : 16:9
 Frame rate mode                          : Constant
 Frame rate                               : 25.000 FPS
 Color space                              : YUV
-Chroma subsampling                       : 4:2:2
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 10 bits
 Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.590
-Stream size                              : 2.32 GiB (100%)
-Writing library                          : Apple
+Bits/(Pixel*Frame)                       : 0.097
+Stream size                              : 461 MiB (99%)
+Title                                    : Core Media Video
+Color range                              : Limited
 Color primaries                          : BT.709
 Transfer characteristics                 : BT.709
 Matrix coefficients                      : BT.709
-Codec configuration box                  : glbl
+Codec configuration box                  : hvcC
 
 Audio
 ID                                       : 2
 Format                                   : AAC LC
 Format/Info                              : Advanced Audio Codec Low Complexity
 Codec ID                                 : mp4a-40-2
-Duration                                 : 3 min 38 s
+Duration                                 : 3 min 12 s
 Bit rate mode                            : Constant
-Bit rate                                 : 274 kb/s
+Bit rate                                 : 265 kb/s
 Channel(s)                               : 2 channels
 Channel layout                           : L R
 Sampling rate                            : 48.0 kHz
 Frame rate                               : 46.875 FPS (1024 SPF)
 Compression mode                         : Lossy
-Stream size                              : 7.14 MiB (0%)
+Stream size                              : 6.11 MiB (1%)
 Title                                    : Core Media Audio
 Default                                  : Yes
 Alternate group                          : 1
@@ -104,6 +103,54 @@ Alternate group                          : 1
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[itunesboy]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ VID] - Andrea Bocelli - Celebration: 30th Anniversary Blu-Ray]]></title>
+                <link><![CDATA[https://sharemania.us/threads/andrea-bocelli-celebration-30th-anniversary-blu-ray.288444/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					The whole concerto which took place in Tuscany, Italy, it is out now. There's a 3 day version of it, released on BluRay and DVD. If anyone finds it, please share.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[LiamPavonix]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Albums (lossless)】FLAC - Various Artists - 풀하우스 (KBS 미니시리즈) (Full ver.) CD]]></title>
+                <link><![CDATA[https://sharemania.us/threads/various-artists-%ED%92%80%ED%95%98%EC%9A%B0%EC%8A%A4-kbs-%EB%AF%B8%EB%8B%88%EC%8B%9C%EB%A6%AC%EC%A6%88-full-ver-cd.288442/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					And you can download it for free here, then I will immediately accept your request for access permission. ♥️<br>
+<br>
+<img src="https://image.bugsm.co.kr/album/images/350/80315/8031514.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://image.bugsm.co.kr/album/images/350/80315/8031514.jpg" style=""><br>
+<br>
+풀하우스 (KBS 미니시리즈) (Full ver.)<br>
+Various Artists<br>
+<br>
+With of size 337MB<br>
+<br>
+Source: Bugs Music <br>
+<br>
+#Kpop #Kdrama<br>
+<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[RadifGrande]]></author>
                 </item>
 
                 </channel></rss>
