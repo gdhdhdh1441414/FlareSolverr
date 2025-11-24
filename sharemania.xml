@@ -8,21 +8,225 @@
 
  
                 <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Lizzy Mcalpine - Older (and wiser)  2025 rerelease qobuz 24bit]]></title>
-                <link><![CDATA[https://sharemania.us/threads/lizzy-mcalpine-older-and-wiser-2025-rerelease-qobuz-24bit.289120/]]></link>
+                <title><![CDATA[【Music Videos】Dua Lipa - Physical (Director's Cut) / AM 1080p AVC / Dolby Atmos / PCM 2.0 / DTS-HD ES Discrete 6.1 / AAC 2.0]]></title>
+                <link><![CDATA[https://sharemania.us/threads/dua-lipa-physical-directors-cut-am-1080p-avc-dolby-atmos-pcm-2-0-dts-hd-es-discrete-6-1-aac-2-0.289130/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					the 2025 rerelease:<br>
+					<div style="text-align: center"><img src="https://images2.imgbox.com/1f/65/ILLCDBTz_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/1f/65/ILLCDBTz_o.jpg" style=""><br>
+<b><span style="color: #0000ff">Dolby Atmos audio mixed by me. Added SFX.<br>
+PCM audio download and converted from Apple Music. Added SFX<br>
+DTS-HD ES Discrete audio mixed by me. Added SFX<br>
+Original AAC audio.<br>
+Video Source: Apple Music</span></b>​</div><b><br>
 <br>
-<a href="https://www.qobuz.com/us-en/album/older-and-wiser-lizzy-mcalpine/n9htwz1nr7iwc" target="_blank" class="externalLink" rel="nofollow">https://www.qobuz.com/us-en/album/older-and-wiser-lizzy-mcalpine/n9htwz1nr7iwc</a><br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>Format                      : Matroska
+Format version              : Version 4
+File size                   : 577 MiB
+Duration                    : 5 min 17 s
+Overall bit rate mode       : Variable
+Overall bit rate            : 15.3 Mb/s
+Frame rate                  : 25.000 FPS
+Title                       : Physical (Directors Cut)
+Encoded date                : 2025-11-24 15:51:32 UTC
+Writing application         : mkvmerge 88.0 ('All I Know') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Cover                       : Yes
+Cover description           : cover.jpg
+Cover type                  : Cover
+Attachments                 : cover.jpg
+
+Video
+ID                          : 1
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L4
+Format settings             : CABAC / 4 Ref Frames
+Format settings, CABAC      : Yes
+Format settings, Reference  : 4 frames
+Format settings, Slice coun : 8 slices per frame
+Codec ID                    : V_MPEG4/ISO/AVC
+Duration                    : 5 min 17 s
+Bit rate                    : 9 580 kb/s
+Width                       : 1 920 pixels
+Height                      : 1 080 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Constant
+Frame rate                  : 25.000 FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0 (Type 2)
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.185
+Stream size                 : 362 MiB (63%)
+Default                     : Yes
+Forced                      : No
+Color range                 : Limited
+Color primaries             : BT.709
+Transfer characteristics    : BT.709
+Matrix coefficients         : BT.709
+
+Audio #1
+ID                          : 2
+Format                      : E-AC-3 JOC
+Format/Info                 : Enhanced AC-3 with Joint Object Coding
+Commercial name             : Dolby Digital Plus with Dolby Atmos
+Codec ID                    : A_EAC3
+Duration                    : 5 min 17 s
+Bit rate mode               : Constant
+Bit rate                    : 768 kb/s
+Channel(s)                  : 6 channels
+Channel layout              : L R C LFE Ls Rs
+Sampling rate               : 48.0 kHz
+Frame rate                  : 31.250 FPS (1536 SPF)
+Compression mode            : Lossy
+Stream size                 : 29.0 MiB (5%)
+Title                       : Dolby Atmos
+Service kind                : Complete Main
+Default                     : Yes
+Forced                      : No
+Complexity index            : 16
+Number of dynamic objects   : 15
+Bed channel count           : 1 channel
+Bed channel configuration   : LFE
+Dialog Normalization        : -19 dB
+compr                       : -0.28 dB
+dmixmod                     : Lt/Rt
+ltrtcmixlev                 : -3.0 dB
+ltrtsurmixlev               : -3.0 dB
+lorocmixlev                 : -3.0 dB
+lorosurmixlev               : -3.0 dB
+dialnorm_Average            : -19 dB
+dialnorm_Minimum            : -19 dB
+dialnorm_Maximum            : -19 dB
+
+Audio #2
+ID                          : 3
+Format                      : PCM
+Format settings             : Little / Signed
+Codec ID                    : A_PCM/INT/LIT
+Duration                    : 5 min 17 s
+Bit rate mode               : Constant
+Bit rate                    : 2 117 kb/s
+Channel(s)                  : 2 channels
+Sampling rate               : 44.1 kHz
+Frame rate                  : 25.001 FPS (1764 SPF)
+Bit depth                   : 24 bits
+Stream size                 : 80.0 MiB (14%)
+Title                       : Stereo Lossless
+Default                     : Yes
+Forced                      : No
+
+Audio #3
+ID                          : 4
+Format                      : DTS ES XCh XLL
+Format/Info                 : Digital Theater Systems
+Commercial name             : DTS-HD Master Audio
+Codec ID                    : A_DTS
+Duration                    : 5 min 17 s
+Bit rate mode               : Variable
+Bit rate                    : 2 544 kb/s
+Channel(s)                  : 7 channels
+Channel layout              : C L R Ls Rs LFE Cb
+Sampling rate               : 48.0 kHz
+Frame rate                  : 93.750 FPS (512 SPF)
+Bit depth                   : 16 bits
+Compression mode            : Lossless
+Stream size                 : 96.2 MiB (17%)
+Title                       : DTS-HD ES Discrete 6.1
+Default                     : Yes
+Forced                      : No
+
+Audio #4
+ID                          : 5
+Format                      : AAC LC
+Format/Info                 : Advanced Audio Codec Low Complexity
+Codec ID                    : A_AAC-2
+Duration                    : 5 min 17 s
+Bit rate                    : 256 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 46.875 FPS (1024 SPF)
+Compression mode            : Lossy
+Stream size                 : 9.69 MiB (2%)
+Title                       : AAC Original
+Default                     : Yes
+Forced                      : No
+
+Image
+Type                        : Cover
+Title                       : cover.jpg
+Format                      : JPEG
+Muxing mode                 : Attachment
+Width                       : 640 pixels
+Height                      : 360 pixels
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Compression mode            : Lossy
+Stream size                 : 30.1 KiB (0%)
+
+</pre>
+</div></div>
+</div><br>
 <br>
 <br>
-Thank you in advance
+</b><br>
+<div style="text-align: center"><b>Download (G.Drive)<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></b>​</div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[backeyed313]]></author>
+                <author><![CDATA[narxerino]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ VID] - Drag Race Sverige Season 1 (Drag Race Sweden)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/drag-race-sverige-season-1-drag-race-sweden.289129/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Drag Race Sverige Season 1 (Drag Race Sweden) episodes. I have 1 and 2, bur could not get the other ones.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[johnnyboytoy]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Actresses】Florence Bell - The Insect (2013)720p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/florence-bell-the-insect-2013-720p.289128/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Florence Bell - The Insect (2013)720p<br>
+<br>
+<a href="https://imgbox.com/UJNHGMsC" target="_blank" class="externalLink" rel="nofollow"><img src="https://thumbs2.imgbox.com/8c/bf/UJNHGMsC_t.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://thumbs2.imgbox.com/8c/bf/UJNHGMsC_t.jpg"></a> <a href="https://imgbox.com/ueyAVPPn" target="_blank" class="externalLink" rel="nofollow"><img src="https://thumbs2.imgbox.com/f0/0d/ueyAVPPn_t.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://thumbs2.imgbox.com/f0/0d/ueyAVPPn_t.jpg"></a> <a href="https://imgbox.com/sqn6YmiW" target="_blank" class="externalLink" rel="nofollow"><img src="https://thumbs2.imgbox.com/02/59/sqn6YmiW_t.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://thumbs2.imgbox.com/02/59/sqn6YmiW_t.jpg"></a> <a href="https://imgbox.com/5A0cw5CZ" target="_blank" class="externalLink" rel="nofollow"><img src="https://thumbs2.imgbox.com/9c/14/5A0cw5CZ_t.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://thumbs2.imgbox.com/9c/14/5A0cw5CZ_t.jpg"></a> <a href="https://imgbox.com/aHHKVOlf" target="_blank" class="externalLink" rel="nofollow"><img src="https://thumbs2.imgbox.com/62/3c/aHHKVOlf_t.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://thumbs2.imgbox.com/62/3c/aHHKVOlf_t.jpg"></a> <a href="https://imgbox.com/Up3OodWX" target="_blank" class="externalLink" rel="nofollow"><img src="https://thumbs2.imgbox.com/76/7c/Up3OodWX_t.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://thumbs2.imgbox.com/76/7c/Up3OodWX_t.jpg"></a> <a href="https://imgbox.com/bS9FPRR5" target="_blank" class="externalLink" rel="nofollow"><img src="https://thumbs2.imgbox.com/d9/85/bS9FPRR5_t.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://thumbs2.imgbox.com/d9/85/bS9FPRR5_t.jpg"></a><br>
+Duration: 00:04:04 Resolution: 1280x720 Format: mp4 Size: 53.3 MB<br>
+<a href="https://filejoker.net/7512lp2lfoy2" target="_blank" class="externalLink" rel="nofollow">https://filejoker.net/7512lp2lfoy2</a>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[piqeros]]></author>
                 </item>
 
                 </channel></rss>
