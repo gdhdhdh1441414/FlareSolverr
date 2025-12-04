@@ -8,15 +8,15 @@
 
  
                 <item>
-                <title><![CDATA[【PRORES HD】Katy Perry - Never Really Over (Master ProRes 1080p)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/katy-perry-never-really-over-master-prores-1080p.289775/]]></link>
+                <title><![CDATA[【PRORES HD】Katy Perry - Not the End of the World (Master ProRes 1080p)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/katy-perry-not-the-end-of-the-world-master-prores-1080p.289776/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.ibb.co/LhYTGB79/Never-Really-Over-mov-00-18-727.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/LhYTGB79/Never-Really-Over-mov-00-18-727.png" style=""><br>
-<img src="https://i.ibb.co/BVsKsRQy/Never-Really-Over-mov-00-36-453.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/BVsKsRQy/Never-Really-Over-mov-00-36-453.png" style=""><br>
-<img src="https://i.ibb.co/XfjQVh7c/Never-Really-Over-mov-01-18-953.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/XfjQVh7c/Never-Really-Over-mov-01-18-953.png" style=""><br>
-<img src="https://i.ibb.co/8LB2MPLQ/Never-Really-Over-mov-01-35-970.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/8LB2MPLQ/Never-Really-Over-mov-01-35-970.png" style=""><br>
+					<img src="https://i.ibb.co/Y4MB69Pb/Not-The-End-Of-The-World-mov-00-05-296.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/Y4MB69Pb/Not-The-End-Of-The-World-mov-00-05-296.png" style=""><br>
+<img src="https://i.ibb.co/8nHwz2fq/Not-The-End-Of-The-World-mov-00-34-993.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/8nHwz2fq/Not-The-End-Of-The-World-mov-00-34-993.png" style=""><br>
+<img src="https://i.ibb.co/32rQtWv/Not-The-End-Of-The-World-mov-02-21-808.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/32rQtWv/Not-The-End-Of-The-World-mov-02-21-808.png" style=""><br>
+<img src="https://i.ibb.co/PZ32k2Dh/Not-The-End-Of-The-World-mov-03-10-064.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/PZ32k2Dh/Not-The-End-Of-The-World-mov-03-10-064.png" style=""><br>
 
 
 
@@ -30,15 +30,13 @@
 Format                                   : MPEG-4
 Format profile                           : QuickTime
 Codec ID                                 : qt   2005.03 (qt  )
-File size                                : 5.11 GiB
-Duration                                 : 3 min 59 s
+File size                                : 5.12 GiB
+Duration                                 : 3 min 53 s
 Overall bit rate mode                    : Variable
-Overall bit rate                         : 183 Mb/s
+Overall bit rate                         : 188 Mb/s
 Frame rate                               : 23.976 FPS
-Encoded date                             : 2019-05-28 14:08:32 UTC
-Tagged date                              : 2019-05-28 14:08:32 UTC
-Writing library                          : Apple QuickTime
-TIM                                      : 00:00:00:00
+Encoded date                             : 2020-12-18 04:16:00 UTC
+Tagged date                              : 2020-12-18 04:16:00 UTC
 
 Video
 ID                                       : 1
@@ -46,9 +44,9 @@ Format                                   : ProRes
 Format version                           : Version 0
 Format profile                           : 422 HQ
 Codec ID                                 : apch
-Duration                                 : 3 min 59 s
+Duration                                 : 3 min 53 s
 Bit rate mode                            : Variable
-Bit rate                                 : 182 Mb/s
+Bit rate                                 : 186 Mb/s
 Width                                    : 1 920 pixels
 Height                                   : 1 080 pixels
 Display aspect ratio                     : 16:9
@@ -57,45 +55,47 @@ Frame rate                               : 23.976 (24000/1001) FPS
 Color space                              : YUV
 Chroma subsampling                       : 4:2:2
 Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 3.658
-Stream size                              : 5.07 GiB (99%)
+Bits/(Pixel*Frame)                       : 3.741
+Stream size                              : 5.05 GiB (99%)
 Writing library                          : aut0
 Language                                 : English
-Encoded date                             : 2019-05-28 14:08:32 UTC
-Tagged date                              : 2019-05-28 14:08:32 UTC
+Encoded date                             : 2020-12-18 04:16:00 UTC
+Tagged date                              : 2020-12-18 04:16:00 UTC
 Color primaries                          : BT.709
 Transfer characteristics                 : BT.709
 Matrix coefficients                      : BT.709
 
 Audio
-ID                                       : 2
+ID                                       : 3
 Format                                   : PCM
 Format settings                          : Little / Signed
-Codec ID                                 : sowt
-Duration                                 : 3 min 59 s
+Codec ID                                 : lpcm
+Duration                                 : 3 min 53 s
 Bit rate mode                            : Constant
-Bit rate                                 : 1 536 kb/s
+Bit rate                                 : 2 304 kb/s
 Channel(s)                               : 2 channels
 Channel layout                           : L R
 Sampling rate                            : 48.0 kHz
-Bit depth                                : 16 bits
-Stream size                              : 43.8 MiB (1%)
+Bit depth                                : 24 bits
+Stream size                              : 64.1 MiB (1%)
 Language                                 : English
-Encoded date                             : 2019-05-28 14:08:32 UTC
-Tagged date                              : 2019-05-28 14:08:32 UTC
+Encoded date                             : 2020-12-18 04:16:00 UTC
+Tagged date                              : 2020-12-18 04:16:00 UTC
 
 Other
-ID                                       : 3
+ID                                       : 2
 Type                                     : Time code
 Format                                   : QuickTime TC
-Duration                                 : 3 min 59 s
+Duration                                 : 3 min 53 s
 Frame rate                               : 23.976 (24000/1001) FPS
-Time code of first frame                 : 00:00:00:00
-Time code of last frame                  : 00:03:59:03
+Time code of first frame                 : 01:00:00:00
+Time code of last frame                  : 01:03:53:03
 Time code, stripped                      : Yes
+Title                                    : untitled
 Language                                 : English
-Encoded date                             : 2019-05-28 14:08:32 UTC
-Tagged date                              : 2019-05-28 14:08:32 UTC
+Encoded date                             : 2020-12-18 04:16:00 UTC
+Tagged date                              : 2020-12-18 04:16:00 UTC
+
 </pre>
 </div></div>
 </div>
@@ -103,7 +103,113 @@ Tagged date                              : 2019-05-28 14:08:32 UTC
 
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
 	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Download</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText"><a href="https://pixeldrain.com/u/2TCsZd9v" target="_blank" class="externalLink" rel="nofollow">Download</a></div>
+	<div class="SpoilerTarget bbCodeSpoilerText"><a href="https://pixeldrain.com/u/t6d69SFM" target="_blank" class="externalLink" rel="nofollow">Download</a></div>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[itunesboy]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【UPSCALED】Meghan Trainor - NO (AI UPSCALED) 4K ProRes]]></title>
+                <link><![CDATA[https://sharemania.us/threads/meghan-trainor-no-ai-upscaled-4k-prores.289777/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.ibb.co/j9HXhrNc/NO-mov-00-36-327.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/j9HXhrNc/NO-mov-00-36-327.png" style=""><br>
+<img src="https://i.ibb.co/fY0hrYRH/NO-mov-01-52-153.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/fY0hrYRH/NO-mov-01-52-153.png" style=""><br>
+<img src="https://i.ibb.co/NnGRGW0m/NO-mov-02-10-713.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/NnGRGW0m/NO-mov-02-10-713.png" style=""><br>
+<img src="https://i.ibb.co/ynjYWy3g/NO-mov-03-14-152.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/ynjYWy3g/NO-mov-03-14-152.png" style=""><br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Format                                   : MPEG-4
+Format profile                           : QuickTime
+Codec ID                                 : qt   0000.02 (qt  )
+File size                                : 3.22 GiB
+Duration                                 : 3 min 42 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 124 Mb/s
+Frame rate                               : 23.976 FPS
+minor_version                            : 512
+major_brand                              : M4V 
+compatible_brands                        : M4V isomiso2avc1
+title                                    : NO
+artist                                   : Meghan Trainor
+genre                                    : Pop
+date                                     : 2016-03-21T07:00:00Z
+rating                                   : 0
+media_type                               : 6
+copyright                                : ℗ (C) 2016 Epic Records, a division of Sony Music Entertainment
+encoder                                  : Lavf62.4.100
+
+Video
+ID                                       : 1
+Format                                   : ProRes
+Format version                           : Version 0
+Format profile                           : 422 Proxy
+Codec ID                                 : apco
+Duration                                 : 3 min 42 s
+Bit rate mode                            : Variable
+Bit rate                                 : 124 Mb/s
+Width                                    : 3 840 pixels
+Height                                   : 2 156 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:2
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.625
+Stream size                              : 3.21 GiB (100%)
+Writing library                          : Apple
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+Codec configuration box                  : glbl
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : mp4a-40-2
+Duration                                 : 3 min 42 s
+Bit rate mode                            : Constant
+Bit rate                                 : 254 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 6.74 MiB (0%)
+Title                                    : Core Media Audio
+Default                                  : Yes
+Alternate group                          : 1
+
+</pre>
+</div></div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Download</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText"><div style="text-align: center">
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></div></div>
 </div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
