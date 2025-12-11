@@ -8,218 +8,39 @@
 
  
                 <item>
-                <title><![CDATA[【HD Live Performances】BLU-RAY - Paula Fernandes - Ao Vivo 2011 Blu-ray 1080i AVC DTS-HD MA 5.1-DON [BDMV]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/paula-fernandes-ao-vivo-2011-blu-ray-1080i-avc-dts-hd-ma-5-1-don-bdmv.290219/]]></link>
+                <title><![CDATA[【Requests】[REQ AUD] - Kylie Christmas (Fully Wrapped) Deluxe Digital Album Download]]></title>
+                <link><![CDATA[https://sharemania.us/threads/kylie-christmas-fully-wrapped-deluxe-digital-album-download.290222/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.ibb.co/YTYPQSz9/cover.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/YTYPQSz9/cover.png" style=""><br>
-
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>General
-ID                                       : 0 (0x0)
-Format                                   : BDAV
-Format/Info                              : Blu-ray Video
-File size                                : 18.3 GiB
-Duration                                 : 1 h 24 min
-Overall bit rate mode                    : Variable
-Overall bit rate                         : 30.8 Mb/s
-Maximum Overall bit rate                 : 48.0 Mb/s
-Frame rate                               : 29.970 FPS
-
-Video
-ID                                       : 4113 (0x1011)
-Menu ID                                  : 1 (0x1)
-Format                                   : AVC
-Format/Info                              : Advanced Video Codec
-Format profile                           : High@L4.1
-Format settings                          : CABAC / 4 Ref Frames
-Format settings, CABAC                   : Yes
-Format settings, Reference frames        : 4 frames
-Format settings, GOP                     : M=3, N=24
-Format settings, Slice count             : 4 slices per frame
-Codec ID                                 : 27
-Duration                                 : 1 h 24 min
-Bit rate mode                            : Variable
-Bit rate                                 : 25.1 Mb/s
-Maximum bit rate                         : 35.0 Mb/s
-Width                                    : 1 920 pixels
-Height                                   : 1 080 pixels
-Display aspect ratio                     : 16:9
-Frame rate                               : 29.970 (30000/1001) FPS
-Standard                                 : NTSC
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0
-Bit depth                                : 8 bits
-Scan type                                : Interlaced
-Scan type, store method                  : Separated fields
-Scan order                               : Top Field First
-Bits/(Pixel*Frame)                       : 0.404
-Stream size                              : 14.9 GiB (82%)
-Color range                              : Limited
-Color primaries                          : BT.709
-Transfer characteristics                 : BT.709
-Matrix coefficients                      : BT.709
-
-Audio #1
-ID                                       : 4352 (0x1100)
-Menu ID                                  : 1 (0x1)
-Format                                   : PCM
-Format settings                          : Big / Signed
-Muxing mode                              : Blu-ray
-Codec ID                                 : 128
-Duration                                 : 1 h 24 min
-Bit rate mode                            : Constant
-Bit rate                                 : 2 304 kb/s
-Channel(s)                               : 2 channels
-Channel layout                           : L R
-Sampling rate                            : 48.0 kHz
-Bit depth                                : 24 bits
-Delay relative to video                  : 934 ms
-Stream size                              : 1.37 GiB (7%)
-
-Audio #2
-ID                                       : 4353 (0x1101)
-Menu ID                                  : 1 (0x1)
-Format                                   : AC-3
-Format/Info                              : Audio Coding 3
-Commercial name                          : Dolby Digital
-Codec ID                                 : 129
-Duration                                 : 1 h 24 min
-Bit rate mode                            : Constant
-Bit rate                                 : 640 kb/s
-Channel(s)                               : 6 channels
-Channel layout                           : L R C LFE Ls Rs
-Sampling rate                            : 48.0 kHz
-Frame rate                               : 31.250 FPS (1536 SPF)
-Compression mode                         : Lossy
-Delay relative to video                  : 934 ms
-Stream size                              : 389 MiB (2%)
-Service kind                             : Complete Main
-Dialog Normalization                     : -30 dB
-compr                                    : -0.28 dB
-cmixlev                                  : -3.0 dB
-surmixlev                                : -3 dB
-dialnorm_Average                         : -30 dB
-dialnorm_Minimum                         : -30 dB
-dialnorm_Maximum                         : -30 dB
-
-Audio #3
-ID                                       : 4354 (0x1102)
-Menu ID                                  : 1 (0x1)
-Format                                   : DTS
-Format/Info                              : Digital Theater Systems
-Codec ID                                 : 130
-Duration                                 : 1 h 24 min
-Bit rate mode                            : Constant
-Bit rate                                 : 1 510 kb/s
-Channel(s)                               : 6 channels
-Channel layout                           : C L R Ls Rs LFE
-Sampling rate                            : 48.0 kHz
-Frame rate                               : 93.750 FPS (512 SPF)
-Bit depth                                : 16 bits
-Compression mode                         : Lossy
-Delay relative to video                  : 934 ms
-Stream size                              : 917 MiB (5%)
-
-Text #1
-ID                                       : 4608 (0x1200)
-Menu ID                                  : 1 (0x1)
-Format                                   : PGS
-Codec ID                                 : 144
-Delay relative to video                  : 6 s 6 ms
-
-Text #2
-ID                                       : 4609 (0x1201)
-Menu ID                                  : 1 (0x1)
-Format                                   : PGS
-Codec ID                                 : 144
-Delay relative to video                  : 6 s 6 ms
-
-Text #3
-ID                                       : 4610 (0x1202)
-Menu ID                                  : 1 (0x1)
-Format                                   : PGS
-Codec ID                                 : 144
-Delay relative to video                  : 6 s 6 ms
-
-</pre>
-</div></div>
-</div>
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Download</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText"><div style="text-align: center">
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div></div>
-</div>
+					Can someone share it please?<br>
+<br>
+<a href="https://kylie-xmas.tmstor.es/product/kylie-christmas-fully-wrapped-album-download" target="_blank" class="externalLink" rel="nofollow">https://kylie-xmas.tmstor.es/product/kylie-christmas-fully-wrapped-album-download</a>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[itunesboy]]></author>
+                <author><![CDATA[XAnon777]]></author>
                 </item>
 
                 
                 <item>
-                <title><![CDATA[【Live Audios (lossless)】FLAC - Agust D - D-Day Tour Encore - Live (Final Edition)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/agust-d-d-day-tour-encore-live-final-edition.290220/]]></link>
+                <title><![CDATA[【Albums (lossless)】FLAC - Qobuz Top 50 in Hi-Res (2025)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/qobuz-top-50-in-hi-res-2025.290221/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://images.squarespace-cdn.com/content/v1/5aa2069c25bf02363bf5c7c4/1676953135559-GY7RVPK3ABYTMDIOF60P/Tour4.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images.squarespace-cdn.com/content/v1/5aa2069c25bf02363bf5c7c4/1676953135559-GY7RVPK3ABYTMDIOF60P/Tour4.jpg" style=""><br>
+					<img src="https://www.dibpic.com/uploads/posts/2023-12/1703577386_folder.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://www.dibpic.com/uploads/posts/2023-12/1703577386_folder.jpg" style=""><br>
 <br>
-D-Day Tour Encore - Live<br>
+<b>Artist</b>: Various Artists<br>
+<b>Title</b>: Qobuz Top 50 in Hi-Res<br>
+<b>Year Of Release</b>: 2025<br>
+<b>Label</b>: Qobuz<br>
+<b>Genre</b>: Pop, Rock, World<br>
+<b>Quality</b>: Flac (tracks)<br>
+<b>Total Time</b>: 03:46:24<br>
+<b>Total Size</b>: 4,63 Gb<br>
 <br>
-Last night of the D-Day Tour In live album, remastered &amp; edited by Osvi in FLAC format - 2CD's Style<br>
-
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">CD 1</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">Opening<br>
-Haegeum<br>
-Daechwita<br>
-Agust D<br>
-Give It to Me<br>
-Trivia : Seesaw<br>
-SDL<br>
-People<br>
-People pt.2 (feat. IU)<br>
-Burn It (feat. MAX)<br>
-Strange (feat. RM)<br>
-Come back to me (RM)</div>
-</div><br>
-
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">CD 2</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">Interlude: Shadow<br>
-BTS Medley: BTS Cypher Pt.3: Killer, BTS Cypher Pt.4, UGH!, DDaeng<br>
-HUH?! (feat. j-hope)<br>
-Life Goes On<br>
-BTS Memories [VCR]<br>
-Snooze (feat. Ryuichi Sakamoto, WOOSUNG of The Rose)<br>
-Dear My friend (feat. Kim Jong Wan of NELL)<br>
-AMYGDALA<br>
-D-Day<br>
-Guitar Mix/Band Presentation/Ment<br>
-Intro: Never Mind<br>
-The Last</div>
-</div><br>
+Download Link:<br>
 
 
 
@@ -227,11 +48,77 @@ The Last</div>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
 	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>Any questions to my email: <a href="mailto:thatsm920@gmail.com">thatsm920@gmail.com</a>
+</div><b>recommend</b> <a href="https://www.7-zip.org/" target="_blank" class="externalLink" rel="nofollow">https://www.7-zip.org/</a>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[Osvi]]></author>
+                <author><![CDATA[moszter]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Albums (lossless)】FLAC - Kylie Christmas (Fully Wrapped) Deluxe Digital Album Download]]></title>
+                <link><![CDATA[https://sharemania.us/threads/kylie-christmas-fully-wrapped-deluxe-digital-album-download.290223/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://images2.imgbox.com/c9/71/Z6ydiy11_o.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/c9/71/Z6ydiy11_o.png" style=""><br>
+<a href="https://kylie-xmas.tmstor.es/product/kylie-christmas-fully-wrapped-album-download" target="_blank" class="externalLink" rel="nofollow">https://kylie-xmas.tmstor.es/product/kylie-christmas-fully-wrapped-album-download</a><br>
+<span style="font-size: 12px"><br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Track + File List</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">1. It's the Most Wonderful Time of the Year<br>
+2. Santa Baby<br>
+3. Hot in December*⁺<br>
+4. At Christmas<br>
+5. Santa Claus Is Coming to Town (feat. Frank Sinatra)<br>
+6. This Time Of Year*⁺<br>
+7. 100 Degrees (with Dannii Minogue)*<br>
+8. Office Party*⁺<br>
+9. White December*<br>
+10. Let It Snow (New Version 2015)<br>
+11. Christmas Isn't Christmas 'Til You Get Here*<br>
+12. Have Yourself a Merry Little Christmas<br>
+13. Oh Santa*<br>
+14. I Wish It Could Be Christmas Everyday<br>
+15 Christmas Wrapping (feat. Iggy Pop)<br>
+16. 2000 Miles<br>
+- Colouring In Poster (PDF)<br>
+- Phone Wallpaler (JPG)<br>
+- Gingey Wallpaper (JPG)<br>
+<br>
+*Original Songs<br>
+⁺New for Fully Wrapped</div>
+</div></span>
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[lycanquartz]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ AUD] - Tyla - CHANEL (Dolby Atmos)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/tyla-chanel-dolby-atmos.290224/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Hey Guyss!!!<br>
+ I was wondering if anyone could rip the dolby atmos version of Chanel by tyla from Apple music or Tidal an post it below. on apple music it says its available idk about tidal tho...Thanks!
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[john_.lol]]></author>
                 </item>
 
                 </channel></rss>
