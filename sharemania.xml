@@ -8,124 +8,117 @@
 
  
                 <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Astrud - Bailando (lossless)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/astrud-bailando-lossless.290425/]]></link>
+                <title><![CDATA[【HD Live Performances】WEB-RiP - Mariah Carey's Here For It All Holiday Special WEB-RIP 1080p H264 AAC2.0]]></title>
+                <link><![CDATA[https://sharemania.us/threads/mariah-careys-here-for-it-all-holiday-special-web-rip-1080p-h264-aac2-0.290401/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					Does anyone have the FLAC version of Astrud - Bailando<br>
+					<img src="https://images2.imgbox.com/1c/50/xm3mMYez_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/1c/50/xm3mMYez_o.jpg" style=""><br>
 <br>
-<a href="https://www.qobuz.com/us-en/album/bailando-astrud/5099931959858" target="_blank" class="externalLink" rel="nofollow">https://www.qobuz.com/us-en/album/bailando-astrud/5099931959858</a> (2012)<br>
-<a href="https://www.discogs.com/release/2267645-Astrud-Bailando-Remezclas" target="_blank" class="externalLink" rel="nofollow">https://www.discogs.com/release/2267645-Astrud-Bailando-Remezclas</a> (1999)<br>
-<br>
-Thanks in advance!
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[rnt3000]]></author>
-                </item>
 
-                
-                <item>
-                <title><![CDATA[【PRORES HD】KAROL G - Ivonny Bonita (Master ProRes 4K)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/karol-g-ivonny-bonita-master-prores-4k.290424/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<div class="bbCodeBlock bbCodeCode">
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Mediainfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
 	<div class="type">Code:</div>
 	<pre>General
-Complete name                            : KAROL G - Ivonny Bonita.mov
-Format                                   : MPEG-4
-Format profile                           : QuickTime
-Codec ID                                 : qt   2005.03 (qt  )
-File size                                : 12.4 GiB
-Duration                                 : 3 min 50 s
-Overall bit rate mode                    : Variable
-Overall bit rate                         : 462 Mb/s
-Frame rate                               : 24.000 FPS
-Encoded date                             : 2025-12-12 11:01:14 UTC
-Tagged date                              : 2025-12-12 11:04:28 UTC
-Writing library                          : Apple QuickTime
-TIM                                      : 00:59:58:00
-TSC                                      : 24
-TSZ                                      : 1
+Complete name                  : Mariah Carey's Here For It All Holiday Special WEB-RIP 1080p H264 AAC2.0-zefole [AM].mkv
+Format                         : Matroska
+Format version                 : Version 4
+File size                      : 5.38 GiB
+Duration                       : 1 h 28 min
+Overall bit rate               : 8 677 kb/s
+Frame rate                     : 29.970 FPS
+Encoded date                   : 2025-12-14 13:41:44 UTC
+Writing application            : mkvmerge v86.0 ('Winter') 64-bit
+Writing library                : libebml v1.4.5 + libmatroska v1.7.1
 
 Video
-ID                                       : 1
-Format                                   : ProRes
-Format version                           : Version 0
-Format profile                           : 422
-Codec ID                                 : apcn
-Duration                                 : 3 min 50 s
-Bit rate mode                            : Variable
-Bit rate                                 : 460 Mb/s
-Width                                    : 3 840 pixels
-Height                                   : 2 160 pixels
-Display aspect ratio                     : 16:9
-Frame rate mode                          : Constant
-Frame rate                               : 24.000 FPS
-Color space                              : YUV
-Chroma subsampling                       : 4:2:2
-Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 2.312
-Stream size                              : 12.3 GiB (100%)
-Writing library                          : Apple
-Language                                 : English
-Encoded date                             : 2025-12-12 11:01:14 UTC
-Tagged date                              : 2025-12-12 11:01:14 UTC
-Color primaries                          : BT.709
-Transfer characteristics                 : BT.709
-Matrix coefficients                      : BT.709
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4
+Format settings                : CABAC / 2 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 2 frames
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 1 h 28 min
+Width                          : 1 920 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 29.970 (30000/1001) FPS
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Language                       : English
+Default                        : Yes
+Forced                         : No
 
 Audio
-ID                                       : 2
-Format                                   : PCM
-Format settings                          : Little / Signed
-Codec ID                                 : sowt
-Duration                                 : 3 min 50 s
-Bit rate mode                            : Constant
-Bit rate                                 : 1 536 kb/s
-Channel(s)                               : 2 channels
-Channel layout                           : L R
-Sampling rate                            : 48.0 kHz
-Bit depth                                : 16 bits
-Stream size                              : 42.2 MiB (0%)
-Language                                 : English
-Encoded date                             : 2025-12-12 11:01:14 UTC
-Tagged date                              : 2025-12-12 11:01:14 UTC
+ID                             : 2
+Format                         : AAC LC
+Format/Info                    : Advanced Audio Codec Low Complexity
+Codec ID                       : A_AAC-2
+Duration                       : 1 h 28 min
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 46.875 FPS (1024 SPF)
+Compression mode               : Lossy
+Delay relative to video        : 20 ms
+Language                       : English
+Default                        : Yes
+Forced                         : No
 
-Other
-ID                                       : 3
-Type                                     : Time code
-Format                                   : QuickTime TC
-Duration                                 : 3 min 50 s
-Frame rate                               : 24.000 FPS
-Time code of first frame                 : 00:59:58:00
-Time code of last frame                  : 01:03:48:07
-Time code, stripped                      : Yes
-Language                                 : English
-Encoded date                             : 2025-12-12 11:01:14 UTC
-Tagged date                              : 2025-12-12 11:01:14 UTC
+Menu
+00:00:00.000                   : en:Intro
+00:06:57.000                   : en:Sugar Plum Fairy (Magical Christmas Mix)
+00:09:05.000                   : en:Hark! The Herald Angels Sing / Gloria (In Excelsis Deo)
+00:13:00.000                   : en:Oh Santa!
+00:16:50.000                   : en:Sleigh Ride
+00:20:44.000                   : en:Charlie Brown Christmas
+00:22:40.000                   : en:Christmas (Baby, Please Come Home)
+00:29:50.000                   : en:Christmas Time Is In The Air Again
+00:32:55.000                   : en:Joy To The World
+00:36:48.000                   : en:Silent Night
+00:42:15.000                   : en:When Christmas Comes
+00:45:06.000                   : en:Here Comes Santa Claus (Right Down Santa Claus Lane) / Housetop Celebration
+00:48:13.000                   : en:Fall In Love At Christmas
+00:53:30.000                   : en:My All
+00:56:26.000                   : en:Jesus I Do
+00:59:55.000                   : en:In Your Feelings
+01:04:08.000                   : en:Fantasy
+01:06:15.000                   : en:Honey / Heartbreaker
+01:07:30.000                   : en:Emotions
+01:08:29.000                   : en:Make It Happen
+01:10:30.000                   : en:Always Be My Baby
+01:12:08.000                   : en:Hero
+01:14:02.000                   : en:We Belong Together
+01:23:04.000                   : en:All I Want for Christmas Is You
 </pre>
-</div>
+</div></div>
+</div><br>
+From the AM live stream. Saw a bunch of requests, I hope this will suffice until someone posts the on-demand stream if it gets released (which should be better quality).<br>
+<br>
+Enjoy and stay safe during the holidays ahead. <img src="styles/default/xenforo/smilies/big_smile-48.png" class="mceSmilie" alt=":)" title="Smile    :)"><br>
+<br>
+
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
 	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div>sha256sum<br>
-
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>bd0db330c9a88134fc237b4ff739b2e8d11a8657d33999b3f43760e6d191c4f4</pre>
 </div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[geght]]></author>
+                <author><![CDATA[zefole13]]></author>
                 </item>
 
                 </channel></rss>
