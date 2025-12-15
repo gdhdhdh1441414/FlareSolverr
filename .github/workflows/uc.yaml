@@ -42,7 +42,7 @@ jobs:
            #抓javgg
            python uc.py https://sharemania.us/ | tee sharemania.html
            python uc.py https://www.do-mi.cc/?s=. | tee do-mi.html
-           python uc.py https://tieba.baidu.com/f?ie=utf-8&kw=%E6%81%90%E6%80%96%E9%BB%8E%E6%98%8E | tee 恐怖黎明.html
+           curl "https://tieba.baidu.com/f?ie=utf-8&kw=%E6%81%90%E6%80%96%E9%BB%8E%E6%98%8E" > 恐怖黎明.html
            
            #删除bin/ky-github.json
            rm -rf bin/ky-github.json
