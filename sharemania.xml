@@ -8,8 +8,142 @@
 
  
                 <item>
-                <title><![CDATA[【Unreleased/Unofficial (lossy)】Dolby Atmos - OSALÍA - LUX (Deluxe) [Dolby Atmos] / E-AC-3 JOC 5.1 / 768kbps]]></title>
-                <link><![CDATA[https://sharemania.us/threads/osal%C3%8Da-lux-deluxe-dolby-atmos-e-ac-3-joc-5-1-768kbps.290929/]]></link>
+                <title><![CDATA[【Unreleased/Unofficial (lossy)】[AC-4] ROSALÍA - LUX (Deluxe) / Dolby AC-4 Immersive Stereo with Atmos Content / Stereo 2.0 / 256kbps]]></title>
+                <link><![CDATA[https://sharemania.us/threads/ac-4-rosal%C3%8Da-lux-deluxe-dolby-ac-4-immersive-stereo-with-atmos-content-stereo-2-0-256kbps.290930/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/56/aa/b3/56aab351-4067-0344-6394-8e0918d10608/Job9ec0c9d0-4c2e-4b56-aeb4-609abcaf2253-207743633-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_405932372_2409212547-Time1762203291789.png/3000x3000bb.webp" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/56/aa/b3/56aab351-4067-0344-6394-8e0918d10608/Job9ec0c9d0-4c2e-4b56-aeb4-609abcaf2253-207743633-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_405932372_2409212547-Time1762203291789.png/3000x3000bb.webp" style=""> <br>
+<b><span style="color: #ff0000"><span style="font-size: 18px">FANMADE!</span></span></b><br>
+<br>
+<span style="font-size: 18px"><b><span style="color: #000000">Due to the lack of official stems, this edition may sound the same or slightly better than the stereo version. However, some songs are best experienced with speakers and others with headphones. Please read the text note titled “Author.”</span></b></span><br>
+<b><span style="font-size: 18px"><span style="color: rgb(0, 0, 0)">This version includes four additional songs (Dios Es Un Stalker (Alternative Version), Focu <b>'</b>Ranni, Jeanne, and Novia Robot)</span></span></b><br>
+​</div><span style="font-size: 18px"><span style="color: #000000"><br>
+<span style="font-size: 18px"><b>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>Format                      : MPEG-4
+Format profile              : Base Media / Version 2
+Codec ID                    : mp42 (mp42/isom)
+File size                   : -
+Duration                    : -
+Overall bit rate            : 266 kb/s
+Title                       : Sexo, Violencia y Llantas
+Album                       : LUX
+Album/Performer             : ROSALÍA
+Part/Position               : 1
+Track name/Position         : 1
+Performer                   : ROSALÍA
+Recorded date               : 2025-11-07
+Encoded date                : 2025-12-19 13:29:18 UTC
+Tagged date                 : 2025-12-19 13:29:18 UTC
+ISRC                        : USSM12504029
+Copyright                   : (P) 2025 Columbia Records, a Division of Sony Music Entertainment
+Cover                       : Yes
+Cover type                  : Cover
+UPC                         : 196873722672
+TRACKTOTAL                  : 19
+DISCTOTAL                   : 1
+compatible_brands           : mp41dash
+
+Audio
+ID                          : 1
+Format                      : AC-4
+Format/Info                 : Audio Coding 4
+Commercial name             : Dolby AC-4
+Format version              : Version 2
+Codec ID                    : ac-4
+Duration                    : -
+Bit rate                    : 256 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 23.438 FPS (2048 SPF)
+Compression mode            : Lossy
+Stream size                 : -
+Default                     : Yes
+Alternate group             : 2
+Encoded date                : 2025-12-19 13:29:18 UTC
+Tagged date                 : 2025-12-19 13:29:18 UTC
+I-Frame interval            : 24 frames
+Number of presentations     : 1
+NumberOfGroups              : 1
+Number of substreams        : 1
+Presentation #1             : Immersive Stereo Main
+ Presentation ID            : 0
+ Dolby Atmos                : Yes
+ Dialogue normalization     : -23.00
+ Loudness                   : Yes
+  Integrated loudness (spee : -23.5 LKFS
+  Integrated loudness (leve : -20.0 LKFS
+  Audio Loudness Standard   : ATSC A/85
+  Realtime loudness correct : No
+  Dialogue corrected        : Yes
+ Dynamic Range Control      : Yes
+  E-AC-3 DRC profile        : Music standard
+  Home theater AVR          : Music standard
+  Flat panel TV             : Music standard
+  Portable speakers         : Music standard
+  Portable headphones       : Music standard
+ Group #s                   : 1
+Group #1                    : Main
+ Content classifier         : Main
+ Channel coded              : Yes
+ Immersive stereo           : Dolby Atmos Content
+ Number of substreams       : 1
+ Substream #s               : 1
+Substream #1                : Stereo
+ Channel mode               : Stereo
+ Immersive stereo           : Dolby Atmos Content
+ Channel layout             : L R
+ Dialogue enhancement       : Yes
+  Enabled                   : Yes
+  Max gain                  : 9 dB
+
+Image
+Type                        : Cover
+Format                      : JPEG
+Muxing mode                 : moov-meta-covr
+Width                       : 1 280 pixels
+Height                      : 1 280 pixels
+Color space                 : YUV
+Chroma subsampling          : 4:4:4
+Bit depth                   : 8 bits
+Compression mode            : Lossy
+Stream size                 : 146 KiB (3%)
+
+</pre>
+</div></div>
+</div></b></span></span></span><br>
+<div style="text-align: center"><span style="font-size: 18px"><span style="color: #000000"><span style="font-size: 18px"><br>
+</span></span></span><br>
+<br>
+<span style="font-size: 18px"><span style="color: #000000"><span style="font-size: 18px"><br>
+<b>Download (Google Drive)</b><br>
+<b>
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></b></span></span></span>​</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[narxerino]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Unreleased/Unofficial (lossy)】Dolby Atmos - ROSALÍA - LUX (Deluxe) [Dolby Atmos] / E-AC-3 JOC 5.1 / 768kbps]]></title>
+                <link><![CDATA[https://sharemania.us/threads/rosal%C3%8Da-lux-deluxe-dolby-atmos-e-ac-3-joc-5-1-768kbps.290929/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
@@ -125,16 +259,20 @@ Compression mode            : Lossy</b></pre>
 
                 
                 <item>
-                <title><![CDATA[【Requests】[REQ VID] - 251216 - FULL CONCERT - KISS OF LIFE Tokyo 東京 Livestream ('Lucky Day' Japan Debut Tour ) Performance]]></title>
-                <link><![CDATA[https://sharemania.us/threads/251216-full-concert-kiss-of-life-tokyo-%E6%9D%B1%E4%BA%AC-livestream-lucky-day-japan-debut-tour-performance.290928/]]></link>
+                <title><![CDATA[【Off-Topic】Looking for 2 specific fonts]]></title>
+                <link><![CDATA[https://sharemania.us/threads/looking-for-2-specific-fonts.290931/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://kissoflife.jp/luckyday2025/images/main_luckyday.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://kissoflife.jp/luckyday2025/images/main_luckyday.jpg" style="">
+					Wasn't sure on where to post this, but I guess this section is the right place.<br>
+I'm looking for 2 specific open type fonts in their full purchased format, with glyphs an ligatures, is there any forums, boards or source that needs logging in where this kind of material is discussed and shared?<br>
+I have the free version of one of them but missed a lot of characters and the other one is a sans serif nowhere to be found.<br>
+This is a pretty peculiar request, I know only a few are interested in this kind of stuff, but I'm giving it a try anyway.<br>
+Cheers
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[morenopapi]]></author>
+                <author><![CDATA[808Dream]]></author>
                 </item>
 
                 </channel></rss>
