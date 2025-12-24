@@ -8,12 +8,12 @@
 
  
                 <item>
-                <title><![CDATA[【SD】DVD - Country Video December 2003 (Promo Only) [VOB]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/country-video-december-2003-promo-only-vob.291202/]]></link>
+                <title><![CDATA[【SD】DVD - ETV ET-VideoLink Modern Progressive 3013. November 1993 [VOB]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/etv-et-videolink-modern-progressive-3013-november-1993-vob.291206/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.ibb.co/BkY8bJK/01-Brooks-And-Dunn-You-Can-t-Take-The-Honky-Tonk-Out-Of-The-Girl.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/BkY8bJK/01-Brooks-And-Dunn-You-Can-t-Take-The-Honky-Tonk-Out-Of-The-Girl.png" style=""><br>
+					<img src="https://i.ibb.co/pv9LCRK9/01-Inxs-The-Gift.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/pv9LCRK9/01-Inxs-The-Gift.png" style=""><br>
 
 
 
@@ -25,10 +25,10 @@
 	<div class="type">Code:</div>
 	<pre>General
 Format                                   : MPEG-PS
-File size                                : 280 MiB
-Duration                                 : 4 min 21 s
-Overall bit rate mode                    : Variable
-Overall bit rate                         : 8 977 kb/s
+File size                                : 363 MiB
+Duration                                 : 5 min 14 s
+Overall bit rate mode                    : Constant
+Overall bit rate                         : 9 672 kb/s
 Frame rate                               : 29.970 FPS
 
 Video
@@ -36,15 +36,14 @@ ID                                       : 224 (0xE0)
 Format                                   : MPEG Video
 Format version                           : Version 2
 Format profile                           : Main@Main
-Format settings                          : BVOP
+Format settings                          : CustomMatrix / BVOP
 Format settings, BVOP                    : Yes
-Format settings, Matrix                  : Default
-Format settings, GOP                     : Variable
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : M=3, N=16
 Format settings, picture structure       : Frame
-Duration                                 : 4 min 21 s
-Bit rate mode                            : Variable
-Bit rate                                 : 7 263 kb/s
-Maximum bit rate                         : 8 000 kb/s
+Duration                                 : 5 min 14 s
+Bit rate mode                            : Constant
+Bit rate                                 : 8 000 kb/s
 Width                                    : 720 pixels
 Height                                   : 480 pixels
 Display aspect ratio                     : 4:3
@@ -56,11 +55,11 @@ Bit depth                                : 8 bits
 Scan type                                : Interlaced
 Scan order                               : Top Field First
 Compression mode                         : Lossy
-Bits/(Pixel*Frame)                       : 0.701
-Time code of first frame                 : 00:00:00:00
+Bits/(Pixel*Frame)                       : 0.772
+Time code of first frame                 : 00:00:00;00
 Time code source                         : Group of pictures header
 GOP, Open/Closed                         : Closed
-Stream size                              : 226 MiB (81%)
+Stream size                              : 298 MiB (82%)
 Color primaries                          : BT.601 NTSC
 Transfer characteristics                 : BT.601
 Matrix coefficients                      : BT.601
@@ -70,48 +69,32 @@ ID                                       : 189 (0xBD)-160 (0xA0)
 Format                                   : PCM
 Format settings                          : Big / Signed
 Muxing mode                              : DVD-Video
-Duration                                 : 4 min 21 s
+Duration                                 : 5 min 14 s
 Bit rate mode                            : Constant
 Bit rate                                 : 1 536 kb/s
 Channel(s)                               : 2 channels
 Sampling rate                            : 48.0 kHz
 Bit depth                                : 16 bits
-Stream size                              : 47.9 MiB (17%)
+Stream size                              : 57.7 MiB (16%)
 
-Menu
-Format                                   : DVD-Video
 </pre>
 </div></div>
 </div><b>Content:</b><br>
-01.Brooks And Dunn - You Can't Take The Honky Tonk Out Of The Girl.vob<br>
-02.Clint Black - Spend My Time.vob<br>
-03.Buddy Jewell - Sweet Southern Comfort.vob<br>
-04.Shania Twain - She's Not Just A Pretty Face (Live In Chicago).vob<br>
-05.Dierks Bentley - My Last Name.vob<br>
-06.Rodney Crowell - Earthbound.vob<br>
-07.Amy Dalley - I Think You're Beautiful.vob<br>
-08.Rhonda Vincent - If Heartaches Had Wings.vob<br>
-09.Brad Paisley - Little Moments.vob<br>
-10.Brian McComas - You're In My Head.vob<br>
-11.Sheryl Crow - The First Cut Is The Deepest.vob<br>
-12.Kevin Denney - A Year At A Time.vob<br>
-13.Faith Hill - This Kiss.vob<br>
-14.Stephanie Urbina Jones - One Little Boy.vob<br>
-15.Reba McEntire - The Night The Lights Went Out In Georgia.vob<br>
-16.Dolly Parton - Why'd You Come In Here Lookin' Like That.vob<br>
-17.Judds - Mama, He's Crazy.vob<br>
-18.Trisha Yearwood - She's In Love With The Boy.vob<br>
-19.Lari White - Wild At Heart.vob<br>
-20.Pillar - Further From Myself.vob<br>
-21.Skillet - Savior.vob<br>
-22.Jump5 - Do Ya.vob<br>
-23.Nicole C. Mullen - On My Knees.vob<br>
-24.Switchfoot - Meant To Live.vob<br>
-25.Verbs - Live To The Music.vob<br>
-26.Out Of Eden - Love, Peace And Happiness.vob<br>
-27.Junkyard Prophet - Faith.vob<br>
-28.Salvador - God People.vob<br>
-29.GS Megaphone - Use Me.vob<br>
+01.Inxs - The Gift.vob<br>
+02.Concrete Blonde - Heal It Up.vob<br>
+03.Kate Bush - Eat The Music.vob<br>
+04.Squeeze - Everything In The World.vob<br>
+05.Wonder Stuff - On The Ropes.vob<br>
+06.10.000 Maniacs - Because The Night (From MTV Unplugged).vob<br>
+07.Belly - Gepetto.vob<br>
+08.Smashing Pumpkins - Today.vob<br>
+09.Best Kissers In The World - Miss Teen U.S.A..vob<br>
+10.Kirsty MacColl - Can't Stop Killing You.vob<br>
+11.Paul Westerberg - Runaway Wind.vob<br>
+12.Midnight Oil - My Country.vob<br>
+13.Radiohead - Stop Whispering.vob<br>
+14.Lemonheads - Into Your Arms.vob<br>
+15.Odds - It Falls Apart.vob<br>
 <br>
 
 
@@ -135,12 +118,207 @@ Format                                   : DVD-Video
 
                 
                 <item>
-                <title><![CDATA[【Cinema Center】MOVIE - Seven.Samurai.1954.Criterion.1080p.BluRay.x264-OFT [8.8GB]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/seven-samurai-1954-criterion-1080p-bluray-x264-oft-8-8gb.291201/]]></link>
+                <title><![CDATA[【Albums (lossy)】PACK - Sia - Discography (1997-2025) MP3]]></title>
+                <link><![CDATA[https://sharemania.us/threads/sia-discography-1997-2025-mp3.291205/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					Seven.Samurai.1954.Criterion.1080p.BluRay.x264-OFT [8.8GB] <br>
+					<div style="text-align: center"><b>Sia - Discography (1997-2025) MP3</b><br>
+<br>
+<a href="https://pixhost.to/show/11121/673886884_photo_2025-12-24_17-46-01.jpg" target="_blank" class="externalLink" rel="nofollow"><img src="https://t1.pixhost.to/thumbs/11121/673886884_photo_2025-12-24_17-46-01.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://t1.pixhost.to/thumbs/11121/673886884_photo_2025-12-24_17-46-01.jpg"></a><br>
+<br>
+<b>MP3 128-320 Kbps | Pop, electronica | 8.52 Gb</b><br>
+<br>
+Sia Kate Isobelle Furler (/ˈsiːə/ SEE-ə; born 18 December 1975) is an Australian singer and songwriter. Born and raised in Adelaide, she started her career as a singer in the acid jazz band Crisp in the mid-1990s. When Crisp disbanded in 1997, she released her debut studio album, OnlySee, in Australia. Sia moved to London and provided vocals for the British duo Zero 7. She released her second studio album, Healing Is Difficult, in 2001 and her third, Colour the Small One, in 2004.<br>
+Sia moved to New York City in 2005 and toured the United States. Her fourth and fifth studio albums, Some People Have Real Problems and We Are Born, were released in 2008 and 2010 respectively, and both were certified gold by the Australian Recording Industry Association and attracted wider notice than her earlier albums. Uncomfortable with her growing fame, she took a hiatus from performing and focused on songwriting for other artists, producing successful collaborations "Titanium" (with David Guetta), "Diamonds" (for Rihanna), "Wild Ones" (with Flo Rida) and "Pretty Hurts" (for Beyoncé).<br>
+<br>
+<b>Contains Releases:</b><br>
+<br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler</span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Albums<br>
+1997 - Onlysee (00:51:36)<br>
+2001 - Healing Is Difficult (01:09:12)<br>
+2002 - Healing is Difficult[UK Release] (01:05:01)<br>
+2004 - Colour The Small One (UK Edition) (00:50:17)<br>
+2006 - Colour The Small One[US Release] (01:11:34)<br>
+2008 - Some People Have Real Problems (01:02:11)<br>
+2008 - Some People Have Real Problems[EU Edition] (00:59:24)<br>
+2008 - Some People Have Real Problems[Japan Release] (01:07:22)<br>
+2008 - Some People Have Real Problems Instrumentals (01:02:15)<br>
+2010 - We Are Born[Bonus Disc Edition] (01:19:06)<br>
+2012 - Sia Best Of (01:11:13)<br>
+2014 - Healing Is Difficult (10th Anniversary Deluxe Version) (01:42:41)<br>
+2014 - 1000 Forms of Fear[Japan Edition] (01:01:28)<br>
+2015 - 1000 Forms Of Fear (Deluxe Version) (01:24:38)<br>
+2016 - Colour The Small One (10th Anniversary Deluxe Edition) (01:24:35)<br>
+2016 - This Is Acting (Deluxe Edition) (01:14:20)<br>
+2016 - This Is Acting[Japan Edition] (01:00:17)<br>
+2016 - This Is Acting (Target Deluxe Edition) (01:18:21)<br>
+2019 - LABRINTH, SIA &amp; DIPLO PRESENT... LSD (00:30:46)<br>
+2018/2022 - Everyday Is Christmas (Snowman Deluxe Edition) (01:07:16)<br>
+2023 - Gimme Christmas (Sleep Soundscape) (00:50:00)<br>
+2023 - Gimme Christmas (Lofi Soundscape) (ft. Endel) (00:46:24)<br>
+2024 - Reasonable Woman (Japan Edition) (00:54:42)<br>
+EP<br>
+2007 - Day Too Soon (00:15:12)<br>
+2008 - Soon We'll Be Found (00:11:52)<br>
+2017 - The Spotify Sessions (00:28:45)<br>
+2023 - Gimme Christmas (00:18:57)<br>
+Live<br>
+2007 - Lady Croissant (Live) (00:40:20)<br>
+2008 - Sia vs. Booka Shade - The Girl You Lost To Body Language (CDR) (00:07:02)<br>
+2009 - Live from Sydney (00:29:54)<br>
+2009 - Metro Cabaret (Live at Sydney 25.03.2009) (01:15:05)<br>
+2010 - ARIA Concert Series[Live] (00:25:20)<br>
+2010 - The We Meaning You Tour (Live at Copenhagen 12.05.2010) (01:33:55)<br>
+2012 - Wild Ones Two (Wildstylez bootleg) David Guetta &amp; Nicky Romero Feat. Sia (00:05:07)<br>
+2020 - triple j Live At The Wireless - Big Day Out 2011 (00:10:37)<br>
+Singles<br>
+2001 - differentGear vs Sia - Drink To Get Drunk (00:22:38)<br>
+2001 - differentGear vs. Sia - Drink To Get Drunk (Vinyl) (00:23:59)<br>
+2003 - Breathe Me[Remixes] (00:25:40)<br>
+2004 - Breathe Me - Single (00:11:03)<br>
+2004 - Where I Belong[Remixes] (00:37:42)<br>
+2005 - Numb (Paradise Soul Remixes) Vinyl, Promo (00:17:26)<br>
+2006 - Pictures - Single (00:03:37)<br>
+2006 - Throw It All Away[ft. Zero 7] (00:09:39)<br>
+2007 - Somersault[ft. Zero 7] (00:15:45)<br>
+2007 - Day Too Soon - Single (00:11:37)<br>
+2007 - Day Too Soon (Remixes) (00:26:31) 192 kbps<br>
+2007 - The Girl You Lost (Mark Pichiotti mixes) Promo (00:17:41)<br>
+2007 - The Girl You Lost To Cocaine (Stonebridge remixes) Promo (00:17:50)<br>
+2008 - Numb Remixes 2 (00:15:24)<br>
+2008 - Buttons (CSS &amp; Filterheadz Remixes) - Single (00:11:11)<br>
+2008 - Buttons (The Remixes) (00:47:48)<br>
+2008 - Buttons (The Remixes) (00:36:37)<br>
+2008 - Day too soon (Remixed By Soul Seekerz) Promo (00:18:47) VBR V2<br>
+2008 - The Girl You Lost[Remixes] (00:31:46)<br>
+2008 - The girl you lost to cocaine (Incl. Sander Van Doorn Remix) (00:15:25)<br>
+2008 - The girl you lost to cocaine[Remixes] (00:45:38)<br>
+2008 - The Girl You lost (The Remixes) (00:38:18)<br>
+2009 - You've Changed[ft.Lauren Flax] (00:03:10)<br>
+2010 - Clap Your Hands (00:14:46)<br>
+2010 - Clap Your Hands[Single, Promo] (00:24:50)<br>
+2010 - I'm in Here (Piano) (00:03:43)<br>
+2010 - Little Black Sandals / Buttons (00:07:28)<br>
+2010 - Under The Milky Way (00:03:34)<br>
+2011 - Titanium - Remixes[feat. David Guetta] (00:25:50)<br>
+2011 - Titanium feat. David Guetta[Promo CDM] (00:34:19) VBR V2<br>
+2011 - I Love It[ft. Hilltop Hoods] (00:03:45)<br>
+2011 - Wild Ones (feat. Flo Rida) (00:03:54)<br>
+2012 - She Wolf (Falling To Pieces)[feat. David Guetta] (00:15:46)<br>
+2012 - Titanium (David Guetta &amp; Sia Tribute) (00:08:05)<br>
+2012 - Wild One Two (Remixes)[feat. David Guetta, Nicky Romero &amp; Sia] (00:24:17)<br>
+2013 - Beautiful People Say (feat. Rihanna &amp; David Guetta) (00:05:03)<br>
+2013 - Elastic Heart (feat. The Weeknd &amp; Diplo) (00:04:18)<br>
+2014 - Annie (Original Motion Picture Soundtrack) (00:06:07)<br>
+2014 - Battle Cry (Angel Haze Ft. Sia) (00:04:52)<br>
+2014 - Battle Cry (feat. Sia)[Remixes] (00:21:17)<br>
+2014 - Battle Cry (MK Remixes)[feat. Angel Haze] (00:16:46)<br>
+2014 - Britney Spears &amp; Sia - Passenger (Country Club Martini Crew Club Mix) (00:05:39)<br>
+2014 - Chandelier (Cutmore Mixes) (00:13:56)<br>
+2014 - Chandelier (Digital Single) (00:08:57)<br>
+2014 - Chandelier (Dustin Que Remix) (00:04:37)<br>
+2014 - Chandelier (Enrry Senna SP Club Mix) (00:06:10)<br>
+2014 - Chandelier (Leo Blanco &amp; Juseph Leon Remix) (00:06:12)<br>
+2014 - Chandelier (Maxim Andreev Mix) (00:04:52)<br>
+2014 - Chandelier (Piano Version) - Single (00:04:00)<br>
+2014 - Chandelier (Remix EP) (00:26:52)<br>
+2014 - Chandelier (Remixes) (00:35:56)<br>
+2014 - Chandelier (The Remixes) (00:29:32)<br>
+2014 - Guts Over Fear (feat. Eminem) (00:05:01)<br>
+2014 - You're Never Fully Dressed Without a Smile (2014 Film Version) - Single (00:03:10)<br>
+2015 - Alive (Remixes) (00:21:31)<br>
+2015 - Big Girls Cry (Remixes) (00:27:58)<br>
+2015 - California Dreamin' (San Andreas Original Motion Picture Soundtrack) (00:03:36)<br>
+2015 - California Dreamin' (Instrumental) (00:03:41)<br>
+2015 - Elastic Heart (Remixes) (00:38:19)<br>
+2015 - Deja Vu[Remixes ft.Giorgio Moroder] (00:19:34)<br>
+2015 - Bang My Head (David Guetta feat. Sia &amp; Fetty Wap) (00:03:13)<br>
+2015 - Golden (feat. Travie Mccoy) (00:03:35)<br>
+2015 - Fifty Shades Of Grey (Original Motion Picture Soundtrack) (00:04:30)<br>
+2016 - Angel By The Wings (From the Motion Picture - The Eagle Huntress) (00:05:19)<br>
+2016 - Cheap Thrills (Remixes) (00:31:28)<br>
+2016 - Never Give Up (From "Lion" Soundtrack) (00:03:42)<br>
+2016 - Satisfied (feat. Miguel &amp; Queen Latifah)[from The Hamilton Mixtape] (00:05:18)<br>
+2016 - The Greatest (KDA Remix) (00:03:41)<br>
+2016 - Unstoppable (Perfect Isn't Pretty Mix - Ariel Rechtshaid Version) (00:03:45)<br>
+2017 - Free Me (00:04:46)<br>
+2017 - Move Your Body (Single Mix) (00:04:12)<br>
+2017 - Dusk Till Dawn (feat. Another October; ZAYN; Sia; Jay Kolk) (00:04:34)<br>
+2017 - Dusk Till Dawn (Radio Edit)[ZAYN ft. Sia] (00:03:59)<br>
+2017 - Dusk Till Dawn (The Remixes)[ZAYN ft. Sia] (00:10:14)<br>
+2017 - The Day That You Moved On[ft. Sia, TQX] (00:03:19)<br>
+2017 - Waterfall (Seeb Remix)[Stargate ft. P!nk; Sia] (00:03:23)<br>
+2017 - Waterfall[Stargate ft. P!nk; Sia] (00:03:20)<br>
+2018 - The Day That You Moved On (Abhi The Nomad &amp; Ellis Miah Remix)[ft. Sia, TQX, Abhi The Nomad, Ellis Miah] (00:03:18)<br>
+2018 - Deer In Headlights (Fifty Shades Freed Original Motion Picture Soundtrack) (00:04:25)<br>
+2018 - Flames (Remixes)[ft. David Guetta] (01:02:08)<br>
+2018 - Flames[ft. David Guetta] (00:03:15)<br>
+2018 - Helium (Sia vs. David Guetta &amp; Afrojack) (00:03:57)<br>
+2018 - Here I Am (from the Dumplin' Original Motion Picture Soundtrack) (00:04:32)<br>
+2018 - I'm Still Here (00:04:01)<br>
+2018 - Step By Step (Amazon Original) (00:04:09) vo<br>
+2019 - Rainbow (From My Little Pony: The Movie Original Motion Picture Soundtrack) (00:03:17)<br>
+2019 - Dusk till dawn (feat. Jag1; Martine Trépanier; Sia) (00:04:17)<br>
+2020 - Original (from Dolittle) (00:03:33)<br>
+2020 - Saved My Life (00:03:55)<br>
+2020 - Together (00:03:25)<br>
+2020 - Together (Initial Talk Remix) (00:03:18)<br>
+2020 - Riding On My Bike (00:01:47)<br>
+2020 - EXHALE (feat. Sia) (Hook N Sling Remix) (00:05:12)<br>
+2020 - EXHALE (feat. Sia) (Pink Panda Remix) (00:02:09)<br>
+2020 - Courage To Change (00:04:52)<br>
+2020 - Let's Love (00:03:20)<br>
+2020 - Let's Love (David Guetta &amp; MORTEN Future Rave Remix) (00:08:22)<br>
+2020 - Let's Love (Cesqeaux Remix) (00:07:26)<br>
+2020 - Let's Love (Robin Schulz Remix) (00:07:05)<br>
+2021 - Hey Boy (The Remixes) (00:12:01)<br>
+2021 - 1+1 (Banx &amp; Ranx Remix) (00:03:24)<br>
+2021 - 1+1 (feat. Amir) (Banx &amp; Ranx Remix) (00:03:16)<br>
+2021 - 1+1 (feat. Yandel &amp; Sofia Reyes) (Banx &amp; Ranx Remix) (00:03:24)<br>
+2021 - Eye To Eye (The Remixes) (00:48:46)<br>
+2021 - Floating Through Space (feat. David Guetta) (Hex &amp; Sia In Space Mix) (00:05:11)<br>
+2021 - Floating Through Space (feat. David Guetta) (Hex Hector’s Roller Jam Mix) (00:03:14)<br>
+2021 - Floating Through Space (feat. David Guetta) (JIM OUMA Remix) (00:02:30)<br>
+2021 - Fly Me To The Moon (Inspired By FINAL FANTASY XIV) (00:02:50)<br>
+2021 - Titans (feat. Sia &amp; Labrinth) (00:03:19)<br>
+2022 - Manchild (Neneh Cherry The Versions) (00:03:17)<br>
+2022 - Courage to Change (Michael Calfan Remix) (00:02:36)<br>
+2022 - Manchild (TOKiMONSTA Remix) (00:02:57)<br>
+2022 - Unstoppable (The Remixes) (00:17:40)<br>
+2023 - Titanium (Megan's V3rsion) (00:04:03)<br>
+2023 - Gimme Love (Armin van Buuren Remix) (00:14:44)<br>
+2023 - Gimme Love (Sentinel Remix) (00:15:51)<br>
+2023 - Hass Hass (ft. Diljit Dosanjh &amp; Greg Kurstin) (00:02:33)<br>
+2023 - Crazy In Love (feat. Mariana Froes) (00:04:01)<br>
+2023 - Joao e Maria (feat. Mahari Froes) (00:02:21)<br>
+2024 - Dance Alone[Remixes] (Feat. Kylie Minogue) (00:24:50)<br>
+2024 - I Forgive You (Remixes) (00:26:30)<br>
+2024 - Immortal Queen (feat. Chaka Khan &amp; Bianca Costa) (00:03:21)<br>
+2024 - Immortal Queen (feat. Chaka Khan &amp; Debbie Harry) (00:03:34)<br>
+2024 - Immortal Queen (feat. Chaka Khan &amp; Eve) (00:03:32)<br>
+2024 - Immortal Queen (feat. Chaka Khan &amp; Neneh Cherry) (00:03:34)<br>
+2024 - It's Christmas, Baby (The Snowman Remixes EP) (00:14:06)<br>
+2024 - Reasonable Remixes 1 (00:14:23)<br>
+2024 - Reasonable Remixes 2 (00:17:39)<br>
+2025 - You Can Do Anything (MTG DA SIA) (feat. Dj Lucas Beat) (00:03:56)<br>
+2025 - Solsbury Hill (Humane World for Animals Cover) (00:04:01)<br>
+Another Releases<br>
+2015 - Piano Dreamers Play Sia (01:09:02)<br>
+2016 - Piano Tribute to Sia (01:51:34)<br>
+2019 - O.K.R (pt.1) (00:36:12)<br>
+2019 - O.K.R (pt.2) (00:39:42)<br>
+2021 - Music (Songs From And Inspired By The Motion Picture) (00:49:30)<br>
+Other Releases<br>
+Rare Tracks (00:17:48)<br>
+Songs Feat. Zero 7 (00:34:24) 320 kbps</div>
+</div><br>
+<img src="https://img1.pixhost.to/images/9752/655798375_dd.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://img1.pixhost.to/images/9752/655798375_dd.png" style=""><br>
 
 
 
@@ -148,11 +326,130 @@ Format                                   : DVD-Video
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
 	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div><span style="font-size: 16px"><span style="font-family: 'gg sans'">[COLOR=oklab(0.952331 0.000418991 -0.00125992)][/COLOR]</span></span>
+</div><img src="https://img1.pixhost.to/images/9752/655798544_nitro.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://img1.pixhost.to/images/9752/655798544_nitro.jpg" style=""><br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div><b>Say THANKS (DANKE), please!</b><br>
+​</div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[TheBabaYaga]]></author>
+                <author><![CDATA[music_box]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【SD】DVD - ETV ET-VideoLink Modern Progressive 3014. December 1993 [VOB]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/etv-et-videolink-modern-progressive-3014-december-1993-vob.291203/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.ibb.co/Zp6x3kdf/01-U2-Stay-Faraway-So-Close.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/Zp6x3kdf/01-U2-Stay-Faraway-So-Close.png" style=""><br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Format                                   : MPEG-PS
+File size                                : 381 MiB
+Duration                                 : 5 min 30 s
+Overall bit rate mode                    : Constant
+Overall bit rate                         : 9 670 kb/s
+Frame rate                               : 29.970 FPS
+
+Video
+ID                                       : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : M=3, N=16
+Format settings, picture structure       : Frame
+Duration                                 : 5 min 30 s
+Bit rate mode                            : Constant
+Bit rate                                 : 8 000 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.772
+Time code of first frame                 : 00:00:00;00
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Closed
+Stream size                              : 313 MiB (82%)
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.601
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 189 (0xBD)-160 (0xA0)
+Format                                   : PCM
+Format settings                          : Big / Signed
+Muxing mode                              : DVD-Video
+Duration                                 : 5 min 30 s
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 16 bits
+Stream size                              : 60.6 MiB (16%)
+</pre>
+</div></div>
+</div><b>Content:</b><br>
+01.U2 - Stay (Faraway, So Close!).vob<br>
+02.James - Laid.vob<br>
+03.Teenage Fanclub - Hang On.vob<br>
+04.Blind Melon - Tones Of Home.vob<br>
+05.Nick Heyward - Kite.vob<br>
+06.Kate Bush - Rubberband Girl (US Version).vob<br>
+07.Primus - DMV.vob<br>
+08.Urge Overkill - Positive Bleeding.vob<br>
+09.Gin Blossoms - Found Out About You.vob<br>
+10.Green Apple Quick Step - Dirty Water Ocean.vob<br>
+11.Revolting Cocks - Do Ya Think I'm Sexy.vob<br>
+12.Tad - Grease Box.vob<br>
+13.Spinanes - Noel, Jonah And Me.vob<br>
+14.Mudhoney - No Song III.vob<br>
+15.Afghan Whigs - Debonair.vob<br>
+16.Pursuit Of Happiness - Pressing Lips.vob<br>
+<br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Download</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText"><div style="text-align: center">
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></div></div>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[JL92]]></author>
                 </item>
 
                 </channel></rss>
