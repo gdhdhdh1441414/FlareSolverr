@@ -59,7 +59,7 @@ else:
             #self.chrome_options.add_argument('--proxy-server=http://127.0.0.1:1087')
             self.chrome_options.add_argument("--window-size=1920,1080")
             # self.chrome_options.add_argument('--headless')
-            # user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+            user_agent = "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5"
             self.chrome_options.add_argument('--disable-gpu')
             self.chrome_options.add_argument('--no-sandbox')
             self.chrome_options.add_argument('--disable-dev-shm-usage')
