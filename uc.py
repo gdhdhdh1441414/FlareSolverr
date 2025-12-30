@@ -15,6 +15,7 @@ import requests
 import urllib.request
 import re
 import subprocess
+import time
 
 print("运行前先杀死chrome")
 os.system("pkill -9 chrome")
@@ -72,6 +73,7 @@ else:
                 browser = uc.Chrome(options=self.chrome_options, driver_executable_path= '/opt/chromedriver-linux64/chromedriver')
                 browser.get(sys.argv[1])  #网站
                 browser.implicitly_wait(200)
+                time.sleep(15)  # 强制等待15秒后再继续执行
                 pageSource = browser.page_source
                 print(pageSource)
             finally:
