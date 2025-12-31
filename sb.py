@@ -12,7 +12,7 @@ display.start()
 # proxy_string = "socks5://host:port"  # SOCKS5代理
 
 # 定义自定义UA
-custom_ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+custom_ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
 
 # 方法1：在SB初始化时直接设置UA（推荐）
 with SB(uc=True, test=True, locale="en", agent=custom_ua) as sb:
