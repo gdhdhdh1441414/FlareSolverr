@@ -11,7 +11,11 @@ display.start()
 # proxy_string = "http://host:port"  # 无需认证的代理
 # proxy_string = "socks5://host:port"  # SOCKS5代理
 
-with SB(uc=True, test=True, locale="en") as sb:
+# 定义自定义UA
+custom_ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+
+with SB(uc=True, test=True, locale="en", user_agent=custom_ua) as sb:
     url = sys.argv[1]
     sb.activate_cdp_mode(url)
     sb.sleep(2)
