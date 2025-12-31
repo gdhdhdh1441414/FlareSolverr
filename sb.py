@@ -16,7 +16,7 @@ with SB(uc=True, test=True, locale="en", proxy=proxy_string) as sb:
     sb.activate_cdp_mode(url)
     sb.sleep(2)
     sb.solve_captcha()
-    sb.sleep(12)
+    sb.sleep(6)
     
     page_source = sb.get_page_source()
     timestamp = time.strftime("%Y%m%d_%H%M%S")
