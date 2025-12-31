@@ -1,6 +1,10 @@
 from seleniumbase import SB
 import time
 import sys
+from pyvirtualdisplay import Display
+
+display = Display(visible=0, size=(1920, 1080))  
+display.start()
 
 # 设置代理（支持HTTP/HTTPS/SOCKS）
 # proxy_string = "http://127.0.0.1:1080"  # 认证代理
@@ -18,3 +22,5 @@ with SB(uc=True, test=True, locale="en", proxy=proxy_string) as sb:
     timestamp = time.strftime("%Y%m%d_%H%M%S")
 
     print(page_source)
+
+display.stop()
