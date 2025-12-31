@@ -14,22 +14,31 @@ display.start()
 # 定义自定义UA
 custom_ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
-# 方法1：在SB初始化时直接设置UA（推荐）
-with SB(uc=True, test=True, locale="en", user_agent=custom_ua) as sb:
+# 方法1：通过 driver_config 设置 UA
+driver_config = {
+    'user_agent': custom_ua
+}
+
+# 如果需要设置代理，可以这样：
+# driver_config = {
+#     'user_agent': custom_ua,
+#     'proxy': proxy_string
+# }
+
+with SB(uc=True, test=True, locale="en", driver_config=driver_config) as sb:
     url = sys.argv[1]
     
-    # 方法2：通过CDP模式修改UA（如果需要动态修改）
-    # sb.activate_cdp_mode(url)
-    # sb.execute_cdp_cmd(
-    #     "Network.setUserAgentOverride",
-    #     {
-    #         "userAgent": custom_ua,
-    #         "platform": "Windows",
-    #         "acceptLanguage": "en-US,en;q=0.9"
-    #     }
-    # )
-    
+    # 方法2：通过CDP模式修改UA（如果需要动态修改或验证）
     sb.activate_cdp_mode(url)
+    sb.execute_cdp_cmd(
+        "Network.setUserAgentOverride",
+        {
+            "userAgent": custom_ua,
+            "platform": "Windows",
+            "acceptLanguage": "en-US,en;q=0.9"
+        }
+    )
+    
     sb.sleep(2)
     sb.solve_captcha()
     sb.sleep(6)
