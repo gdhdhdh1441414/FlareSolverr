@@ -14,13 +14,29 @@ display.start()
 # 定义自定义UA
 custom_ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
-
+# 方法1：在SB初始化时直接设置UA（推荐）
 with SB(uc=True, test=True, locale="en", user_agent=custom_ua) as sb:
     url = sys.argv[1]
+    
+    # 方法2：通过CDP模式修改UA（如果需要动态修改）
+    # sb.activate_cdp_mode(url)
+    # sb.execute_cdp_cmd(
+    #     "Network.setUserAgentOverride",
+    #     {
+    #         "userAgent": custom_ua,
+    #         "platform": "Windows",
+    #         "acceptLanguage": "en-US,en;q=0.9"
+    #     }
+    # )
+    
     sb.activate_cdp_mode(url)
     sb.sleep(2)
     sb.solve_captcha()
     sb.sleep(6)
+    
+    # 验证UA是否设置成功
+    current_ua = sb.execute_script("return navigator.userAgent;")
+    print(f"当前User-Agent: {current_ua}")
     
     page_source = sb.get_page_source()
     timestamp = time.strftime("%Y%m%d_%H%M%S")
