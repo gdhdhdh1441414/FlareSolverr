@@ -11,7 +11,7 @@ display.start()
 # proxy_string = "http://host:port"  # 无需认证的代理
 # proxy_string = "socks5://host:port"  # SOCKS5代理
 
-with SB(uc=True, test=True, locale="en", proxy=proxy_string) as sb:
+with SB(uc=True, test=True, locale="en") as sb:
     url = sys.argv[1]
     sb.activate_cdp_mode(url)
     sb.sleep(2)
