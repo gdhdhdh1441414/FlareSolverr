@@ -8,48 +8,40 @@
 
  
                 <item>
-                <title><![CDATA[【HD Live Performances】WEB-DL - Ronan Keating and Friends A New Years Eve Party 2025 1080p iPlayer WEB-DL AAC2.0 H.264-sidmonster]]></title>
-                <link><![CDATA[https://sharemania.us/threads/ronan-keating-and-friends-a-new-years-eve-party-2025-1080p-iplayer-web-dl-aac2-0-h-264-sidmonster.291685/]]></link>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Willkommen 2026 - 31-12-2025 ZDFHD IPTV 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/willkommen-2026-31-12-2025-zdfhd-iptv-1080p.291688/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<div style="text-align: center"><img src="https://i.postimg.cc/CKyYmzvT/Capturescscs.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/CKyYmzvT/Capturescscs.png" style=""><br>
+					<img src="https://i.imgur.com/j01dph5.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/j01dph5.jpeg" style=""><br>
 <br>
-<a href="https://www.bbc.com/mediacentre/articles/2025/ronan-keating-and-friends" target="_blank" class="externalLink" rel="nofollow">https://www.bbc.com/mediacentre/articles/2025/ronan-keating-and-friends</a><br>
 
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Details</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
 
 <div class="bbCodeBlock bbCodeCode">
 	<div class="type">Code:</div>
-	<pre>Format                                   : Matroska
+	<pre>General
+Unique ID                                : 132164623746975794954930146086257520419 (0x636DFB0BA2BFDDA47B75DE603A816F23)
+Complete name                            : Willkommen 2026 - 31-12-2025 ZDFHD IPTV 1080p.mkv
+Format                                   : Matroska
 Format version                           : Version 4
-File size                                : 4.02 GiB
-Duration                                 : 59 min 30 s
-Overall bit rate mode                    : Variable
-Overall bit rate                         : 9 683 kb/s
+File size                                : 14.8 GiB
+Duration                                 : 4 h 30 min
+Overall bit rate                         : 7 842 kb/s
 Frame rate                               : 50.000 FPS
-Title                                    : Ronan.Keating.and.Friends.A.New.Years.Eve.Party.2025.1080p.iPlayer.WEB-DL.AAC2.0.H.264-sidmonster
-Encoded date                             : 2026-01-01 05:06:02 UTC
-Writing application                      : mkvmerge 95.0 ('Goodbye Stranger') 64-bit
-Writing library                          : libebml v1.4.5 + libmatroska v1.7.1 / Lavf62.6.100
-
+Writing application                      : VideoReDo (Lavf58.29.100)
+Writing library                          : VideoReDo (Lavf58.29.100)
+ErrorDetectionType                       : Per level 1
 Video
 ID                                       : 1
 Format                                   : AVC
 Format/Info                              : Advanced Video Codec
-Format profile                           : High@L4.2
-Format settings                          : CABAC / 4 Ref Frames
+Format profile                           : Main@L4.2
+Format settings                          : CABAC / 2 Ref Frames
 Format settings, CABAC                   : Yes
-Format settings, Reference frames        : 4 frames
+Format settings, Reference frames        : 2 frames
 Codec ID                                 : V_MPEG4/ISO/AVC
-Duration                                 : 59 min 30 s
-Bit rate mode                            : Variable
-Bit rate                                 : 9 551 kb/s
-Maximum bit rate                         : 12.0 Mb/s
+Duration                                 : 4 h 30 min
+Bit rate                                 : 7 365 kb/s
 Width                                    : 1 920 pixels
 Height                                   : 1 080 pixels
 Display aspect ratio                     : 16:9
@@ -59,59 +51,744 @@ Color space                              : YUV
 Chroma subsampling                       : 4:2:0
 Bit depth                                : 8 bits
 Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.092
-Stream size                              : 3.97 GiB (99%)
-Default                                  : Yes
+Bits/(Pixel*Frame)                       : 0.071
+Stream size                              : 14.0 GiB (95%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=8 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=7365 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=49999 / vbv_bufsize=9375 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : No
 Forced                                   : No
-Color range                              : Limited
-Color primaries                          : BT.709
-Transfer characteristics                 : BT.709
-Matrix coefficients                      : BT.709
-
 Audio
 ID                                       : 2
-Format                                   : AAC LC
-Format/Info                              : Advanced Audio Codec Low Complexity
-Codec ID                                 : A_AAC-2
-Duration                                 : 59 min 30 s
-Bit rate                                 : 128 kb/s
-Channel(s)                               : 2 channels
-Channel layout                           : L R
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 4 h 30 min
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 6 channels
+ChannelLayout_Original                   : L R C LFE Ls Rs
 Sampling rate                            : 48.0 kHz
-Frame rate                               : 46.875 FPS (1024 SPF)
+Frame rate                               : 31.250 FPS (1536 SPF)
 Compression mode                         : Lossy
-Stream size                              : 54.5 MiB (1%)
-Language                                 : English
+Stream size                              : 495 MiB (3%)
+Language                                 : German
+Service kind                             : Complete Main
 Default                                  : Yes
 Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+Menu
+00:00:00.000                             : Chapter 1
+
 </pre>
-</div></div>
+</div>
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[LLAVE1]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Silvester - Schlagerbooom 2025 live - Die Wunderlichtershow - 31-12-2025 SRF1HD/Das Erste/ORF2HD IPTV 720p/1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/silvester-schlagerbooom-2025-live-die-wunderlichtershow-31-12-2025-srf1hd-das-erste-orf2hd-iptv-720p-1080p.291687/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					SRF1 VERSION<br>
+<br>
+<img src="https://i.imgur.com/8VnGoY5.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/8VnGoY5.jpeg" style=""><br>
+<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 287538190409200771462032724812845801326 (0xD851D752BFBFCD2BAAFA8AF4BF5BDF6E)
+Complete name                            : Silvester - Schlagerbooom 2025 live - Die Wunderlichtershow - 31-12-2025 SRF1HD IPTV 720p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 9.06 GiB
+Duration                                 : 4 h 15 min
+Overall bit rate                         : 5 080 kb/s
+Frame rate                               : 50.000 FPS
+Writing application                      : VideoReDo (Lavf58.29.100)
+Writing library                          : VideoReDo (Lavf58.29.100)
+ErrorDetectionType                       : Per level 1
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 4 h 15 min
+Bit rate                                 : 4 614 kb/s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.100
+Stream size                              : 8.42 GiB (93%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=12 / lookahead_threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=4614 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=19999 / vbv_bufsize=3000 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : No
+Forced                                   : No
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 4 h 15 min
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 6 channels
+ChannelLayout_Original                   : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 467 MiB (5%)
+Language                                 : German
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+Menu
+00:00:00.000                             : Chapter 1
+
+</pre>
+</div>
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
 </div><br>
-<img src="https://i.postimg.cc/FK1cgCB5/Ronan-Keating-and-Friends-A-New-Years-Eve-Party-2025-1080p-i-Player-WEB-DL-AAC2-0-H-264-sidmonster-m.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/FK1cgCB5/Ronan-Keating-and-Friends-A-New-Years-Eve-Party-2025-1080p-i-Player-WEB-DL-AAC2-0-H-264-sidmonster-m.jpg" style=""><br>
 <br>
-<img src="https://i.postimg.cc/Qx0H4k58/video-capture-t0357-56seg-7242.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/Qx0H4k58/video-capture-t0357-56seg-7242.png" style=""><br>
+=============================================<br>
 <br>
-<img src="https://i.postimg.cc/vH3cqL9b/video-capture-t0798-24seg-5525.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/vH3cqL9b/video-capture-t0798-24seg-5525.png" style=""><br>
+Das Erste VERSION<br>
 <br>
-<b><br>
-<span style="color: rgb(179, 0, 179)">______________________________________________</span></b><br>
-<span style="color: rgb(0, 0, 255)"><br>
-</span><br>
-<b><span style="color: rgb(0, 0, 255)">Download:</span></b><br>
+<img src="https://i.imgur.com/CQrRKJN.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/CQrRKJN.jpeg" style=""><br>
 <br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 215464582192745656987024946702589673720 (0xA218F815A04D880AC0855AEAB3B8C0F8)
+Complete name                            : Silvester - Schlagerbooom 2025 live - Die Wunderlichtershow - 31-12-2025 Das Erste IPTV 1080p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 13.9 GiB
+Duration                                 : 4 h 12 min
+Overall bit rate                         : 7 868 kb/s
+Frame rate                               : 50.000 FPS
+Writing application                      : VideoReDo (Lavf58.29.100)
+Writing library                          : VideoReDo (Lavf58.29.100)
+ErrorDetectionType                       : Per level 1
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L4.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 4 h 12 min
+Bit rate                                 : 7 199 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.069
+Stream size                              : 13.1 GiB (95%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=8 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=80 / keyint_min=8 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=7199 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=49999 / vbv_bufsize=9375 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : No
+Forced                                   : No
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 4 h 12 min
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 6 channels
+ChannelLayout_Original                   : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 462 MiB (3%)
+Language                                 : German
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+Menu
+00:00:00.000                             : Chapter 1
+
+</pre>
+</div>
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div><br>
+=======================================<br>
+<br>
+ORF2 VERSION<br>
+<br>
+<img src="https://i.imgur.com/GLH6iDb.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/GLH6iDb.jpeg" style=""><br>
+<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 58747152774609942655545664260834404694 (0x2C324A41DEF826D7DDC0A6D8FC452956)
+Complete name                            : Silvester - Schlagerbooom 2025 live - Die Wunderlichtershow - 31-12-2025 ORF2HD IPTV 720p.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 9.04 GiB
+Duration                                 : 4 h 14 min
+Overall bit rate                         : 5 076 kb/s
+Frame rate                               : 50.000 FPS
+Encoded date                             : 2026-01-01 04:15:41 UTC
+Writing application                      : mkvmerge 88.0 ('All I Know') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.2
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 4 h 14 min
+Bit rate                                 : 4 817 kb/s
+Nominal bit rate                         : 2 695 kb/s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.105
+Stream size                              : 8.58 GiB (95%)
+Writing library                          : x264 core 160 r3000
+Encoding settings                        : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=12 / lookahead_threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=1 / keyint=70 / keyint_min=7 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=abr / mbtree=1 / bitrate=2695 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=19999 / vbv_bufsize=3000 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                                  : No
+Forced                                   : No
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 4 h 14 min
+Bit rate mode                            : Constant
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 467 MiB (5%)
+Language                                 : German
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+</pre>
+</div>
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[LLAVE1]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ AUD] - Camila Cabello - B.O.A.T. (Lost Kings Remix) - Apple Music]]></title>
+                <link><![CDATA[https://sharemania.us/threads/camila-cabello-b-o-a-t-lost-kings-remix-apple-music.291686/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Hey guys, could you please share the best available Lossless quality for this track? Thanks a lot!<br>
+<br>
+<a href="https://music.apple.com/us/album/b-o-a-t-lost-kings-remix-mixed/1776282178?i=1776282179" target="_blank" class="externalLink" rel="nofollow">https://music.apple.com/us/album/b-o-a-t-lost-kings-remix-mixed/1776282178?i=1776282179</a>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[A-J]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Deep Thoughts &amp; Laughters】Shangri-La (Love Machine) [Girls Aloud / The Kinks] {Mashup}]]></title>
+                <link><![CDATA[https://sharemania.us/threads/shangri-la-love-machine-girls-aloud-the-kinks-mashup.291689/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Shangri-La (Love Machine) [Girls Aloud / The Kinks] {Mashup}<br>
+<br>
+<b>Audio: Shangri-La - The Kinks, 1969-2023 Remaster, FLAC</b><br>
+Vs.<br>
+<b>Video: Love Machine - Girls Aloud, Chemistry Tour, Wembley 2006, 720p<br>
+</b><br>
+c/o DJ/VJ mikedreams, 1 Jan 2026 (Happy New Year!)<br>
+<br>
+<br>
+<div style="text-align: center"><span data-s9e-mediaembed="googledrive" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:75%"><iframe allowfullscreen="" loading="lazy" scrolling="no" src="//drive.google.com/file/d/1Wzz-rD__8fGLHLlKKVh2NdB8PMG1FdIP/preview" style="border:0;height:100%;left:0;position:absolute;width:100%"></iframe></span></span>​</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[mikedreams]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【BLU-RAY】BLU-RAY - Dream Theater - Quarantieme Live A Paris (Disc 3) (2025) Blu-Ray]]></title>
+                <link><![CDATA[https://sharemania.us/threads/dream-theater-quarantieme-live-a-paris-disc-3-2025-blu-ray.291690/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center">Dream Theater - Quarantieme Live A Paris (Disc 3) (2025) Blu-Ray 1080p<br>
+<br>
+<img src="https://i126.fastpic.org/big/2025/1206/2d/3c1edeae5b2f5df9447a10c7c5c65e2d.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i126.fastpic.org/big/2025/1206/2d/3c1edeae5b2f5df9447a10c7c5c65e2d.jpg" style=""><br>
+<br>
+Screenshots:<br>
+<img src="https://i126.fastpic.org/big/2025/1229/14/0fdd004d6ee92ef05728ef3812259514.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i126.fastpic.org/big/2025/1229/14/0fdd004d6ee92ef05728ef3812259514.jpg" style=""><br>
+<br>
+ Setlist:<br>
+- Documentary footage from the 40th Anniversary Tour<br>
+- Behind-the-scenes &amp; rehearsal clips<br>
+- Interview segments with the band<br>
+- Additional live performances from select shows on the tour<br>
+- Visuals, tour projections and other bonus material<br>
+<br>
+ Info:<br>
+Genre:  Progressive Metal<br>
+Quality:  Blu-Ray | 1080p<br>
+Format:  M2TS | 26.8Mbps<br>
+Length:  00:29:58 | 7.17Gb<br>
+Video:  H.264 | 1920x1080 | 16:9 | 23.976fps<br>
+Audio:  LPCM | 2304kbps | 48kHz | 2 channels: L R<br>
+Language:  English<br>
+<br>
+Download:<br>
+Rapidgator.net, Uploadgig.com, Uploady.io<br>
 
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div><br>
-<b><span style="color: rgb(179, 0, 179)">______________________________________________________________</span></b>​</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div></div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[sidmonster1231]]></author>
+                <author><![CDATA[barboss]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【BLU-RAY】BDRiP - The Who - At Kilburn 1977 (2008) BDRip 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/the-who-at-kilburn-1977-2008-bdrip-1080p.291692/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center">The Who - At Kilburn 1977 (2008) BDRip 1080p<br>
+<br>
+<img src="https://i126.fastpic.org/big/2025/1229/af/f0efd426d7e7d0eccd3e32b667c67caf.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i126.fastpic.org/big/2025/1229/af/f0efd426d7e7d0eccd3e32b667c67caf.jpg" style=""><br>
+<br>
+Screenshots:<br>
+<img src="https://i126.fastpic.org/big/2025/1229/19/c3eea4ab5c8ba5e518fcf5ffb023fb19.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i126.fastpic.org/big/2025/1229/19/c3eea4ab5c8ba5e518fcf5ffb023fb19.jpg" style=""><br>
+<img src="https://i126.fastpic.org/big/2025/1229/78/09afaeeb845ea7e82e53845f1f71b978.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i126.fastpic.org/big/2025/1229/78/09afaeeb845ea7e82e53845f1f71b978.jpg" style=""><br>
+<br>
+ Setlist:<br>
+ Kilburn Songs<br>
+01. I Can't Explain<br>
+02. Subsitute<br>
+03. Baba O'riley<br>
+04. My Wife<br>
+05. Behind Blue Eyes<br>
+06. Dreaming From The Waist<br>
+07. Pinball Wizard<br>
+08. I'm Free<br>
+09. Tommy's Holiday Camp<br>
+10. Summertime Blues<br>
+11. Shakin' All Over<br>
+12. My Generation<br>
+13. Join Together<br>
+14. Who Are You<br>
+15. Won't Get Fooled Again<br>
+ London Coliseum Songs<br>
+01. Heaven and Hell<br>
+02. Can't Explain<br>
+03. Fortune Teller<br>
+04. Tattoo<br>
+05. Young Man Blues<br>
+06. A Quick One While He's Away<br>
+07. Happy Jack<br>
+08. I'm a Boy<br>
+09. I'm Free<br>
+10. Tommy's Holiday Camp<br>
+11. See Me, Feel Me<br>
+12. Summertime Blues<br>
+13. Shakin' All Over<br>
+14. My Generation<br>
+<br>
+ Info:<br>
+Genre:  Rock<br>
+Quality:  BDRip | 1080p<br>
+Format:  MKV | 8461kbps<br>
+Length:  01:05:43 + 01:15:52 | 12.8Gb<br>
+Video:  H.264 | 1920x1080i | 16:9 | 29.970fps<br>
+Audio 1:  DTS-HD MA | 4231kbps | 48kHz | 5.1 channels: Front: L C R, Surround: L R<br>
+Audio 2:  LPCM | 1536kbps | 48kHz | 2 channels: L R <br>
+Language:  English<br>
+<br>
+Download:<br>
+Rapidgator.net, Uploadgig.com, Uploady.io<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div></div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[barboss]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【BLU-RAY】BLU-RAY - The Who - At Kilburn 1977 (2008) SD Blu-Ray]]></title>
+                <link><![CDATA[https://sharemania.us/threads/the-who-at-kilburn-1977-2008-sd-blu-ray.291691/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center">The Who - At Kilburn 1977 (2008) SD Blu-Ray<br>
+<br>
+<img src="https://i126.fastpic.org/big/2025/1229/af/f0efd426d7e7d0eccd3e32b667c67caf.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i126.fastpic.org/big/2025/1229/af/f0efd426d7e7d0eccd3e32b667c67caf.jpg" style=""><br>
+<br>
+Screenshots:<br>
+<img src="https://i126.fastpic.org/big/2025/1229/1a/2753956703ac69e6707eb868c589421a.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i126.fastpic.org/big/2025/1229/1a/2753956703ac69e6707eb868c589421a.jpg" style=""><br>
+<br>
+ Setlist:<br>
+ Kilburn Songs<br>
+01. I Can't Explain<br>
+02. Subsitute<br>
+03. Baba O'riley<br>
+04. My Wife<br>
+05. Behind Blue Eyes<br>
+06. Dreaming From The Waist<br>
+07. Pinball Wizard<br>
+08. I'm Free<br>
+09. Tommy's Holiday Camp<br>
+10. Summertime Blues<br>
+11. Shakin' All Over<br>
+12. My Generation<br>
+13. Join Together<br>
+14. Who Are You<br>
+15. Won't Get Fooled Again<br>
+ London Coliseum Songs<br>
+01. Heaven and Hell<br>
+02. Can't Explain<br>
+03. Fortune Teller<br>
+04. Tattoo<br>
+05. Young Man Blues<br>
+06. A Quick One While He's Away<br>
+07. Happy Jack<br>
+08. I'm a Boy<br>
+09. I'm Free<br>
+10. Tommy's Holiday Camp<br>
+11. See Me, Feel Me<br>
+12. Summertime Blues<br>
+13. Shakin' All Over<br>
+14. My Generation<br>
+<br>
+Extras: Almost as exciting as the main concert itself are the extras, including the first ever live performance of Tommy at the London Coliseum in 1969. The best sections of the Coliseum performance, video-wise at least (and that's not saying much--these are pretty badly damaged 16mm film masters), are presented in a separate piece. You can also access the more or less complete Tommy from the same performance via the main menu, though there are some gaps in the filming augmented by stills. There's also a performance of The Who's pre-Tommy mini-opera "A Quick One." While the image and sound quality of these concerts is not on a par with the main feature, their historical value more than makes up for it. Soundwise, I actually wasn't that disappointed (though there's nothing close to the clarity of the main concert here), and that's really what matters as far as I'm concerned. A trailer for the Kilburn concert is also included.<br>
+<br>
+ Info:<br>
+Genre: <br>
+Quality:  SD Blu-Ray | 1080i<br>
+Format:  M2TS | 31.0Mbps<br>
+Length:  01:05:43 + 01:15:52 | 42.33Gb<br>
+Video:  H.264 | 1920x1080i | 16:9 | 29.970fps<br>
+Audio 1:  DTS-HD MA | 4231kbps | 48kHz | 5.1 channels: Front: L C R, Surround: L R<br>
+Audio 2:  LPCM | 1536kbps | 48kHz | 2 channels: L R <br>
+Audio 3:  AC-3 | 640kbps | 48kHz | 5.1 channels: Front: L C R, Surround: L R<br>
+Language:  English<br>
+<br>
+Download:<br>
+Rapidgator.net, Uploadgig.com, Clicknupload.click<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div></div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[barboss]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-RiP - Bad Omens - Live from Amsterdam (2025) HD 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/bad-omens-live-from-amsterdam-2025-hd-1080p.291694/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center">Bad Omens - Live from Amsterdam (2025) HD 1080p<br>
+<br>
+<img src="https://i126.fastpic.org/big/2025/1229/80/118d012ca65ca3fde448961145f10880.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i126.fastpic.org/big/2025/1229/80/118d012ca65ca3fde448961145f10880.jpg" style=""><br>
+<br>
+Screenshots:<br>
+<img src="https://i126.fastpic.org/big/2025/1229/bd/accdd9fd0733d49010d0dacab7f04bbd.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i126.fastpic.org/big/2025/1229/bd/accdd9fd0733d49010d0dacab7f04bbd.jpg" style=""><br>
+<br>
+ Setlist:<br>
+ Tape 1<br>
+01 - Specter<br>
+02 - Glass Houses<br>
+03 - THE DRAIN<br>
+04 - THE DEATH OF PEACE OF MIND<br>
+ Tape 2<br>
+05 - Dying to Love<br>
+06 - CONCRETE JUNGLE<br>
+07 - Limits<br>
+ Tape 3<br>
+08 - ARTIFICIAL SUICIDE<br>
+09 - V.A.N<br>
+10 - Left For Good<br>
+11 - ANYTHING &gt; HUMAN (with Jonathan Vigil)<br>
+12 - What Do You Want From Me?<br>
+ Tape 4<br>
+13 - What It Cost<br>
+14 - Like a Villain<br>
+15 - Just Pretend<br>
+ Tape 5<br>
+16 - Impose (with Enrose)<br>
+ Encore <br>
+17 - Dethrone<br>
+<br>
+ Info:<br>
+Genre:  Metalcore | Nu Metal<br>
+Quality:  WEB-DL | 1080p<br>
+Format:  MKV | 8261kbps<br>
+Length:  01:35:00 | 5.52Gb<br>
+Video:  H.264 | 1920x1080 | 16:9 | 24.000fps<br>
+Audio:  AAC | 128kbps | 48kHz | 2 channels: L R<br>
+Language:  English<br>
+<br>
+Download:<br>
+Rapidgator.net, Uploadgig.com, Uploady.io<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div></div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[barboss]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】HDTV - Korn - Rock am Ring 2007 (2025) HDTV]]></title>
+                <link><![CDATA[https://sharemania.us/threads/korn-rock-am-ring-2007-2025-hdtv.291693/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center">Korn - Rock am Ring 2007 (2025) HDTV<br>
+<br>
+<img src="https://i126.fastpic.org/big/2025/1229/ae/7bb53f3111fbbe88c11ba4c1171643ae.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i126.fastpic.org/big/2025/1229/ae/7bb53f3111fbbe88c11ba4c1171643ae.jpg" style=""><br>
+<br>
+Screenshots:<br>
+<img src="https://i126.fastpic.org/big/2025/1229/93/24c3b621831bfb45fdb5b076cee85793.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i126.fastpic.org/big/2025/1229/93/24c3b621831bfb45fdb5b076cee85793.jpg" style=""><br>
+<br>
+ Setlist:<br>
+01 - Here To Stay<br>
+02 - Twist<br>
+03 - Good God<br>
+04 - Coming Undone<br>
+05 - Falling Away From Me<br>
+06 - Somebody Someone<br>
+07 - Right Now<br>
+08 - Shoots and Ladders / One<br>
+09 - Divine<br>
+10 - Got The Life<br>
+11 - Evolution<br>
+12 - Y'all Want A Single<br>
+13 - Twisted Transistor<br>
+14 - Freak On A Leash<br>
+15 - Clown<br>
+<br>
+ Info:<br>
+Source:<br>
+<img src="https://i125.fastpic.org/big/2025/0708/7e/665333b58f594db87ace18b8a7aeab7e.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i125.fastpic.org/big/2025/0708/7e/665333b58f594db87ace18b8a7aeab7e.png" style=""><br>
+Lineage: Vu+Solo2 DVB-S2 satellite receiver -&gt; HDD -&gt; Videoredo TV Suite 4 -&gt; .ts file format<br>
+Genre:  Nu Metal<br>
+Quality:  HDTV | 720p<br>
+Format:  TS | 14.7Mbps<br>
+Length:  01:07:00 | 7.74Gb<br>
+Video:  H.264 | 1280x720 | 16:9 | 50.000fps<br>
+Audio 1:  AC-3 | 448kbps | 48kHz | 2 channels: L R<br>
+Audio 2:  MP2 | 192kbps | 48kHz | 2 channels: L R <br>
+Language:  English<br>
+<br>
+Capped by me <br>
+Language:  English<br>
+<br>
+Download:<br>
+Rapidgator.net, Uploadgig.com, Uploady.io<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div></div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[barboss]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】HDTV - The Who - Live in Texas 1975 (2025) HDTV]]></title>
+                <link><![CDATA[https://sharemania.us/threads/the-who-live-in-texas-1975-2025-hdtv.291695/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center">The Who - Live in Texas 1975 (2025) HDTV<br>
+<br>
+<img src="https://i126.fastpic.org/big/2025/1229/e1/e394e2d818e2da8325f303f0867c85e1.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i126.fastpic.org/big/2025/1229/e1/e394e2d818e2da8325f303f0867c85e1.jpg" style=""><br>
+<br>
+Screenshots:<br>
+<img src="https://i126.fastpic.org/big/2025/1229/ac/207eba4bc568aa435c39914de2a09eac.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i126.fastpic.org/big/2025/1229/ac/207eba4bc568aa435c39914de2a09eac.jpg" style=""><br>
+<br>
+ Setlist:<br>
+01. Substitute<br>
+02. I Can’t Explain<br>
+03. Squeeze Box<br>
+04. Baba O’Riley<br>
+05. Boris The Spider<br>
+06. Drowned<br>
+07. However Much I Booze<br>
+08. Dreaming From The Waist<br>
+09. Behind Blue Eyes<br>
+10. Amazing Journey<br>
+11. Sparks<br>
+12. Acid Queen<br>
+13. Fiddle About<br>
+14. Pinball Wizard<br>
+15. I’m Free<br>
+16. Tommy’s Holiday Camp<br>
+17. We’re Not Going To Take It / See Me, Feel Me / Listening To You<br>
+18. Summertime Blues<br>
+19. My Generation<br>
+20. Join Together<br>
+21. Naked Eye<br>
+22. Roadrunner<br>
+23. Won’t Get Fooled Again<br>
+24. Magic Bus<br>
+25. My Generation Blues <br>
+<br>
+ Info:<br>
+Source:<br>
+<img src="https://i124.fastpic.org/big/2025/0311/d2/4a2bb9b1645c56d293e1c9e8bbc3b8d2.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i124.fastpic.org/big/2025/0311/d2/4a2bb9b1645c56d293e1c9e8bbc3b8d2.jpg" style=""><br>
+Lineage: Vu+Solo2 DVB-S2 satellite receiver -&gt; HDD -&gt; Videoredo TV Suite 4 -&gt; .mkv file format<br>
+Genre:  Rock<br>
+Quality:  HDTV | 1080p<br>
+Format:  MKV | 6461kbps<br>
+Length:  01:52:00 | 5.25Gb<br>
+Video:  H.264 | 1920x1080 | 16:9 | 25.000fps<br>
+Audio:  AC-3 | 192kbps | 48kHz | 2 channels: L R<br>
+Language:  English<br>
+<br>
+Capped by me<br>
+<br>
+Download:<br>
+Rapidgator.net, Uploadgig.com, Uploady.io<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div></div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[barboss]]></author>
                 </item>
 
                 </channel></rss>
