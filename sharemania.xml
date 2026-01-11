@@ -8,262 +8,61 @@
 
  
                 <item>
-                <title><![CDATA[【Music Videos】Dua Lipa - Break My Heart / AM 1080p / E-AC-3 JOC 5.1 / DTS-HD Master Audio 5.1 / PCM 2.0 / AAC 2.0]]></title>
-                <link><![CDATA[https://sharemania.us/threads/dua-lipa-break-my-heart-am-1080p-e-ac-3-joc-5-1-dts-hd-master-audio-5-1-pcm-2-0-aac-2-0.292378/]]></link>
+                <title><![CDATA[【Albums (lossless)】FLAC - Various – Dance With Angels (U.S. Charity Album 1999) FLAC]]></title>
+                <link><![CDATA[https://sharemania.us/threads/various-%E2%80%93-dance-with-angels-u-s-charity-album-1999-flac.292380/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<div style="text-align: center"><img src="https://images2.imgbox.com/ca/71/5KIsy6A2_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/ca/71/5KIsy6A2_o.jpg" style=""> <br>
-<b>Video Source: Apple Music<br>
-Dolby Atmos audio remixed by me.<br>
-DTS-HD Master Audio remixed by me.<br>
-PCM downloaded and converted from Apple Music.<br>
-Original AAC audio.<br>
+					<img src="https://i.ebayimg.com/images/g/2kIAAOSwG8dmyxMu/s-l1600.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ebayimg.com/images/g/2kIAAOSwG8dmyxMu/s-l1600.jpg" style="">  <br>
+<img src="https://i.ebayimg.com/images/g/~iIAAOSw9YNnsIoZ/s-l1600.webp" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ebayimg.com/images/g/~iIAAOSw9YNnsIoZ/s-l1600.webp" style=""> <br>
+<img src="https://i.ebayimg.com/images/g/adAAAOSw5ShnsIoq/s-l1600.webp" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ebayimg.com/images/g/adAAAOSw5ShnsIoq/s-l1600.webp" style=""> <br>
 <br>
-Soon I'll be posting the official stems from this song.<br>
-</b>​</div><b><br>
-
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>Format                      : Matroska
-
-Format version              : Version 4
-File size                   : 418 MiB
-Duration                    : 3 min 47 s
-Overall bit rate mode       : Variable
-Overall bit rate            : 15.4 Mb/s
-Frame rate                  : 25.000 FPS
-Title                       : Break My Heart
-Encoded date                : 2026-01-11 22:07:08 UTC
-Writing application         : mkvmerge 88.0 ('All I Know') 64-bit
-Writing library             : libebml v1.4.5 + libmatroska v1.7.1
-Cover                       : Yes
-Cover description           : cover.jpg
-Cover type                  : Cover
-Attachments                 : cover.jpg
-
-Video
-ID                          : 1
-Format                      : AVC
-Format/Info                 : Advanced Video Codec
-Format profile              : High@L4
-Format settings             : CABAC / 4 Ref Frames
-Format settings, CABAC      : Yes
-Format settings, Reference  : 4 frames
-Format settings, Slice coun : 8 slices per frame
-Codec ID                    : V_MPEG4/ISO/AVC
-Duration                    : 3 min 47 s
-Bit rate                    : 9 849 kb/s
-Width                       : 1 920 pixels
-Height                      : 1 080 pixels
-Display aspect ratio        : 16:9
-Frame rate mode             : Constant
-Frame rate                  : 25.000 FPS
-Color space                 : YUV
-Chroma subsampling          : 4:2:0 (Type 2)
-Bit depth                   : 8 bits
-Scan type                   : Progressive
-Bits/(Pixel*Frame)          : 0.190
-Stream size                 : 268 MiB (64%)
-Language                    : English
-Default                     : Yes
-Forced                      : No
-Color range                 : Limited
-Color primaries             : BT.709
-Transfer characteristics    : BT.709
-Matrix coefficients         : BT.709
-
-Audio #1
-ID                          : 2
-Format                      : E-AC-3 JOC
-Format/Info                 : Enhanced AC-3 with Joint Object Coding
-Commercial name             : Dolby Digital Plus with Dolby Atmos
-Codec ID                    : A_EAC3
-Duration                    : 3 min 47 s
-Bit rate mode               : Constant
-Bit rate                    : 768 kb/s
-Channel(s)                  : 6 channels
-Channel layout              : L R C LFE Ls Rs
-Sampling rate               : 48.0 kHz
-Frame rate                  : 31.250 FPS (1536 SPF)
-Compression mode            : Lossy
-Stream size                 : 20.9 MiB (5%)
-Title                       : Dolby Atmos
-Service kind                : Complete Main
-Default                     : Yes
-Forced                      : No
-Complexity index            : 16
-Number of dynamic objects   : 15
-Bed channel count           : 1 channel
-Bed channel configuration   : LFE
-Dialog Normalization        : -19 dB
-compr                       : -0.28 dB
-dmixmod                     : Lt/Rt
-ltrtcmixlev                 : -3.0 dB
-ltrtsurmixlev               : -3.0 dB
-lorocmixlev                 : -3.0 dB
-lorosurmixlev               : -3.0 dB
-dialnorm_Average            : -19 dB
-dialnorm_Minimum            : -19 dB
-dialnorm_Maximum            : -19 dB
-
-Audio #2
-ID                          : 3
-Format                      : DTS XLL
-Format/Info                 : Digital Theater Systems
-Commercial name             : DTS-HD Master Audio
-Codec ID                    : A_DTS
-Duration                    : 3 min 47 s
-Bit rate mode               : Variable
-Bit rate                    : 2 190 kb/s
-Channel(s)                  : 6 channels
-Channel layout              : C L R Ls Rs LFE
-Sampling rate               : 48.0 kHz
-Frame rate                  : 93.750 FPS (512 SPF)
-Bit depth                   : 16 bits
-Compression mode            : Lossless
-Stream size                 : 59.5 MiB (14%)
-Title                       : DTS-HD MA 5.1
-Default                     : Yes
-Forced                      : No
-
-Audio #3
-ID                          : 4
-Format                      : PCM
-Format settings             : Little / Signed
-Codec ID                    : A_PCM/INT/LIT
-Duration                    : 3 min 47 s
-Bit rate mode               : Constant
-Bit rate                    : 2 304 kb/s
-Channel(s)                  : 2 channels
-Sampling rate               : 48.0 kHz
-Frame rate                  : 25.004 FPS (1920 SPF)
-Bit depth                   : 24 bits
-Stream size                 : 62.6 MiB (15%)
-Title                       : PCM 2.0
-Default                     : Yes
-Forced                      : No
-
-Audio #4
-ID                          : 5
-Format                      : AAC LC
-Format/Info                 : Advanced Audio Codec Low Complexity
-Codec ID                    : A_AAC-2
-Duration                    : 3 min 47 s
-Bit rate                    : 255 kb/s
-Channel(s)                  : 2 channels
-Channel layout              : L R
-Sampling rate               : 48.0 kHz
-Frame rate                  : 46.875 FPS (1024 SPF)
-Compression mode            : Lossy
-Stream size                 : 6.93 MiB (2%)
-Title                       : Original AAC
-Default                     : Yes
-Forced                      : No
-
-Text
-ID                          : 6
-Format                      : UTF-8
-Codec ID                    : S_TEXT/UTF8
-Codec ID/Info               : UTF-8 Plain Text
-Duration                    : 3 min 39 s
-Bit rate                    : 113 b/s
-Frame rate                  : 0.232 FPS
-Count of elements           : 51
-Stream size                 : 3.04 KiB (0%)
-Language                    : English
-Default                     : Yes
-Forced                      : No
-
-Image
-Type                        : Cover
-Title                       : cover.jpg
-Format                      : JPEG
-Muxing mode                 : Attachment
-Width                       : 640 pixels
-Height                      : 360 pixels
-Color space                 : YUV
-Chroma subsampling          : 4:2:0
-Bit depth                   : 8 bits
-Compression mode            : Lossy
-Stream size                 : 46.5 KiB (0%)
-</pre>
-</div></div>
-</div><br>
-</b><br>
-<div style="text-align: center"><b><br>
-Download (G.Drive)<br>
-
+Various – Dance With Angels (U.S. Charity Album 1999) FLAC<br>
+<br>
+Label: Centaur – CEN 0007-2, AMFAR – CEN 0007-2<br>
+Format: CD, Mixed<br>
+Country: US<br>
+Released: 1999<br>
+Genre: Electronic, Rock<br>
+Style: Pop Rock, Soft Rock, House, Garage House, Tribal House, Hi NRG<br>
+<br>
+<br>
+<br>
+1 - Cyndi Lauper–    What's Going On 4:50<br>
+2 - Gloria Estefan–    Heaven's What I Feel (Love To Infinity's Classic Paradise Mix) 5:06<br>
+3 - Janet Jackson–    Together Again (Tony Moran 12" Club 9:04<br>
+4 - Madonna–    Frozen (Club Mix) 4:50<br>
+5 - Billie Myers–    Kiss The Rain (TP2K Remix) 3:56<br>
+6 - Taylor Dayne–    Whatever You Want (Soul Solution Radio Edit)3:48<br>
+7 - Rochelle -    You're Still The One (7" Fired Up Mix) 3:52<br>
+8 - Deja Vu (2)–    My Heart Will Go On (Love Theme From Titantic) 3:29<br>
+9 - Debra Michaels–    How Do I Live (1:00 AM Mix) 3:32<br>
+10 - Donna Summer &amp; Giorgio Moroder–    Carry On (Outta Control Radio) 3:18<br>
+11 - Linda Eder–    Something To Believe In (Fitch Brothers Mix) 5:07<br>
+12 - Elsa Raven–    Never Letting Go 3:54<br>
+13 - Aretha Franklin–    Here We Go Again (Morales Classic Mix) 4:26<br>
+14 - Sting–    Let Your Soul Be Your Pilot (A &amp; G Great Divide Mix) 4:57<br>
+15 - Ava Cherry–    Hopelessly Devoted To You (Dream Mix) 3:03<br>
+16 - Barry Manilow–    Could It Be Magic (12" '93 Remix) 6:23<br>
+<br>
+100% of Centaur’s net profits from this album benefit AIDS charities.<br>
+<br>
+From my collection &lt;3<br>
+<br>
+DISCOGS: <a href="https://www.discogs.com/release/718769-Julian-Marsh-Dance-With-Angels" target="_blank" class="externalLink" rel="nofollow">https://www.discogs.com/release/718769-Julian-Marsh-Dance-With-Angels</a><br>
+<br>
+LINK: 
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></b>​</div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[narxerino]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Cinema Center】SERIES - iCarly and Victorious Pilots EXTENDED VERSIONS]]></title>
-                <link><![CDATA[https://sharemania.us/threads/icarly-and-victorious-pilots-extended-versions.292379/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<span style="font-size: 18px">I recently found these two rare gems, and the quality is relatively good for watching. I hope you enjoy them! (The iCarly episode quality is 480p, unfortunately Google Drive is only making it available in 360p, so for a slightly better quality, download it!)<br>
-<br>
-iCarly 1x01 - iPilot (27 Minutes)</span><br>
-<img src="https://icarlyreviewed.wordpress.com/wp-content/uploads/2015/09/ipilot-icarly-6526793-640-480.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://icarlyreviewed.wordpress.com/wp-content/uploads/2015/09/ipilot-icarly-6526793-640-480.jpg" style=""><br>
-<br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div><br>
-<br>
-<span style="font-size: 18px">Victorious 1x01 - Pilot [The Big Showcase] (Almost 27 Minutes)</span><br>
-<img src="https://images5.fanpop.com/image/photos/26000000/-Pilot-1x01-victorious-26064392-1280-720.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images5.fanpop.com/image/photos/26000000/-Pilot-1x01-victorious-26064392-1280-720.jpg" style=""><br>
-<br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div><br>
-<br>
-<br>
-<span style="font-size: 18px">BÔNUS (PROS BRASILEIROS)</span><br>
-<img src="https://i.ibb.co/nMYPhb71/Victorious-legendado-01-X01-mkv-snapshot-17-29-026.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/nMYPhb71/Victorious-legendado-01-X01-mkv-snapshot-17-29-026.jpg" style=""><br>
-<br>
-<span style="font-size: 18px">Achei uma versão extendida do primeiro episódio com legendas em português! infelizmente a qualidade é um pouco inferior com a de cima, mas dá pra assistir, divirtam-se com essas raridades!</span><br>
-<br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
 </div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[Daniel4evermade]]></author>
+                <author><![CDATA[Luiz Ribeiro]]></author>
                 </item>
 
                 </channel></rss>
