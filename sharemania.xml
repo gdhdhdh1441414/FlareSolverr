@@ -8,677 +8,128 @@
 
  
                 <item>
-                <title><![CDATA[【HD Live Performances】WEB-RiP - Conan Gray - Today Show Citi Concert Series 2025-08-15 WEB-RIP 1080p H264 AAC2.0]]></title>
-                <link><![CDATA[https://sharemania.us/threads/conan-gray-today-show-citi-concert-series-2025-08-15-web-rip-1080p-h264-aac2-0.292398/]]></link>
+                <title><![CDATA[【Live Audios (lossy)】MP3 - Melanie C at ABC New Year's Eve 2025]]></title>
+                <link><![CDATA[https://sharemania.us/threads/melanie-c-at-abc-new-years-eve-2025.292401/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://images2.imgbox.com/10/df/XvLfgIxs_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/10/df/XvLfgIxs_o.jpg" style=""><br>
- <br>
-
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Vodka Cranberry</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText"><img src="https://images2.imgbox.com/77/1a/g7XLteow_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/77/1a/g7XLteow_o.jpg" style=""><br>
-
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>General
-ID                                       : 1 (0x1)
-Complete name                            : Conan Gray - Vodka Cranberry - Today Show Citi Concert Series 2025-08-15 WEB-RIP 1080p H264 AAC2.0-zefole.ts
-Format                                   : MPEG-TS
-File size                                : 135 MiB
-Duration                                 : 3 min 54 s
-Overall bit rate mode                    : Variable
-Overall bit rate                         : 4 814 kb/s
-Frame rate                               : 30.000 FPS
-
-Video
-ID                                       : 256 (0x100)
-Menu ID                                  : 1 (0x1)
-Format                                   : AVC
-Format/Info                              : Advanced Video Codec
-Format profile                           : High@L4
-Format settings                          : CABAC / 4 Ref Frames
-Format settings, CABAC                   : Yes
-Format settings, Reference frames        : 4 frames
-Format settings, GOP                     : M=4, N=75
-Codec ID                                 : 27
-Duration                                 : 3 min 54 s
-Bit rate mode                            : Constant
-Nominal bit rate                         : 4 500 kb/s
-Width                                    : 1 920 pixels
-Height                                   : 1 080 pixels
-Display aspect ratio                     : 16:9
-Frame rate                               : 30.000 FPS
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0 (Type 2)
-Bit depth                                : 8 bits
-Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.072
-Time code of first frame                 : 00:00:00:00
-Writing library                          : x264 core 161
-Encoding settings                        : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=28 / lookahead_threads=4 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=75 / keyint_min=7 / scenecut=0 / intra_refresh=0 / rc_lookahead=40 / rc=cbr / mbtree=1 / bitrate=4500 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=51 / qpstep=4 / vbv_maxrate=4500 / vbv_bufsize=4500 / nal_hrd=cbr / filler=1 / ip_ratio=1.40 / aq=1:1.00
-Color range                              : Limited
-Color primaries                          : BT.709
-Transfer characteristics                 : BT.709
-Matrix coefficients                      : BT.709
-
-Audio
-ID                                       : 257 (0x101)
-Menu ID                                  : 1 (0x1)
-Format                                   : AAC LC
-Format/Info                              : Advanced Audio Codec Low Complexity
-Format version                           : Version 4
-Muxing mode                              : ADTS
-Codec ID                                 : 15-2
-Duration                                 : 3 min 54 s
-Bit rate mode                            : Variable
-Channel(s)                               : 2 channels
-Channel layout                           : L R
-Sampling rate                            : 44.1 kHz
-Frame rate                               : 43.066 FPS (1024 SPF)
-Compression mode                         : Lossy
-Delay relative to video                  : -48 ms
-
-Text #1
-ID                                       : 256 (0x100)-CC1
-Menu ID                                  : 1 (0x1)
-Format                                   : EIA-608
-Muxing mode                              : SCTE 128 / DTVCC Transport
-Muxing mode, more info                   : Muxed in Video #1
-Duration                                 : 3 min 54 s
-Duration of the visible content          : 3 min 52 s
-Start time                               : 3 s 667 ms
-End time                                 : 3 min 55 s
-Bit rate mode                            : Constant
-Stream size                              : 0.00 Byte (0%)
-Count of frames before first event       : 108
-Type of the first event                  : RollUp
-
-Text #2
-ID                                       : 256 (0x100)-1
-Menu ID                                  : 1 (0x1)
-Format                                   : EIA-708
-Muxing mode                              : SCTE 128 / DTVCC Transport
-Muxing mode, more info                   : Muxed in Video #1
-Duration                                 : 3 min 54 s
-Bit rate mode                            : Constant
-Stream size                              : 0.00 Byte (0%)
-
-Menu
-ID                                       : 4096 (0x1000)
-Menu ID                                  : 1 (0x1)
-Format                                   : AVC / AAC
-Duration                                 : 3 min 54 s
-List                                     : 256 (0x100) (AVC) / 257 (0x101) (AAC)
-Service name                             : Service01
-Service provider                         : FFmpeg
-Service type                             : digital television
-</pre>
-</div></div>
-</div><br>
-
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Caramel</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText"><img src="https://images2.imgbox.com/d5/b0/fqaFZSOK_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/d5/b0/fqaFZSOK_o.jpg" style=""><br>
-
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>General
-ID                                       : 1 (0x1)
-Complete name                            : Conan Gray - Caramel - Today Show Citi Concert Series 2025-08-15 WEB-RIP 1080p H264 AAC2.0-zefole.ts
-Format                                   : MPEG-TS
-File size                                : 119 MiB
-Duration                                 : 3 min 26 s
-Overall bit rate mode                    : Variable
-Overall bit rate                         : 4 814 kb/s
-Frame rate                               : 30.000 FPS
-
-Video
-ID                                       : 256 (0x100)
-Menu ID                                  : 1 (0x1)
-Format                                   : AVC
-Format/Info                              : Advanced Video Codec
-Format profile                           : High@L4
-Format settings                          : CABAC / 4 Ref Frames
-Format settings, CABAC                   : Yes
-Format settings, Reference frames        : 4 frames
-Codec ID                                 : 27
-Duration                                 : 3 min 26 s
-Bit rate mode                            : Constant
-Nominal bit rate                         : 4 500 kb/s
-Width                                    : 1 920 pixels
-Height                                   : 1 080 pixels
-Display aspect ratio                     : 16:9
-Frame rate                               : 30.000 FPS
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0 (Type 2)
-Bit depth                                : 8 bits
-Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.072
-Time code of first frame                 : 00:00:00:00
-Writing library                          : x264 core 161
-Encoding settings                        : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=28 / lookahead_threads=4 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=75 / keyint_min=7 / scenecut=0 / intra_refresh=0 / rc_lookahead=40 / rc=cbr / mbtree=1 / bitrate=4500 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=51 / qpstep=4 / vbv_maxrate=4500 / vbv_bufsize=4500 / nal_hrd=cbr / filler=1 / ip_ratio=1.40 / aq=1:1.00
-Color range                              : Limited
-Color primaries                          : BT.709
-Transfer characteristics                 : BT.709
-Matrix coefficients                      : BT.709
-
-Audio
-ID                                       : 257 (0x101)
-Menu ID                                  : 1 (0x1)
-Format                                   : AAC LC
-Format/Info                              : Advanced Audio Codec Low Complexity
-Format version                           : Version 4
-Muxing mode                              : ADTS
-Codec ID                                 : 15-2
-Duration                                 : 3 min 26 s
-Bit rate mode                            : Variable
-Channel(s)                               : 2 channels
-Channel layout                           : L R
-Sampling rate                            : 44.1 kHz
-Frame rate                               : 43.066 FPS (1024 SPF)
-Compression mode                         : Lossy
-Delay relative to video                  : -48 ms
-
-Text #1
-ID                                       : 256 (0x100)-CC1
-Menu ID                                  : 1 (0x1)
-Format                                   : EIA-608
-Muxing mode                              : SCTE 128 / DTVCC Transport
-Muxing mode, more info                   : Muxed in Video #1
-Duration                                 : 3 min 26 s
-Duration of the visible content          : 3 min 23 s
-Start time                               : 1 s 933 ms
-End time                                 : 3 min 25 s
-Bit rate mode                            : Constant
-Stream size                              : 0.00 Byte (0%)
-Count of frames before first event       : 131
-Type of the first event                  : PaintOn
-
-Text #2
-ID                                       : 256 (0x100)-1
-Menu ID                                  : 1 (0x1)
-Format                                   : EIA-708
-Muxing mode                              : SCTE 128 / DTVCC Transport
-Muxing mode, more info                   : Muxed in Video #1
-Duration                                 : 3 min 26 s
-Bit rate mode                            : Constant
-Stream size                              : 0.00 Byte (0%)
-
-Menu
-ID                                       : 4096 (0x1000)
-Menu ID                                  : 1 (0x1)
-Format                                   : AVC / AAC
-Duration                                 : 3 min 26 s
-List                                     : 256 (0x100) (AVC) / 257 (0x101) (AAC)
-Service name                             : Service01
-Service provider                         : FFmpeg
-Service type                             : digital television
-</pre>
-</div></div>
-</div><br>
-
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Heather</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText"><img src="https://images2.imgbox.com/00/9e/KnQUvFhL_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/00/9e/KnQUvFhL_o.jpg" style=""><br>
-
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>General
-ID                                       : 1 (0x1)
-Complete name                            : Conan Gray - Heather - Today Show Citi Concert Series 2025-08-15 WEB-RIP 1080p H264 AAC2.0-zefole.ts
-Format                                   : MPEG-TS
-File size                                : 116 MiB
-Duration                                 : 3 min 21 s
-Overall bit rate mode                    : Variable
-Overall bit rate                         : 4 817 kb/s
-Frame rate                               : 30.000 FPS
-
-Video
-ID                                       : 256 (0x100)
-Menu ID                                  : 1 (0x1)
-Format                                   : AVC
-Format/Info                              : Advanced Video Codec
-Format profile                           : High@L4
-Format settings                          : CABAC / 4 Ref Frames
-Format settings, CABAC                   : Yes
-Format settings, Reference frames        : 4 frames
-Codec ID                                 : 27
-Duration                                 : 3 min 21 s
-Bit rate mode                            : Constant
-Nominal bit rate                         : 4 500 kb/s
-Width                                    : 1 920 pixels
-Height                                   : 1 080 pixels
-Display aspect ratio                     : 16:9
-Frame rate                               : 30.000 FPS
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0 (Type 2)
-Bit depth                                : 8 bits
-Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.072
-Time code of first frame                 : 00:00:00:00
-Writing library                          : x264 core 161
-Encoding settings                        : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=28 / lookahead_threads=4 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=75 / keyint_min=7 / scenecut=0 / intra_refresh=0 / rc_lookahead=40 / rc=cbr / mbtree=1 / bitrate=4500 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=51 / qpstep=4 / vbv_maxrate=4500 / vbv_bufsize=4500 / nal_hrd=cbr / filler=1 / ip_ratio=1.40 / aq=1:1.00
-Color range                              : Limited
-Color primaries                          : BT.709
-Transfer characteristics                 : BT.709
-Matrix coefficients                      : BT.709
-
-Audio
-ID                                       : 257 (0x101)
-Menu ID                                  : 1 (0x1)
-Format                                   : AAC LC
-Format/Info                              : Advanced Audio Codec Low Complexity
-Format version                           : Version 4
-Muxing mode                              : ADTS
-Codec ID                                 : 15-2
-Duration                                 : 3 min 21 s
-Bit rate mode                            : Variable
-Channel(s)                               : 2 channels
-Channel layout                           : L R
-Sampling rate                            : 44.1 kHz
-Frame rate                               : 43.066 FPS (1024 SPF)
-Compression mode                         : Lossy
-Delay relative to video                  : -48 ms
-
-Text #1
-ID                                       : 256 (0x100)-CC1
-Menu ID                                  : 1 (0x1)
-Format                                   : EIA-608
-Muxing mode                              : SCTE 128 / DTVCC Transport
-Muxing mode, more info                   : Muxed in Video #1
-Duration                                 : 3 min 21 s
-Duration of the visible content          : 3 min 20 s
-Start time                               : 2 s 500 ms
-End time                                 : 3 min 22 s
-Bit rate mode                            : Constant
-Stream size                              : 0.00 Byte (0%)
-Count of frames before first event       : 64
-Type of the first event                  : RollUp
-
-Text #2
-ID                                       : 256 (0x100)-1
-Menu ID                                  : 1 (0x1)
-Format                                   : EIA-708
-Muxing mode                              : SCTE 128 / DTVCC Transport
-Muxing mode, more info                   : Muxed in Video #1
-Duration                                 : 3 min 21 s
-Bit rate mode                            : Constant
-Stream size                              : 0.00 Byte (0%)
-
-Menu
-ID                                       : 4096 (0x1000)
-Menu ID                                  : 1 (0x1)
-Format                                   : AVC / AAC
-Duration                                 : 3 min 21 s
-List                                     : 256 (0x100) (AVC) / 257 (0x101) (AAC)
-Service name                             : Service01
-Service provider                         : FFmpeg
-Service type                             : digital television
-</pre>
-</div></div>
-</div><br>
-
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">This Song</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText"><img src="https://images2.imgbox.com/86/6a/bq1GZXf0_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/86/6a/bq1GZXf0_o.jpg" style=""><br>
-
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>General
-ID                                       : 1 (0x1)
-Complete name                            : Conan Gray - This Song - Today Show Citi Concert Series 2025-08-15 WEB-RIP 1080p H264 AAC2.0-zefole.ts
-Format                                   : MPEG-TS
-File size                                : 126 MiB
-Duration                                 : 3 min 38 s
-Overall bit rate mode                    : Variable
-Overall bit rate                         : 4 814 kb/s
-Frame rate                               : 30.000 FPS
-
-Video
-ID                                       : 256 (0x100)
-Menu ID                                  : 1 (0x1)
-Format                                   : AVC
-Format/Info                              : Advanced Video Codec
-Format profile                           : High@L4
-Format settings                          : CABAC / 4 Ref Frames
-Format settings, CABAC                   : Yes
-Format settings, Reference frames        : 4 frames
-Format settings, GOP                     : M=4, N=75
-Codec ID                                 : 27
-Duration                                 : 3 min 38 s
-Bit rate mode                            : Constant
-Nominal bit rate                         : 4 500 kb/s
-Width                                    : 1 920 pixels
-Height                                   : 1 080 pixels
-Display aspect ratio                     : 16:9
-Frame rate                               : 30.000 FPS
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0 (Type 2)
-Bit depth                                : 8 bits
-Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.072
-Time code of first frame                 : 00:00:00:00
-Writing library                          : x264 core 161
-Encoding settings                        : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=24 / lookahead_threads=4 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=75 / keyint_min=7 / scenecut=0 / intra_refresh=0 / rc_lookahead=40 / rc=cbr / mbtree=1 / bitrate=4500 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=51 / qpstep=4 / vbv_maxrate=4500 / vbv_bufsize=4500 / nal_hrd=cbr / filler=1 / ip_ratio=1.40 / aq=1:1.00
-Color range                              : Limited
-Color primaries                          : BT.709
-Transfer characteristics                 : BT.709
-Matrix coefficients                      : BT.709
-
-Audio
-ID                                       : 257 (0x101)
-Menu ID                                  : 1 (0x1)
-Format                                   : AAC LC
-Format/Info                              : Advanced Audio Codec Low Complexity
-Format version                           : Version 4
-Muxing mode                              : ADTS
-Codec ID                                 : 15-2
-Duration                                 : 3 min 38 s
-Bit rate mode                            : Variable
-Channel(s)                               : 2 channels
-Channel layout                           : L R
-Sampling rate                            : 44.1 kHz
-Frame rate                               : 43.066 FPS (1024 SPF)
-Compression mode                         : Lossy
-Delay relative to video                  : -48 ms
-
-Text #1
-ID                                       : 256 (0x100)-CC1
-Menu ID                                  : 1 (0x1)
-Format                                   : EIA-608
-Muxing mode                              : SCTE 128 / DTVCC Transport
-Muxing mode, more info                   : Muxed in Video #1
-Duration                                 : 3 min 38 s
-Duration of the visible content          : 3 min 33 s
-Start time                               : 2 s 633 ms
-End time                                 : 3 min 36 s
-Bit rate mode                            : Constant
-Stream size                              : 0.00 Byte (0%)
-Count of frames before first event       : 80
-Type of the first event                  : RollUp
-
-Text #2
-ID                                       : 256 (0x100)-1
-Menu ID                                  : 1 (0x1)
-Format                                   : EIA-708
-Muxing mode                              : SCTE 128 / DTVCC Transport
-Muxing mode, more info                   : Muxed in Video #1
-Duration                                 : 3 min 38 s
-Bit rate mode                            : Constant
-Stream size                              : 0.00 Byte (0%)
-
-Menu
-ID                                       : 4096 (0x1000)
-Menu ID                                  : 1 (0x1)
-Format                                   : AVC / AAC
-Duration                                 : 3 min 38 s
-List                                     : 256 (0x100) (AVC) / 257 (0x101) (AAC)
-Service name                             : Service01
-Service provider                         : FFmpeg
-Service type                             : digital television
-</pre>
-</div></div>
-</div><br>
+					<img src="https://i.imgur.com/Ka0iN5u.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/Ka0iN5u.png" style=""> <br>
 
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div>If anyone happens to have a HDTV capture and wouldn't mind sharing it, I would love to have a copy if possible. Thank you! <img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie35" alt=":blush:" title="Blush    :blush:">
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[zefole13]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Cinema Center】SERIES - Pantheon S01-02 MULTi 1080p NF WEB-DL DDP5.1 H.264-GV1992 [COMPLETE] [43.5 GB]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/pantheon-s01-02-multi-1080p-nf-web-dl-ddp5-1-h-264-gv1992-complete-43-5-gb.292399/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<div style="text-align: center"><b><span style="font-size: 18px">Pantheon.S01-02.MULTi.1080p.NF.WEB-DL.DDP5.1.H.264-GV1992</span></b><br>
-<img src="https://artworks.thetvdb.com/banners/v4/series/417208/banners/62ffa1137719b.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://artworks.thetvdb.com/banners/v4/series/417208/banners/62ffa1137719b.jpg" style=""><br>
-<i><b>Synopsis</b>:</i>​</div>
-
-
-<div class="bbCodeBlock bbCodeQuote">
-	<aside>
-		
-		<blockquote class="quoteContainer"><div class="quote">A bullied teen receives mysterious help from someone online: a stranger soon revealed to be her recently deceased father, David, whose consciousness has been uploaded to the Cloud following an experimental destructive brain scan. David is the first of a new kind of being – an "Uploaded Intelligence" or "UI" – but he will not be the last, as a global conspiracy unfolds that threatens to trigger a new kind of world war.</div><div class="quoteExpand">Click to expand...</div></blockquote>
-	</aside>
-</div><div style="text-align: center"><i><b>Screenshots</b>:</i>​</div><img src="https://i.imgur.com/EB0oKbd.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/EB0oKbd.jpeg" style=""><br>
-
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>Filename......: Pantheon.S01E01.Pantheon.MULTi.1080p.NF.WEB-DL.DDP5.1.H.264-GV1992.mkv
-FileSize......: 2.87 GB
-Duration......: 40 min 38 s
-Video.........: High@L4 | 1920x1080 @ 6 268 kb/s
-Audio.........: English | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: German | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Hungarian | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Portuguese | Dolby Digital Plus | 6 CH @ 640 kb/s
-Subtitle......: English / English / German / Spanish / Spanish / Hungarian / Portuguese / Portuguese / Hindi / Japanese / Tamil / Telugu / German / Spanish / Spanish / Hungarian / Portuguese
----------------------------------------------------------------------
-Filename......: Pantheon.S01E02.Cycles.MULTi.1080p.NF.WEB-DL.DDP5.1.H.264-GV1992.mkv
-FileSize......: 2.74 GB
-Duration......: 41 min 23 s
-Video.........: High@L4 | 1920x1080 @ 5 663 kb/s
-Audio.........: English | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: German | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Hungarian | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Portuguese | Dolby Digital Plus | 6 CH @ 640 kb/s
-Subtitle......: English / English / German / Spanish / Spanish / Hungarian / Portuguese / Portuguese / Hindi / Japanese / Tamil / Telugu / German / Spanish / Spanish / Hungarian / Portuguese
----------------------------------------------------------------------
-Filename......: Pantheon.S01E03.Reign.of.Winter.MULTi.1080p.NF.WEB-DL.DDP5.1.H.264-GV1992.mkv
-FileSize......: 2.87 GB
-Duration......: 41 min 53 s
-Video.........: High@L4 | 1920x1080 @ 5 968 kb/s
-Audio.........: English | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: German | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Hungarian | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Portuguese | Dolby Digital Plus | 6 CH @ 640 kb/s
-Subtitle......: English / English / German / Spanish / Spanish / Hungarian / Portuguese / Portuguese / Hindi / Japanese / Tamil / Telugu / German / Spanish / Spanish / Hungarian / Portuguese
----------------------------------------------------------------------
-Filename......: Pantheon.S01E04.The.Gods.Will.Not.Be.Chained.MULTi.1080p.NF.WEB-DL.DDP5.1.H.264-GV1992.mkv
-FileSize......: 3.17 GB
-Duration......: 42 min 26 s
-Video.........: High@L4 | 1920x1080 @ 6 855 kb/s
-Audio.........: English | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: German | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Hungarian | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Portuguese | Dolby Digital Plus | 6 CH @ 640 kb/s
-Subtitle......: English / English / English / German / Spanish / Spanish / Hungarian / Portuguese / Portuguese / Hindi / Japanese / Tamil / Telugu / German / Spanish / Spanish / Hungarian / Portuguese
----------------------------------------------------------------------
-Filename......: Pantheon.S01E05.Zero.Daze.MULTi.1080p.NF.WEB-DL.DDP5.1.H.264-GV1992.mkv
-FileSize......: 2.64 GB
-Duration......: 39 min 57 s
-Video.........: High@L4 | 1920x1080 @ 5 652 kb/s
-Audio.........: English | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: German | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Hungarian | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Portuguese | Dolby Digital Plus | 6 CH @ 640 kb/s
-Subtitle......: English / English / German / Spanish / Spanish / Hungarian / Portuguese / Portuguese / Hindi / Japanese / Tamil / Telugu / German / Spanish / Spanish / Hungarian / Portuguese
----------------------------------------------------------------------
-Filename......: Pantheon.S01E06.You.Must.Be.Caspian.MULTi.1080p.NF.WEB-DL.DDP5.1.H.264-GV1992.mkv
-FileSize......: 2.77 GB
-Duration......: 41 min 32 s
-Video.........: High@L4 | 1920x1080 @ 5 702 kb/s
-Audio.........: English | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: German | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Hungarian | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Portuguese | Dolby Digital Plus | 6 CH @ 640 kb/s
-Subtitle......: English / English / German / Spanish / Spanish / Hungarian / Portuguese / Portuguese / Hindi / Japanese / Tamil / Telugu / German / Spanish / Spanish / Hungarian / Portuguese
----------------------------------------------------------------------
-Filename......: Pantheon.S01E07.We.Are.You.MULTi.1080p.NF.WEB-DL.DDP5.1.H.264-GV1992.mkv
-FileSize......: 2.54 GB
-Duration......: 41 min 24 s
-Video.........: Main@L4 | 1920x1080 @ 5 000 kb/s
-Audio.........: English | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: German | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Hungarian | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Portuguese | Dolby Digital Plus | 6 CH @ 640 kb/s
-Subtitle......: English / English / German / Spanish / Spanish / Hungarian / Portuguese / Portuguese / Hindi / Japanese / Tamil / Telugu / German / Spanish / Spanish / Hungarian / Portuguese
----------------------------------------------------------------------
-Filename......: Pantheon.S01E08.The.Gods.Will.Not.Be.Slain.MULTi.1080p.NF.WEB-DL.DDP5.1.H.264-GV1992.mkv
-FileSize......: 2.76 GB
-Duration......: 44 min 57 s
-Video.........: Main@L4 | 1920x1080 @ 5 000 kb/s
-Audio.........: English | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: German | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Hungarian | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Portuguese | Dolby Digital Plus | 6 CH @ 640 kb/s
-Subtitle......: English / English / English / German / Spanish / Spanish / Hungarian / Portuguese / Portuguese / Hindi / Japanese / Tamil / Telugu / German / Spanish / Spanish / Hungarian / Portuguese
----------------------------------------------------------------------
-Filename......: Pantheon.S02E01.The.Gods.Have.Not.Died.in.Vain.MULTi.1080p.NF.WEB-DL.DDP5.1.H.264-GV1992.mkv
-FileSize......: 2.60 GB
-Duration......: 42 m 26 s
-Video.........: Main@L4 | 1920x1080 @ 5 000 kb/s
-Audio.........: English | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: German | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Hungarian | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Portuguese | Dolby Digital Plus | 6 CH @ 640 kb/s
-Subtitle......: English / English / German / Spanish / Spanish / Hungarian / Portuguese / Portuguese / Hindi / Japanese / Tamil / Telugu / German / Spanish / Spanish / Hungarian / Portuguese
----------------------------------------------------------------------
-Filename......: Pantheon.S02E02.Crack.Integrity.MULTi.1080p.NF.WEB-DL.DDP5.1.H.264-GV1992.mkv
-FileSize......: 2.57 GB
-Duration......: 41 m 50 s
-Video.........: Main@L4 | 1920x1080 @ 5 000 kb/s
-Audio.........: English | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: German | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Hungarian | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Portuguese | Dolby Digital Plus | 6 CH @ 640 kb/s
-Subtitle......: English / English / German / Spanish / Spanish / Hungarian / Portuguese / Portuguese / Hindi / Japanese / Tamil / Telugu / German / Spanish / Spanish / Hungarian / Portuguese
----------------------------------------------------------------------
-Filename......: Pantheon.S02E03.Joey.Coupet.MULTi.1080p.NF.WEB-DL.DDP5.1.H.264-GV1992.mkv
-FileSize......: 2.62 GB
-Duration......: 42 m 48 s
-Video.........: Main@L4 | 1920x1080 @ 5 000 kb/s
-Audio.........: English | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: German | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Hungarian | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Portuguese | Dolby Digital Plus | 6 CH @ 640 kb/s
-Subtitle......: English / English / German / Spanish / Spanish / Hungarian / Portuguese / Portuguese / Hindi / Japanese / Tamil / Telugu / German / Spanish / Spanish / Hungarian / Portuguese
----------------------------------------------------------------------
-Filename......: Pantheon.S02E04.Olivia.and.Farhad.MULTi.1080p.NF.WEB-DL.DDP5.1.H.264-GV1992.mkv
-FileSize......: 2.56 GB
-Duration......: 41 m 50 s
-Video.........: Main@L4 | 1920x1080 @ 5 000 kb/s
-Audio.........: English | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: German | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Hungarian | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Portuguese | Dolby Digital Plus | 6 CH @ 640 kb/s
-Subtitle......: English / English / German / Spanish / Spanish / Hungarian / Portuguese / Portuguese / Hindi / Japanese / Tamil / Telugu / German / Spanish / Spanish / Hungarian / Portuguese
----------------------------------------------------------------------
-Filename......: Pantheon.S02E05.Yair.MULTi.1080p.NF.WEB-DL.DDP5.1.H.264-GV1992.mkv
-FileSize......: 2.79 GB
-Duration......: 42 m 36 s
-Video.........: High@L4 | 1920x1080 5 539 @ kb/s
-Audio.........: English | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: German | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Hungarian | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Portuguese | Dolby Digital Plus | 6 CH @ 640 kb/s
-Subtitle......: English / English / German / Spanish / Spanish / Hungarian / Portuguese / Portuguese / Hindi / Japanese / Tamil / Telugu / German / Spanish / Spanish / Hungarian / Portuguese
----------------------------------------------------------------------
-Filename......: Pantheon.S02E06.Apokalypsis.MULTi.1080p.NF.WEB-DL.DDP5.1.H.264-GV1992.mkv
-FileSize......: 2.60 GB
-Duration......: 42 m 23 s
-Video.........: Main@L4 | 1920x1080 @ 5 000 kb/s
-Audio.........: English | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: German | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Hungarian | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Portuguese | Dolby Digital Plus | 6 CH @ 640 kb/s
-Subtitle......: English / English / German / Spanish / Spanish / Hungarian / Portuguese / Portuguese / Hindi / Japanese / Tamil / Telugu / German / Spanish / Spanish / Hungarian / Portuguese
----------------------------------------------------------------------
-Filename......: Pantheon.S02E07.The.World.to.Come.MULTi.1080p.NF.WEB-DL.DDP5.1.H.264-GV1992.mkv
-FileSize......: 2.51 GB
-Duration......: 40 m 59 s
-Video.........: Main@L4 | 1920x1080 @ 5 000 kb/s
-Audio.........: English | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: German | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Hungarian | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Portuguese | Dolby Digital Plus | 6 CH @ 640 kb/s
-Subtitle......: English / English / German / Spanish / Spanish / Hungarian / Portuguese / Portuguese / Hindi / Japanese / Tamil / Telugu / German / Spanish / Spanish / Hungarian / Portuguese
----------------------------------------------------------------------
-Filename......: Pantheon.S02E08.Deep.Time.MULTi.1080p.NF.WEB-DL.DDP5.1.H.264-GV1992.mkv
-FileSize......: 2.85 GB
-Duration......: 46 m 20 s
-Video.........: Main@L4 | 1920x1080 @ 5 000 kb/s
-Audio.........: English | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: German | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Spanish | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Hungarian | Dolby Digital Plus | 6 CH @ 640 kb/s
-Audio.........: Portuguese | Dolby Digital Plus | 6 CH @ 640 kb/s
-Subtitle......: English / English / German / Spanish / Spanish / Hungarian / Portuguese / Portuguese / Hindi / Japanese / Tamil / Telugu / German / Spanish / Spanish / Hungarian / Portuguese
----------------------------------------------------------------------</pre>
-</div></div>
-</div><div style="text-align: center"><i><b>Download</b>:</i>​</div>
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
 </div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[GV1992]]></author>
+                <author><![CDATA[jonathanpicard]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Interviews / TV shows / Others】HDTV - The 83rd Golden Globe Awards (+2x Red Carpet) HDTV MPEG2 1080i DD5.1-ilya2129]]></title>
+                <link><![CDATA[https://sharemania.us/threads/the-83rd-golden-globe-awards-2x-red-carpet-hdtv-mpeg2-1080i-dd5-1-ilya2129.292400/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center"><img src="https://i122.fastpic.org/big/2024/0108/e9/83cbe31a87937b735bd8a4ee14e41ee9.png?r=1" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i122.fastpic.org/big/2024/0108/e9/83cbe31a87937b735bd8a4ee14e41ee9.png?r=1" style=""><br>
+<br>
+<a href="https://fastpic.org/view/126/2026/0112/_bfaa09051e7ee8e457a2f19caf80e2d4.png.html" target="_blank" class="externalLink" rel="nofollow"><img src="https://i126.fastpic.org/thumb/2026/0112/d4/_bfaa09051e7ee8e457a2f19caf80e2d4.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i126.fastpic.org/thumb/2026/0112/d4/_bfaa09051e7ee8e457a2f19caf80e2d4.jpeg"></a> <a href="https://fastpic.org/view/126/2026/0112/_719d12d0229f2fa03aa8f15b2a8e00d7.png.html" target="_blank" class="externalLink" rel="nofollow"><img src="https://i126.fastpic.org/thumb/2026/0112/d7/_719d12d0229f2fa03aa8f15b2a8e00d7.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i126.fastpic.org/thumb/2026/0112/d7/_719d12d0229f2fa03aa8f15b2a8e00d7.jpeg"></a> <a href="https://fastpic.org/view/126/2026/0112/_8872962afc6f2a04579dfe60809d585c.png.html" target="_blank" class="externalLink" rel="nofollow"><img src="https://i126.fastpic.org/thumb/2026/0112/5c/_8872962afc6f2a04579dfe60809d585c.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i126.fastpic.org/thumb/2026/0112/5c/_8872962afc6f2a04579dfe60809d585c.jpeg"></a> <a href="https://fastpic.org/view/126/2026/0112/_2b83e4ecaec194444901d53adc8b38d7.png.html" target="_blank" class="externalLink" rel="nofollow"><img src="https://i126.fastpic.org/thumb/2026/0112/d7/_2b83e4ecaec194444901d53adc8b38d7.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i126.fastpic.org/thumb/2026/0112/d7/_2b83e4ecaec194444901d53adc8b38d7.jpeg"></a> <a href="https://fastpic.org/view/126/2026/0112/_0da6fa5921f0d0cb78aac2368c3fd333.png.html" target="_blank" class="externalLink" rel="nofollow"><img src="https://i126.fastpic.org/thumb/2026/0112/33/_0da6fa5921f0d0cb78aac2368c3fd333.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i126.fastpic.org/thumb/2026/0112/33/_0da6fa5921f0d0cb78aac2368c3fd333.jpeg"></a> <a href="https://fastpic.org/view/126/2026/0112/_dc5e7e9f97d9f065c10eb0c1f59e3356.png.html" target="_blank" class="externalLink" rel="nofollow"><img src="https://i126.fastpic.org/thumb/2026/0112/56/_dc5e7e9f97d9f065c10eb0c1f59e3356.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i126.fastpic.org/thumb/2026/0112/56/_dc5e7e9f97d9f065c10eb0c1f59e3356.jpeg"></a><br>
+<br>
+​</div><br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 149957893246733392424851465054137248259 (0x70D0D6F6962275A6E204853EEA226A03)
+Complete name                            : C:\Recordings\The 83rd Golden Globe Awards\The 83rd Golden Globe Awards HDTV MPEG2 1080i DD5.1-ilya2129.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 10.5 GiB
+Duration                                 : 2 h 25 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 10.3 Mb/s
+Frame rate                               : 29.970 FPS
+Encoded date                             : 2026-01-12 14:04:48 UTC
+Writing application                      : mkvmerge v92.0 ('Everglow') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+
+Video
+ID                                       : 1
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@High
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : Variable
+Format settings, picture structure       : Frame
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Duration                                 : 2 h 25 min
+Bit rate mode                            : Variable
+Bit rate                                 : 9 890 kb/s
+Maximum bit rate                         : 19.4 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Active Format Description                : Full frame 16:9 image
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.159
+Time code of first frame                 : 08:22:51;13
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Open
+GOP, Open/Closed of first frame          : Closed
+Stream size                              : 10.1 GiB (96%)
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 2 h 25 min
+Bit rate mode                            : Constant
+Bit rate                                 : 384 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : 4 ms
+Stream size                              : 400 MiB (4%)
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+
+
+</pre>
+</div><div style="text-align: center">
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[ilya2129]]></author>
                 </item>
 
                 </channel></rss>
