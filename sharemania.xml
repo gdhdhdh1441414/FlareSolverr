@@ -8,16 +8,173 @@
 
  
                 <item>
-                <title><![CDATA[【Interviews / TV shows / Others】deleted]]></title>
-                <link><![CDATA[https://sharemania.us/threads/deleted.292709/]]></link>
+                <title><![CDATA[【UPSCALED】Britney Spears - Toxic (Perceptually Lossless 4K) / DTS-HD 5.1 / E-AC-3 EX 7.1 / PCM 2.0 / AAC 2.0]]></title>
+                <link><![CDATA[https://sharemania.us/threads/britney-spears-toxic-perceptually-lossless-4k-dts-hd-5-1-e-ac-3-ex-7-1-pcm-2-0-aac-2-0.292717/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					Deleted
+					<div style="text-align: center"><img src="https://images2.imgbox.com/65/6a/Yknob6Mt_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/65/6a/Yknob6Mt_o.jpg" style=""> <br>
+<b>Upscale Author: <a href="https://sharemania.us/members/45042/" class="username" data-user="45042, @villagragonzalo">@villagragonzalo</a> <br>
+DTS-HD audio remixed by me.<br>
+Dolby Digital Plus EX audio remixed by me.</b><br>
+<b>PCM downloaded and converted from Apple Music.</b><br>
+<b>Original AAC audio.</b><br>
+​</div><b><br>
+<br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>Format                      : Matroska
+Format version              : Version 4
+File size                   : 942 MiB
+Duration                    : 3 min 30 s
+Overall bit rate            : 37.5 Mb/s
+Frame rate                  : 23.976 FPS
+Encoded date                : 2026-01-18 06:58:09 UTC
+Writing application         : mkvmerge 88.0 ('All I Know') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+
+Video
+ID                          : 1
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L5.1
+Format settings             : CABAC / 3 Ref Frames
+Format settings, CABAC      : Yes
+Format settings, Reference  : 3 frames
+Codec ID                    : V_MPEG4/ISO/AVC
+Duration                    : 3 min 30 s
+Bit rate                    : 32.4 Mb/s
+Width                       : 3 840 pixels
+Height                      : 2 160 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Constant
+Frame rate                  : 23.976 (24000/1001) FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.163
+Stream size                 : 814 MiB (86%)
+Writing library             : x264 core 164
+Encoding settings           : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=18 / lookahead_threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=2 / keyint=18 / keyint_min=1 / scenecut=40 / intra_refresh=0 / rc_lookahead=18 / rc=crf / mbtree=1 / crf=17.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
+Default                     : Yes
+Forced                      : No
+
+Audio #1
+ID                          : 2
+Format                      : DTS XBR
+Format/Info                 : Digital Theater Systems
+Commercial name             : DTS-HD High Resolution Audio
+Codec ID                    : A_DTS
+Duration                    : 3 min 30 s
+Bit rate mode               : Constant
+Bit rate                    : 2 046 kb/s
+Channel(s)                  : 6 channels
+Channel layout              : C L R Ls Rs LFE
+Sampling rate               : 48.0 kHz
+Frame rate                  : 93.750 FPS (512 SPF)
+Bit depth                   : 16 bits
+Compression mode            : Lossy
+Delay relative to video     : -21 ms
+Stream size                 : 51.4 MiB (5%)
+Title                       : DTS-HD 5.1
+Default                     : Yes
+Forced                      : No
+
+Audio #2
+ID                          : 3
+Format                      : E-AC-3
+Format/Info                 : Enhanced AC-3
+Commercial name             : Dolby Digital Plus
+Format profile              : Blu-ray Disc
+Format settings             : Dolby Surround EX
+Codec ID                    : A_EAC3
+Duration                    : 3 min 30 s
+Bit rate mode               : Constant
+Bit rate                    : 1 280 kb/s
+Channel(s)                  : 8 channels
+Channel layout              : L R C LFE Ls Rs Lb Rb
+Sampling rate               : 48.0 kHz
+Frame rate                  : 31.250 FPS (1536 SPF)
+Compression mode            : Lossy
+Delay relative to video     : -21 ms
+Stream size                 : 32.2 MiB (3%)
+Title                       : Dolby Digital Plus 7.1
+Service kind                : Complete Main
+Default                     : Yes
+Forced                      : No
+Dialog Normalization        : -17 dB
+compr                       : -0.28 dB
+cmixlev                     : -3.0 dB
+surmixlev                   : -3 dB
+dmixmod                     : Lt/Rt
+ltrtcmixlev                 : -3.0 dB
+ltrtsurmixlev               : -3.0 dB
+lorocmixlev                 : -3.0 dB
+lorosurmixlev               : -3.0 dB
+dialnorm_Average            : -17 dB
+dialnorm_Minimum            : -17 dB
+dialnorm_Maximum            : -17 dB
+
+Audio #3
+ID                          : 4
+Format                      : PCM
+Format settings             : Little / Signed
+Codec ID                    : A_PCM/INT/LIT
+Duration                    : 3 min 30 s
+Bit rate mode               : Constant
+Bit rate                    : 1 411.2 kb/s
+Channel(s)                  : 2 channels
+Sampling rate               : 44.1 kHz
+Frame rate                  : 25.000 FPS (1764 SPF)
+Bit depth                   : 16 bits
+Delay relative to video     : -21 ms
+Stream size                 : 35.5 MiB (4%)
+Title                       : PCM 2.0
+Default                     : Yes
+Forced                      : No
+
+Audio #4
+ID                          : 5
+Format                      : AAC LC
+Format/Info                 : Advanced Audio Codec Low Complexity
+Codec ID                    : A_AAC-2
+Duration                    : 3 min 30 s
+Bit rate                    : 329 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 46.875 FPS (1024 SPF)
+Compression mode            : Lossy
+Delay relative to video     : -21 ms
+Stream size                 : 8.27 MiB (1%)
+Title                       : AAC 2.0
+Default                     : Yes
+Forced                      : No</pre>
+</div></div>
+</div><br>
+<br>
+</b><br>
+<div style="text-align: center"><b>Download (G.Drive)<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></b>​</div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[02020203]]></author>
+                <author><![CDATA[narxerino]]></author>
                 </item>
 
                 </channel></rss>
