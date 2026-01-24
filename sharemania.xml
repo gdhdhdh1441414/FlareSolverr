@@ -8,200 +8,111 @@
 
  
                 <item>
-                <title><![CDATA[【Albums (lossless)】ALAC - Summer Of Sam Soundtrack]]></title>
-                <link><![CDATA[https://sharemania.us/threads/summer-of-sam-soundtrack.293034/]]></link>
+                <title><![CDATA[【UPSCALED】P!nk - Stupid Girls [1080P 24FPS Non-AI]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/p-nk-stupid-girls-1080p-24fps-non-ai.293043/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<a href="https://imgbb.com/" target="_blank" class="externalLink" rel="nofollow"><img src="https://i.ibb.co/W46Jswyz/Summer-of-Sam.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/W46Jswyz/Summer-of-Sam.jpg"></a><br>
+					<img src="https://i.ibb.co/8TzJbkx/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-Thumbnail.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/8TzJbkx/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-Thumbnail.jpg" style=""> <br>
 <br>
-<a href="https://imgbb.com/" target="_blank" class="externalLink" rel="nofollow"><img src="https://i.ibb.co/zWhbh7Vc/R-443881-1410161372-9156.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/zWhbh7Vc/R-443881-1410161372-9156.jpg"></a><br>
+Non-AI<br>
+Mainly use Vapoursynth<br>
 <br>
-<a href="https://pixeldrain.com/u/hfFiruQ2" target="_blank" class="externalLink" rel="nofollow">Download</a>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[repeathistory]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【HD Live Performances】UPSCALE - Michael Jackson Live In Seoul 1996 (1080p60)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/michael-jackson-live-in-seoul-1996-1080p60.293037/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					Michael Jackson performing in Seoul, South Korea, on October 11th, 1996, and on October 13th, 1996, as part of History World Tour.<br>
-<br>
-Credits for the original VHS rip go to Jay.<br>
-<br>
-Changes made:<br>
-- Bwdif deinterlace.<br>
-- 5% crop.<br>
-- Topaz Video AI enchance with model Iris.<br>
-- 1440x1080 upscale.<br>
-- Audio normalization.<br>
-- Apple AAC audio encoding.<br>
+super clean output (little to-) no aliasing / ghosting / rainbow artifacts<br>
 <br>
 
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Thumbnails</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText"><img src="https://i.ibb.co/TB7SnN9K/Michael-Jackson-Live-In-Seoul-1996-mp4-thumbs.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/TB7SnN9K/Michael-Jackson-Live-In-Seoul-1996-mp4-thumbs.png" style=""></div>
-</div>
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Mediainfo</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>General
-Complete name                  : Michael Jackson Live In Seoul 1996.mp4
-Format                         : MPEG-4
-Format profile                 : Base Media
-Codec ID                       : isom (isom/iso2/avc1/mp41)
-File size                      : 7.76 GiB
-Duration                       : 1 h 58 min
-Overall bit rate               : 9 347 kb/s
-Frame rate                     : 59.940 FPS
-
-Video
-ID                             : 1
-Format                         : AVC
-Format/Info                    : Advanced Video Codec
-Format profile                 : High@L4.2
-Format settings                : CABAC / 4 Ref Frames
-Format settings, CABAC         : Yes
-Format settings, Reference fra : 4 frames
-Codec ID                       : avc1
-Codec ID/Info                  : Advanced Video Coding
-Duration                       : 1 h 58 min
-Bit rate                       : 9 024 kb/s
-Width                          : 1 440 pixels
-Height                         : 1 080 pixels
-Display aspect ratio           : 4:3
-Frame rate mode                : Constant
-Frame rate                     : 59.940 (60000/1001) FPS
-Color space                    : YUV
-Chroma subsampling             : 4:2:0
-Bit depth                      : 8 bits
-Scan type                      : Progressive
-Bits/(Pixel*Frame)             : 0.097
-Stream size                    : 7.49 GiB (97%)
-Writing library                : x264 core 165 r3222M b35605a
-Encoding settings              : cabac=1 / ref=3 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=7 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=18 / lookahead_threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=40 / rc=abr / mbtree=1 / bitrate=9000 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00
-Codec configuration box        : avcC
-
-Audio
-ID                             : 2
-Format                         : AAC LC
-Format/Info                    : Advanced Audio Codec Low Complexity
-Codec ID                       : mp4a-40-2
-Duration                       : 1 h 58 min
-Source duration                : 1 h 58 min
-Source_Duration_LastFrame      : -20 ms
-Bit rate mode                  : Constant
-Bit rate                       : 307 kb/s
-Channel(s)                     : 2 channels
-Channel layout                 : L R
-Sampling rate                  : 48.0 kHz
-Frame rate                     : 46.875 FPS (1024 SPF)
-Compression mode               : Lossy
-Stream size                    : 261 MiB (3%)
-Source stream size             : 261 MiB (3%)
-Default                        : Yes
-Alternate group                : 1
-
-</pre>
-</div></div>
-</div>
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Download</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
 	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">caps</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText"><img src="https://i.ibb.co/zWHCLwTc/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-00-14-849.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/zWHCLwTc/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-00-14-849.jpg" style=""> <br>
+<img src="https://i.ibb.co/GffXhFpg/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-00-27-486.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/GffXhFpg/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-00-27-486.jpg" style=""> <br>
+<img src="https://i.ibb.co/YFLW93KW/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-00-33-743.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/YFLW93KW/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-00-33-743.jpg" style=""> <br>
+<img src="https://i.ibb.co/67K8KxnC/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-01-01-813.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/67K8KxnC/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-01-01-813.jpg" style=""> <br>
+<img src="https://i.ibb.co/GfNc6WS2/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-01-02-939.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/GfNc6WS2/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-01-02-939.jpg" style=""> <br>
+<img src="https://i.ibb.co/5DSxgcv/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-01-10-321.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/5DSxgcv/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-01-10-321.jpg" style=""> <br>
+<img src="https://i.ibb.co/DDyqmKmk/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-01-18-412.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/DDyqmKmk/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-01-18-412.jpg" style=""> <br>
+<img src="https://i.ibb.co/21g2kLGW/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-01-19-204.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/21g2kLGW/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-01-19-204.jpg" style=""> <br>
+<img src="https://i.ibb.co/1YTH63wb/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-01-38-558.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/1YTH63wb/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-01-38-558.jpg" style=""> <br>
+<img src="https://i.ibb.co/5hq9RMBK/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-02-14-552.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/5hq9RMBK/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-02-14-552.jpg" style=""> <br>
+<img src="https://i.ibb.co/60QNKPND/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-02-36-157.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/60QNKPND/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-02-36-157.jpg" style=""> <br>
+<img src="https://i.ibb.co/HLFLJMY8/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-03-02-350.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/HLFLJMY8/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-03-02-350.jpg" style=""> <br>
+<img src="https://i.ibb.co/QvT8RCD6/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-03-18-991.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/QvT8RCD6/P-nk-Stupid-Girls-1080-P-24-FPS-Non-AI-mkv-snapshot-03-18-991.jpg" style=""></div>
 </div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[glomatico]]></author>
+                <author><![CDATA[nikhoetine]]></author>
                 </item>
 
                 
                 <item>
-                <title><![CDATA[【Requests】[REQ VID] - Ellie Goulding - Destiny (4K or 1080p)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/ellie-goulding-destiny-4k-or-1080p.293039/]]></link>
+                <title><![CDATA[【Requests】[REQ AUD] - Weekends With Adele (Live In Las Vegas) Vinyl]]></title>
+                <link><![CDATA[https://sharemania.us/threads/weekends-with-adele-live-in-las-vegas-vinyl.293044/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					Hey everyone,<br>
-<br>
-I haven't seen anyone posting the music video of this single that Ellie Goulding released a few months ago.<br>
-I would really appreciate it if someone can grab the best available version on apple music or tidal.
+					Does anyone still have access to these files please? All links are down and this is hard to find. Thank you in advance if anyone is willing to share! <a href="https://www.discogs.com/release/33089745-Adele-Weekends-With-Adele-Live-In-Las-Vegas" target="_blank" class="externalLink" rel="nofollow">https://www.discogs.com/release/33089745-Adele-Weekends-With-Adele-Live-In-Las-Vegas</a>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[Delirium_Nights]]></author>
+                <author><![CDATA[popstar2020]]></author>
                 </item>
 
                 
                 <item>
-                <title><![CDATA[【Requests】[REQ VID] - Lady Gaga - The Dead Dance (4K)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/lady-gaga-the-dead-dance-4k.293038/]]></link>
+                <title><![CDATA[【Requests】[REQ AUD] - Razorlight - Slipway Fires (Japanese Edition) FLAC]]></title>
+                <link><![CDATA[https://sharemania.us/threads/razorlight-slipway-fires-japanese-edition-flac.293042/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					Hey everyone!<br>
+					Hello,<br>
 <br>
-Does anyone have a 4K rip of the dead dance music video?<br>
-A thread that had a rip from apple music is unfortunately down.
+I recently discovered this band and was wondering if anyone has this version of their 3rd album:<br>
+<a href="https://www.discogs.com/release/10947077-Razorlight-Slipway-Fires" target="_blank" class="externalLink" rel="nofollow">https://www.discogs.com/release/10947077-Razorlight-Slipway-Fires</a>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[Delirium_Nights]]></author>
+                <author><![CDATA[Revolverwin]]></author>
                 </item>
 
                 
                 <item>
-                <title><![CDATA[【Albums (lossless)】Studio 54 (Motion Picture Soundtrack, CD1, CD2)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/studio-54-motion-picture-soundtrack-cd1-cd2.293035/]]></link>
+                <title><![CDATA[【SD Live Performances】WEB-RiP - Hilary Duff - Small Rooms, Big Nerves Tour 2026 (1080p) (YT)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/hilary-duff-small-rooms-big-nerves-tour-2026-1080p-yt.293041/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<a href="https://imgbb.com/" target="_blank" class="externalLink" rel="nofollow"><img src="https://i.ibb.co/4ZWMXCV4/Studio-54-Volume-I-Back.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/4ZWMXCV4/Studio-54-Volume-I-Back.jpg"></a><br>
+					<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div><img src="https://i.imgur.com/JBZlNG5.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/JBZlNG5.jpeg" style=""><br>
 <br>
-<a href="https://pixeldrain.com/u/cpTbRHHv" target="_blank" class="externalLink" rel="nofollow">Download CD 1</a><br>
-<br>
-<br>
-<a href="https://imgbb.com/" target="_blank" class="externalLink" rel="nofollow"><img src="https://i.ibb.co/k2TwSjyt/54-2-Back.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/k2TwSjyt/54-2-Back.jpg"></a><br>
-<br>
-<a href="https://pixeldrain.com/u/UCUkFV1H" target="_blank" class="externalLink" rel="nofollow">Download CD 2</a>
+I hope someone can convert this song by sone into audio files<br>
+thanks in advance<br>
+RR
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[repeathistory]]></author>
+                <author><![CDATA[reputationrenegade13]]></author>
                 </item>
 
                 
                 <item>
-                <title><![CDATA[【Cinema Center】MOVIE - Bugs.Bunny.80th.Anniversary.Collection.1080p.Bluray.DD2.0.H264-TheOne2004]]></title>
-                <link><![CDATA[https://sharemania.us/threads/bugs-bunny-80th-anniversary-collection-1080p-bluray-dd2-0-h264-theone2004.293036/]]></link>
+                <title><![CDATA[【Music Videos】Lauren Mayberry [Chvrches] - Are You Awake? [4K]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/lauren-mayberry-chvrches-are-you-awake-4k.293040/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.postimg.cc/tgGSjgQG/e626f51252451012dced83731db9ceb92d85e2ff63b7be628efe6ab3cab67c19-BR-6-AC-SX720-FMjpg.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/tgGSjgQG/e626f51252451012dced83731db9ceb92d85e2ff63b7be628efe6ab3cab67c19-BR-6-AC-SX720-FMjpg.jpg" style=""> <br>
-Here is my encode of Looney Tunes Bugs Bunny 80th Anniversary Collection.<br>
-Source: Bugs Bunny 80th Anniversary Collection 1080p Blu-ray AVC DD2 0-CtrlHD<br>
+					<img src="https://i.imgur.com/540xtPC.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/540xtPC.jpeg" style=""><br>
+<br>
 
 
 
@@ -213,7 +124,7 @@ Source: Bugs Bunny 80th Anniversary Collection 1080p Blu-ray AVC DD2 0-CtrlHD<br
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[TheOne2004]]></author>
+                <author><![CDATA[mirrorball]]></author>
                 </item>
 
                 </channel></rss>
