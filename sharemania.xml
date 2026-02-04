@@ -8,15 +8,15 @@
 
  
                 <item>
-                <title><![CDATA[【UPSCALED】Madonna - Celebration [Non-AI UPSCALE 812p]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/madonna-celebration-non-ai-upscale-812p.293645/]]></link>
+                <title><![CDATA[【UPSCALED】Alicia Keys - No One [AI UPSCALE 2160p]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/alicia-keys-no-one-ai-upscale-2160p.293647/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.ibb.co/PG8MSZhq/Celebration-Non-AI-mov-00-23-879.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/PG8MSZhq/Celebration-Non-AI-mov-00-23-879.png" style=""><br>
-<img src="https://i.ibb.co/Kx4sZVv4/Celebration-Non-AI-mov-00-30-320.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/Kx4sZVv4/Celebration-Non-AI-mov-00-30-320.png" style=""><br>
-<img src="https://i.ibb.co/XkCcLMrc/Celebration-Non-AI-mov-00-36-200.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/XkCcLMrc/Celebration-Non-AI-mov-00-36-200.png" style=""><br>
-<img src="https://i.ibb.co/fdc78NnP/Celebration-Non-AI-mov-02-13-000.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/fdc78NnP/Celebration-Non-AI-mov-02-13-000.png" style=""><br>
+					<img src="https://i.ibb.co/t7mqfvT/No-One-265677944-prob4-mov-00-04-546.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/t7mqfvT/No-One-265677944-prob4-mov-00-04-546.png" style=""><br>
+<img src="https://i.ibb.co/cS8JYQsT/No-One-265677944-prob4-mov-00-24-774.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/cS8JYQsT/No-One-265677944-prob4-mov-00-24-774.png" style=""><br>
+<img src="https://i.ibb.co/cpGvRGc/No-One-265677944-prob4-mov-01-10-320.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/cpGvRGc/No-One-265677944-prob4-mov-01-10-320.png" style=""><br>
+<img src="https://i.ibb.co/1t0Qbp51/No-One-265677944-prob4-mov-01-29-756.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/1t0Qbp51/No-One-265677944-prob4-mov-01-29-756.png" style=""><br>
 
 
 
@@ -30,50 +30,73 @@
 Format                                   : MPEG-4
 Format profile                           : QuickTime
 Codec ID                                 : qt   0000.02 (qt  )
-File size                                : 2.15 GiB
-Duration                                 : 3 min 41 s
-Overall bit rate mode                    : Constant
-Overall bit rate                         : 83.6 Mb/s
-Frame rate                               : 25.000 FPS
-Writing application                      : Lavf59.10.100
+File size                                : 3.18 GiB
+Duration                                 : 4 min 8 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 110 Mb/s
+Frame rate                               : 23.976 FPS
+Encoded date                             : 2024-02-21 00:32:00 UTC
+Tagged date                              : 2024-02-21 00:32:00 UTC
+compatible_brands                        : isomiso4
+major_brand                              : isom
+minor_version                            : 1
+creation_time                            : 2024-02-21T00:32:00.000000Z
+artist                                   : Alicia Keys
+title                                    : No One
+genre                                    : R&amp;B/Soul
+date                                     : 2007-09-24
+rating                                   : 0
+track                                    : 0
+performers                               : Alicia Keys
+encoder                                  : Lavf62.4.100
 
 Video
 ID                                       : 1
 Format                                   : ProRes
 Format version                           : Version 0
-Format profile                           : 422
-Codec ID                                 : apcn
-Duration                                 : 3 min 41 s
-Bit rate mode                            : Constant
-Bit rate                                 : 82.2 Mb/s
-Width                                    : 1 440 pixels
-Height                                   : 812 pixels
-Display aspect ratio                     : 16:9
+Format profile                           : 422 Proxy
+Codec ID                                 : apco
+Duration                                 : 4 min 8 s
+Bit rate mode                            : Variable
+Bit rate                                 : 110 Mb/s
+Width                                    : 3 840 pixels
+Height                                   : 2 072 pixels
+Display aspect ratio                     : 1.85:1
 Frame rate mode                          : Constant
-Frame rate                               : 25.000 FPS
+Frame rate                               : 23.976 (24000/1001) FPS
 Color space                              : YUV
 Chroma subsampling                       : 4:2:2
 Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 2.813
-Stream size                              : 2.12 GiB (98%)
-Writing library                          : Lavc
+Bits/(Pixel*Frame)                       : 0.575
+Stream size                              : 3.17 GiB (100%)
+Writing library                          : Apple
+Encoded date                             : 2024-02-21 00:32:00 UTC
+Tagged date                              : 2024-02-21 00:32:00 UTC
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+Codec configuration box                  : glbl
 
 Audio
 ID                                       : 2
-Format                                   : PCM
-Format settings                          : Little / Signed
-Codec ID                                 : sowt
-Duration                                 : 3 min 41 s
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : mp4a-40-2
+Duration                                 : 4 min 8 s
+Duration_LastFrame                       : -7 ms
 Bit rate mode                            : Constant
-Bit rate                                 : 1 411.2 kb/s
+Bit rate                                 : 251 kb/s
 Channel(s)                               : 2 channels
 Channel layout                           : L R
-Sampling rate                            : 44.1 kHz
-Bit depth                                : 16 bits
-Stream size                              : 37.2 MiB (2%)
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 7.42 MiB (0%)
+Title                                    : Core Media Audio
 Default                                  : Yes
 Alternate group                          : 1
-
+Encoded date                             : 2024-02-21 00:32:00 UTC
+Tagged date                              : 2024-02-21 00:32:00 UTC
 </pre>
 </div></div>
 </div>
@@ -81,19 +104,50 @@ Alternate group                          : 1
 
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
 	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Download</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
+	<div class="SpoilerTarget bbCodeSpoilerText"><div style="text-align: center">
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
 	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div>
+</div></div></div>
 </div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[JL92]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ AUD] - [REQ AUD] Lena Horne - I Got Rhythm (Take the Lead Remix) [Lossless]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/req-aud-lena-horne-i-got-rhythm-take-the-lead-remix-lossless.293646/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center"><span style="font-size: 12px">Anyone got this song in lossless? I can't find it anywhere on streaming. I can get the original no problem but it's very hard to find the <i>Take the Lead</i> version, which is my favorite.</span>​</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[blowyourmind]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ AUD] - Razorlight - Olympus Sleeping (Japanese Edition) FLAC]]></title>
+                <link><![CDATA[https://sharemania.us/threads/razorlight-olympus-sleeping-japanese-edition-flac.293648/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Hello,<br>
+Just checking if someone has the japanese release of this album with 4 bonus tracks. Many thanks!<br>
+<br>
+<a href="https://www.discogs.com/release/12972950-Razorlight-Olympus-Sleeping" target="_blank" class="externalLink" rel="nofollow">https://www.discogs.com/release/12972950-Razorlight-Olympus-Sleeping</a>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Revolverwin]]></author>
                 </item>
 
                 </channel></rss>
