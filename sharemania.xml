@@ -8,83 +8,87 @@
 
  
                 <item>
-                <title><![CDATA[【Music Videos】Blümchen - Herz An Herz (5.1) (Clean)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/bl%C3%BCmchen-herz-an-herz-5-1-clean.294424/]]></link>
+                <title><![CDATA[【Music Videos】Britney Spears - Lucky (480p AVC PCM)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/britney-spears-lucky-480p-avc-pcm.294429/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.ibb.co/0VG54S9y/Bl-mchen-Herz-An-Herz-5-1-Clean-vob-thumbs-2026-02-18-23-49-24.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/0VG54S9y/Bl-mchen-Herz-An-Herz-5-1-Clean-vob-thumbs-2026-02-18-23-49-24.jpg" style=""> <br>
-<br>
+					<div style="text-align: center"><b><span style="font-family: 'Times New Roman'"><img src="https://dn711004.ca.archive.org/0/items/mbid-1e8fdfe2-7b9f-47f2-9dab-0ff86c9e1667/mbid-1e8fdfe2-7b9f-47f2-9dab-0ff86c9e1667-12111841206.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://dn711004.ca.archive.org/0/items/mbid-1e8fdfe2-7b9f-47f2-9dab-0ff86c9e1667/mbid-1e8fdfe2-7b9f-47f2-9dab-0ff86c9e1667-12111841206.jpg" style=""> <br>
 
 
 
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">Blümchen - Herz An Herz (5.1) (Clean).vob<br>
-Formato                                  : MPEG-PS<br>
-Tamaño de archivo                        : 143 MiB<br>
-Duración                                 : 3 min 49 s<br>
-Modo de tasa de bits                     : Variable<br>
-Tasa de bits general                     : 5 241 kb/s<br>
-Velocidad de fotogramas                  : 25,000 FPS<br>
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Mediainfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText"><span style="text-decoration: underline">General:</span><br>
+Format: MPEG-4<br>
+Format profile: QuickTime<br>
+Codec ID: qt   0000.02 (qt  )<br>
+File size: 254 MiB<br>
+Duration: 4 min 7 s<br>
+Overall bit rate: 8 613 kb/s<br>
+Frame rate: 29.970 FPS<br>
+Writing application: Lavf62.8.102<br>
 <br>
-Vídeo<br>
-ID                                       : 224 (0xE0)<br>
-Formato                                  : MPEG Video<br>
-Formato de la versión                    : Version 2<br>
-Formato del perfil                       : Main@Main<br>
-Ajustes del formato                      : CustomMatrix / BVOP<br>
-Ajustes del formato, BVOP                : Sí<br>
-Ajustes del formato, Matrix              : Personlizado<br>
-Ajustes del formato, GOP                 : Variable<br>
-Ajustes del formato, estructura imagen   : Frame<br>
-Duración                                 : 3 min 49 s<br>
-Tipo de tasa de bits                     : Variable<br>
-Tasa de bits                             : 4 688 kb/s<br>
-Tasa de bits máxima                      : 8 000 kb/s<br>
-Ancho                                    : 720 píxeles<br>
-Alto                                     : 576 píxeles<br>
-Relación de aspecto                      : 4:3<br>
-Velocidad de fotogramas                  : 25,000 FPS<br>
-Estándar                                 : PAL<br>
-Espacio de color                         : YUV<br>
-Submuestreo croma                        : 4:2:0<br>
-Profundidad bits                         : 8 bits<br>
-Tipo barrido                             : Entrelazado<br>
-Orden de barrido                         : Campo superior primero<br>
-Modo de compresión                       : Con pérdida<br>
-Bits/(píxel*fotograma)                   : 0.452<br>
-Código tiempo primer fotograma           : 00:00:00:00<br>
-Código tiempo origen                     : Group of pictures header<br>
-GOP, abierto/cerrado                     : Cerrado<br>
-Tamaño de pista                          : 128 MiB (89%)<br>
-Coeficientes matriz                      : BT.601<br>
+<span style="text-decoration: underline">Video:</span><br>
+ID: 1<br>
+Format: AVC<br>
+Format/Info: Advanced Video Codec<br>
+Format profile: High@L3.1<br>
+Format settings: CABAC / 10 Ref Frames<br>
+Format settings, CABAC: Yes<br>
+Format settings, Reference frames: 10 frames<br>
+Codec ID: avc1<br>
+Codec ID/Info: Advanced Video Coding<br>
+Duration: 4 min 7 s<br>
+Bit rate: 5 534 kb/s<br>
+Width: 950 pixels<br>
+Height: 480 pixels<br>
+Display aspect ratio: 1.979<br>
+Frame rate mode: Constant<br>
+Frame rate: 29.970 (30000/1001) FPS<br>
+Color space: YUV<br>
+Chroma subsampling: 4:2:0<br>
+Bit depth: 8 bits<br>
+Scan type: Progressive<br>
+Bits/(Pixel*Frame): 0.405<br>
+Stream size: 163 MiB (64%)<br>
+Writing library: x264 core 165 r3223 0480cb0<br>
+Encoding settings: cabac=1 / ref=10 / deblock=1:0:0 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=-2 / threads=15 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=8 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=16.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=1:1.00<br>
+Color range: Limited<br>
+Color primaries: BT.470 System M<br>
+Transfer characteristics: BT.709<br>
+Matrix coefficients: BT.470 System B/G<br>
+Codec configuration box: avcC<br>
 <br>
-Audio<br>
-ID                                       : 189 (0xBD)-128 (0x80)<br>
-Formato                                  : AC-3<br>
-Formato/Info                             : Audio Coding 3<br>
-Nombre comercial                         : Dolby Digital<br>
-Modo multiplexor                         : DVD-Video<br>
-Duración                                 : 3 min 49 s<br>
-Tipo de tasa de bits                     : Constante<br>
-Tasa de bits                             : 448 kb/s<br>
-Canal(es)                                : 6 canales<br>
-Channel layout                           : L R C LFE Ls Rs<br>
-Velocidad de muestreo                    : 48,0 kHz<br>
-Velocidad de fotogramas                  : 31,250 FPS (1536 SPF)<br>
-Modo de compresión                       : Con pérdida<br>
-Tamaño de pista                          : 12,3 MiB (9%)<br>
-Service kind                             : Music and Effects<br>
-Dialog Normalization                     : -27 dB<br>
-compr                                    : -0.28 dB<br>
-cmixlev                                  : -3.0 dB<br>
-surmixlev                                : -3 dB<br>
-mixlevel                                 : 105 dB<br>
-dialnorm_Average                         : -29 dB<br>
-dialnorm_Minimum                         : -31 dB<br>
-dialnorm_Maximum                         : -27 dB</div>
-</div><br>
+<span style="text-decoration: underline">Audio:</span><br>
+ID: 2<br>
+Format: PCM<br>
+Format settings: Little / Signed<br>
+Codec ID: sowt<br>
+Duration: 4 min 7 s<br>
+Bit rate mode: Constant<br>
+Bit rate: 3 072 kb/s<br>
+Channel(s): 4 channels<br>
+Channel layout: L R C Cb<br>
+Sampling rate: 48.0 kHz<br>
+Bit depth: 16 bits<br>
+Stream size: 90.6 MiB (36%)<br>
+Default : Yes<br>
+Alternate group: 1</div>
+</div></span></b><br>
+<br>
+<img src="https://i.ibb.co/20HtqmrV/vlcsnap-00001.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/20HtqmrV/vlcsnap-00001.png" style=""> <br>
+<img src="https://i.ibb.co/tPHKzXKQ/vlcsnap-00002.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/tPHKzXKQ/vlcsnap-00002.png" style=""> <br>
+<img src="https://i.ibb.co/1JzPd8vm/vlcsnap-00003.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/1JzPd8vm/vlcsnap-00003.png" style=""> <br>
+<img src="https://i.ibb.co/My4RbfTt/vlcsnap-00004.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/My4RbfTt/vlcsnap-00004.png" style=""> <br>
+<img src="https://i.ibb.co/93y7h52r/vlcsnap-00005.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/93y7h52r/vlcsnap-00005.png" style=""> <br>
+<img src="https://i.ibb.co/VYV9MZzT/vlcsnap-00006.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/VYV9MZzT/vlcsnap-00006.png" style=""> <br>
+<b><span style="font-family: 'Times New Roman'"><br>
+Size: <span style="color: #ff0000">253 MB (266.312.272 bytes)</span><br>
+Runtime: <span style="color: #00b300">04:07</span><br>
+Via: <span style="color: #0000ff">Pixeldrain</span><br>
+<br>
+<span style="text-decoration: underline">Link:</span><br>
 
 
 
@@ -92,193 +96,47 @@ dialnorm_Maximum                         : -27 dB</div>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
 	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
+</div></span></b>​</div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[DJ-RoGeRs-BS]]></author>
+                <author><![CDATA[ivylor13]]></author>
                 </item>
 
                 
                 <item>
-                <title><![CDATA[【Requests】[REQ AUD] - J. Cole - The Fall-Off | Qobuz (Hi-Res or CD)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/j-cole-the-fall-off-qobuz-hi-res-or-cd.294426/]]></link>
+                <title><![CDATA[【Requests】[REQ VID] - Cars (2006) - UK Version w/ Jeremy Clarkson as 'Harv']]></title>
+                <link><![CDATA[https://sharemania.us/threads/cars-2006-uk-version-w-jeremy-clarkson-as-harv.294430/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					Desperately looking for this new Hip-Hop/Rap album. The album link is below on Qobuz, thanks in advance.<br>
-<br>
-<a href="https://open.qobuz.com/album/yra46no17ckn6" target="_blank" class="externalLink" rel="nofollow">https://open.qobuz.com/album/yra46no17ckn6</a>
+					Anyone have a download for the film 'Cars' (2006) with the UK audio track replacing Jeremy Piven with Jeremy Clarkson?
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[Reinx]]></author>
+                <author><![CDATA[Ghost1963]]></author>
                 </item>
 
                 
                 <item>
-                <title><![CDATA[【Albums (lossy)】Dolby Atmos - Michael Jackson - Dangerous (Dolby Atmos DJRMX Remix) [EAC3-JOC]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/michael-jackson-dangerous-dolby-atmos-djrmx-remix-eac3-joc.294428/]]></link>
+                <title><![CDATA[【HD Live Performances】HDTV - Lady Gaga - Just Dance [So You Think You Can Dance S04E16 31.Jul.2008] TEN HD 1080i DD2.0 MPEG2]]></title>
+                <link><![CDATA[https://sharemania.us/threads/lady-gaga-just-dance-so-you-think-you-can-dance-s04e16-31-jul-2008-ten-hd-1080i-dd2-0-mpeg2.294431/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i127.fastpic.org/big/2026/0219/e5/1bfd1c7ca413b41c816f4c32f3c186e5.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i127.fastpic.org/big/2026/0219/e5/1bfd1c7ca413b41c816f4c32f3c186e5.jpg" style=""><br>
-<br>
-DJRMX Dolby Atmos Mix<br>
-Decodes up to 9.1.6 channels<br>
-Genre : Pop<br>
-Release Year : 1991<br>
-Editor (Label) : Sony Music, Epic/Legacy<br>
-Artist Country (Group) : USA<br>
-Audio codec : Dolby Digital Plus with Dolby Atmos (*.m4a)<br>
-<br>
+					<img src="https://iili.io/q26BydJ.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://iili.io/q26BydJ.png" style=""><br>
 
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
 </div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[Mpsp1234]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Requests】[REQ AUD] - [LOSSLESS] NITRO MICROPHONE UNDERGROUND - Day One/Black Moon]]></title>
-                <link><![CDATA[https://sharemania.us/threads/lossless-nitro-microphone-underground-day-one-black-moon.294427/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					I’m looking for this release/work.<br>
-<br>
-Day One - Single<br>
-<a href="https://music.apple.com/us/album/day-one-single/1854327743" target="_blank" class="externalLink" rel="nofollow">https://music.apple.com/us/album/day-one-single/1854327743</a><br>
-Black Moon - Single<br>
-<a href="https://music.apple.com/us/album/black-moon-single/1867474828" target="_blank" class="externalLink" rel="nofollow">https://music.apple.com/us/album/black-moon-single/1867474828</a><br>
-<br>
-Thanks in advance.
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[SuperGojo]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Singles (lossy)】Dolby Atmos - Blümchen - Herz an Herz [48kHz 5.1 Apple Music Rip]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/bl%C3%BCmchen-herz-an-herz-48khz-5-1-apple-music-rip.294425/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<img src="https://i.ibb.co/S4XDjPjg/Bl-mchen-Herzfrequenz.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/S4XDjPjg/Bl-mchen-Herzfrequenz.jpg" style=""> <br>
-<br>
-
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">Blümchen - Herz an Herz [48kHz 5.1 Apple Music Rip].m4a<br>
-Formato                                  : MPEG-4<br>
-Formato del perfil                       : Apple audio with iTunes info<br>
-ID códec                                 : M4A  (isom/iso5/hlsf/cmfc/ccea/M4A /mp42)<br>
-Tamaño de archivo                        : 20,9 MiB<br>
-Duración                                 : 33 min 40 s<br>
-Modo de tasa de bits                     : Constante<br>
-Tasa de bits general                     : 86,8 kb/s<br>
-Título                                   : Herz an Herz<br>
-Álbum                                    : Herzfrequenz<br>
-Álbum/Ordenar por                        : Herzfrequenz<br>
-Álbum/Intérprete                         : Blümchen<br>
-Álbum/Performer/Sort                     : Blümchen<br>
-Parte/Posición                           : 1<br>
-Parte/Total                              : 1<br>
-Nombre de pista/Posición                 : 2<br>
-Nombre de pista/Total                    : 14<br>
-Intérprete                               : Blümchen<br>
-Intérprete/Ordenar por                   : Blümchen<br>
-Compositor                               : Oberpichler &amp; Mangold<br>
-Compositor/Ordenar por                   : Oberpichler &amp; Mangold<br>
-Editor                                   : PSP Music<br>
-Género                                   : Pop<br>
-Fecha de grabación                       : 1996-05-23<br>
-Fecha de codificación                    : 2026-01-29 20:27:14 UTC<br>
-Fecha de etiquetado                      : 2026-01-29 20:27:14 UTC<br>
-ISRC                                     : DEBL60605312<br>
-Derechos de copia                        : ℗ 2007 Peer-Southern-Production<br>
-Portada                                  : Yes<br>
-Tipo de portada                          : Cover<br>
-Letra                                    : [00:00.39]Herz an Herz / [00:02.47]Hörst du mich? / [00:03.82]SOS, ich liebe dich / [00:06.62]Ich und du immerzu / [00:09.35]Du und ich / [00:11.29]Herz an Herz / [00:13.32]Tag und Nacht / [00:14.58]Immerzu daran gedacht / [00:17.21]Bist du auch so verliebt wie ich? (Herz an Herz) / [01:01.95]Herz an Herz / [01:03.88]Hörst du mich? / [01:05.09]SOS, ich liebe dich / [01:07.81]Ich und du immerzu / [01:10.45]Du und ich / [01:12.50]Herz an Herz / [01:14.45]Tag und Nacht / [01:15.79]Immerzu daran gedacht / [01:18.37]Bist du auch so verliebt wie ich? / [01:34.34]Hörst du mich? / [01:39.68]Hörst du mich? / [01:45.05]Hörst du mich? / [01:46.38]Hörst du mich? / [01:47.69]Hörst du mich? / [01:49.05]Hörst du mich? / [01:50.37]Hörst du mich? / [01:51.69]Hörst du mich? / [01:53.03]Hörst du mich? / [01:54.37]Hörst du mich? (Herz an Herz, hörst du mich) / [01:56.48]Mich? / [01:57.06]Hörst du mich? / [01:58.40]Hörst du mich? / [01:59.75]Hörst du mich? / [02:01.01]Hörst du mich? / [02:02.36]Hörst du mich? / [02:03.67]Hörst du mich? / [02:04.99]Hörst du mich? / [02:06.39]Hörst du mich? / [02:07.62]Hörst du mich? / [02:08.93]Hörst du mich? / [02:10.30]Hörst du mich? / [02:11.64]Hörst du mich? / [02:12.94]Hörst du mich? / [02:14.25]Hörst du mich? / [02:15.60]Hörst du mich? / [02:17.00]Hörst du mich? / [02:37.68]Herz an Herz / [02:39.67]Hörst du mich? / [02:40.96]SOS, ich liebe dich / [02:43.55]Ich und du immerzu / [02:46.20]Du und ich / [02:48.18]Herz an Herz / [02:50.29]Tag und Nacht / [02:51.57]Immerzu daran gedacht / [02:54.16]Bist du auch so verliebt wie ich? / [03:20.20]Herz an Herz / [03:22.20]Hörst du mich? / [03:23.41]SOS, ich liebe dich / [03:26.12]Ich und du immerzu / [03:28.79]Du und ich / [03:30.78]Herz an Herz / [03:32.84]Tag und Nacht / [03:34.10]Immerzu daran gedacht / [03:36.72]Bist du auch so verliebt wie ich?<br>
-Title/Sort                               : Herz an Herz<br>
-PlayListID                               : 209728472<br>
-AlbumTitleID                             : 209710866<br>
-RELEASETIME                              : 1996-05-23<br>
-UPC                                      : 881969174069<br>
-<br>
-Audio<br>
-ID                                       : 1<br>
-Formato                                  : E-AC-3 JOC<br>
-Formato/Info                             : Enhanced AC-3 with Joint Object Coding<br>
-Nombre comercial                         : Dolby Digital Plus with Dolby Atmos<br>
-ID códec                                 : ec-3<br>
-Duración                                 : 33 min 40 s<br>
-Duración original                        : 3 min 47 s<br>
-Source_Duration_LastFrame                : -24 ms<br>
-Tipo de tasa de bits                     : Constante<br>
-Tasa de bits                             : 768 kb/s<br>
-Canal(es)                                : 6 canales<br>
-Channel layout                           : L R C LFE Ls Rs<br>
-Velocidad de muestreo                    : 48,0 kHz<br>
-Velocidad de fotogramas                  : 31,250 FPS (1536 SPF)<br>
-Modo de compresión                       : Con pérdida<br>
-Tamaño de pista                          : 185 MiB<br>
-Cantidad de pistas original              : 20,8 MiB (100%)<br>
-Título                                   : Core Media Audio<br>
-Service kind                             : Complete Main<br>
-Fecha de codificación                    : 2026-01-29 20:27:14 UTC<br>
-Fecha de etiquetado                      : 2026-02-18 19:40:45 UTC<br>
-Complexity index                         : 16<br>
-Number of dynamic objects                : 15<br>
-Bed channel count                        : 1 canal<br>
-Bed channel configuration                : LFE<br>
-Dialog Normalization                     : -18 dB<br>
-compr                                    : 11.18 dB<br>
-dmixmod                                  : Lo/Ro<br>
-ltrtcmixlev                              : -3.0 dB<br>
-ltrtsurmixlev                            : -3.0 dB<br>
-lorocmixlev                              : -3.0 dB<br>
-lorosurmixlev                            : -3.0 dB<br>
-dialnorm_Average                         : -18 dB<br>
-dialnorm_Minimum                         : -18 dB<br>
-dialnorm_Maximum                         : -18 dB<br>
-<br>
-Imagen<br>
-Tipo                                     : Cover<br>
-Formato                                  : JPEG<br>
-Modo multiplexor                         : moov-meta-covr<br>
-Ancho                                    : 600 píxeles<br>
-Alto                                     : 600 píxeles<br>
-Espacio de color                         : YUV<br>
-Submuestreo croma                        : 4:2:0<br>
-Profundidad bits                         : 8 bits<br>
-Modo de compresión                       : Con pérdida<br>
-Tamaño de pista                          : 99,3 KiB (0%)</div>
-</div><br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[DJ-RoGeRs-BS]]></author>
+                <author><![CDATA[93KKOU]]></author>
                 </item>
 
                 </channel></rss>
