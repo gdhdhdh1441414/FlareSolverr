@@ -8,74 +8,65 @@
 
  
                 <item>
-                <title><![CDATA[【Requests】[REQ VID] - FEED of BAFTA Awards 2026]]></title>
-                <link><![CDATA[https://sharemania.us/threads/feed-of-bafta-awards-2026.294674/]]></link>
+                <title><![CDATA[【HD Live Performances】HDTV - EJAE, Audrey Nuna &amp; Rei Ami (from KPop Demon Hunters) - Golden [BAFTA Film Awards 2026 - 2026/02/22] 1080i HDTV]]></title>
+                <link><![CDATA[https://sharemania.us/threads/ejae-audrey-nuna-rei-ami-from-kpop-demon-hunters-golden-bafta-film-awards-2026-2026-02-22-1080i-hdtv.294682/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					Did anyone CAP the FEED of tonight's BAFTA's?<br>
+					<b><span style="color: #0059b3"><i>Ejae, Audrey Nuna, and Rei Ami - the singing stars behind behind HUNTR/X from KPop Demon Hunters - performed their hit song Golden at the BAFTA Film Awards 2026, in their first ever live performance outside the US.</i></span></b><br>
 <br>
-Especially looking to see if there's a control room audio channel.<br>
+<a href="https://imgbox.com/xvXKKX7S" target="_blank" class="externalLink" rel="nofollow"><img src="https://images2.imgbox.com/9d/1a/xvXKKX7S_o.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/9d/1a/xvXKKX7S_o.png"></a><br>
 <br>
-Thanks!
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[pmf123]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【HD Live Performances】FEED - HAIM - The Steps - 2021 Grammy Awards BACKHAUL 1080i FLAC 5.1 H.264-TrollHD]]></title>
-                <link><![CDATA[https://sharemania.us/threads/haim-the-steps-2021-grammy-awards-backhaul-1080i-flac-5-1-h-264-trollhd.294672/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<div style="padding-left: 30px"><div style="padding-left: 30px"><div style="padding-left: 30px"><b><span style="font-size: 26px"><span style="color: #ff0000">HAIM - The Steps - 2021 Grammy Awards<br>
-BACKHAUL 1080i FLAC 5.1 H.264-TrollHD</span></span></b>​</div></div></div><img src="https://images2.imgbox.com/d3/7d/EpWFMnVH_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/d3/7d/EpWFMnVH_o.jpg" style=""><br>
-<br>
-
+<div style="text-align: center"><b><i>MediaInfo</i></b>​</div>
 
 <div class="bbCodeBlock bbCodeCode">
 	<div class="type">Code:</div>
-	<pre>General
-Unique ID                      : 79519497072206214066983119919797148768 (0x3BD2E5E716F03A17188F9F6A06A69C60)
+	<pre>Source: BBC One London HD (Sky/Freesat DVB-S2)
+Cutted with MKVToolNix v97.0
+===
+General
+Unique ID                      : 246924715869913859346211709896071305651 (0xB9C3F86E1F0DA8F8D8D143BD17CBD9B3)
+Complete name                  : EJAE, Audrey Nuna and Rei Ami - Golden (BAFTA Film Awards 2026 - 2026-02-22).mkv
 Format                         : Matroska
 Format version                 : Version 4
-File size                      : 898 MiB
-Duration                       : 4 min 0 s
-Overall bit rate mode          : Variable
-Overall bit rate               : 31.3 Mb/s
-Encoded date                   : UTC 2026-02-23 02:37:50
-Writing application            : mkvmerge v24.0.0 ('Beyond The Pale') 32-bit
-Writing library                : libebml v1.3.6 + libmatroska v1.4.9
+File size                      : 168 MiB
+Duration                       : 3 min 36 s
+Overall bit rate               : 6 515 kb/s
+Frame rate                     : 38.216 FPS
+Title                          : EJAE, Audrey Nuna and Rei Ami - Golden (BAFTA Film Awards 2026 - 2026-02-22)
+Encoded date                   : 2026-02-23 04:48:03 UTC
+Writing application            : mkvmerge v97.0 ('You Don't Have A Clue') 64-bit
+Writing library                : libebml v1.4.5 + libmatroska v1.7.1
 
 Video
 ID                             : 1
 Format                         : AVC
 Format/Info                    : Advanced Video Codec
-Format profile                 : High@L4.1
+Format profile                 : High@L4
 Format settings                : CABAC / 4 Ref Frames
 Format settings, CABAC         : Yes
 Format settings, Reference fra : 4 frames
-Format settings, GOP           : M=4, N=32
+Format settings, GOP           : M=8, N=24
 Codec ID                       : V_MPEG4/ISO/AVC
-Duration                       : 4 min 0 s
-Bit rate                       : 28.3 Mb/s
+Duration                       : 3 min 35 s
+Bit rate                       : 6 349 kb/s
 Width                          : 1 920 pixels
 Height                         : 1 080 pixels
 Display aspect ratio           : 16:9
+Active Format Description      : Letterbox 16:9 image, with alternative 14:9 center
 Frame rate mode                : Variable
-Frame rate                     : 59.940 (60000/1001) FPS
-Original frame rate            : 29.970 (30000/1001) FPS
+Frame rate                     : 38.216 FPS
+Original frame rate            : 25.000 FPS
+Standard                       : Component
 Color space                    : YUV
-Chroma subsampling             : 4:2:0
+Chroma subsampling             : 4:2:0 (Type 0)
 Bit depth                      : 8 bits
-Scan type                      : Interlaced
+Scan type                      : MBAFF
 Scan type, store method        : Separated fields
 Scan order                     : Top Field First
-Bits/(Pixel*Frame)             : 0.227
-Stream size                    : 809 MiB (90%)
+Bits/(Pixel*Frame)             : 0.080
+Stream size                    : 163 MiB (97%)
+Language                       : English
 Default                        : Yes
 Forced                         : No
 Color range                    : Limited
@@ -85,442 +76,312 @@ Matrix coefficients            : BT.709
 
 Audio
 ID                             : 2
-Format                         : FLAC
-Format/Info                    : Free Lossless Audio Codec
-Codec ID                       : A_FLAC
-Duration                       : 4 min 0 s
-Bit rate mode                  : Variable
-Bit rate                       : 3 099 kb/s
-Channel(s)                     : 6 channels
-Channel layout                 : L R C LFE Ls Rs
+Format                         : AC-3
+Format/Info                    : Audio Coding 3
+Commercial name                : Dolby Digital
+Codec ID                       : A_AC3
+Duration                       : 3 min 35 s
+Bit rate mode                  : Constant
+Bit rate                       : 192 kb/s
+Channel(s)                     : 2 channels
+Channel layout                 : L R
 Sampling rate                  : 48.0 kHz
-Frame rate                     : 11.719 FPS (4096 SPF)
-Bit depth                      : 24 bits
-Compression mode               : Lossless
-Delay relative to video        : 115 ms
-Stream size                    : 88.8 MiB (10%)
-Writing library                : libFLAC 1.3.1 (UTC 2014-11-25)
+Frame rate                     : 31.250 FPS (1536 SPF)
+Compression mode               : Lossy
+Delay relative to video        : 290 ms
+Stream size                    : 4.92 MiB (3%)
 Language                       : English
+Service kind                   : Complete Main
 Default                        : Yes
 Forced                         : No
+Dialog Normalization           : -23 dB
+compr                          : -0.28 dB
+dsurmod                        : Not Dolby Surround encoded
+mixlevel                       : 105 dB
+ltrtcmixlev                    : 3.0 dB
+ltrtsurmixlev                  : -3.0 dB
+lorocmixlev                    : 3.0 dB
+lorosurmixlev                  : -3.0 dB
+dialnorm_Average               : -23 dB
+dialnorm_Minimum               : -23 dB
+dialnorm_Maximum               : -23 dB
 
+Text #1
+ID                             : 3
+Format                         : DVB Subtitle
+Codec ID                       : S_DVBSUB
+Codec ID/Info                  : Picture based subtitle format used on DVBs
+Duration                       : 3 min 36 s
+Bit rate                       : 19.9 kb/s
+Frame rate                     : 0.360 FPS
+Count of elements              : 78
+Stream size                    : 526 KiB (0%)
+Language                       : English
+Default                        : No
+Forced                         : No
+
+Text #2
+ID                             : 4
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 3 min 22 s
+Bit rate                       : 206 b/s
+Frame rate                     : 0.325 FPS
+Count of elements              : 66
+Stream size                    : 5.11 KiB (0%)
+Language                       : English
+Default                        : No
+Forced                         : No
 </pre>
-</div>
+</div><br>
+<div style="text-align: center">
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
 	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div><br>
-<br>
-<span style="font-size: 26px">Cutted with:</span><br>
-<b><span style="font-size: 26px">MKVToolNix GUI<br>
-<br>
-<img src="styles/default/xenforo/smilies/super_man-48.png" class="mceSmilie" alt=":super:" title="Super Man    :super:"><img src="styles/default/xenforo/smilies/super_man-48.png" class="mceSmilie" alt=":super:" title="Super Man    :super:"><img src="styles/default/xenforo/smilies/super_man-48.png" class="mceSmilie" alt=":super:" title="Super Man    :super:"><br>
-<br>
-</span></b>
+</div></div><br>
+<b><i>Credit to the original capper+ripper: Me</i></b>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[Dream66]]></author>
+                <author><![CDATA[plumpss]]></author>
                 </item>
 
                 
                 <item>
-                <title><![CDATA[【Albums (lossless)】WAV - Hilary Duff - The Girl Can Rock (Japan Edition) [WAV / ISO]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/hilary-duff-the-girl-can-rock-japan-edition-wav-iso.294677/]]></link>
+                <title><![CDATA[【Requests】[REQ AUD] - Valentine's Day OST (2010) [FLAC]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/valentines-day-ost-2010-flac.294681/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<div style="text-align: center"><img src="https://i.ibb.co/jkBWQzVp/The-Girl-Can-Rock-1.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/jkBWQzVp/The-Girl-Can-Rock-1.png" style=""><br>
-<span style="font-size: 9px"><i><span style="color: #d74a5d">Includes copyright, artwork, composer info, .log &amp; .cue file.</span></i> <b><span style="color: #352919">Personal CD rip.</span></b></span><br>
+					Hi, could anyone help me find this OST in FLAC? Thanks!<br>
 <br>
-<span style="font-size: 12px"><span style="color: #d74a5d">After you say thanks, use </span></span><span style="color: #d74a5d"><span style="font-size: 12px"><a href="https://www.base64decode.org/" target="_blank" class="externalLink" rel="nofollow"><span style="color: #d74a5d">base64decode</span></a> <span style="color: #d74a5d">to reveal the link.</span></span><br>
+<a href="https://music.apple.com/cn/album/valentines-day-original-motion-picture-soundtrack/530040601?l=en-GB" target="_blank" class="externalLink" rel="nofollow">https://music.apple.com/cn/album/valentines-day-original-motion-picture-soundtrack/530040601?l=en-GB</a>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[airjoel]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Albums (lossless)】FLAC - Whitney Houston - Whitney The Greatest Hits [Qobuz | 16bit/44.1kHz | 1411kbits | Lossless Audio]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/whitney-houston-whitney-the-greatest-hits-qobuz-16bit-44-1khz-1411kbits-lossless-audio.294680/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://static.qobuz.com/images/covers/0b/q6/url0k6t7yq60b_org.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://static.qobuz.com/images/covers/0b/q6/url0k6t7yq60b_org.jpg" style=""><br>
 <br>
-<span style="font-size: 10px"><span style="color: #352919"><span style="text-decoration: underline">CD</span></span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #d74a5d"><b>01.</b></span> <span style="color: #352919">Why Not (McMix) [Mixed]</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #d74a5d"><b>02.</b></span> <span style="color: #352919">So Yesterday (Radio Edit Remix) [Mixed]</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #d74a5d"><b>03.</b></span> <span style="color: #352919">Come Clean (Cut to the Chase Club Mix) [Mixed]</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #d74a5d"><b>04.</b></span> <span style="color: #352919">Party Up (Rob Chiarelli Dance Mix) [Mixed]</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #d74a5d"><b>05.</b></span> <span style="color: #352919">Anywhere but Here (Live Version from WB) [Mixed]</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #d74a5d"><b>06.</b></span> <span style="color: #352919">Metamorphosis (Album Version) [Mixed]</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #d74a5d"><b>07.</b></span> <span style="color: #352919">Come Clean (Joe Bermudez &amp; Josh Harris Pop Mix) [Main Mix] (Mixed)</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #d74a5d"><b>08.</b></span> <span style="color: #060402">So Yesterday (Joe Bermudez Mixshow Mix) [Mixed]</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #d74a5d"><b>09.</b></span> <span style="color: #060402">Come Clean (Flood Remix <span style="text-decoration: line-through">Flood</span>) [Mixed]</span></span></span><br>
-<span style="color: #d74a5d"><br>
-<span style="font-size: 10px"><span style="color: #d74a5d"><span style="text-decoration: underline">DVD</span></span></span><br>
-<span style="font-size: 12px"><span style="color: #d74a5d"><b>01.</b></span> <span style="color: #352919"><i>The Concert</i></span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">The Girl Can Rock</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">Little Voice</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">Come Clean</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">So Yesterday</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">Anywhere But Here</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">Metamorphosis</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">Sweet 16</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">Where Did I Go Right</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">Love Just Is</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">Why Not</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">The Math</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">Workin' It Out</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">Party Up</span></span></span><br>
-<span style="color: #d74a5d"><br>
-<span style="font-size: 12px"><span style="color: #d74a5d"><b>02.</b></span> <span style="color: #352919"><i>Bonus Features/Behind the Scenes</i></span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">Hilary's New Album</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">The Tour</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">Come Clean Video</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><br>
-<span style="color: #d74a5d"><b>03.</b></span> <span style="color: #352919"><i>Music Videos</i></span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">Come Clean</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">So Yesterday (Live)</span></span></span><br>
-<span style="color: #d74a5d"><br>
-<span style="font-size: 12px"><span style="color: #d74a5d"><b>04.</b></span> <span style="color: #352919"><i>Interviews &amp; Featurettes</i></span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">Hilary On Air with Ryan Seacrest</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">Hilary Hangs Ten</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">Photo Gallery</span></span></span><br>
-<span style="color: #d74a5d"><span style="font-size: 12px"><span style="color: #2b2413">Sneak Peaks</span></span></span><br>
-<span style="color: #d74a5d"><br>
-
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler</span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
+<span style="font-family: 'Verdana'"><span style="font-size: 15px"><b>Artist</b>: Whitney Houston<br>
+<b>Album</b>: Whitney The Greatest Hits<br>
+<b>Release</b>: 2000-05-16<br>
+<b>Format</b>: .flac Free Lossless Audio Codec<br>
+<b>Sample</b> Rate: 1411 kbps, 44.1 kHz - 2.0ch<br>
+<b>Quality</b>: CD Quality, Lossless Audio<br>
+<b>Source</b>: <b><a href="https://www.qobuz.com/us-en/album/whitney-the-greatest-hits-whitney-houston/url0k6t7yq60b" target="_blank" class="externalLink" rel="nofollow">Qobuz</a></b> <br>
+<br>
+<b>TRACKLIST</b><br>
+<i><b>Disc 1</b></i><br>
+1. You Give Good Love <br>
+2. Saving All My Love for You <br>
+3. Greatest Love of All<br>
+4. All at Once <br>
+5. If You Say My Eyes Are Beautiful<br>
+6. Didn't We Almost Have It All (7" Mix)<br>
+7. Where Do Broken Hearts Go <br>
+8. All the Man That I Need<br>
+9. Run to You<br>
+10. I Have Nothing <br>
+11. I Will Always Love You<br>
+12. Exhale (Shoop Shoop) (from "Waiting to Exhale" - Original Soundtrack)<br>
+13. Why Does It Hurt So Bad (from "Waiting to Exhale" - Original Soundtrack)<br>
+14. I Believe In You And Me (Film Version)<br>
+15. Heartbreak Hotel (feat. Faith Evans &amp; Kelly Price) <br>
+16. My Love Is Your Love <br>
+17. Same Script, Different Cast<br>
+18. Could I Have This Kiss Forever (Metro Mix)<br>
+<br>
+<b><i>Disc 2</i></b><br>
+1. Fine<br>
+2. If I Told You That<br>
+3. It's Not Right But It's Okay (Thunderpuss Mix)<br>
+4. My Love Is Your Love (Jonathan Peters Radio Mix)<br>
+5. Heartbreak Hotel (Hex Hector Radio Mix)<br>
+6. I Learned from the Best (HQ2 Radio Mix)<br>
+7. Step by Step (Junior's Arena Anthem Radio Mix)<br>
+8. I'm Every Woman (Clivilles &amp; Cole Radio Mix)<br>
+9. Queen Of The Night (CJ Mackintosh Mix)<br>
+10. I Will Always Love You (Hex Hector Radio Mix)<br>
+11. Love Will Save the Day (Jellybean &amp; David Morales 1987 Classic Underground Mix)<br>
+12. I'm Your Baby Tonight (Dronez Mix)<br>
+13.  So Emotional (David Morales Mix) <br>
+14. I Wanna Dance With Somebody (Junior's Happy Handbag Mix) <br>
+15. How Will I Know (Junior Vasquez Club Mix)<br>
+16. Greatest Love of All (Junior Vasquez Mix)<br>
+17. One Moment in Time<br>
+18. The Star Spangled Banner (Live from Super Bowl XXV)<br>
+<br>
+<b>DOWNLOAD</b></span></span><br>
+<span style="font-size: 17px">
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
 </div></span>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Kenchana]]></author>
+                </item>
 
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】HDTV - Jessie Ware - The Way We Were ("In Memoriam" - BAFTA Film Awards 2026 - 2026-02-22) 1080i HDTV]]></title>
+                <link><![CDATA[https://sharemania.us/threads/jessie-ware-the-way-we-were-in-memoriam-bafta-film-awards-2026-2026-02-22-1080i-hdtv.294683/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<b><span style="color: #0059b3"><i>British singer and songwriter Jessie Ware performed during the "In Memoriam" segment <i><b>at the BAFTA Film Awards 2026</b></i>, covering the Barbra Streisand song "The Way We Were".</i></span></b><br>
+<br>
+<a href="https://imgbox.com/AmvGAATI" target="_blank" class="externalLink" rel="nofollow"><img src="https://images2.imgbox.com/44/d9/AmvGAATI_o.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/44/d9/AmvGAATI_o.png"></a><br>
+<br>
+<div style="text-align: center"><b><i>MediaInfo</i></b>​</div>
 
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler</span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>Source: BBC One London HD (Sky/Freesat DVB-S2)
+Cutted with MKVToolNix v97.0
+===
+General
+Unique ID                      : 321216779866464100157447169275790193953 (0xF1A819FBCD5CD250ACB90F9C4CC57521)
+Complete name                  : Jessie Ware - The Way We Were (In Memoriam - BAFTA Film Awards 2026 - 2026-02-22).mkv
+Format                         : Matroska
+Format version                 : Version 4
+File size                      : 156 MiB
+Duration                       : 5 min 18 s
+Overall bit rate               : 4 117 kb/s
+Frame rate                     : 29.188 FPS
+Title                          : Jessie Ware - The Way We Were ("In Memoriam" - BAFTA Film Awards 2026 - 2026-02-22)
+Encoded date                   : 2026-02-23 05:19:01 UTC
+Writing application            : mkvmerge v97.0 ('You Don't Have A Clue') 64-bit
+Writing library                : libebml v1.4.5 + libmatroska v1.7.1
 
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4
+Format settings                : CABAC / 4 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 4 frames
+Format settings, GOP           : M=8, N=24
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 5 min 14 s
+Bit rate                       : 3 960 kb/s
+Width                          : 1 920 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 16:9
+Active Format Description      : Letterbox 16:9 image, with alternative 14:9 center
+Frame rate mode                : Variable
+Frame rate                     : 29.188 FPS
+Original frame rate            : 25.000 FPS
+Standard                       : Component
+Color space                    : YUV
+Chroma subsampling             : 4:2:0 (Type 0)
+Bit depth                      : 8 bits
+Scan type                      : MBAFF
+Scan type, store method        : Interleaved fields
+Scan order                     : Top Field First
+Bits/(Pixel*Frame)             : 0.065
+Stream size                    : 149 MiB (95%)
+Language                       : English
+Default                        : Yes
+Forced                         : No
+Color range                    : Limited
+Color primaries                : BT.709
+Transfer characteristics       : BT.709
+Matrix coefficients            : BT.709
 
+Audio
+ID                             : 2
+Format                         : AC-3
+Format/Info                    : Audio Coding 3
+Commercial name                : Dolby Digital
+Codec ID                       : A_AC3
+Duration                       : 5 min 14 s
+Bit rate mode                  : Constant
+Bit rate                       : 192 kb/s
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 31.250 FPS (1536 SPF)
+Compression mode               : Lossy
+Delay relative to video        : 282 ms
+Stream size                    : 7.21 MiB (5%)
+Language                       : English
+Service kind                   : Complete Main
+Default                        : Yes
+Forced                         : No
+Dialog Normalization           : -23 dB
+compr                          : -0.28 dB
+dsurmod                        : Not Dolby Surround encoded
+mixlevel                       : 105 dB
+ltrtcmixlev                    : 3.0 dB
+ltrtsurmixlev                  : -3.0 dB
+lorocmixlev                    : 3.0 dB
+lorosurmixlev                  : -3.0 dB
+dialnorm_Average               : -23 dB
+dialnorm_Minimum               : -23 dB
+dialnorm_Maximum               : -23 dB
 
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div>
+Text #1
+ID                             : 3
+Format                         : DVB Subtitle
+Codec ID                       : S_DVBSUB
+Codec ID/Info                  : Picture based subtitle format used on DVBs
+Duration                       : 5 min 17 s
+Bit rate                       : 11.1 kb/s
+Frame rate                     : 0.290 FPS
+Count of elements              : 92
+Stream size                    : 430 KiB (0%)
+Language                       : English
+Default                        : No
+Forced                         : No
+
+Text #2
+ID                             : 4
+Format                         : UTF-8
+Codec ID                       : S_TEXT/UTF8
+Codec ID/Info                  : UTF-8 Plain Text
+Duration                       : 5 min 8 s
+Bit rate                       : 91 b/s
+Frame rate                     : 0.182 FPS
+Count of elements              : 56
+Stream size                    : 3.46 KiB (0%)
+Language                       : English
+Default                        : No
+Forced                         : No
+
+</pre>
 </div><br>
-​</div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[blowyourmind]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Albums (lossless)】WAV - Hilary Duff - Dignity (Japan Deluxe Edition) [WAV / ISO]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/hilary-duff-dignity-japan-deluxe-edition-wav-iso.294679/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<div style="text-align: center"><br>
-<img src="https://i.ibb.co/pjm8psxp/Hilary-Duff-Dignity-Recreation-Type-A.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/pjm8psxp/Hilary-Duff-Dignity-Recreation-Type-A.png" style=""><br>
-<span style="font-size: 10px"><span style="color: #404040"><i>Includes copyright, composer info, lyrics, artwork, .cue &amp; .log file.</i></span> <b><span style="color: #737373">Personal CD rip.</span></b></span><br>
-<br>
-<span style="font-size: 12px"><span style="color: #737373">After you say thanks, use</span></span><span style="color: #737373"> <span style="font-size: 12px"> <a href="https://www.base64decode.org/" target="_blank" class="externalLink" rel="nofollow"><span style="color: #737373">base64decode</span></a></span></span><span style="font-size: 12px"> <span style="color: #737373">to reveal the link.</span></span><br>
-<br>
-<span style="color: #313131"><span style="font-size: 10px"><span style="text-decoration: underline">CD</span></span></span><br>
-<span style="font-size: 12px"><span style="color: #3f3f3f"><b>1.</b></span>  <span style="color: #404040">Stranger</span><br>
-<span style="color: #3f3f3f"><b>2.</b></span>  <span style="color: #404040">Dignity</span><br>
-<span style="color: #3f3f3f"><b>3.</b></span>  <span style="color: #404040">With Love</span><br>
-<span style="color: #3f3f3f"><b>4.</b></span>  <span style="color: #404040">Danger</span><br>
-<span style="color: #3f3f3f"><b>5.</b></span>  <span style="color: #404040">Gypsy Woman</span><br>
-<span style="color: #3f3f3f"><b>6.</b></span>  <span style="color: #404040">Never Stop</span><br>
-<span style="color: #3f3f3f"><b>7.</b></span>  <span style="color: #404040">No Work, All Play</span><br>
-<span style="color: #3f3f3f"><b>8.</b></span>  <span style="color: #404040">Between You and Me</span><br>
-<span style="color: #3f3f3f"><b>9.</b></span>  <span style="color: #404040">Dreamer</span><br>
-<span style="color: #3f3f3f"><b>10.</b></span>  <span style="color: #404040">Happy</span><br>
-<span style="color: #3f3f3f"><b>11.</b></span>  <span style="color: #404040">Burned</span><br>
-<span style="color: #3f3f3f"><b>12.</b></span>  <span style="color: #404040">Outside of You</span><br>
-<span style="color: #3f3f3f"><b>13.</b></span>  <span style="color: #404040">I Wish</span><br>
-<span style="color: #3f3f3f"><b>14.</b></span>  <span style="color: #404040">Play with Fire</span><br>
-<span style="color: #3f3f3f"><b>15.</b></span>  <span style="color: #404040">With Love (DJ Kaya Remix)</span></span><br>
-<br>
-<span style="font-size: 10px"><span style="color: #3f3f3f"><span style="text-decoration: underline">DVD</span></span></span><br>
-<span style="font-size: 12px"><span style="color: #3f3f3f">At Home With Hilary</span></span><br>
-<br>
-<span style="font-size: 12px"><span style="color: #404040"><i>Music Videos:</i></span><br>
-<span style="color: #3f3f3f">Why Not<br>
-So Yesterday<br>
-Come Clean<br>
-Our Lips Are Sealed<br>
-Fly<br>
-Wake Up<br>
-Beat Of My Heart<br>
-Play With Fire<br>
-With Love</span></span><br>
-<br>
-<span style="font-size: 12px"><span style="color: #404040">Hilary Duff x Leslie Kee: Making of the Photo Book</span></span><br>
-<br>
-
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler</span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div>
-</div></div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[blowyourmind]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Albums (lossless)】WAV - Hilary Duff - Metamorphosis (Japan Deluxe Edition) [WAV / ISO]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/hilary-duff-metamorphosis-japan-deluxe-edition-wav-iso.294675/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<div style="text-align: center"><img src="https://i.ibb.co/NgcS9Np0/Folder.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/NgcS9Np0/Folder.jpg" style=""><br>
-<span style="font-size: 9px"><i><span style="color: #c69a5d">Includes copyright, composer info, artwork, lyrics, .log &amp; .cue file.</span></i> <b><span style="color: #db5381">Personal CD rip.</span></b></span><br>
-<br>
-<span style="font-size: 12px"><span style="color: #db5381">After you say thanks, use <a href="https://www.base64decode.org/" target="_blank" class="externalLink" rel="nofollow"><span style="color: #DB5381">base64decode</span></a> <span style="color: #DB5381">to reveal the link.</span></span></span><span style="color: #db5381"><br>
-<br>
-<span style="font-size: 10px"><span style="color: #cda560"><span style="text-decoration: underline">CD</span></span></span><br>
-<span style="font-size: 12px"><span style="color: #db5381"><b>01.</b></span> <span style="color: #a98547">So Yesterday</span></span><br>
-<span style="font-size: 12px"><span style="color: #db5381"><b>02.</b></span> <span style="color: #a98547">Come Clean</span></span><br>
-<span style="font-size: 12px"><span style="color: #db5381"><b>03.</b></span> <span style="color: #a98547">Workin' It Out</span></span><br>
-<span style="font-size: 12px"><span style="color: #db5381"><b>04.</b></span> <span style="color: #a98547">Little Voice</span></span><br>
-<span style="font-size: 12px"><span style="color: #db5381"><b>05.</b></span> <span style="color: #a98547">Where Did I Go Right</span></span><br>
-<span style="font-size: 12px"><span style="color: #db5381"><b>06.</b></span> <span style="color: #a98547">Anywhere But Here</span></span><br>
-<span style="font-size: 12px"><span style="color: #db5381"><b>07.</b></span> <span style="color: #a98547">The Math</span></span><br>
-<span style="font-size: 12px"><span style="color: #db5381"><b>08.</b></span> <span style="color: #a98547">Love Just Is</span></span><br>
-<span style="font-size: 12px"><span style="color: #db5381"><b>09.</b></span> <span style="color: #a98547">Sweet Sixteen</span></span><br>
-<span style="font-size: 12px"><span style="color: #db5381"><b>10.</b></span> <span style="color: #a98547">Party Up</span></span><br>
-<span style="font-size: 12px"><span style="color: #db5381"><b>11.</b></span> <span style="color: #a98547">Metamorphosis</span></span><br>
-<span style="font-size: 12px"><span style="color: #db5381"><b>12.</b></span> <span style="color: #a98547">Inner Strength</span></span><br>
-<span style="font-size: 12px"><span style="color: #db5381"><b>13.</b></span> <span style="color: #a98547">Why Not</span></span><br>
-<span style="font-size: 12px"><span style="color: #db5381"><b>14.</b></span> <span style="color: #a98547">A Day in the Sun</span></span><br>
-<span style="font-size: 12px"><span style="color: #db5381"><b>15.</b></span> <span style="color: #a98547">Girl Can Rock</span></span><br>
-<span style="font-size: 12px"><span style="color: #db5381"><b>16.</b></span> <span style="color: #a98547">So Yesterday (Thunderpuss Remix)</span></span><br>
-<span style="font-size: 12px"><span style="color: #db5381"><b>17.</b></span> <span style="color: #a98547">Come Clean (Radio Mix)</span></span><br>
-<br>
-<span style="font-size: 10px"><span style="color: #db5381"><span style="text-decoration: underline">DVD</span></span></span><br>
-<span style="font-size: 12px"><i><span style="color: #a98547">Music Videos</span></i><span style="color: #a98547"><br>
-<span style="color: #020401">So Yesterday</span><br>
-<span style="color: #020401">Why Not</span><br>
-<span style="color: #020401">I Can't Wait</span><br>
-<span style="color: #020401">Acoustic Song Performances From Sessions@AOL</span></span></span><span style="color: #a98547"><span style="color: #020401"> <span style="font-size: 9px">"So Yesterday" · "Little Voice"</span> </span><br>
-<br>
-<span style="font-size: 12px"><i><span style="color: #a98547">Behind the Scenes</span></i></span><span style="color: #a98547"><br>
-<span style="font-size: 12px"><span style="color: #020401">Making of 'So Yesterday', the video<br>
-Making of 'Why Not', the video<br>
-Making of 'Sessions@AOL'<br>
-Making of 'Metamorphosis', the album</span></span><br>
-<br>
-<span style="font-size: 12px"><i><span style="color: #a98547">Bonus Features</span></i></span><span style="color: #a98547"><br>
-<span style="font-size: 12px"><span style="color: #020401">In the Recording Studio</span></span><span style="color: #020401"> <span style="font-size: 9px"> "Anywhere But Here" · "Love Just Is"</span><br>
-<span style="font-size: 12px">Hilary Duff Photo Gallery / Home Movies<br>
-Making of 'Japan Promotion Tour'<br>
-Metamorphosis EPK (Japan Version)<br>
-'Metamorphosis' TV-CM 15 sec (Japan Version)<br>
-'Metamorphosis' TV-CM 30 sec (Japan Version)<br>
-'Metamorphosis' TV-CM 15 sec (Version 2) [Japan Version]</span></span><br>
-<br>
 <div style="text-align: center">
 
 
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler</span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
-
-
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div>
-</div><span style="color: #db5381"><span style="color: #db5381"><span style="font-size: 9px"><br>
-</span></span></span>​</div></span></span></span></span>​</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div></div><br>
+<b><i>Credit to the original capper+ripper: Me</i></b>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[blowyourmind]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Requests】[REQ VID] - Bon Jovi - Bed of Roses - HD 1080p Apple Music or TIDAL release]]></title>
-                <link><![CDATA[https://sharemania.us/threads/bon-jovi-bed-of-roses-hd-1080p-apple-music-or-tidal-release.294671/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					Who still keep it ?<br>
-Can you share to me?<br>
-Thx
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[KingdomLyoko]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Requests】[REQ VID] - Stop The Insanity: Finding Susan Powter]]></title>
-                <link><![CDATA[https://sharemania.us/threads/stop-the-insanity-finding-susan-powter.294673/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					Hi Everyone,<br>
-<br>
-This is the hardest film to locate. It's a documentary on the legendary Susan Powter that was released last year in 2025.<br>
-<br>
-She was the queen of fitness informercials back in the 80's who had a hundred million dollar fitness empire who's fortunes and fame sadly went down the toilet. A really sad story but with a hopeful message.<br>
-<br>
-Title: Stop The Insanity: Finding Susan Powter<br>
-Resolution: HD 1080p 5.1<br>
-Genre: Documentary<br>
-Running time: 1 h 27 min<br>
-Release: year: 2025<br>
-<br>
-Can someone share this film it's on Amazon Video:<br>
-<span data-s9e-mediaembed="amazon" style="display:inline-block;width:100%;max-width:120px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:200%"><iframe allowfullscreen="" loading="lazy" scrolling="no" style="background:url(https://www.amazon.com/favicon.ico) center no-repeat;border:0;height:100%;left:0;position:absolute;width:100%" src="//ws-na.assoc-amazon.com/widgets/cm?l=as1&amp;f=ifr&amp;o=1&amp;t=&amp;asins=B0FX17D5SD"></iframe></span></span><br>
-<br>
-Greatly appreciated.<br>
-Thank you!
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[calvintrashmail]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Albums (lossless)】WAV - Hilary Duff - Most Wanted (Japan Deluxe Edition) [WAV / ISO]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/hilary-duff-most-wanted-japan-deluxe-edition-wav-iso.294678/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<div style="text-align: center"><img src="https://i.ibb.co/NnZYNX0K/Most-Wanted-2.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/NnZYNX0K/Most-Wanted-2.png" style=""><br>
-<span style="font-size: 9px"><i><span style="color: #a89b95">Includes copyright, artwork, composer info, lyrics &amp; .log file.</span></i> <b><span style="color: #cabbaa">Personal CD / DVD rip.</span></b></span><br>
-<br>
-<span style="font-size: 12px"><span style="color: #938781">After you say thanks, use </span></span><span style="color: #938781"> <span style="font-size: 12px"><a href="https://www.base64decode.org/" target="_blank" class="externalLink" rel="nofollow"><span style="color: #938781">base64decode</span></a> <span style="color: #938781">to reveal the link.</span></span><br>
-<br>
-<br>
-<span style="font-size: 10px"><span style="color: #938781"><span style="text-decoration: underline">CD</span></span></span><br>
-<span style="font-size: 12px"><span style="color: #938781"><b>01.</b></span> <span style="color: #666458">Wake Up</span></span><br>
-<span style="font-size: 12px"><span style="color: #938781"><b>02.</b></span> <span style="color: #666458">The Getaway</span></span><br>
-<span style="font-size: 12px"><span style="color: #938781"><b>03.</b></span> <span style="color: #666458">Beat Of My Heart</span></span><br>
-<span style="font-size: 12px"><span style="color: #938781"><b>04.</b></span> <span style="color: #666458">Come Clean (Remix 2005)</span></span><br>
-<span style="font-size: 12px"><span style="color: #938781"><b>05.</b></span> <span style="color: #666458">Who's That Girl (Acoustic Version)</span></span><br>
-<span style="font-size: 12px"><span style="color: #938781"><b>06.</b></span> <span style="color: #666458">Mr. James Dean</span></span><br>
-<span style="font-size: 12px"><span style="color: #938781"><b>07.</b></span> <span style="color: #666458">So Yesterday</span></span><br>
-<span style="font-size: 12px"><span style="color: #938781"><b>08.</b></span> <span style="color: #666458">Metamorphosis</span></span><br>
-<span style="font-size: 12px"><span style="color: #938781"><b>09.</b></span> <span style="color: #666458">Rock This World (Remix 2005)</span></span><br>
-<span style="font-size: 12px"><span style="color: #938781"><b>10.</b></span> <span style="color: #666458">Break My Heart</span></span><br>
-<span style="font-size: 12px"><span style="color: #938781"><b>11.</b></span> <span style="color: #666458">Jericho (Remix 2005)</span></span><br>
-<span style="font-size: 12px"><span style="color: #938781"><b>12.</b></span> <span style="color: #666458">Fly</span></span><br>
-<span style="font-size: 12px"><span style="color: #938781"><b>13.</b></span> <span style="color: #666458">Supergirl</span></span><br>
-<span style="font-size: 12px"><span style="color: #938781"><b>14.</b></span> <span style="color: #666458">Party Up (Remix 2005)</span></span><br>
-<span style="font-size: 12px"><span style="color: #938781"><b>15.</b></span> <span style="color: #666458">Girl Can Rock</span></span><br>
-<span style="font-size: 12px"><span style="color: #938781"><b>16.</b></span> <span style="color: #666458">Our Lips Are Sealed</span></span><br>
-<span style="font-size: 12px"><span style="color: #938781"><b>17.</b></span> <span style="color: #666458">Why Not (Remix 2005)</span></span><br>
-<span style="font-size: 12px"><span style="color: #938781"><b>18.</b></span> <span style="color: #666458">Wake Up (DJ KAYA LONG-T Remix)</span></span><br>
-<span style="font-size: 12px"><span style="color: #938781"><b>19.</b></span> <span style="color: #666458">Wake Up (DJ KAYA Dance Remix)</span></span><br>
-<br>
-<span style="font-size: 10px"><span style="color: #b87e48"><span style="text-decoration: underline">DVD</span></span></span><br>
-<span style="font-size: 12px"><span style="color: #cabbaa"><i>Videos</i></span><br>
-<span style="color: #666458">Wake Up<br>
-So Yesterday<br>
-Why Not<br>
-Come Clean<br>
-Our Lips Are Sealed<br>
-Learning To Fly</span></span><br>
-<br>
-<span style="font-size: 12px"><span style="color: #cabbaa"><i>Behind the Scenes</i></span></span><br>
-<span style="font-size: 12px"><span style="color: #666458">Making Of Hilary's Interview In LA 2003<br>
-Making Of Japan Promotion Tour 2003<br>
-Making Of Japan Promotion Tour 2004<br>
-Making Of Hilary's Interview In Toronto 2005<br>
-Making Of Wake Up</span></span><br>
-<br>
-<div style="text-align: center">
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler</span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div>
-</div></div></span>​</div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[blowyourmind]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Albums (lossless)】WAV - Hilary Duff - Hilary Duff (Japan Edition) [WAV]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/hilary-duff-hilary-duff-japan-edition-wav.294676/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<div style="text-align: center"><img src="https://i.ibb.co/fdHB9dxr/Hilary-Duff.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/fdHB9dxr/Hilary-Duff.png" style=""><br>
-<span style="font-size: 9px"><i><span style="color: #b47c4f">Includes copyright, composer info, artwork, lyrics, .log &amp; .cue file.</span></i> <b><span style="color: #ddb170">Personal CD rip.</span></b></span><br>
-<br>
-<span style="font-size: 12px"><span style="color: #b47c4f">After you say thanks, use <a href="https://www.base64decode.org/" target="_blank" class="externalLink" rel="nofollow"><span style="color: #b47c4f">base64decode</span></a> <span style="color: #b47c4f">to reveal the link.</span></span></span><span style="color: #b47c4f"><br>
-<br>
-<span style="font-size: 12px"><span style="color: #debd8a"><b>01.</b></span> <span style="color: #060402">Fly</span><br>
-<span style="color: #debd8a"><b>02.</b></span> <span style="color: #060402">Do You Want Me </span></span><br>
-<span style="font-size: 12px"><span style="color: #debd8a"><b>03.</b></span> <span style="color: #060402">Weird </span></span><br>
-<span style="font-size: 12px"><span style="color: #debd8a"><b>04.</b></span> <span style="color: #060402">Hide Away </span></span><br>
-<span style="font-size: 12px"><span style="color: #debd8a"><b>05.</b></span> <span style="color: #060402">Mr. James Dean</span><br>
-<span style="color: #debd8a"><b>06.</b></span> <span style="color: #060402">Underneath This Smile</span><br>
-<span style="color: #debd8a"><b>07.</b></span> <span style="color: #060402">Dangerous To Know</span><br>
-<span style="color: #debd8a"><b>08.</b></span> <span style="color: #060402">Who's That Girl</span><br>
-<span style="color: #debd8a"><b>09.</b></span> <span style="color: #060402">Shine</span><br>
-<span style="color: #debd8a"><b>10.</b></span> <span style="color: #060402">I Am</span><br>
-<span style="color: #debd8a"><b>11.</b></span> <span style="color: #060402">The Getaway</span><br>
-<span style="color: #debd8a"><b>12.</b></span> <span style="color: #060402">Cry</span></span><br>
-<span style="font-size: 12px"><span style="color: #debd8a"><b>13.</b></span> <span style="color: #060402">Haters</span></span><br>
-<span style="font-size: 12px"><span style="color: #debd8a"><b>14.</b></span> <span style="color: #060402">Rock This World</span></span><br>
-<span style="font-size: 12px"><span style="color: #debd8a"><b>15.</b></span> <span style="color: #060402">Someone's Watching Over Me</span></span><br>
-<span style="font-size: 12px"><span style="color: #debd8a"><b>16.</b></span> <span style="color: #060402">Jericho</span></span><br>
-<span style="font-size: 12px"><span style="color: #debd8a"><b>17.</b></span> <span style="color: #060402">The Last Song</span></span><br>
-<span style="font-size: 12px"><span style="color: #debd8a"><b>18.</b></span> <span style="color: #060402">Who's That Girl (Acoustic Mix)</span></span><br>
-<span style="font-size: 12px"><span style="color: #debd8a"><b>19.</b></span> <span style="color: #060402">Our Lips Are Sealed</span></span><br>
-<span style="font-size: 12px"><span style="color: #debd8a"><b>20.</b></span> <span style="color: #060402">My Generation</span></span></span>​</div><span style="color: #b47c4f"><br>
-<br>
-<div style="text-align: center">
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler</span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div>
-</div></div></span>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[blowyourmind]]></author>
+                <author><![CDATA[plumpss]]></author>
                 </item>
 
                 </channel></rss>
