@@ -8,22 +8,220 @@
 
  
                 <item>
-                <title><![CDATA[【Movies &amp; TV Shows】Winx Club Archive (WinxClub.to)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/winx-club-archive-winxclub-to.294686/]]></link>
+                <title><![CDATA[【Music Videos】Annie Lennox - No More "I Love You's" [AM 1080p | PCM 16Bit-44.1KHz]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/annie-lennox-no-more-i-love-yous-am-1080p-pcm-16bit-44-1khz.294690/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					Hi all. I am the new owner of winxclub.to and me and the staff are hard at work at restoring the website for everyone.<br>
+					<img src="https://i.imgur.com/gcovtuE.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/gcovtuE.jpeg" style=""> <br>
 <br>
-Here's the current discord server to track development: <a href="https://discord.gg/t5b2UZfEFp" target="_blank" class="externalLink" rel="nofollow">https://discord.gg/t5b2UZfEFp</a><br>
-<br>
-Please read #info and #announcements before asking any questions, and especially don't ask questions like "when will it be back"- we don't know. Share the good news with others!<br>
-<br>
-<img src="https://storage.ko-fi.com/cdn/useruploads/fdc6d33a-a58b-4347-999f-b9b107a2a473_image_2026-02-16_020702012.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://storage.ko-fi.com/cdn/useruploads/fdc6d33a-a58b-4347-999f-b9b107a2a473_image_2026-02-16_020702012.png" style="">
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Spectrogram</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText"><img src="https://i.imgur.com/6EhfiZF.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/6EhfiZF.png" style=""></div>
+</div><br>
+Video Source: <span style="color: #0000ff">Apple Music (HD Remaster), thanks </span><a href="https://sharemania.us/members/brungor.10068/" class="internalLink"><span style="color: #0000ff">Brungor</span></a><br>
+Audio Source: <span style="color: #0000ff">CD Rip - <a href="https://www.discogs.com/master/33628-Annie-Lennox-Medusa" target="_blank" class="externalLink" rel="nofollow"><span style="color: #0000ff">Medusa</span></a>, thanks Pablo Ruiz<br>
+</span><br>
+<b><span style="color: #000000">Release Info</span></b><br>
+The videotrack is the HD Remaster, downloaded from Apple Music and left as is (AVC 1080p)<br>
+<span style="color: #000000">The PCM track (CD Rip, 16-bit 44.1 kHz) is synced to the video with Adobe Audition<br>
+The Lyrics are added (from Youtube). Enable the subtitles to see the lyrics.<br>
+</span><br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Mediainfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Complete name                            : Annie Lennox - No More I Love You's.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 413 MiB
+Duration                                 : 5 min 2 s
+Overall bit rate                         : 11.4 Mb/s
+Frame rate                               : 25.000 FPS
+Movie name                               : Annie Lennox - No More "I Love You's" (1995)
+Encoded date                             : 2026-02-23 09:13:09 UTC
+Writing application                      : mkvmerge v97.0 ('You Don't Have A Clue') 64-bit
+Writing library                          : Video source: Apple Music (thanks to Brungor) | Audio Source: CD Rip - Medusa (thanks to Pablo Ruiz). Synced to the videotrack by Kyran (using Adobe Audition)
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, Slice count             : 8 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 5 min 2 s
+Bit rate                                 : 10.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.194
+Stream size                              : 362 MiB (88%)
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : A_PCM/INT/LIT
+Duration                                 : 5 min 2 s
+Bit rate mode                            : Constant
+Bit rate                                 : 1 411.2 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 44.1 kHz
+Frame rate                               : 25.000 FPS (1764 SPF)
+Bit depth                                : 16 bits
+Stream size                              : 50.9 MiB (12%)
+Default                                  : Yes
+Forced                                   : No
+
+Text
+ID                                       : 3
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 4 min 33 s
+Bit rate                                 : 46 b/s
+Frame rate                               : 0.238 FPS
+Count of elements                        : 65
+Stream size                              : 1.55 KiB (0%)
+Default                                  : No
+Forced                                   : No
+
+</pre>
+</div></div>
+</div><br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[Lovyn]]></author>
+                <author><![CDATA[KingdomLyoko]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Albums (lossless)】FLAC - NCT JNJM - BOTH SIDES | TIDAL FLAC 24bits/48kHz]]></title>
+                <link><![CDATA[https://sharemania.us/threads/nct-jnjm-both-sides-tidal-flac-24bits-48khz.294689/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://resources.tidal.com/images/59401402/1144/4349/8f5e/d8ddc8904f65/1280x1280.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://resources.tidal.com/images/59401402/1144/4349/8f5e/d8ddc8904f65/1280x1280.jpg" style=""> 
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Cruel Summer]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Albums (lossy)】Dolby Atmos - IVE - REVIVE+ [E-AC3-JOC | 16bits/48kHz | DD+ w/DA | 768kbits]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/ive-revive-e-ac3-joc-16bits-48khz-dd-w-da-768kbits.294687/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://a5.mzstatic.com/us/r1000/0/Music221/v4/fd/41/7a/fd417a3b-a522-054e-b72d-1f279ce55138/199806315972.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://a5.mzstatic.com/us/r1000/0/Music221/v4/fd/41/7a/fd417a3b-a522-054e-b72d-1f279ce55138/199806315972.jpg" style=""><br>
+<div style="text-align: center"><img src="https://bendodson.s3-eu-west-1.amazonaws.com/apple-music/dolby-atmos.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://bendodson.s3-eu-west-1.amazonaws.com/apple-music/dolby-atmos.png" style="">​</div><img src="https://i.imgur.com/SjTnJhx.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/SjTnJhx.jpeg" style=""><br>
+<div style="text-align: center"><span style="font-size: 15px"><b>Artist:</b> IVE<br>
+<b>Album: </b>REVIVE+<br>
+<b>Year:</b> 2026</span><br>
+<b><span style="font-size: 15px">Source: <span style="color: rgb(255, 0, 0)"><span style="text-decoration: underline">Apple Music</span></span></span></b><br>
+<span style="font-size: 15px"><b><b>Genre:</b> </b>K-Pop<br>
+<b>Label: </b>Starship Entertainment<br>
+<b>Format</b>: .m4a Enhanced AC-3 with Joint Object Coding | Dolby Digital Plus with Dolby Atmos<br>
+<b>Bitrate:</b> 768kb/s | 48kHz<br>
+<i>Inc. Synced Lyrics (.lrc &amp; embedded)</i></span>​</div><img src="https://i.imgur.com/SjTnJhx.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/SjTnJhx.jpeg" style=""><br>
+<div style="text-align: center"><b><span style="text-decoration: underline"><span style="font-size: 15px">TRACKLIST:</span></span></b><br>
+<i>01. BLACKHOLE | 3 min 14 sec<br>
+02. BANG BANG | 2 min 58 sec<br>
+03. Hush | 2 min 47 sec<br>
+04. Stuck In Your Head | 3 min 47 sec<br>
+05. Fireworks | 3 min<br>
+06. HOT COFFE | 2 min 48 sec<br>
+7. 7 (JANGWONYOUNG Solo) | 2 min 51 sec<br>
+8. Odd (GAEUL Solo) | 2 min 50 sec<br>
+9. Super ICY (LEESEO Solo) | 2 min 50 sec<br>
+10. Unreal (LIZ Solo) | 2 min 42 sec<br>
+11. In Your Heart (REI Solo) | 2 min 3 sec<br>
+12. Force (ANYUJIN Solo) 3 min 24 sec<br>
+<br>
+<span style="text-decoration: underline">Total Runtime:</span><br>
+34 min 14 sec<br>
+<br>
+<span data-s9e-mediaembed="youtube" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:56.25%"><iframe allowfullscreen="" loading="lazy" scrolling="no" style="background:url(https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%" src="https://www.youtube.com/embed/1Lmy7qwmSMc"></iframe></span></span></i>​</div><img src="https://i.imgur.com/SjTnJhx.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/SjTnJhx.jpeg" style=""><br>
+<div style="text-align: center"><b><i><span style="text-decoration: underline"><span style="font-size: 18px">DOWNLOAD:</span></span></i></b><br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div><b><span style="text-decoration: underline"><span style="font-size: 10px">More from REVIVE+</span></span></b><br>
+<a href="https://sharemania.us/threads/ive-bang-bang-single-mv-bugs-am-4k-hi-res-dolby-atmos-w-lyrics.293997/" class="internalLink"><span style="font-size: 10px">BANG BANG (Single + MV) | 4K Bugs! + AM HEVC | HI-RES &amp; Dolby Atmos | w/lyrics</span></a>​</div><span style="font-size: 10px"><img src="https://i.imgur.com/SjTnJhx.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/SjTnJhx.jpeg" style=""></span><br>
+<div style="text-align: center"><span style="text-decoration: underline"><i><b><span style="font-size: 10px">IVE IN DOLBY ATMOS:</span></b></i></span><br>
+<a href="https://sharemania.us/threads/ive-discography-e-ac3-joc-16bits-48khz-dd-w-da-768kbits.252549/" class="internalLink"><span style="font-size: 10px">IVE DISCOGRAPHY + SOLOS IN DOLBY ATMOS</span></a>​</div><img src="https://i.imgur.com/6pCnr1B.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/6pCnr1B.jpeg" style="">
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[ivan26XDead]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Albums (lossless)】FLAC - IVE - REVIVE+ | TIDAL FLAC 24bits/96kHz]]></title>
+                <link><![CDATA[https://sharemania.us/threads/ive-revive-tidal-flac-24bits-96khz.294688/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://resources.tidal.com/images/f61a7729/dbaf/4c84/a64d/241a228703ac/1280x1280.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://resources.tidal.com/images/f61a7729/dbaf/4c84/a64d/241a228703ac/1280x1280.jpg" style=""> 
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Cruel Summer]]></author>
                 </item>
 
                 </channel></rss>
