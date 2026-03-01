@@ -8,14 +8,14 @@
 
  
                 <item>
-                <title><![CDATA[【Music Videos】Ronan Keating - When You Say Nothing At All (1999) [AM 1080p - AVC - PCM]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/ronan-keating-when-you-say-nothing-at-all-1999-am-1080p-avc-pcm.295129/]]></link>
+                <title><![CDATA[【Apple Music】WEB-RiP - R.E.M. - Everybody Hurts [AM 1080p]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/r-e-m-everybody-hurts-am-1080p.295130/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<div style="text-align: center"><img src="https://i.postimg.cc/VY4xRRBn/Ronan-Keating-When-You-Say-Nothing-At-All-(1999)-mkv-thumbs.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/VY4xRRBn/Ronan-Keating-When-You-Say-Nothing-At-All-(1999)-mkv-thumbs.jpg" style=""><br>
+					<img src="https://i.postimg.cc/FzKysvzZ/R-E-M-Everybody-Hurts-m4v-thumbs.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/FzKysvzZ/R-E-M-Everybody-Hurts-m4v-thumbs.jpg" style=""><br>
 <br>
-​</div>
+
 
 
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
@@ -29,71 +29,57 @@ Format settings             : CABAC / 4 Ref Frames<br>
 Format settings, CABAC      : Yes<br>
 Format settings, Reference  : 4 frames<br>
 Format settings, Slice coun : 8 slices per frame<br>
-Codec ID                    : V_MPEG4/ISO/AVC<br>
-Duration                    : 4 min 16 s<br>
-Bit rate                    : 6 535 kb/s<br>
-Width                       : 1 920 pixels<br>
-Height                      : 992 pixels<br>
-Display aspect ratio        : 1.935<br>
+Codec ID                    : avc1<br>
+Codec ID/Info               : Advanced Video Coding<br>
+Duration                    : 5 min 45 s<br>
+Bit rate                    : 9 843 kb/s<br>
+Width                       : 1 574 pixels<br>
+Height                      : 1 068 pixels<br>
+Display aspect ratio        : 3:2<br>
 Frame rate mode             : Constant<br>
-Frame rate                  : 25.000 FPS<br>
+Frame rate                  : 23.976 (24000/1001) FPS<br>
 Color space                 : YUV<br>
 Chroma subsampling          : 4:2:0 (Type 2)<br>
 Bit depth                   : 8 bits<br>
 Scan type                   : Progressive<br>
-Bits/(Pixel*Frame)          : 0.137<br>
-Stream size                 : 199 MiB (79%)<br>
-Default                     : Yes<br>
-Forced                      : No<br>
+Bits/(Pixel*Frame)          : 0.244<br>
+Stream size                 : 405 MiB (97%)<br>
+Title                       : Core Media Video<br>
 Color range                 : Limited<br>
 Color primaries             : BT.709<br>
 Transfer characteristics    : BT.709<br>
 Matrix coefficients         : BT.709<br>
+Codec configuration box     : avcC<br>
 <br>
-Audio #1<br>
+Audio<br>
 ID                          : 2<br>
-Format                      : PCM<br>
-Format settings             : Little / Signed<br>
-Codec ID                    : A_PCM/INT/LIT<br>
-Duration                    : 4 min 16 s<br>
-Bit rate mode               : Constant<br>
-Bit rate                    : 1 411.2 kb/s<br>
-Channel(s)                  : 2 channels<br>
-Sampling rate               : 44.1 kHz<br>
-Frame rate                  : 25.001 FPS (1764 SPF)<br>
-Bit depth                   : 16 bits<br>
-Stream size                 : 43.1 MiB (17%)<br>
-Default                     : Yes<br>
-Forced                      : No<br>
-<br>
-Audio #2<br>
-ID                          : 3<br>
 Format                      : AAC LC<br>
 Format/Info                 : Advanced Audio Codec Low Complexity<br>
-Codec ID                    : A_AAC-2<br>
-Duration                    : 4 min 16 s<br>
-Bit rate                    : 288 kb/s<br>
+Codec ID                    : mp4a-40-2<br>
+Duration                    : 5 min 45 s<br>
+Bit rate mode               : Constant<br>
+Bit rate                    : 251 kb/s<br>
 Channel(s)                  : 2 channels<br>
 Channel layout              : L R<br>
 Sampling rate               : 48.0 kHz<br>
 Frame rate                  : 46.875 FPS (1024 SPF)<br>
 Compression mode            : Lossy<br>
-Stream size                 : 8.66 MiB (3%)<br>
-Default                     : No<br>
-Forced                      : No<br>
+Stream size                 : 10.3 MiB (2%)<br>
+Title                       : Core Media Audio<br>
+Default                     : Yes<br>
+Alternate group             : 1<br>
 <br>
 Image<br>
 Type                        : Cover<br>
-Title                       : cover.jpg<br>
 Format                      : JPEG<br>
-Muxing mode                 : Attachment<br>
+Muxing mode                 : moov-meta-covr<br>
 Width                       : 1 400 pixels<br>
 Height                      : 788 pixels<br>
 Color space                 : YUV<br>
 Chroma subsampling          : 4:2:0<br>
 Bit depth                   : 8 bits<br>
 Compression mode            : Lossy<br>
-Stream size                 : 216 KiB (0%)</div>
+Stream size                 : 169 KiB (0%)</div>
 </div><br>
 
 
