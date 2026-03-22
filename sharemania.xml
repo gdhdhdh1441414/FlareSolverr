@@ -8,106 +8,320 @@
 
  
                 <item>
-                <title><![CDATA[【PRORES HD】A. G. Cook - Residue (Master ProRes 4K)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/a-g-cook-residue-master-prores-4k.296320/]]></link>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Djo - Lollapalooza Brasil 2026 2160p WEB-DL HLG HDR DDP5.1 H.265-JL92]]></title>
+                <link><![CDATA[https://sharemania.us/threads/djo-lollapalooza-brasil-2026-2160p-web-dl-hlg-hdr-ddp5-1-h-265-jl92.296323/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<div class="bbCodeBlock bbCodeCode">
+					<img src="https://i.ibb.co/JjBBWw05/Lollapalooza-Brasil-2026-Djo-2160p-WEB-DL-HLG-HDR-DDP5-1-H-265-JL92.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/JjBBWw05/Lollapalooza-Brasil-2026-Djo-2160p-WEB-DL-HLG-HDR-DDP5-1-H-265-JL92.png" style=""><br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
 	<div class="type">Code:</div>
 	<pre>General
-Complete name                            : A. G. Cook - Residue.mov
-Format                                   : MPEG-4
-Format profile                           : QuickTime
-Codec ID                                 : qt   2005.03 (qt  )
-File size                                : 25.5 GiB
-Duration                                 : 2 min 51 s
-Overall bit rate mode                    : Variable
-Overall bit rate                         : 1 273 Mb/s
-Frame rate                               : 24.000 FPS
-Encoded date                             : 2026-01-27 06:31:22 UTC
-Tagged date                              : 2026-01-27 06:33:54 UTC
-Writing library                          : Apple QuickTime
-TIM                                      : 00:00:00:00
-TSC                                      : 24
-TSZ                                      : 1
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 7.55 GiB
+Duration                                 : 58 min 33 s
+Overall bit rate                         : 18.5 Mb/s
+Frame rate                               : 30.000 FPS
+Encoded date                             : 2026-03-22 21:02:41 UTC
+Writing application                      : mkvmerge v97.0 ('You Don't Have A Clue') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1 / Lavf60.16.100
 
 Video
 ID                                       : 1
-Format                                   : ProRes
-Format version                           : Version 1
-Format profile                           : 4444
-Codec ID                                 : ap4h
-Duration                                 : 2 min 51 s
-Bit rate mode                            : Variable
-Bit rate                                 : 1 270 Mb/s
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L5.1@High
+Codec ID                                 : V_MPEGH/ISO/HEVC
+Duration                                 : 58 min 33 s
+Bit rate                                 : 18.0 Mb/s
 Width                                    : 3 840 pixels
-Height                                   : 2 560 pixels
-Display aspect ratio                     : 3:2
+Height                                   : 2 160 pixels
+Display aspect ratio                     : 16:9
 Frame rate mode                          : Constant
-Frame rate                               : 24.000 FPS
+Frame rate                               : 30.000 FPS
+Standard                                 : NTSC
 Color space                              : YUV
-Chroma subsampling                       : 4:4:4
-Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 5.384
-Stream size                              : 25.4 GiB (100%)
-Writing library                          : Apple
-Language                                 : English
-Encoded date                             : 2026-01-27 06:31:22 UTC
-Tagged date                              : 2026-01-27 06:31:22 UTC
-Color primaries                          : BT.709
-Transfer characteristics                 : BT.709
-Matrix coefficients                      : BT.709
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 10 bits
+Bits/(Pixel*Frame)                       : 0.072
+Time code of first frame                 : 19:55:36:29
+Stream size                              : 7.36 GiB (98%)
+Default                                  : No
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.2020
+Transfer characteristics                 : HLG
+Matrix coefficients                      : BT.2020 constant
 
 Audio
 ID                                       : 2
-Format                                   : PCM
-Format settings                          : Little / Signed
-Codec ID                                 : in24
-Duration                                 : 2 min 51 s
+Format                                   : E-AC-3 JOC
+Format/Info                              : Enhanced AC-3 with Joint Object Coding
+Commercial name                          : Dolby Digital Plus with Dolby Atmos
+Codec ID                                 : A_EAC3
+Duration                                 : 58 min 33 s
 Bit rate mode                            : Constant
-Bit rate                                 : 2 304 kb/s
-Channel(s)                               : 2 channels
-Channel layout                           : L R
+Bit rate                                 : 448 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
 Sampling rate                            : 48.0 kHz
-Bit depth                                : 24 bits
-Stream size                              : 47.2 MiB (0%)
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 188 MiB (2%)
 Language                                 : English
-Encoded date                             : 2026-01-27 06:31:22 UTC
-Tagged date                              : 2026-01-27 06:31:22 UTC
-
-Other
-ID                                       : 3
-Type                                     : Time code
-Format                                   : QuickTime TC
-Duration                                 : 2 min 51 s
-Frame rate                               : 24.000 FPS
-Time code of first frame                 : 00:00:00:00
-Time code of last frame                  : 00:02:51:22
-Time code, stripped                      : Yes
-Language                                 : English
-Encoded date                             : 2026-01-27 06:31:22 UTC
-Tagged date                              : 2026-01-27 06:31:22 UTC
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Complexity index                         : 12
+Number of dynamic objects                : 0
+Bed channel count                        : 12 channels
+Bed channel configuration                : L R C LFE Ls Rs Lb Rb Tfl Tfr Tbl Tbr
+Dialog Normalization                     : -23 dB
+compr                                    : -0.28 dB
+dialnorm_Average                         : -23 dB
+dialnorm_Minimum                         : -23 dB
+dialnorm_Maximum                         : -23 dB
 
 </pre>
+</div></div>
 </div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Download</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div>sha256sum<br>
-
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>520528f06f4ffade15faa44eac1d8af44256b565b736011cfa629a9aa1be248f</pre>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></div>
 </div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[geght]]></author>
+                <author><![CDATA[JL92]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Royel Otis - Lollapalooza Brasil 2026 2160p WEB-DL HLG HDR DDP5.1 H.265-JL92]]></title>
+                <link><![CDATA[https://sharemania.us/threads/royel-otis-lollapalooza-brasil-2026-2160p-web-dl-hlg-hdr-ddp5-1-h-265-jl92.296322/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.ibb.co/4DqVKZ1/Lollapalooza-Brasil-2026-Royel-Otis-2160p-WEB-DL-HLG-HDR-DDP5-1-H-265-JL92.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/4DqVKZ1/Lollapalooza-Brasil-2026-Royel-Otis-2160p-WEB-DL-HLG-HDR-DDP5-1-H-265-JL92.png" style=""><br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 7.01 GiB
+Duration                                 : 55 min 2 s
+Overall bit rate                         : 18.2 Mb/s
+Frame rate                               : 30.000 FPS
+Encoded date                             : 2026-03-22 21:02:41 UTC
+Writing application                      : mkvmerge v97.0 ('You Don't Have A Clue') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1 / Lavf60.16.100
+
+Video
+ID                                       : 1
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L5.1@High
+Codec ID                                 : V_MPEGH/ISO/HEVC
+Duration                                 : 55 min 2 s
+Bit rate                                 : 17.8 Mb/s
+Width                                    : 3 840 pixels
+Height                                   : 2 160 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 30.000 FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 10 bits
+Bits/(Pixel*Frame)                       : 0.071
+Time code of first frame                 : 18:52:28:05
+Stream size                              : 6.84 GiB (98%)
+Default                                  : No
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.2020
+Transfer characteristics                 : HLG
+Matrix coefficients                      : BT.2020 constant
+
+Audio
+ID                                       : 2
+Format                                   : E-AC-3 JOC
+Format/Info                              : Enhanced AC-3 with Joint Object Coding
+Commercial name                          : Dolby Digital Plus with Dolby Atmos
+Codec ID                                 : A_EAC3
+Duration                                 : 55 min 2 s
+Bit rate mode                            : Constant
+Bit rate                                 : 448 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 176 MiB (2%)
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Complexity index                         : 12
+Number of dynamic objects                : 0
+Bed channel count                        : 12 channels
+Bed channel configuration                : L R C LFE Ls Rs Lb Rb Tfl Tfr Tbl Tbr
+Dialog Normalization                     : -23 dB
+compr                                    : 2.36 dB
+dialnorm_Average                         : -23 dB
+dialnorm_Minimum                         : -23 dB
+dialnorm_Maximum                         : -23 dB
+
+</pre>
+</div></div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Download</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></div>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[JL92]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Mundo Livre - Lollapalooza Brasil 2026 2160p WEB-DL HLG HDR DDP5.1 H.265-JL92]]></title>
+                <link><![CDATA[https://sharemania.us/threads/mundo-livre-lollapalooza-brasil-2026-2160p-web-dl-hlg-hdr-ddp5-1-h-265-jl92.296321/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.ibb.co/W4yBF0V6/Lollapalooza-Brasil-2026-Mundo-Livre-2160p-WEB-DL-HLG-HDR-DDP5-1-H-265-JL92.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/W4yBF0V6/Lollapalooza-Brasil-2026-Mundo-Livre-2160p-WEB-DL-HLG-HDR-DDP5-1-H-265-JL92.png" style=""><br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 7.45 GiB
+Duration                                 : 57 min 47 s
+Overall bit rate                         : 18.5 Mb/s
+Frame rate                               : 30.000 FPS
+Encoded date                             : 2026-03-22 21:02:41 UTC
+Writing application                      : mkvmerge v97.0 ('You Don't Have A Clue') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1 / Lavf60.16.100
+
+Video
+ID                                       : 1
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L5.1@High
+Codec ID                                 : V_MPEGH/ISO/HEVC
+Duration                                 : 57 min 47 s
+Bit rate                                 : 18.0 Mb/s
+Width                                    : 3 840 pixels
+Height                                   : 2 160 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 30.000 FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 10 bits
+Bits/(Pixel*Frame)                       : 0.072
+Time code of first frame                 : 17:45:43:11
+Stream size                              : 7.27 GiB (98%)
+Default                                  : No
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.2020
+Transfer characteristics                 : HLG
+Matrix coefficients                      : BT.2020 constant
+
+Audio
+ID                                       : 2
+Format                                   : E-AC-3 JOC
+Format/Info                              : Enhanced AC-3 with Joint Object Coding
+Commercial name                          : Dolby Digital Plus with Dolby Atmos
+Codec ID                                 : A_EAC3
+Duration                                 : 57 min 47 s
+Bit rate mode                            : Constant
+Bit rate                                 : 448 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 185 MiB (2%)
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Complexity index                         : 12
+Number of dynamic objects                : 0
+Bed channel count                        : 12 channels
+Bed channel configuration                : L R C LFE Ls Rs Lb Rb Tfl Tfr Tbl Tbr
+Dialog Normalization                     : -23 dB
+compr                                    : 1.94 dB
+dialnorm_Average                         : -23 dB
+dialnorm_Minimum                         : -23 dB
+dialnorm_Maximum                         : -23 dB
+
+</pre>
+</div></div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Download</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></div>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[JL92]]></author>
                 </item>
 
                 </channel></rss>
