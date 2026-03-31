@@ -8,40 +8,34 @@
 
  
                 <item>
-                <title><![CDATA[【Albums (lossless)】FLAC - Miley Cyrus - Best of Both Worlds Concert (2008)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/miley-cyrus-best-of-both-worlds-concert-2008.296833/]]></link>
+                <title><![CDATA[【Off-Topic】Decoding binary data from QR codes fails]]></title>
+                <link><![CDATA[https://sharemania.us/threads/decoding-binary-data-from-qr-codes-fails.296834/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://images2.imgbox.com/e5/4a/CrCOaebc_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/e5/4a/CrCOaebc_o.jpg" style=""><br>
+					<i><b>Hi. I'm interested in data encoding and decoding.</b></i><br>
 <br>
-<span style="font-size: 22px"><b>Best of Both Worlds Concert</b><br>
+I wanna eventually use YouTube as file storage,<br>
+even if decoding is slow asf.<br>
 <br>
-Tracklist:</span><br>
-<ol>
-<li>Rock Star</li>
-<li>Life's What You Make It</li>
-<li>Just Like You</li>
-<li>Nobody's Perfect</li>
-<li>Pumpin' Up the Party</li>
-<li>I Got Nerve</li>
-<li>We Got the Party (Duet with Jonas Brothers)</li>
-<li>Start All Over</li>
-<li>Good and Broken</li>
-<li>See You Again</li>
-<li>Let's Dance</li>
-<li>East Northumberland High</li>
-<li>G.N.O. (Girl's Night Out)</li>
-<li>Best of Both Worlds</li>
-</ol><span style="font-size: 22px">393 MB<br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>I stole it via P2P <img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie61" alt=":kissingheart:" title="Kissing Heart    :kissingheart:"><img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie60" alt=":kissingclosed:" title="Kissing Eyes Closed    :kissingclosed:"></span>
+My idea: Store binary chunks of data (base64 encoded) in QR codes -- and that will work.<br>
+<br>
+I've made a script to encode files and to decode files;<br>
+<b>I used Gemini AI for this.</b><br>
+<br>
+You need to prepare yourself for a lot of data-garbage. <br>
+Because a 547 MB file wound up as a 12 GB YouTube video. <br>
+(The version downloaded from YouTube)<br>
+<br>
+And decoding that back to individual frames (png) created 321 GB of frame files.<br>
+<br>
+And the most annoying part of all: The decoded file from those 321 GB of frames was invalid<br>
+(because a few images (QR) could not be converted back to binary format with the script I have.)<br>
+<br>
+<span style="text-decoration: underline"><b>Here's what happend:</b></span><br>
+I tested the proposed scripts but during the decoding with pyzbar it doesn't always work as expected.<br>
+I get warnings and a faulty output file. There are gaps in the file.<br>
+Some binary fragments are lost during the process which is annoying.
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
