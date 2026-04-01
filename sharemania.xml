@@ -8,38 +8,136 @@
 
  
                 <item>
-                <title><![CDATA[【Off-Topic】Decoding binary data from QR codes fails]]></title>
-                <link><![CDATA[https://sharemania.us/threads/decoding-binary-data-from-qr-codes-fails.296834/]]></link>
+                <title><![CDATA[【Cinema Center】MOVIE - Disney Princess Movies in HD BluRay 1080p/2160p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/disney-princess-movies-in-hd-bluray-1080p-2160p.296837/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<i><b>Hi. I'm interested in data encoding and decoding.</b></i><br>
+					<b><i><span style="font-family: 'Courier New'"><span style="color: #ff4d4d">The official schedule for Disney Princess films is based primarily on the order they were released, </span><span style="color: #bfbfbf">ranging from Snow White</span><span style="color: #ff4d4d"> (</span><span style="color: #000000">1937</span><span style="color: #ff4d4d">) to </span><span style="color: #4dff4d">Moana</span><span style="color: #ff4d4d"> (</span><span style="color: #000000">2016</span><span style="color: #ff4d4d">) The official line includes </span><span style="color: #000000">13</span><span style="color: #ff4d4d"> major princesses who stand out for their cultural impact and tales of bravery.<br>
+</span><br>
+<span style="color: #000000">1937</span><span style="color: #ff4d4d">: </span><span style="color: #bfbfbf">Snow White and the Seven Dwarfs</span><span style="color: #ff4d4d"> (Snow White)<br>
+</span><br>
+<span style="color: #000000">1950</span><span style="color: #ff4d4d">: </span><span style="color: #99ffff">The Cinderella</span><span style="color: #ff4d4d"> (One Hundred)<br>
+</span><br>
+<span style="color: #000000">1959</span><span style="color: #ff4d4d">: </span><span style="color: #ff99cc">Sleeping Beauty</span><span style="color: #ff4d4d"> (Aurora)<br>
+</span><br>
+<span style="color: #000000">1989</span><span style="color: #ff4d4d">: </span><span style="color: #ff0000">The Little Mermaid</span><span style="color: #ff4d4d"> (Ariel)<br>
+</span><br>
+<span style="color: #000000">1991</span><span style="color: #ff4d4d">: </span><span style="color: #ffff00">Beauty and the Beast</span><span style="color: #ff4d4d"> (Bella)<br>
+</span><br>
+<span style="color: #000000">1992</span><span style="color: #ff4d4d">: </span><span style="color: #0080ff">Aladdin</span><span style="color: #ff4d4d"> (Jasmine)<br>
+</span><br>
+<span style="color: #000000">1995</span><span style="color: #ff4d4d">: </span><span style="color: #b35900">Pocahontas</span><span style="color: #ff4d4d"> (Pocahontas)<br>
+</span><br>
+<span style="color: #000000">1998</span><span style="color: #ff4d4d">: </span><span style="color: #ff9999">Mulan</span><span style="color: #ff4d4d"> (Mulan)<br>
+</span><br>
+<span style="color: #000000">2009</span><span style="color: #ff4d4d">: </span><span style="color: #4dff4d">Tiana and the Frog</span><span style="color: #ff4d4d"> (Tiana)<br>
+</span><br>
+<span style="color: #000000">2010</span><span style="color: #ff4d4d">: </span><span style="color: #ff4dff">Tangled</span><span style="color: #ff4d4d"> (Rapunzel)<br>
+</span><br>
+<span style="color: #000000">2012</span><span style="color: #ff4d4d">: </span><span style="color: #ffa64d">Brave/Indomitable</span><span style="color: #ff4d4d"> (Merida)<br>
+</span><br>
+<span style="color: #000000">2013</span><span style="color: #ff4d4d">: </span><span style="color: #4dffff">Frozen/The Ice Kingdom</span><span style="color: #ff4d4d"> (Anna and Elsa)<br>
+</span><br>
+<span style="color: #000000">2016</span><span style="color: #ff4d4d">: </span><span style="color: #a6ff4d">Moana</span><span style="color: #ff4d4d"> (Moana)<br>
 <br>
-I wanna eventually use YouTube as file storage,<br>
-even if decoding is slow asf.<br>
+Additional Notes<br>
 <br>
-My idea: Store binary chunks of data (base64 encoded) in QR codes -- and that will work.<br>
+*Anna and Elsa: Though they're part of the franchise, they're usually sold separately due to the vastness of Frozen.<br>
 <br>
-I've made a script to encode files and to decode files;<br>
-<b>I used Gemini AI for this.</b><br>
+Live-Action: Disney has released real action versions, such as Cinderella (2015), Beauty and the Beast 2017, Aladdin (2ර) and The Little Mermaid (223)<br>
 <br>
-You need to prepare yourself for a lot of data-garbage. <br>
-Because a 547 MB file wound up as a 12 GB YouTube video. <br>
-(The version downloaded from YouTube)<br>
-<br>
-And decoding that back to individual frames (png) created 321 GB of frame files.<br>
-<br>
-And the most annoying part of all: The decoded file from those 321 GB of frames was invalid<br>
-(because a few images (QR) could not be converted back to binary format with the script I have.)<br>
-<br>
-<span style="text-decoration: underline"><b>Here's what happend:</b></span><br>
-I tested the proposed scripts but during the decoding with pyzbar it doesn't always work as expected.<br>
-I get warnings and a faulty output file. There are gaps in the file.<br>
-Some binary fragments are lost during the process which is annoying.
+Appearances: Most of the princesses appear together in Ralph Breaks The Internet (2018)</span></span></i></b>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[mynameisnobody]]></author>
+                <author><![CDATA[moraalbertt58]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ VID] - [REQ AUD] would like to request ONE OK ROCK concert blu ray rips]]></title>
+                <link><![CDATA[https://sharemania.us/threads/req-aud-would-like-to-request-one-ok-rock-concert-blu-ray-rips.296836/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					my current hyperfixation is OOK.. and their live performances &gt;&gt;&gt;&gt; CDs<br>
+ just discovered this community. its great. I will be also checking other reqs to see if I can help
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[skyskysky]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Unreleased/Unofficial (lossless)】ALAC - Hannah Montana: 20th Anniversary Special Edition [AAC 256kbps/ALAC 16bit/44.1kHz]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/hannah-montana-20th-anniversary-special-edition-aac-256kbps-alac-16bit-44-1khz.296835/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center"><img src="https://i.ibb.co/jPbscQW5/Hannah-Montana-20th-Anniversary-Special-Edition.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/jPbscQW5/Hannah-Montana-20th-Anniversary-Special-Edition.jpg" style="">​</div><b><br>
+Format: </b>AAC/ALAC<br>
+<b><b>Quality: </b></b>Disc 1 (AAC 256kbps), Disc 2 (ALAC 16bit/44.1kHz)<br>
+<b><b>Album: </b></b>Hannah Montana: 20th Anniversary Special Edition<br>
+<b><b>Artist: </b></b>Hannah Montana<br>
+<b><b>Duration: </b></b>54:49<br>
+<b><b>Tracks: </b></b>18<br>
+<b>Discs</b>: 2<br>
+<b><b>Genre: </b></b>Pop<br>
+<b><b>Copyright: </b></b>© 2026 Walt Disney Records<br>
+<b><b>Source: </b></b>Disney+/Apple Music<br>
+<br>
+<div style="text-align: center">
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Tracklist</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">1-01 The Best Of Both Words - Live From The HM 20th Anniversary Special.m4a<br>
+1-02 This Is The Life - Live From The HM 20th Anniversary Special.m4a<br>
+1-03 The Climb - Live From The HM 20th Anniversary Special.m4a<br>
+1-04 Younger You - Live From The HM 20th Anniversary Special.m4a<br>
+1-05 The Best Of Both Worlds (Extended Mix) - Live From The HM 20th Anniversary Special.m4a<br>
+2-01 The Best of Both Worlds.m4a<br>
+2-02 If We Were A Movie.m4a<br>
+2-03 Who Said.m4a<br>
+2-04 Rock Star.m4a<br>
+2-05 Nobody's Perfect.m4a<br>
+2-06 Let's Get Crazy.m4a<br>
+2-07 He Could Be the One.m4a<br>
+2-08 I Wanna Know You (Featuring David Archuleta).m4a<br>
+2-09 Ice Cream Freeze (Let's Chill).m4a<br>
+2-10 Supergirl.m4a<br>
+2-11 Ordinary Girl.m4a<br>
+2-12 Que Sera.m4a<br>
+2-13 Wherever I Go.m4a</div>
+</div>
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[lvskclds]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ VID] - Babymonster Love monsters we go up]]></title>
+                <link><![CDATA[https://sharemania.us/threads/babymonster-love-monsters-we-go-up.296838/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Babymonster monsters intro love monsters in Tokyo<br>
+And we go up live
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Riki Pettus]]></author>
                 </item>
 
                 </channel></rss>
