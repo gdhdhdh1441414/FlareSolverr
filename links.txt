@@ -1,3 +1,5 @@
+threads/safety-trance-sacrificio-qobuz-hi-res-24bit-44-1khz.298867/
+threads/2-quobuz-requests.298866/
 threads/fuank-my-heart-2026.298865/
 threads/the-carpenters-with-the-royal-philharmonic-orchestra-flac-192kbps-24bit-japan-bonus-track-mora-jp.298864/
 threads/perrie-perrie-digital-fan-edition-24bit-48khz-hi-res.298863/
@@ -20,5 +22,3 @@ threads/2pac-aka-makaveli-featuring-the-outlawz-hail-mary-alac-upscale-4k.298847
 threads/chris-brown-fallin-feat-leon-thomas-qobuz-hi-res-24bit-48-0khz.298846/
 threads/becky-hill-hands-on-me-qobuz-hi-res-24bit-48-0khz.298845/
 threads/jessie-reyez-muni-long-aint-u-tired-qobuz-hi-res-24bit-48-0khz.298844/
-threads/tom-a-smith-put-on-a-record-tommy-ep-qobuz-hi-res-24bit-48-0khz.298843/
-threads/rudimental-love-you-more-qobuz-hi-res-24bit-44-1khz.298842/
