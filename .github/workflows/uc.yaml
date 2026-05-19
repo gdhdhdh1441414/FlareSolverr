@@ -43,6 +43,7 @@ jobs:
            python uc.py https://sharemania.us/ | tee sharemania.html
            python sb.py https://www.do-mi.cc/?s=. | tee do-mi.html
            python sb.py "https://www.facebook.com/aki.thrash.1" | tee  aki.thrash.1.html
+           python sb.py "https://video.unext.jp/live/browse/group/LGP0000000001" | tee  unext.html
            
            #删除bin/ky-github.json
            rm -rf bin/ky-github.json
