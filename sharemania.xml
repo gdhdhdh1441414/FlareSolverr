@@ -8,91 +8,14 @@
 
  
                 <item>
-                <title><![CDATA[【PRORES SD】Gwen Stefani - Cool [SD ProRes Remaster]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/gwen-stefani-cool-sd-prores-remaster.300699/]]></link>
+                <title><![CDATA[【Albums (lossless)】FLAC - The Story &amp; Songs Of The Wizard Of Oz (Original Motion Picture Soundtrack)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/the-story-songs-of-the-wizard-of-oz-original-motion-picture-soundtrack.300705/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					Gwen Stefani - Cool<br>
-Huge thanks to NiNEPiECES for sharing the original SD ProRes master.<br>
-This version is my personal restoration/edit based on that source. I only did selective cleanup and cropping; the original source credit goes to NiNEPiECES.<br>
-Source: originally shared by NiNEPiECES:<br>
-<a href="https://sharemania.us/threads/gwen-stefani-cool.300616/" class="internalLink">https://sharemania.us/threads/gwen-stefani-cool.300616/</a><br>
+					<img src="https://i.discogs.com/ZDppbg6eEW23QBOjl4IK3bki1ik35lwl3msJoO83sg4/rs:fit/g:sm/q:90/h:551/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjE3/NjgtMTUwOTM5NTk2/My02MDM5LnBuZw.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.discogs.com/ZDppbg6eEW23QBOjl4IK3bki1ik35lwl3msJoO83sg4/rs:fit/g:sm/q:90/h:551/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NjE3/NjgtMTUwOTM5NTk2/My02MDM5LnBuZw.jpeg" style=""> <br>
+<a href="https://www.discogs.com/release/6461768-Various-The-Story-Songs-Of-The-Wizard-Of-Oz-Original-Motion-Picture-Soundtrack" target="_blank" class="externalLink" rel="nofollow">https://www.discogs.com/release/646...zard-Of-Oz-Original-Motion-Picture-Soundtrack</a><br>
 <br>
-Original source info:<br>
-720x576 PAL, 25 fps, ProRes 422 HQ, 4:2:2, PCM audio.<br>
-<br>
-My edit / remaster:<br>
-- Trimmed the beginning and ending black/fade sections.<br>
-- Cropped inactive borders to the active picture area.<br>
-- Manually inspected the full video frame by frame.<br>
-- Applied QTGMC only to selected problem sections with visible combing / interlaced-like jagged edges.<br>
-- Clean sections were left untouched as much as possible to preserve original detail.<br>
-- No global AI filtering, no heavy denoise, no color regrade.<br>
-- Exported to ProRes 422 HQ 10-bit 4:2:2 as an intermediate master.<br>
-<br>
-This is not a full-frame QTGMC pass. I used selective trims only, because full-video processing noticeably softened clean frames and fine details such as hair.<br>
-<a href="https://s3.pterclub.net/image/aC7jW4" target="_blank" class="externalLink" rel="nofollow"><img src="https://img.pterclub.net/images/2026/05/31/compare_original_cropped_left_prores_normal_right000135.md.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://img.pterclub.net/images/2026/05/31/compare_original_cropped_left_prores_normal_right000135.md.png"></a><br>
-<a href="https://s3.pterclub.net/image/aC7qbE" target="_blank" class="externalLink" rel="nofollow"><img src="https://img.pterclub.net/images/2026/05/31/compare_original_cropped_left_prores_normal_right001382.md.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://img.pterclub.net/images/2026/05/31/compare_original_cropped_left_prores_normal_right001382.md.png"></a><br>
-<a href="https://s3.pterclub.net/image/aC79Pt" target="_blank" class="externalLink" rel="nofollow"><img src="https://img.pterclub.net/images/2026/05/31/compare_original_cropped_left_prores_normal_right001746.md.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://img.pterclub.net/images/2026/05/31/compare_original_cropped_left_prores_normal_right001746.md.png"></a><br>
-<a href="https://s3.pterclub.net/image/aC7KQa" target="_blank" class="externalLink" rel="nofollow"><img src="https://img.pterclub.net/images/2026/05/31/compare_original_cropped_left_prores_normal_right002246.md.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://img.pterclub.net/images/2026/05/31/compare_original_cropped_left_prores_normal_right002246.md.png"></a><br>
-<a href="https://s3.pterclub.net/image/aC7MHB" target="_blank" class="externalLink" rel="nofollow"><img src="https://img.pterclub.net/images/2026/05/31/compare_original_cropped_left_prores_normal_right004543.md.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://img.pterclub.net/images/2026/05/31/compare_original_cropped_left_prores_normal_right004543.md.png"></a><br>
-
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Mediainfo</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">E:\MV\Gwen-Cool_qtgmc_master_proresHQ_normal.mov<br>
-General<br>
-Complete name                  : E:\MV\Gwen-Cool_qtgmc_master_proresHQ_normal.mov<br>
-Format                         : MPEG-4<br>
-Format profile                 : QuickTime<br>
-Codec ID                       : qt   0000.02 (qt  )<br>
-File size                      : 1.42 GiB<br>
-Duration                       : 4 min 5 s<br>
-Overall bit rate mode          : Variable<br>
-Overall bit rate               : 49.6 Mb/s<br>
-Frame rate                     : 25.000 FPS<br>
-Title, more info               : Remastered by Fucha<br>
-Writing application            : Lavf62.6.100<br>
-Comment                        : Remastered by Fucha<br>
-Video<br>
-ID                             : 1<br>
-Format                         : ProRes<br>
-Format version                 : Version 0<br>
-Format profile                 : 422 HQ<br>
-Codec ID                       : apch<br>
-Duration                       : 4 min 5 s<br>
-Bit rate mode                  : Variable<br>
-Bit rate                       : 48.1 Mb/s<br>
-Width                          : 704 pixels<br>
-Height                         : 456 pixels<br>
-Display aspect ratio           : 16:10<br>
-Frame rate mode                : Constant<br>
-Frame rate                     : 25.000 FPS<br>
-Color space                    : YUV<br>
-Chroma subsampling             : 4:2:2<br>
-Scan type                      : Progressive<br>
-Bits/(Pixel*Frame)             : 5.990<br>
-Stream size                    : 1.38 GiB (97%)<br>
-Writing library                : Apple<br>
-Matrix coefficients            : BT.601<br>
-Audio<br>
-ID                             : 2<br>
-Format                         : PCM<br>
-Format settings                : Little / Signed<br>
-Codec ID                       : sowt<br>
-Duration                       : 4 min 5 s<br>
-Bit rate mode                  : Constant<br>
-Bit rate                       : 1 536 kb/s<br>
-Channel(s)                     : 2 channels<br>
-Channel layout                 : L R<br>
-Sampling rate                  : 48.0 kHz<br>
-Bit depth                      : 16 bits<br>
-Stream size                    : 45.0 MiB (3%)<br>
-Default                        : Yes<br>
-Alternate group                : 1</div>
-</div><br>
 
 
 
@@ -104,152 +27,98 @@ Alternate group                : 1</div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[fucha]]></author>
+                <author><![CDATA[ahankins]]></author>
                 </item>
 
                 
                 <item>
-                <title><![CDATA[【Cinema Center】SERIES - RoboGobo - Season 1 - 1080p Disney+ WEB-DL DDP5.1 H.264-LAZY]]></title>
-                <link><![CDATA[https://sharemania.us/threads/robogobo-season-1-1080p-disney-web-dl-ddp5-1-h-264-lazy.300700/]]></link>
+                <title><![CDATA[【Albums (lossless)】FLAC - Nip / Tuck: Original TV Soundtrack]]></title>
+                <link><![CDATA[https://sharemania.us/threads/nip-tuck-original-tv-soundtrack.300706/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					RoboGobo:<img src="https://artworks.thetvdb.com/banners/v4/series/459143/banners/67b6081c5a4ea.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://artworks.thetvdb.com/banners/v4/series/459143/banners/67b6081c5a4ea.jpg" style=""> <br>
+					<img src="https://i.discogs.com/oG2yjssXbslDWM5dxGgJZRl_CSBAUbdljPOa4OvWqI8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTYw/MS0xMTg5NjMzMjQ0/LmpwZWc.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.discogs.com/oG2yjssXbslDWM5dxGgJZRl_CSBAUbdljPOa4OvWqI8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTYw/MS0xMTg5NjMzMjQ0/LmpwZWc.jpeg" style=""> <br>
+<a href="https://www.discogs.com/release/351601-Various-Nip-Tuck-Original-TV-Soundtrack" target="_blank" class="externalLink" rel="nofollow">https://www.discogs.com/release/351601-Various-Nip-Tuck-Original-TV-Soundtrack</a><br>
 <br>
-
-
-
-<div class="bbCodeBlock bbCodeQuote">
-	<aside>
-		
-		<blockquote class="quoteContainer"><div class="quote"><i><b>Synopsis:</b></i><br>
-It tells the story of five adorable pets without a home. A kid inventor named Dax adopts them and gives them super-powered robo-suits.</div><div class="quoteExpand">Click to expand...</div></blockquote>
-	</aside>
-</div>
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">General<br>
-Unique ID : 98183416042825941759778482278270758538 (0x49DD702750D586E96F34313270DFEE8A)<br>
-Complete name : RoboGobo.S01E01E02.Pizza.Panic.-.Crab-Tastrophe.1080p.DSNP.WEB-DL.DDP5.1.H.264-LAZY.mkv<br>
-Format : Matroska<br>
-Format version : Version 4<br>
-File size : 1.02 GiB<br>
-Duration : 23 min 56 s<br>
-Overall bit rate mode : Variable<br>
-Overall bit rate : 6 105 kb/s<br>
-Frame rate : 23.976 FPS<br>
-Encoded date : 2026-05-31 10:49:03 UTC<br>
-Writing application : mkvmerge v98.0 ('Chonks') 64-bit<br>
-Writing library : libebml v1.4.5 + libmatroska v1.7.1<br>
-<br>
-Video<br>
-ID : 1<br>
-Format : AVC<br>
-Format/Info : Advanced Video Codec<br>
-Format profile : High@L4<br>
-Format settings : CABAC / 4 Ref Frames<br>
-Format settings, CABAC : Yes<br>
-Format settings, Reference frames : 4 frames<br>
-Codec ID : V_MPEG4/ISO/AVC<br>
-Duration : 23 min 56 s<br>
-Bit rate mode : Variable<br>
-Bit rate : 5 847 kb/s<br>
-Maximum bit rate : 12.7 Mb/s<br>
-Width : 1 920 pixels<br>
-Height : 1 080 pixels<br>
-Display aspect ratio : 16:9<br>
-Frame rate mode : Constant<br>
-Frame rate : 23.976 (24000/1001) FPS<br>
-Color space : YUV<br>
-Chroma subsampling : 4:2:0<br>
-Bit depth : 8 bits<br>
-Scan type : Progressive<br>
-Bits/(Pixel*Frame) : 0.118<br>
-Time code of first frame : 00:00:00;00<br>
-Stream size : 1 002 MiB (96%)<br>
-Default : Yes<br>
-Forced : No<br>
-Color range : Limited<br>
-Color primaries : BT.709<br>
-Transfer characteristics : BT.709<br>
-Matrix coefficients : BT.709<br>
-<br>
-Audio<br>
-ID : 2<br>
-Format : E-AC-3<br>
-Format/Info : Enhanced AC-3<br>
-Commercial name : Dolby Digital Plus<br>
-Codec ID : A_EAC3<br>
-Duration : 23 min 56 s<br>
-Bit rate mode : Constant<br>
-Bit rate : 256 kb/s<br>
-Channel(s) : 6 channels<br>
-Channel layout : L R C LFE Ls Rs<br>
-Sampling rate : 48.0 kHz<br>
-Frame rate : 31.250 FPS (1536 SPF)<br>
-Compression mode : Lossy<br>
-Stream size : 43.9 MiB (4%)<br>
-Language : English<br>
-Service kind : Complete Main<br>
-Default : Yes<br>
-Forced : No<br>
-Dialog Normalization : -25 dB<br>
-compr : -0.28 dB<br>
-mixlevel : 105 dB<br>
-roomtyp : Small<br>
-dialnorm_Average : -25 dB<br>
-dialnorm_Minimum : -25 dB<br>
-dialnorm_Maximum : -25 dB<br>
-<br>
-Text<br>
-ID : 3<br>
-Format : UTF-8<br>
-Codec ID : S_TEXT/UTF8<br>
-Codec ID/Info : UTF-8 Plain Text<br>
-Duration : 23 min 24 s<br>
-Bit rate : 94 b/s<br>
-Frame rate : 0.376 FPS<br>
-Count of elements : 528<br>
-Stream size : 16.1 KiB (0%)<br>
-Title : SDH<br>
-Language : English<br>
-Default : No<br>
-Forced : No<br>
-<br>
-Menu<br>
-00:00:01.084 : en:Intro<br>
-00:00:46.171 : en:Content<br>
-00:23:25.989 : en:Credits</div>
-</div><br>
-Screenshots:<br>
-<img src="https://i.imgur.com/T7QG9X6.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/T7QG9X6.jpeg" style=""> <br>
 
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
 </div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[LazyRips]]></author>
+                <author><![CDATA[ahankins]]></author>
                 </item>
 
                 
                 <item>
-                <title><![CDATA[【UPSCALED】Dua Lipa - Levitating (feat. DaBaby) [AI UPSCALE 2160p]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/dua-lipa-levitating-feat-dababy-ai-upscale-2160p.300702/]]></link>
+                <title><![CDATA[【Singles (lossless)】FLAC - Love Inc – Broken Bones (Single)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/love-inc-%E2%80%93-broken-bones-single.300703/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.ibb.co/8LKKtFmz/Levitating-feat-Da-Baby-HD-721420697-mov-00-11-553.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/8LKKtFmz/Levitating-feat-Da-Baby-HD-721420697-mov-00-11-553.png" style=""><br>
-<img src="https://i.ibb.co/F4PRQhCR/Levitating-feat-Da-Baby-HD-721420697-mov-00-25-066.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/F4PRQhCR/Levitating-feat-Da-Baby-HD-721420697-mov-00-25-066.png" style=""><br>
-<img src="https://i.ibb.co/Xx1tkKWg/Levitating-feat-Da-Baby-HD-721420697-mov-01-13-615.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/Xx1tkKWg/Levitating-feat-Da-Baby-HD-721420697-mov-01-13-615.png" style=""><br>
-<img src="https://i.ibb.co/b5v4bdWj/Levitating-feat-Da-Baby-HD-721420697-mov-02-05-959.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/b5v4bdWj/Levitating-feat-Da-Baby-HD-721420697-mov-02-05-959.png" style=""><br>
+					<img src="https://i.discogs.com/dJQ9bT8w9yCb0vr01a4QDgUGR5QA8TpRH_OkIU6mfSg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQw/NTItMTcwODU3OTE5/OS01NzIwLmpwZWc.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.discogs.com/dJQ9bT8w9yCb0vr01a4QDgUGR5QA8TpRH_OkIU6mfSg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODQw/NTItMTcwODU3OTE5/OS01NzIwLmpwZWc.jpeg" style="">  <br>
+<a href="https://www.discogs.com/release/1084052-Love-Inc-Broken-Bones" target="_blank" class="externalLink" rel="nofollow">https://www.discogs.com/release/1084052-Love-Inc-Broken-Bones</a><br>
+<br>
+1 Broken Bones (City Of Love - Radio Mix) 4:02<br>
+2 Broken Bones (City Of Love - Club Mix) 6:34<br>
+3 Broken Bones (RipRock N' Booty's Magical Mystery Detour Mix - 12") 8:41<br>
+4 Broken Bones (I Used To Sell You Things You Could Only Find On A Dancefloor - Remix) 5:35<br>
+5 Broken Bones (Groove Station - Radio Mix) 4:16<br>
+<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[ahankins]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Albums (lossless)】FLAC - A Very Brady Sequel (Motion Picture Soundtrack)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/a-very-brady-sequel-motion-picture-soundtrack.300704/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.discogs.com/ddBGM4zZqweh6NF28LwTOILl2mj0opcam_XXAgUoDA4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzc0/MTg4LTE2MDk3Mzk5/ODItMjEwNC5wbmc.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.discogs.com/ddBGM4zZqweh6NF28LwTOILl2mj0opcam_XXAgUoDA4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2Nzc0/MTg4LTE2MDk3Mzk5/ODItMjEwNC5wbmc.jpeg" style="">  <br>
+<a href="https://www.discogs.com/release/16774188-Various-A-Very-Brady-Sequel-Motion-Picture-Soundtrack" target="_blank" class="externalLink" rel="nofollow">https://www.discogs.com/release/16774188-Various-A-Very-Brady-Sequel-Motion-Picture-Soundtrack</a><br>
+<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[ahankins]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【UPSCALED】Gwen Stefani - Cool [AI UPSCALE 1080p]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/gwen-stefani-cool-ai-upscale-1080p.300707/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.ibb.co/LX6JZJsD/Cool-mov-00-28-190.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/LX6JZJsD/Cool-mov-00-28-190.png" style=""><br>
+<img src="https://i.ibb.co/MD02LMJK/Cool-mov-00-29-870.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/MD02LMJK/Cool-mov-00-29-870.png" style=""><br>
+<img src="https://i.ibb.co/7fsvDw7/Cool-mov-00-52-149.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/7fsvDw7/Cool-mov-00-52-149.png" style=""><br>
+<img src="https://i.ibb.co/7t0XDz9t/Cool-mov-01-16-350.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/7t0XDz9t/Cool-mov-01-16-350.png" style=""><br>
 
 
 
@@ -260,20 +129,18 @@ Screenshots:<br>
 <div class="bbCodeBlock bbCodeCode">
 	<div class="type">Code:</div>
 	<pre>General
+Complete name                            : /Volumes/SSD/DOCS/Cool.mov
 Format                                   : MPEG-4
 Format profile                           : QuickTime
 Codec ID                                 : qt   0000.02 (qt  )
-File size                                : 3.12 GiB
-Duration                                 : 3 min 50 s
+File size                                : 1.04 GiB
+Duration                                 : 4 min 6 s
 Overall bit rate mode                    : Variable
-Overall bit rate                         : 117 Mb/s
-Frame rate                               : 23.976 FPS
-Encoded date                             : 2020-09-29 07:55:49 UTC
-Tagged date                              : 2020-09-29 07:55:49 UTC
-compatible_brands                        : mp42mp41
-major_brand                              : mp42
-minor_version                            : 0
-creation_time                            : 2020-09-29T07:55:49.000000Z
+Overall bit rate                         : 36.1 Mb/s
+Frame rate                               : 25.000 FPS
+minor_version                            : 512
+major_brand                              : qt 
+compatible_brands                        : qt 
 encoder                                  : Lavf62.13.100
 
 Video
@@ -282,46 +149,44 @@ Format                                   : ProRes
 Format version                           : Version 0
 Format profile                           : 422 Proxy
 Codec ID                                 : apco
-Duration                                 : 3 min 50 s
+Duration                                 : 4 min 6 s
+Source duration                          : 4 min 6 s
 Bit rate mode                            : Variable
-Bit rate                                 : 116 Mb/s
-Width                                    : 3 840 pixels
-Height                                   : 2 160 pixels
-Display aspect ratio                     : 16:9
+Bit rate                                 : 33.1 Mb/s
+Width                                    : 1 826 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 5:3
 Frame rate mode                          : Constant
-Frame rate                               : 23.976 (24000/1001) FPS
+Frame rate                               : 25.000 FPS
 Color space                              : YUV
 Chroma subsampling                       : 4:2:2
 Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.584
-Stream size                              : 3.11 GiB (100%)
+Bits/(Pixel*Frame)                       : 0.672
+Stream size                              : 974 MiB (92%)
+Source stream size                       : 1 016 MiB (96%)
 Writing library                          : Apple
-Encoded date                             : 2020-09-29 07:55:49 UTC
-Tagged date                              : 2020-09-29 07:55:49 UTC
-Color primaries                          : BT.709
-Transfer characteristics                 : BT.709
-Matrix coefficients                      : BT.709
+Matrix coefficients                      : BT.601
 Codec configuration box                  : glbl
 
 Audio
 ID                                       : 2
-Format                                   : AAC LC
-Format/Info                              : Advanced Audio Codec Low Complexity
-Codec ID                                 : mp4a-40-2
-Duration                                 : 3 min 50 s
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : sowt
+Duration                                 : 4 min 6 s
+Source duration                          : 4 min 6 s
 Bit rate mode                            : Constant
-Bit rate                                 : 317 kb/s
+Bit rate                                 : 1 536 kb/s
 Channel(s)                               : 2 channels
 Channel layout                           : L R
 Sampling rate                            : 48.0 kHz
-Frame rate                               : 46.875 FPS (1024 SPF)
-Compression mode                         : Lossy
-Stream size                              : 8.71 MiB (0%)
+Bit depth                                : 16 bits
+Stream size                              : 45.1 MiB (4%)
+Source stream size                       : 45.1 MiB (4%)
 Language                                 : English
 Default                                  : Yes
 Alternate group                          : 1
-Encoded date                             : 2020-09-29 07:55:49 UTC
-Tagged date                              : 2020-09-29 07:55:49 UTC
+
 </pre>
 </div></div>
 </div>
@@ -329,151 +194,19 @@ Tagged date                              : 2020-09-29 07:55:49 UTC
 
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
 	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Download</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText"><div style="text-align: center">
+	<div class="SpoilerTarget bbCodeSpoilerText">
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div></div></div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></div>
 </div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[JL92]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Cinema Center】SERIES - Hey AJ.! - Season 1 - 1080p Disney+ WEB-DL DDP5.1 H.264-LAZY]]></title>
-                <link><![CDATA[https://sharemania.us/threads/hey-aj-season-1-1080p-disney-web-dl-ddp5-1-h-264-lazy.300701/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					Hey A.J.!:<img src="https://www.thetvdb.com/banners/v4/series/466683/banners/6963e8c6c11df.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://www.thetvdb.com/banners/v4/series/466683/banners/6963e8c6c11df.jpg" style=""> <br>
-<br>
-
-
-
-<div class="bbCodeBlock bbCodeQuote">
-	<aside>
-		
-		<blockquote class="quoteContainer"><div class="quote"><i><b>Synopsis:</b></i><br>
-An imaginative young girl who, along with her stuffed bunny sidekick, uses her big imagination to make ordinary life moments extraordinary.</div><div class="quoteExpand">Click to expand...</div></blockquote>
-	</aside>
-</div>
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">General<br>
-Unique ID : 6853104887882613360045390891527710863 (0x527DC286828E35ECA0461D0814C288F)<br>
-Complete name : Hey.AJ.S01E01E02.To.Mommy.with.Lava.-.Happy.Friendship.Birthday.1080p.DSNP.WEB-DL.DDP5.1.H.264-LAZY.mkv<br>
-Format : Matroska<br>
-Format version : Version 4<br>
-File size : 683 MiB<br>
-Duration : 24 min 3 s<br>
-Overall bit rate mode : Variable<br>
-Overall bit rate : 3 971 kb/s<br>
-Frame rate : 23.976 FPS<br>
-Encoded date : 2026-05-30 18:15:35 UTC<br>
-Writing application : mkvmerge v98.0 ('Chonks') 64-bit<br>
-Writing library : libebml v1.4.5 + libmatroska v1.7.1<br>
-<br>
-Video<br>
-ID : 1<br>
-Format : AVC<br>
-Format/Info : Advanced Video Codec<br>
-Format profile : High@L4<br>
-Format settings : CABAC / 4 Ref Frames<br>
-Format settings, CABAC : Yes<br>
-Format settings, Reference frames : 4 frames<br>
-Codec ID : V_MPEG4/ISO/AVC<br>
-Duration : 24 min 3 s<br>
-Bit rate mode : Variable<br>
-Bit rate : 3 713 kb/s<br>
-Maximum bit rate : 12.7 Mb/s<br>
-Width : 1 920 pixels<br>
-Height : 1 080 pixels<br>
-Display aspect ratio : 16:9<br>
-Frame rate mode : Constant<br>
-Frame rate : 23.976 (24000/1001) FPS<br>
-Color space : YUV<br>
-Chroma subsampling : 4:2:0<br>
-Bit depth : 8 bits<br>
-Scan type : Progressive<br>
-Bits/(Pixel*Frame) : 0.075<br>
-Time code of first frame : 00:00:00;00<br>
-Stream size : 639 MiB (94%)<br>
-Default : Yes<br>
-Forced : No<br>
-Color range : Limited<br>
-Color primaries : BT.709<br>
-Transfer characteristics : BT.709<br>
-Matrix coefficients : BT.709<br>
-<br>
-Audio<br>
-ID : 2<br>
-Format : E-AC-3<br>
-Format/Info : Enhanced AC-3<br>
-Commercial name : Dolby Digital Plus<br>
-Codec ID : A_EAC3<br>
-Duration : 24 min 3 s<br>
-Bit rate mode : Constant<br>
-Bit rate : 256 kb/s<br>
-Channel(s) : 6 channels<br>
-Channel layout : L R C LFE Ls Rs<br>
-Sampling rate : 48.0 kHz<br>
-Frame rate : 31.250 FPS (1536 SPF)<br>
-Compression mode : Lossy<br>
-Stream size : 44.1 MiB (6%)<br>
-Language : English<br>
-Service kind : Complete Main<br>
-Default : Yes<br>
-Forced : No<br>
-Dialog Normalization : -25 dB<br>
-compr : -0.28 dB<br>
-mixlevel : 105 dB<br>
-roomtyp : Small<br>
-dialnorm_Average : -25 dB<br>
-dialnorm_Minimum : -25 dB<br>
-dialnorm_Maximum : -25 dB<br>
-<br>
-Text<br>
-ID : 3<br>
-Format : UTF-8<br>
-Codec ID : S_TEXT/UTF8<br>
-Codec ID/Info : UTF-8 Plain Text<br>
-Duration : 23 min 29 s<br>
-Bit rate : 92 b/s<br>
-Frame rate : 0.363 FPS<br>
-Count of elements : 511<br>
-Stream size : 15.8 KiB (0%)<br>
-Title : SDH<br>
-Language : English<br>
-Default : No<br>
-Forced : No<br>
-<br>
-Menu<br>
-00:00:01.001 : en:Intro<br>
-00:00:46.588 : en:Content<br>
-00:23:32.453 : en:Credits</div>
-</div><br>
-Screenshots:<br>
-<img src="https://i.imgur.com/wttWdKp.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/wttWdKp.jpeg" style="">  <br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[LazyRips]]></author>
                 </item>
 
                 </channel></rss>
