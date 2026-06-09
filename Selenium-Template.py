@@ -19,37 +19,48 @@ time.sleep(36)
 # 使用 subprocess 模块调用 curl 命令，并捕获命令输出结果
 curl_cmd = "curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"https://sharemania.us/\",\"maxTimeout\": 60000}' | tee ./FlareSolverr.log"
 
-
-
-
 result = subprocess.check_output(curl_cmd, shell=True)
-
 
 # 假设 result 是字节数据（如从网络请求获取的响应）
 try:
     # 尝试解析 JSON
     data = json.loads(result.decode('utf-8'))
     response = data.get("solution", {}).get("response")
+    # ↓↓↓ 新增：如果 response 有问题或不含 lastThreadTitle，改用 uc.py ↓↓↓
+    if not response or "lastThreadTitle" not in response:
+        uc_result = subprocess.run(
+            ["python", "uc.py", "https://sharemania.us/"],
+            capture_output=True,
+            text=True
+        )
+        response = uc_result.stdout
+    # ↑↑↑ 新增结束 ↑↑↑
     with open("sharemania...html", "w", encoding="utf-8") as file:
-     file.write(f"{response}")
+        file.write(f"{response}")
 except (json.JSONDecodeError, AttributeError, UnicodeDecodeError) as e:
     # 如果解析失败（无效 JSON、非字节数据、解码错误等）
     print(f"解析 JSON 失败: {e}")
-    response = "破盾失败"  # 强制设为默认值
+    # ↓↓↓ 新增：解析异常时也改用 uc.py ↓↓↓
+    uc_result = subprocess.run(
+        ["python", "uc.py", "https://sharemania.us/"],
+        capture_output=True,
+        text=True
+    )
+    response = uc_result.stdout
+    # ↑↑↑ 新增结束 ↑↑↑
     with open("sharemania...html", "w", encoding="utf-8") as file:
-     file.write(f"{response}")
+        file.write(f"{response}")
 
 
 if response is None:
     rss = f'{header}\n\t<item>\n\t\t<title>抓取首页出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t</item>\n{footer}'
     print(rss)
     with open('./sharemania.xml', 'w', encoding='utf-8') as f:
-       f.write(rss)
+        f.write(rss)
     sys.exit(0)
 
 pattern = r'href\=\"(threads\/.+?)\"\>'
 links = re.findall(pattern, response)
-
 
 with open('links.txt', 'r') as f:
     saved_links = set(f.read().splitlines())
@@ -65,8 +76,11 @@ if len(links) != 0 and len(links) >= 5:
         for link in links:
             f.write(link + '\n')
 
-        
 html_string = ""
+
+# ↓↓↓ 新增：首页检测结果决定后续全部用哪个方案 ↓↓↓
+use_uc = not response or "lastThreadTitle" not in response
+# ↑↑↑ 新增结束 ↑↑↑
 
 for link in new_links:
     while True:
@@ -74,29 +88,35 @@ for link in new_links:
             url = "https://sharemania.us/" + link
             print(url)
             os.system("pkill chrome;pkill chromedriver")
-            curl_cmd = "curl -s 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"" + url + "\",\"maxTimeout\": 60000}'"
-            result = subprocess.check_output(curl_cmd, shell=True)
-            data = json.loads(result.decode('utf-8'))
-            response = data.get("solution", {}).get("response")
-            print(result)  # 输出数据
+
+            # ↓↓↓ 新增：根据标志选择方案 ↓↓↓
+            if use_uc:
+                uc_result = subprocess.run(
+                    ["python", "uc.py", url],
+                    capture_output=True,
+                    text=True
+                )
+                response = uc_result.stdout
+            else:
+                curl_cmd = "curl -s 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"" + url + "\",\"maxTimeout\": 60000}'"
+                result = subprocess.check_output(curl_cmd, shell=True)
+                data = json.loads(result.decode('utf-8'))
+                response = data.get("solution", {}).get("response")
+                print(result)
+            # ↑↑↑ 新增结束 ↑↑↑
 
             if response is None:
                 raise ValueError("Response is None")
 
             html_string += response
-            break  # 如果成功，跳出 while 循环
+            break
 
         except Exception as e:
             print("An error occurred:", str(e))
-            continue  # 出错后跳出当前迭代，开始下一次迭代
+            continue
 
 with open('./sharemania_all_page.html', 'w', encoding='utf-8') as f:
     f.write(html_string)
-
-
-    
-    
-
 
 
 regex_link = r'link rel\=\"canonical\" href="(.+?)\"'
@@ -117,8 +137,6 @@ header = '''<?xml version="1.0" encoding="utf-8"?>
 
 footer = '</channel></rss>'
 
-
-
 html = html_string
 
 if re.findall(regex_link, html) and re.findall(regex_tit, html):
@@ -136,7 +154,6 @@ if re.findall(regex_link, html) and re.findall(regex_tit, html):
         title = re.sub(r'\<title\>(.+?) \| ShareMania\.US', r'\1', titles[i])
         author = re.sub(r'started by.+?\>(.+?)\<\/a\>', r'\1', authors[i])
         article = re.sub(r'meta name\=\"description\"[\s\S]*?(\<article\>[\s\S]*?\<\/article\>)', r'\1', articles[i])
-        
 
         if not author or len(author) > 30 or len(author) < 1:
             print("抓取全文出错，强制退出")
@@ -156,10 +173,10 @@ if re.findall(regex_link, html) and re.findall(regex_tit, html):
 
     print(rss_feed)
     with open('./sharemania.xml', 'w', encoding='utf-8') as f:
-       f.write(rss_feed)
+        f.write(rss_feed)
 else:
     url = "https://sharemania.us/"
     rss = f'{header}\n\t<item>\n\t\t<title>出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t</item>\n{footer}'
     print(rss)
     with open('./sharemania.xml', 'w', encoding='utf-8') as f:
-       f.write(rss)
+        f.write(rss)
