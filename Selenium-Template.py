@@ -90,7 +90,7 @@ for link in new_links:
             print("An error occurred:", str(e))
             continue  # 出错后跳出当前迭代，开始下一次迭代
 
-with open('./sharemania.html', 'w', encoding='utf-8') as f:
+with open('./sharemania_all_page.html', 'w', encoding='utf-8') as f:
     f.write(html_string)
 
 
