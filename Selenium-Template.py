@@ -34,6 +34,10 @@ try:
             text=True
         )
         response = uc_result.stdout
+        print("STDOUT:", uc_result.stdout[:200] if uc_result.stdout else "空")
+        print("STDERR:", uc_result.stderr[:200] if uc_result.stderr else "空")
+        print("returncode:", uc_result.returncode)
+        
     # ↑↑↑ 新增结束 ↑↑↑
     with open("sharemania...html", "w", encoding="utf-8") as file:
         file.write(f"{response}")
