@@ -8,49 +8,98 @@
 
  
                 <item>
-                <title><![CDATA[【Requests】[REQ VID] - Katy Perry - Rock In Rio Lisbon 2026 (YouTube Broadcast)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/katy-perry-rock-in-rio-lisbon-2026-youtube-broadcast.302257/]]></link>
+                <title><![CDATA[【PRORES HD】OrelSan FT. DAMSO - Rêves bizarres (Master ProRes 1080p)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/orelsan-ft-damso-r%C3%AAves-bizarres-master-prores-1080p.302259/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					The live stream of Rock In Rio Lisbon will happen today. Could someone please save the YouTube stream of Katy Perry's show and share the link?<br>
-<br>
-Katy's show is scheduled for around 11 PM Lisbon time.<br>
-<br>
-It will be available through this link: <a href="https://www.youtube.com/live/-aLGmZvL9pQ" target="_blank" class="externalLink" rel="nofollow">https://www.youtube.com/live/-aLGmZvL9pQ</a>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[guigohsa]]></author>
-                </item>
+					<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Complete name                            : ORELSAN FT. DAMSO - RÊVES BIZARRES.mp4
+Format                                   : MPEG-4
+Format profile                           : QuickTime
+Codec ID                                 : qt   0000.02 (qt  )
+File size                                : 4.57 GiB
+Duration                                 : 3 min 36 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 181 Mb/s
+Frame rate                               : 25.000 FPS
+Writing application                      : Lavf57.25.100
 
-                
-                <item>
-                <title><![CDATA[【Albums (lossless)】FLAC - Kanye West, Ye - BULLY - DELUXE [Amazon Music FLAC 24-Bit/44.1kHz]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/kanye-west-ye-bully-deluxe-amazon-music-flac-24-bit-44-1khz.302258/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<img src="https://i.ibb.co/gFDF7Cq8/712132042055-cover.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/gFDF7Cq8/712132042055-cover.jpg" style=""> <br>
-<b>Artist</b>: Kanye West / Ye<br>
-<b>Album</b>: BULLY - DELUXE<br>
-<b>Release</b>: JUN 19 2026<br>
-<b>Format</b>: FLAC Free Lossless Audio Codec<br>
-<b>Quality</b>: Lossless Audio<br>
-<b>Sample Rate</b>: Stereo, 24-Bit/44.1 kHz (FLAC)<br>
-<b>Source</b>: Amazon Music<br>
+Video
+ID                                       : 1
+Format                                   : ProRes
+Format version                           : Version 0
+Format profile                           : 422 HQ
+Codec ID                                 : apch
+Duration                                 : 3 min 36 s
+Bit rate mode                            : Variable
+Bit rate                                 : 179 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 25.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:2
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 3.459
+Stream size                              : 4.53 GiB (99%)
+Writing library                          : abm0
+Language                                 : English
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
 
+Audio
+ID                                       : 2
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : sowt
+Duration                                 : 3 min 36 s
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 16 bits
+Stream size                              : 39.7 MiB (1%)
+Language                                 : English
+Default                                  : Yes
+Alternate group                          : 1
+
+Other
+ID                                       : 3
+Type                                     : Time code
+Format                                   : QuickTime TC
+Duration                                 : 3 min 36 s
+Frame rate                               : 25.000 FPS
+Time code of first frame                 : 00:00:00:00
+Time code of last frame                  : 00:03:36:22
+Time code, stripped                      : Yes
+Language                                 : English
+Default                                  : No
+
+</pre>
+</div>
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
 	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>sha256sum<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>9fbb05cf34106862fb0cca2b2243f02ee802f92cc85f13d585386fa173f8ede1</pre>
 </div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[vlonez]]></author>
+                <author><![CDATA[geght]]></author>
                 </item>
 
                 </channel></rss>
