@@ -8,35 +8,134 @@
 
  
                 <item>
-                <title><![CDATA[【Singles (lossless)】FLAC - 태연 (TAEYEON) - 호텔 델루나 OST Part.3 (tvN 토일드라마) Hi-Res]]></title>
-                <link><![CDATA[https://sharemania.us/threads/%ED%83%9C%EC%97%B0-taeyeon-%ED%98%B8%ED%85%94-%EB%8D%B8%EB%A3%A8%EB%82%98-ost-part-3-tvn-%ED%86%A0%EC%9D%BC%EB%93%9C%EB%9D%BC%EB%A7%88-hi-res.302436/]]></link>
+                <title><![CDATA[【HD Live Performances】FEED - Justin Timberlake - Yahoo! Live Nation Concerts 2014-08-24 Iceland - Korinn Sports Hall 1080i HDTV Backhaul MPA2.0 H.264-TrollHD]]></title>
+                <link><![CDATA[https://sharemania.us/threads/justin-timberlake-yahoo-live-nation-concerts-2014-08-24-iceland-korinn-sports-hall-1080i-hdtv-backhaul-mpa2-0-h-264-trollhd.302437/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					And you can download it for free here, then I will immediately receive your request for access permission. ♥️<br>
-<br>
-<img src="https://image.bugsm.co.kr/album/images/350/202667/20266778.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://image.bugsm.co.kr/album/images/350/202667/20266778.jpg" style=""><br>
-<b><br>
-호텔 델루나 OST Part.3</b><br>
-태연 (TAEYEON)<br>
-<br>
-GirlsGeneration #GG #NationGirlGroup #KimTaeyeon #SMTOWN<br>
-<br>
-With of size 76mb<br>
-Source: Genie Music<br>
+					<div style="padding-left: 30px"><b><span style="font-size: 26px"><span style="color: #ff0000">Justin Timberlake - Yahoo! Live Nation Concerts</span></span></b><br>
+<div style="padding-left: 30px"><div style="padding-left: 30px"><b><span style="font-size: 26px"><span style="color: #ff0000">2014-08-24 Iceland - Korinn Sports Hall </span></span></b>​</div><b><span style="font-size: 26px"><span style="color: #ff0000">1080i HDTV Backhaul MPA2.0 H.264-TrollHD</span></span></b>​</div></div><br>
+<img src="https://images2.imgbox.com/06/13/JkVoTeMD_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images2.imgbox.com/06/13/JkVoTeMD_o.jpg" style=""><br>
 <br>
 
 
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+ID                             : 1 (0x1)
+Complete name                  : X:\BACKHAUL FTA Records\Justin Timberlake - Yahoo! Live Nation Concerts 2014-08-24 Iceland - Korinn Sports Hall 1080i HDTV Backhaul MPA2.0 H.264-TrollHD.ts
+Format                         : MPEG-TS
+File size                      : 8.42 GiB
+Duration                       : 1 h 26 min
+Overall bit rate mode          : Variable
+Overall bit rate               : 14.0 Mb/s
 
+Video
+ID                             : 33 (0x21)
+Menu ID                        : 1 (0x1)
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4.1
+Format settings                : CABAC / 4 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 4 frames
+Codec ID                       : 27
+Duration                       : 1 h 26 min
+Bit rate                       : 12.5 Mb/s
+Width                          : 1 920 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 16:9
+Frame rate                     : 29.970 (30000/1001) FPS
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Interlaced
+Scan type, store method        : Separated fields
+Scan order                     : Top Field First
+Bits/(Pixel*Frame)             : 0.202
+Stream size                    : 7.54 GiB (90%)
+Color range                    : Limited
+Color primaries                : BT.709
+Transfer characteristics       : BT.709
+Matrix coefficients            : BT.709
 
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
+Audio #1
+ID                             : 34 (0x22)
+Menu ID                        : 1 (0x1)
+Format                         : MPEG Audio
+Format version                 : Version 1
+Format profile                 : Layer 2
+Codec ID                       : 3
+Duration                       : 1 h 26 min
+Bit rate mode                  : Constant
+Bit rate                       : 192 kb/s
+Channel(s)                     : 2 channels
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 41.667 FPS (1152 SPF)
+Compression mode               : Lossy
+Stream size                    : 118 MiB (1%)
+Language                       : English
+
+Audio #2
+ID                             : 35 (0x23)
+Menu ID                        : 1 (0x1)
+Format                         : MPEG Audio
+Format version                 : Version 1
+Format profile                 : Layer 2
+Codec ID                       : 3
+Duration                       : 1 h 26 min
+Bit rate mode                  : Constant
+Bit rate                       : 192 kb/s
+Channel(s)                     : 2 channels
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 41.667 FPS (1152 SPF)
+Compression mode               : Lossy
+Stream size                    : 118 MiB (1%)
+Language                       : English
+
+Audio #3
+ID                             : 36 (0x24)
+Menu ID                        : 1 (0x1)
+Format                         : MPEG Audio
+Format version                 : Version 1
+Format profile                 : Layer 2
+Codec ID                       : 3
+Duration                       : 1 h 26 min
+Bit rate mode                  : Constant
+Bit rate                       : 192 kb/s
+Channel(s)                     : 2 channels
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 41.667 FPS (1152 SPF)
+Compression mode               : Lossy
+Stream size                    : 118 MiB (1%)
+Language                       : English
+
+Audio #4
+ID                             : 37 (0x25)
+Menu ID                        : 1 (0x1)
+Format                         : MPEG Audio
+Format version                 : Version 1
+Format profile                 : Layer 2
+Codec ID                       : 3
+Duration                       : 1 h 26 min
+Bit rate mode                  : Constant
+Bit rate                       : 192 kb/s
+Channel(s)                     : 2 channels
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 41.667 FPS (1152 SPF)
+Compression mode               : Lossy
+Stream size                    : 118 MiB (1%)
+Language                       : English
+
+</pre>
+</div><br>
+<br>
+<br>
+<b><span style="font-size: 26px"><span style="color: #ff0000"><span style="text-decoration: underline">LINK SOON!!!</span></span></span></b>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[Radif S]]></author>
+                <author><![CDATA[Dream66]]></author>
                 </item>
 
                 </channel></rss>
