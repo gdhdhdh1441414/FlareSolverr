@@ -8,51 +8,17 @@
 
  
                 <item>
-                <title><![CDATA[【Unreleased/Unofficial (lossless)】FLAC - Bon Iver - Bon Iver (2011) [5.1 Surround Stem Mix] [FLAC / 24bit]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/bon-iver-bon-iver-2011-5-1-surround-stem-mix-flac-24bit.302785/]]></link>
+                <title><![CDATA[【Requests】[REQ AUD] - Fiona Apple - Criminal (Australia) - Single (LOSSLESS)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/fiona-apple-criminal-australia-single-lossless.302786/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://f4.bcbits.com/img/a1388691918_10.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://f4.bcbits.com/img/a1388691918_10.jpg" style=""><br>
-<br>
-Hey everyone! This is my very first time uploading here, and I just wanted to share something really cool I put together. <br>
-<br>
-Here is a special multi-channel treat for Bon Iver and surround sound enthusiasts! <br>
-<br>
-This project is an independent 5.1 surround sound mix of Bon Iver's self-titled 2011 album. It was originally compiled by an incredible mixer on YouTube named Jared (Methuselah's Grandpa)! He sourced the audio from the official 2012 Spotify Stems Project, resulting in a brilliant, highly discrete instrument panorama with a massive benchmark dynamic range of [DR16]. <br>
-You can check out his channel and listen to the stream right here: <span data-s9e-mediaembed="youtube" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:56.25%"><iframe allowfullscreen="" loading="lazy" scrolling="no" style="background:url(https://i.ytimg.com/vi/E67v9dzqbjY/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%" src="https://www.youtube.com/embed/E67v9dzqbjY"></iframe></span></span><br>
-<br>
-On his page, Jared explicitly noted that web browsers block native YouTube 5.1 playback, forcing a flat stereo downmix on computers. To fix this restriction for the community, I used yt-dlp to extract his raw multi-channel stream directly from the servers. Then, I used foobar2000 alongside a custom .cue script to perform a bit-perfect, lossless split of the timeline into 10 individual tracks. Now, anyone can play this masterpiece perfectly on a PC via foobar2000 or MPC-HC with true, uncompressed 5.1 surround sound.<br>
-<br>
-Tracklist:<br>
-01 - Perth<br>
-02 - Minnesota, WI<br>
-03 - Holocene<br>
-04 - Towers<br>
-05 - Michicant<br>
-06 - Hinnom, TX<br>
-07 - Wash.<br>
-08 - Calgary<br>
-09 - Lisbon, OH<br>
-10 - Beth / Rest<br>
-<br>
-RAR/ZIP Password: sharemania.us 
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre> Audio Technical Info: Container: ZIP / FLAC Channels: 6 channels (5.1 Surround Sound) Sample Rate: 44,100 Hz Bitrate: ~3,125 kbps Bit Depth: 24-bit (Auto Lossless Split) Dynamic Range: DR16 </pre>
-</div>
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
+					I'm hoping a fellow Aussie could upload the Fiona Apple single release for '<a href="https://www.discogs.com/release/3751143-Fiona-Apple-Criminal" target="_blank" class="externalLink" rel="nofollow">Criminal</a>' as it has a super rare <b>LIVE</b> version of '<b>Never Is A Promise</b>' seemingly unreleased anywhere else. I have it a 320 kbps mp3, hoping someone can rip lossless. Thx!<br>
+<img src="https://i.discogs.com/uEzJArLbDcF3cDBk_lzRxkdhw0UgZ-XnmH0R3vLCDsE/rs:fit/g:sm/q:90/h:498/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTEx/NDMtMTM0Mjg5NzQx/OC0yMjg0LmpwZWc.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.discogs.com/uEzJArLbDcF3cDBk_lzRxkdhw0UgZ-XnmH0R3vLCDsE/rs:fit/g:sm/q:90/h:498/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTEx/NDMtMTM0Mjg5NzQx/OC0yMjg0LmpwZWc.jpeg" style="">
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[hyf5]]></author>
+                <author><![CDATA[Vexing101]]></author>
                 </item>
 
                 </channel></rss>
