@@ -8,34 +8,51 @@
 
  
                 <item>
-                <title><![CDATA[【Cinema Center】SERIES - Submarine Jim - Season 1 (720p ABC iview WEB-DL)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/submarine-jim-season-1-720p-abc-iview-web-dl.302784/]]></link>
+                <title><![CDATA[【Unreleased/Unofficial (lossless)】FLAC - Bon Iver - Bon Iver (2011) [5.1 Surround Stem Mix] [FLAC / 24bit]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/bon-iver-bon-iver-2011-5-1-surround-stem-mix-flac-24bit.302785/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<div style="padding-left: 30px"><div style="padding-left: 30px"><div style="padding-left: 30px"><div style="padding-left: 30px"><div style="padding-left: 30px"><div style="padding-left: 30px"><img src="https://cdn.iview.abc.net.au/thumbs/352/X0_6a38743c644a1_2000.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://cdn.iview.abc.net.au/thumbs/352/X0_6a38743c644a1_2000.jpg" style=""><br>
-​</div></div></div></div></div><b>Naive young dolphin Jim takes charge of an "inverted" submarine full of fish and seawater.</b><br>
-<div style="padding-left: 30px"><div style="padding-left: 30px"><b>Their goal? Las Vegas - rumored to hold the clear waters of their dreams.</b><br>
-<div style="padding-left: 30px"><div style="padding-left: 30px"><b>But the adventure ahead will be anything but smooth sailing!<br>
-</b>​</div></div></div></div></div><b>Source:</b> ABC WEB-DL<br>
-<b>Video:</b> MKV | 1280x720 | 1227 kbps<br>
-<b>Audio:</b> AAC 2.0 (128 kbps)<br>
-<b>Subtitles:</b> English<br>
-<b>Episodes:</b> S01E01 – S01E26<br>
-<b>Runtime:</b> 11 min per episode<br>
+					<img src="https://f4.bcbits.com/img/a1388691918_10.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://f4.bcbits.com/img/a1388691918_10.jpg" style=""><br>
 <br>
+Hey everyone! This is my very first time uploading here, and I just wanted to share something really cool I put together. <br>
+<br>
+Here is a special multi-channel treat for Bon Iver and surround sound enthusiasts! <br>
+<br>
+This project is an independent 5.1 surround sound mix of Bon Iver's self-titled 2011 album. It was originally compiled by an incredible mixer on YouTube named Jared (Methuselah's Grandpa)! He sourced the audio from the official 2012 Spotify Stems Project, resulting in a brilliant, highly discrete instrument panorama with a massive benchmark dynamic range of [DR16]. <br>
+You can check out his channel and listen to the stream right here: <span data-s9e-mediaembed="youtube" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:56.25%"><iframe allowfullscreen="" loading="lazy" scrolling="no" style="background:url(https://i.ytimg.com/vi/E67v9dzqbjY/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%" src="https://www.youtube.com/embed/E67v9dzqbjY"></iframe></span></span><br>
+<br>
+On his page, Jared explicitly noted that web browsers block native YouTube 5.1 playback, forcing a flat stereo downmix on computers. To fix this restriction for the community, I used yt-dlp to extract his raw multi-channel stream directly from the servers. Then, I used foobar2000 alongside a custom .cue script to perform a bit-perfect, lossless split of the timeline into 10 individual tracks. Now, anyone can play this masterpiece perfectly on a PC via foobar2000 or MPC-HC with true, uncompressed 5.1 surround sound.<br>
+<br>
+Tracklist:<br>
+01 - Perth<br>
+02 - Minnesota, WI<br>
+03 - Holocene<br>
+04 - Towers<br>
+05 - Michicant<br>
+06 - Hinnom, TX<br>
+07 - Wash.<br>
+08 - Calgary<br>
+09 - Lisbon, OH<br>
+10 - Beth / Rest<br>
+<br>
+RAR/ZIP Password: sharemania.us 
 
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre> Audio Technical Info: Container: ZIP / FLAC Channels: 6 channels (5.1 Surround Sound) Sample Rate: 44,100 Hz Bitrate: ~3,125 kbps Bit Depth: 24-bit (Auto Lossless Split) Dynamic Range: DR16 </pre>
+</div>
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
 </div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[SnoopyPBG]]></author>
+                <author><![CDATA[hyf5]]></author>
                 </item>
 
                 </channel></rss>
