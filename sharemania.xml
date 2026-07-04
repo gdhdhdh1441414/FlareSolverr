@@ -8,48 +8,32 @@
 
  
                 <item>
-                <title><![CDATA[【Documentaries】Michael.2026.1080p.USA.Blu-ray.AVC.TrueHD.Atmos.7.1-TMT]]></title>
-                <link><![CDATA[https://sharemania.us/threads/michael-2026-1080p-usa-blu-ray-avc-truehd-atmos-7-1-tmt.303404/]]></link>
+                <title><![CDATA[【Cinema Center】SERIES - Rick &amp; Morty Season 3 1080p enhanced Blu-Ray - Includes commentaries - SVT-AV1 - OCRd subtitles [4.24GB]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/rick-morty-season-3-1080p-enhanced-blu-ray-includes-commentaries-svt-av1-ocrd-subtitles-4-24gb.303405/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz4eNiujZnWRP_e9z_RWEPob3pAZj7eHXMB2nBH1zOX5FGeJWtg2kSbHJ3&amp;s=10" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz4eNiujZnWRP_e9z_RWEPob3pAZj7eHXMB2nBH1zOX5FGeJWtg2kSbHJ3&amp;s=10" style=""> <br>
+					<div style="text-align: center">Season 3 Blu-Ray of R&amp;M is kind of dissapointing image quality wise. It has compression artifacting in almost every scene which looks crappy on my big monitor. So i took on a project to enhance the image quality. This isn't anything drastic, it's more of a subtle image enhancement while keeping the file size smaller. You be the judge yourself<br>
 <br>
-
-
-
-<div class="bbCodeBlock bbCodeQuote">
-	<aside>
-		
-		<blockquote class="quoteContainer"><div class="quote">The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.</div><div class="quoteExpand">Click to expand...</div></blockquote>
-	</aside>
-</div><img src="https://img4k.net/images/2026/07/04/fer0o-Z8.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://img4k.net/images/2026/07/04/fer0o-Z8.png" style=""> <br>
-<img src="https://img4k.net/images/2026/07/04/7e4QN9F.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://img4k.net/images/2026/07/04/7e4QN9F.png" style=""> <br>
 <br>
-
-
-
-<div class="bbCodeBlock bbCodeQuote">
-	<aside>
-		
-		<blockquote class="quoteContainer"><div class="quote"><b>Disc Title</b>    : Michael - Blu-ray™<br>
-<b>Disc Label</b>    : MICHAEL<br>
-<b>Disc Size</b>     : 44,730,204,060 bytes<br>
-<b>Protection</b>    : AACS<br>
-<b>Playlist</b>      : 00800.MPLS<br>
-<b>Size</b>          : 37,289,041,920 bytes<br>
-<b>Length</b>        : 02:07:21.675<br>
-<b>Total Bitrate</b> : 39.04 Mbps<br>
-<b>Video</b>         : MPEG-4 AVC Video / 30,000 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1<br>
-<b>Audio</b>         : English / Dolby TrueHD/Atmos Audio / 7.1 / 48 kHz /  4411 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   640 kbps / DN -31dB)<br>
-<b>Audio</b>         : English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -31dB<br>
-<b>Audio</b>         : Spanish / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB<br>
-<b>Audio</b>         : French / Dolby Digital Audio / 5.1 / 48 kHz /   448 kbps / DN -31dB<br>
-<b>Subtitle</b>      : English / 46.31 kbps<br>
-<b>Subtitle</b>      : Spanish / 22.65 kbps<br>
-<b>Subtitle</b>      : French / 23.69 kbps</div><div class="quoteExpand quoteCut">Click to expand...</div></blockquote>
-	</aside>
-</div>Download Link - Mega.nz<br>
+<img src="https://i.imgur.com/w0RzgaZ.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/w0RzgaZ.png" style=""><br>
+<img src="https://i.imgur.com/oi13OIE.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/oi13OIE.png" style=""><br>
+<br>
+<br>
+Personally i'm happy to have surpassed Blu-Ray image quality while only having a quarter of the size. My process was to extract every bluray frame as a lossless png image, then using waifu2x as a light denoise and 2x upscale. After that i used lanscoz to downscale back to 1080p, and encoded the result with SVT-AV1 4.1 at RF19, preset 0. This results in a more stable image as you can see from the images above.<br>
+<br>
+As for the audio, i just used Opus 1.6.1 with compression 10 at 320kbps on 24bit TrueHD track. I've been testing all kinds of bitrates and 320 results in the smallest transparent quality file size.<br>
+<br>
+___________________________________________________________________________________________________<br>
+<br>
+<br>
+I also OCRd the subtitles because they're big ugly blurry PGS files. They look like crap, and take a lot of space. I OCRd them, so now they're a fraction of the size, take less space, are sharper, and much more customizable.<br>
+<br>
+<img src="https://i.imgur.com/Aet1Fvh.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/Aet1Fvh.jpeg" style=""><br>
+<br>
+<br>
+I also left in all commentaries just for funsies. This includes the Marilyn Manson and Game of Thrones commentaries (Episodes 1 &amp; 3).<br>
+<br>
 <br>
 
 
@@ -57,12 +41,12 @@
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div></div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[OfficerHighTower]]></author>
+                <author><![CDATA[someone5112]]></author>
                 </item>
 
                 </channel></rss>
