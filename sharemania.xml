@@ -8,41 +8,31 @@
 
  
                 <item>
-                <title><![CDATA[【Instrumentals / Karaoke (lossless)】FLAC - Madonna - CONFESSIONS II: Instrumentals | Qobuz Hi-Res 24bit / 44.1kHz]]></title>
-                <link><![CDATA[https://sharemania.us/threads/madonna-confessions-ii-instrumentals-qobuz-hi-res-24bit-44-1khz.303559/]]></link>
+                <title><![CDATA[【General Music Discussion】UMG releases - watermarked audios and source swapping]]></title>
+                <link><![CDATA[https://sharemania.us/threads/umg-releases-watermarked-audios-and-source-swapping.303574/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<div style="text-align: center"><b><img src="https://images.genius.com/5d8d8db48c3e71104827f6151735f493.1000x1000x1.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images.genius.com/5d8d8db48c3e71104827f6151735f493.1000x1000x1.png" style=""><br>
-Disc 2</b> (01:02:39)<br>
-<b>1.</b> Madonna – I Feel So Free (instrumental) <i>(04:56)</i><br>
-<b>2.</b> Madonna – Good for the Soul (instrumental) <i>(03:02)</i><br>
-<b>3.</b> Madonna – One Step Away (instrumental) <i>(04:33)</i><br>
-<b>4.</b> Madonna – Bring Your Love (instrumental) <i>(03:34)</i><br>
-<b>5.</b> Madonna – Danceteria (instrumental) <i>(03:53)</i><br>
-<b>6.</b> Madonna – Read My Lips (instrumental) <i>(04:47)</i><br>
-<b>7.</b> Madonna – Everything (instrumental) <i>(04:04)</i><br>
-<b>8.</b> Madonna – Love Sensation (instrumental) <i>(03:38)</i><br>
-<b>9.</b> Madonna – Love Without Words (instrumental) <i>(04:24)</i><br>
-<b>10.</b> Madonna – Bizarre (instrumental) <i>(03:50)</i><br>
-<b>11.</b> Madonna – School (instrumental) <i>(04:17)</i><br>
-<b>12.</b> Madonna – Fragile (instrumental) <i>(04:25)</i><br>
-<b>13.</b> Madonna – My Sins Are My Savior (instrumental) <i>(03:09)</i><br>
-<b>14.</b> Madonna – Betrayal (instrumental) <i>(03:53)</i><br>
-<b>15.</b> Madonna – The Test (instrumental) <i>(03:26)</i><br>
-<b>16.</b> Madonna – L.E.S. Girl (instrumental) <i>(02:48)</i><br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div></div>
+					As some of you might have noticed already, Universal Music Group (UMG) almost always upload a version that seems to be watermarked right at album's release. Then, they’ll swap it out for the official version a few hours later.<br>
+<br>
+For Local Releases: The swap generally happens shortly after midnight E.T.<br>
+For Global Simultaneous Releases (Midnight E.T.): It roughly takes about half a day to be replaced.<br>
+<br>
+Qobuz seems to have a slightly different timeline for these swaps, though I haven't done enough testing to give exact conclusion.<br>
+<br>
+That aside, I can confirm that TIDAL, Apple Music, and Amazon Music usually share the same source provided by the label. Qobuz frequently adjusts the peak levels. (I confirmed this by comparing the streaming versions of you seem pretty sad of a girl so in love with the original WAV files from Olivia Rodrigo’s official German webstore)<br>
+<br>
+If you want to track this yourself, you can check the Audio MD5 (not file MD5) to verify audio identity — foobar2000 has a built-in tool for this, or you can use other checksum utilities.<br>
+<br>
+To check if it's just a peak level adjustment: Normalize the peak levels of both tracks to the exact same value. Align them in your DAW and flip the phase on one of them. If the resulting audio peak drops below roughly -60dB and is completely silent to the ear, it's just a peak level adjustment.<br>
+<br>
+The situation at HIGHRESAUDIO is a little different. Occasionally, a few tracks there won't match the source used by TIDAL and the others. There are a few exceptions. For example, Jessie Ware’s SUPERBLOOM, HIGHRESAUDIO and Spotify share one source, while TIDAL, Apple Music, and Amazon Music use a different one.<br>
+<br>
+Maybe we have to double-check every UMG release to see if they've changed the source after release. So far, Sony and Warner don't seem to be doing this.
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[BBPP]]></author>
+                <author><![CDATA[abdci]]></author>
                 </item>
 
                 </channel></rss>
