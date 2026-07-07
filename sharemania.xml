@@ -8,15 +8,14 @@
 
  
                 <item>
-                <title><![CDATA[【UPSCALED】Nelly &amp; Fergie - Party People [AI UPSCALE 2160p]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/nelly-fergie-party-people-ai-upscale-2160p.303607/]]></link>
+                <title><![CDATA[【Unreleased/Unofficial (lossy)】Dolby Atmos - Lady Gaga - MAYHEM (NRX Atmos Mix) / E-AC-3 JOC 5.1 / 768kbps]]></title>
+                <link><![CDATA[https://sharemania.us/threads/lady-gaga-mayhem-nrx-atmos-mix-e-ac-3-joc-5-1-768kbps.303608/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.ibb.co/V0x12jqM/Party-People-mkv-00-36-243.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/V0x12jqM/Party-People-mkv-00-36-243.png" style=""><br>
-<img src="https://i.ibb.co/tM6R9TZb/Party-People-mkv-01-12-823.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/tM6R9TZb/Party-People-mkv-01-12-823.png" style=""><br>
-<img src="https://i.ibb.co/DHMThFYk/Party-People-mkv-01-26-335.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/DHMThFYk/Party-People-mkv-01-26-335.png" style=""><br>
-<img src="https://i.ibb.co/JWvWYgYb/Party-People-mkv-03-41-722.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/JWvWYgYb/Party-People-mkv-03-41-722.png" style=""><br>
+					<div style="text-align: center"><img src="https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/85/96/e5/8596e5c9-ea5d-f074-14ab-0def74d49a41/Job55a60f4d-834e-43b4-b0ac-bc65708cbd78-187464330-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_366977506_2078765148-Time1741332248310.png/3000x3000.webp" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/85/96/e5/8596e5c9-ea5d-f074-14ab-0def74d49a41/Job55a60f4d-834e-43b4-b0ac-bc65708cbd78-187464330-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_366977506_2078765148-Time1741332248310.png/3000x3000.webp" style=""> <br>
+<b><span style="font-size: 18px">FANMADE!<br>
+</span></b>​</div><b><span style="font-size: 18px"><br>
 
 
 
@@ -26,73 +25,94 @@
 
 <div class="bbCodeBlock bbCodeCode">
 	<div class="type">Code:</div>
-	<pre>General
-Format                                   : Matroska
-Format version                           : Version 4
-File size                                : 302 MiB
-Duration                                 : 4 min 3 s
-Overall bit rate                         : 10.4 Mb/s
-Frame rate                               : 24.000 FPS
-Writing application                      : Lavf58.29.100
-Writing library                          : Lavf58.29.100
-ErrorDetectionType                       : Per level 1
-DATE                                     : 2026:06:24 08:33:48
+	<pre>Format                      : MPEG-4
 
-Video
-ID                                       : 2
-Format                                   : VP9
-Format profile                           : 0
-Codec ID                                 : V_VP9
-Duration                                 : 4 min 3 s
-Width                                    : 2 880 pixels
-Height                                   : 2 160 pixels
-Display aspect ratio                     : 4:3
-Frame rate mode                          : Constant
-Frame rate                               : 24.000 FPS
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0
-Bit depth                                : 8 bits
-Default                                  : Yes
-Forced                                   : No
-Color range                              : Limited
-Color primaries                          : BT.709
-Transfer characteristics                 : BT.709
-Matrix coefficients                      : BT.709
+Format profile              : Base Media / Version 2
+Codec ID                    : mp42 (mp42/isom)
+File size                   : -
+Duration                    : -
+Overall bit rate mode       : Constant
+Overall bit rate            : 793 kb/s
+Title                       : -
+Album                       : MAYHEM
+Track name/Position         : 1
+Track name/Total            : 17
+Performer                   : Lady Gaga
+Genre                       : Pop
+Recorded date               : 2025
+Encoded date                : 2026-06-15 14:47:01 UTC
+Tagged date                 : 2026-06-15 14:47:01 UTC
+Copyright                   : 2025 Interscope Records
+Cover                       : Yes
+Cover type                  : Cover
 
 Audio
-ID                                       : 1
-Format                                   : AAC LC
-Format/Info                              : Advanced Audio Codec Low Complexity
-Codec ID                                 : A_AAC-2
-Duration                                 : 4 min 3 s
-Channel(s)                               : 2 channels
-Channel layout                           : L R
-Sampling rate                            : 44.1 kHz
-Frame rate                               : 43.066 FPS (1024 SPF)
-Compression mode                         : Lossy
-Default                                  : Yes
-Forced                                   : No
+ID                          : 1
+Format                      : E-AC-3 JOC
+Format/Info                 : Enhanced AC-3 with Joint Object Coding
+Commercial name             : Dolby Digital Plus with Dolby Atmos
+Codec ID                    : ec-3
+Duration                    : -
+Bit rate mode               : Constant
+Bit rate                    : 768 kb/s
+Channel(s)                  : 6 channels
+Channel layout              : L R C LFE Ls Rs
+Sampling rate               : 48.0 kHz
+Frame rate                  : 31.250 FPS (1536 SPF)
+Compression mode            : Lossy
+Stream size                 : -
+Service kind                : Complete Main
+Default                     : Yes
+Alternate group             : 2
+Encoded date                : 2026-06-15 14:47:01 UTC
+Tagged date                 : 2026-06-15 14:47:01 UTC
+Complexity index            : 16
+Number of dynamic objects   : 15
+Bed channel count           : 1 channel
+Bed channel configuration   : LFE
+Dialog Normalization        : -19 dB
+compr                       : -0.28 dB
+dmixmod                     : Lt/Rt
+ltrtcmixlev                 : -3.0 dB
+ltrtsurmixlev               : -3.0 dB
+lorocmixlev                 : -3.0 dB
+lorosurmixlev               : -3.0 dB
+dialnorm_Average            : -19 dB
+dialnorm_Minimum            : -19 dB
+dialnorm_Maximum            : -19 dB
+
+Image
+Type                        : Cover
+Format                      : JPEG
+Muxing mode                 : moov-meta-covr
+Width                       : 3 000 pixels
+Height                      : 3 000 pixels
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Compression mode            : Lossy
+Stream size                 : 669 KiB (3%)
+ColorSpace_ICC              : RGB
+colour_primaries_ICC_Descri : sRGB
 
 </pre>
 </div></div>
-</div>
+</div><br>
+<br>
+</span></b><br>
+<div style="text-align: center"><b><span style="font-size: 18px">Download (Google Drive)<br>
 
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Download</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
 	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div>
-</div>
+</div></span></b>​</div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[JL92]]></author>
+                <author><![CDATA[narXerino]]></author>
                 </item>
 
                 </channel></rss>
