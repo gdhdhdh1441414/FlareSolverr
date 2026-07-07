@@ -8,15 +8,15 @@
 
  
                 <item>
-                <title><![CDATA[【UPSCALED】Rihanna - Umbrella (feat. Jay-Z) [AI UPSCALE 2160p]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/rihanna-umbrella-feat-jay-z-ai-upscale-2160p.303616/]]></link>
+                <title><![CDATA[【UPSCALED】Rihanna - Disturbia [AI UPSCALE 2160p]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/rihanna-disturbia-ai-upscale-2160p.303617/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.ibb.co/wrdPd0Nw/Umbrella-mkv-00-16-600.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/wrdPd0Nw/Umbrella-mkv-00-16-600.png" style=""><br>
-<img src="https://i.ibb.co/1Hg1JG1/Umbrella-mkv-00-34-332.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/1Hg1JG1/Umbrella-mkv-00-34-332.png" style=""><br>
-<img src="https://i.ibb.co/k25K8zWJ/Umbrella-mkv-01-17-917.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/k25K8zWJ/Umbrella-mkv-01-17-917.png" style=""><br>
-<img src="https://i.ibb.co/C3Nfy5Yj/Umbrella-mkv-01-49-533.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/C3Nfy5Yj/Umbrella-mkv-01-49-533.png" style=""><br>
+					<img src="https://i.ibb.co/TD1JHdjj/Disturbia-mkv-00-22-682.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/TD1JHdjj/Disturbia-mkv-00-22-682.png" style=""><br>
+<img src="https://i.ibb.co/bMzM2WZw/Disturbia-mkv-00-25-900.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/bMzM2WZw/Disturbia-mkv-00-25-900.png" style=""><br>
+<img src="https://i.ibb.co/4nVFYvL6/Disturbia-mkv-00-28-667.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/4nVFYvL6/Disturbia-mkv-00-28-667.png" style=""><br>
+<img src="https://i.ibb.co/Zzw85Sb4/Disturbia-mkv-01-40-600.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/Zzw85Sb4/Disturbia-mkv-01-40-600.png" style=""><br>
 
 
 
@@ -27,24 +27,25 @@
 <div class="bbCodeBlock bbCodeCode">
 	<div class="type">Code:</div>
 	<pre>General
+Format                                   : Matroska
 Format version                           : Version 4
-File size                                : 471 MiB
-Duration                                 : 4 min 19 s
-Overall bit rate                         : 15.3 Mb/s
+File size                                : 433 MiB
+Duration                                 : 4 min 20 s
+Overall bit rate                         : 14.0 Mb/s
 Frame rate                               : 60.119 FPS
 Writing application                      : Lavf58.29.100
 Writing library                          : Lavf58.29.100
 ErrorDetectionType                       : Per level 1
-DATE                                     : 2026:06:26 08:29:38
+DATE                                     : 2026:06:28 05:38:51
 
 Video
 ID                                       : 2
 Format                                   : VP9
 Format profile                           : 0
 Codec ID                                 : V_VP9
-Duration                                 : 4 min 19 s
+Duration                                 : 4 min 20 s
 Width                                    : 3 840 pixels
-Height                                   : 2 112 pixels
+Height                                   : 2 160 pixels
 Display aspect ratio                     : 16:9
 Frame rate mode                          : Constant
 Frame rate                               : 60.119 FPS
@@ -60,14 +61,13 @@ Matrix coefficients                      : BT.709
 
 Audio
 ID                                       : 1
-Format                                   : AAC LC
-Format/Info                              : Advanced Audio Codec Low Complexity
-Codec ID                                 : A_AAC-2
-Duration                                 : 4 min 19 s
+Format                                   : Opus
+Codec ID                                 : A_OPUS
+Duration                                 : 4 min 20 s
 Channel(s)                               : 2 channels
 Channel layout                           : L R
-Sampling rate                            : 44.1 kHz
-Frame rate                               : 43.066 FPS (1024 SPF)
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 32 bits
 Compression mode                         : Lossy
 Default                                  : Yes
 Forced                                   : No
