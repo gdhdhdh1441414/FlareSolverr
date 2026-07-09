@@ -34,7 +34,7 @@ def check_flaresolverr_result(result_bytes):
 # ↑↑↑ 新增结束 ↑↑↑
 
 # 使用 subprocess 模块调用 curl 命令，并捕获命令输出结果
-curl_cmd = "curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"https://sharemania.us/\",\"maxTimeout\": 16000}' | tee ./FlareSolverr.log"
+curl_cmd = "curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"https://sharemania.us/\",\"maxTimeout\": 18000}' | tee ./FlareSolverr.log"
 
 result = subprocess.check_output(curl_cmd, shell=True)
 
@@ -123,7 +123,7 @@ for link in new_links:
                 )
                 response = uc_result.stdout
             else:
-                curl_cmd = "curl -s 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"" + url + "\",\"maxTimeout\": 60000}'"
+                curl_cmd = "curl -s 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"" + url + "\",\"maxTimeout\": 18000}'"
                 result = subprocess.check_output(curl_cmd, shell=True)
 
                 # ↓↓↓ 新增 ↓↓↓
