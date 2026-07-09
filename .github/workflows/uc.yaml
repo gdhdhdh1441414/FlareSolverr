@@ -44,6 +44,8 @@ jobs:
            python sb.py https://www.do-mi.cc/?s=. | tee do-mi.html
            python sb.py "https://www.facebook.com/aki.thrash.1" | tee  aki.thrash.1.html
            python sb.py "https://video.unext.jp/live/browse/group/LGP0000000001" | tee  unext.html
+           python sb.py "https://sharemania.us/threads/evanescence-live-in-s%C3%A3o-paulo-2023-documentary-sanctuary-deluxe-bdrip-1080p.301716/ " | tee  sharemania_uc.html
+           
            
            #删除bin/ky-github.json
            rm -rf bin/ky-github.json
