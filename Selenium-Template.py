@@ -16,18 +16,32 @@ hour = now.strftime("%H")
 # 睡眠 20 秒以确保 flaresolverr.py 已经启动
 time.sleep(36)
 
+# ↓↓↓ 新增：FlareSolverr 连续失败计数器 ↓↓↓
+fail_count = 0
+
+def check_flaresolverr_result(result_bytes):
+    """检测本次 FlareSolverr 请求是否失败，累计连续失败次数，达到2次则退出"""
+    global fail_count
+    text = result_bytes.decode('utf-8', errors='ignore')
+    if "Error solving the challenge" in text:
+        fail_count += 1
+        print(f"FlareSolverr 请求失败，连续失败 {fail_count} 次")
+        if fail_count >= 2:
+            print("FlareSolverr 连续2次请求失败，脚本彻底退出")
+            sys.exit(1)
+    else:
+        fail_count = 0  # 成功一次就清零
+# ↑↑↑ 新增结束 ↑↑↑
+
 # 使用 subprocess 模块调用 curl 命令，并捕获命令输出结果
 curl_cmd = "curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"https://sharemania.us/\",\"maxTimeout\": 16000}' | tee ./FlareSolverr.log"
 
 result = subprocess.check_output(curl_cmd, shell=True)
 
-with open("./FlareSolverr.log", "r", encoding="utf-8", errors="ignore") as f:
-    log_content = f.read()
+# ↓↓↓ 新增 ↓↓↓
+check_flaresolverr_result(result)
+# ↑↑↑ 新增结束 ↑↑↑
 
-if log_content.count("Error solving the challenge") >= 2:
-    print("FlareSolverr 连续报错 2 次，脚本彻底退出")
-    sys.exit(1)
-    
 # 假设 result 是字节数据（如从网络请求获取的响应）
 try:
     # 尝试解析 JSON
@@ -112,11 +126,10 @@ for link in new_links:
                 curl_cmd = "curl -s 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"" + url + "\",\"maxTimeout\": 60000}'"
                 result = subprocess.check_output(curl_cmd, shell=True)
 
+                # ↓↓↓ 新增 ↓↓↓
+                check_flaresolverr_result(result)
+                # ↑↑↑ 新增结束 ↑↑↑
 
-                result_text = result.decode('utf-8', errors='ignore')
-                if result_text.count("Error solving the challenge") >= 2:
-                  print("FlareSolverr 连续报错 2 次，脚本彻底退出")
-                  sys.exit(1)
                 data = json.loads(result.decode('utf-8'))
                 response = data.get("solution", {}).get("response")
                 print(result)
