@@ -21,6 +21,13 @@ curl_cmd = "curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' 
 
 result = subprocess.check_output(curl_cmd, shell=True)
 
+with open("./FlareSolverr.log", "r", encoding="utf-8", errors="ignore") as f:
+    log_content = f.read()
+
+if log_content.count("Error solving the challenge") >= 2:
+    print("FlareSolverr 连续报错 2 次，脚本彻底退出")
+    sys.exit(1)
+    
 # 假设 result 是字节数据（如从网络请求获取的响应）
 try:
     # 尝试解析 JSON
@@ -104,6 +111,12 @@ for link in new_links:
             else:
                 curl_cmd = "curl -s 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"" + url + "\",\"maxTimeout\": 60000}'"
                 result = subprocess.check_output(curl_cmd, shell=True)
+
+
+                result_text = result.decode('utf-8', errors='ignore')
+                if result_text.count("Error solving the challenge") >= 2:
+                  print("FlareSolverr 连续报错 2 次，脚本彻底退出")
+                  sys.exit(1)
                 data = json.loads(result.decode('utf-8'))
                 response = data.get("solution", {}).get("response")
                 print(result)
