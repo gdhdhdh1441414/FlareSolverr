@@ -19,28 +19,33 @@ time.sleep(36)
 # ↓↓↓ 新增：FlareSolverr 连续失败计数器 ↓↓↓
 fail_count = 0
 
-def check_flaresolverr_result(result_bytes):
-    """检测本次 FlareSolverr 请求是否失败，累计连续失败次数，达到2次则退出"""
+def run_flaresolverr_request(curl_cmd):
+    """执行 curl 请求，若报错或返回内容不含 'ShareMania.US</title>' 视为失败；
+       连续失败2次则退出脚本。成功则重置计数并返回 result（bytes）。"""
     global fail_count
-    text = result_bytes.decode('utf-8', errors='ignore')
-    if "Error solving the challenge" in text:
+    try:
+        result = subprocess.check_output(curl_cmd, shell=True)
+        text = result.decode('utf-8', errors='ignore')
+        if "ShareMania.US</title>" not in text:
+            raise ValueError("返回内容不含 ShareMania.US</title>")
+    except Exception as e:
         fail_count += 1
-        print(f"FlareSolverr 请求失败，连续失败 {fail_count} 次")
+        print(f"FlareSolverr 请求失败（{e}），连续失败 {fail_count} 次")
         if fail_count >= 2:
             print("FlareSolverr 连续2次请求失败，脚本彻底退出")
             sys.exit(1)
-    else:
-        fail_count = 0  # 成功一次就清零
+        return None
+
+    fail_count = 0  # 成功一次就清零
+    return result
 # ↑↑↑ 新增结束 ↑↑↑
 
 # 使用 subprocess 模块调用 curl 命令，并捕获命令输出结果
-curl_cmd = "curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"https://sharemania.us/\",\"maxTimeout\": 18000}' | tee ./FlareSolverr.log"
+curl_cmd = "curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"https://sharemania.us/\",\"maxTimeout\": 17000}' | tee ./FlareSolverr.log"
 
-result = subprocess.check_output(curl_cmd, shell=True)
-
-# ↓↓↓ 新增 ↓↓↓
-check_flaresolverr_result(result)
-# ↑↑↑ 新增结束 ↑↑↑
+# ↓↓↓ 修改：改用封装函数发起请求 ↓↓↓
+result = run_flaresolverr_request(curl_cmd)
+# ↑↑↑ 修改结束 ↑↑↑
 
 # 假设 result 是字节数据（如从网络请求获取的响应）
 try:
@@ -123,12 +128,14 @@ for link in new_links:
                 )
                 response = uc_result.stdout
             else:
-                curl_cmd = "curl -s 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"" + url + "\",\"maxTimeout\": 18000}'"
-                result = subprocess.check_output(curl_cmd, shell=True)
+                curl_cmd = "curl -s 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"" + url + "\",\"maxTimeout\": 17000}'"
 
-                # ↓↓↓ 新增 ↓↓↓
-                check_flaresolverr_result(result)
-                # ↑↑↑ 新增结束 ↑↑↑
+                # ↓↓↓ 修改：改用封装函数发起请求 ↓↓↓
+                result = run_flaresolverr_request(curl_cmd)
+                if result is None:
+                    # 本次失败但未达到连续2次，继续重试
+                    continue
+                # ↑↑↑ 修改结束 ↑↑↑
 
                 data = json.loads(result.decode('utf-8'))
                 response = data.get("solution", {}).get("response")
