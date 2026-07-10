@@ -16,6 +16,34 @@ hour = now.strftime("%H")
 # 睡眠 20 秒以确保 flaresolverr.py 已经启动
 time.sleep(36)
 
+# ↓↓↓ 新增：解析 cookie 字符串为 FlareSolverr 需要的 [{"name":..,"value":..}, ...] 格式 ↓↓↓
+COOKIE_STRING = "lsc_active=1; lsc_active=1; lsc_active=1; xf_user=2354%2C5a2f477b349cd8bead; _lscache_vary=1; xf_keywords_2354=50%20Cent%20featuring%20Olivia%20-%20Candy%20Shop; xf_session=5ad56ae8; cf_clearance=R"
+
+def parse_cookie_string(cookie_str):
+    cookies = []
+    for pair in cookie_str.split(';'):
+        pair = pair.strip()
+        if not pair:
+            continue
+        name, _, value = pair.partition('=')
+        cookies.append({"name": name, "value": value})
+    return cookies
+
+COOKIES = parse_cookie_string(COOKIE_STRING)
+
+def build_payload_file(url, max_timeout, payload_path="./flaresolverr_payload.json"):
+    """把请求体写入临时 json 文件，避免在 shell 命令行里手动转义特殊字符"""
+    payload = {
+        "cmd": "request.get",
+        "url": url,
+        "maxTimeout": max_timeout,
+        "cookies": COOKIES
+    }
+    with open(payload_path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False)
+    return payload_path
+# ↑↑↑ 新增结束 ↑↑↑
+
 # ↓↓↓ 新增：FlareSolverr 连续失败计数器 ↓↓↓
 fail_count = 0
 
@@ -41,9 +69,9 @@ def run_flaresolverr_request(curl_cmd):
 # ↑↑↑ 新增结束 ↑↑↑
 
 # 使用 subprocess 模块调用 curl 命令，并捕获命令输出结果
-curl_cmd = "curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"https://sharemania.us/\",\"maxTimeout\": 17000}' | tee ./FlareSolverr.log"
-
-# ↓↓↓ 修改：改用封装函数发起请求 ↓↓↓
+# ↓↓↓ 修改：改用带 cookie 的 payload 文件发起请求 ↓↓↓
+payload_path = build_payload_file("https://sharemania.us/", 16000)
+curl_cmd = f"curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data-binary @{payload_path} | tee ./FlareSolverr.log"
 result = run_flaresolverr_request(curl_cmd)
 # ↑↑↑ 修改结束 ↑↑↑
 
@@ -128,9 +156,9 @@ for link in new_links:
                 )
                 response = uc_result.stdout
             else:
-                curl_cmd = "curl -s 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data '{\"cmd\": \"request.get\",\"url\":\"" + url + "\",\"maxTimeout\": 17000}'"
-
-                # ↓↓↓ 修改：改用封装函数发起请求 ↓↓↓
+                # ↓↓↓ 修改：改用带 cookie 的 payload 文件发起请求 ↓↓↓
+                payload_path = build_payload_file(url, 60000)
+                curl_cmd = f"curl -s 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data-binary @{payload_path}"
                 result = run_flaresolverr_request(curl_cmd)
                 if result is None:
                     # 本次失败但未达到连续2次，继续重试
