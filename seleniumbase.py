@@ -5,3 +5,4 @@ with SB(uc=True, test=True, locale="en", xvfb=True) as sb:
     sb.activate_cdp_mode(url)
     sb.uc_gui_click_captcha()
     sb.sleep(2)
+    print(sb.get_page_source())
