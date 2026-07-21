@@ -1,3 +1,5 @@
+threads/sabrina-carpenter-fast-times-single-24bit-44-1khz.304695/
+threads/sabrina-carpenter-feather-sped-up-24bit-48khz.304694/
 threads/req-audio-abba-gold-anniversary-edition-3-discs.304693/
 threads/perfume-nebula-romance-part-ii.304692/
 threads/ne-yo-highway-79-eac3-joc-16bit-48khz-768kbps-5-1s.304691/
@@ -20,5 +22,3 @@ threads/star-wars-the-mandalorian-and-grogu-2026-1080p-amzn-webrip-x265-6ch-supa
 threads/gracie-abrams-daughter-from-hell-bonus-tracks-atmos.304674/
 threads/meg-dia-cocoon-2011-flac-16-bits-44-1-khz.304673/
 threads/johnny-jane-plan-b-2026-flac-24-bit-44-1-khz.304672/
-threads/mademoiselle-lou-mieux-que-toi-2026-flac-24-bit-44-1-khz.304671/
-threads/marius-pardon-2023-flac-16-bit-44-1-khz.304670/
