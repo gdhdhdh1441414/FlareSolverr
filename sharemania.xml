@@ -8,67 +8,150 @@
 
  
                 <item>
-                <title><![CDATA[【Unreleased/Unofficial (lossy)】PACK - Madonna - The Complete Instrumental Albums (1983 - 2008) Directory]]></title>
-                <link><![CDATA[https://sharemania.us/threads/madonna-the-complete-instrumental-albums-1983-2008-directory.304786/]]></link>
+                <title><![CDATA[【HD Live Performances】FEED - ESPY Awards S01E34 2026 1080p HDTV Backhaul FLAC 5.1 H.264-TrollHD]]></title>
+                <link><![CDATA[https://sharemania.us/threads/espy-awards-s01e34-2026-1080p-hdtv-backhaul-flac-5-1-h-264-trollhd.304787/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<div style="text-align: center"><b><img src="https://i.imgur.gg/kMeAj22-folder.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.gg/kMeAj22-folder.jpg" style=""> <br>
+					<div style="padding-left: 30px"><div style="padding-left: 30px"><div style="padding-left: 30px"><div style="padding-left: 30px"><div style="padding-left: 30px"><div style="padding-left: 30px"><div style="padding-left: 30px"><b><span style="font-size: 26px"><span style="color: #ff0000">ESPY Awards S01E34 2026 <br>
+1080p HDTV   BACKHAUL <br>
+FLAC 5.1 H.264-TrollHD</span></span></b>​</div></div></div></div></div></div></div><img src="https://i.imgur.com/Dfv3ovm.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/Dfv3ovm.jpeg" style=""> <br>
 <br>
-Madonna The Complete Instrumental Albums (1983 - 2008)<br>
-</b><br>
-To make things easier for everyone, I've created a directory containing Madonna instrumentals. Feel free to browse, download, and enjoy the collection.<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                      : 237294956215721152726527396455042728559 (0xB285589F6F781AE3239B21BD4437426F)
+Format                         : Matroska
+Format version                 : Version 4
+File size                      : 16.4 GiB
+Duration                       : 2 h 13 min
+Overall bit rate mode          : Variable
+Overall bit rate               : 17.7 Mb/s
+Encoded date                   : UTC 2026-07-20 23:51:56
+Writing application            : mkvmerge v100.0 ('Do Hot Girls Like Chords') 64-bit
+Writing library                : libebml v1.4.5 + libmatroska v1.7.1
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L4.2
+Format settings                : CABAC / 2 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 2 frames
+Format settings, GOP           : M=3, N=24
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 2 h 13 min
+Bit rate                       : 15.8 Mb/s
+Width                          : 1 920 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 59.940 (60000/1001) FPS
+Standard                       : Component
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.127
+Stream size                    : 14.6 GiB (89%)
+Writing library                : x264 core 160 r3000
+Encoding settings              : cabac=1 / ref=2 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=3 / threads=20 / lookahead_threads=5 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=1 / keyint=96 / keyint_min=9 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=cbr / mbtree=1 / bitrate=15808 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=15808 / vbv_bufsize=7902 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                        : Yes
+Forced                         : No
+Color range                    : Limited
+Color primaries                : BT.709
+Transfer characteristics       : BT.709
+Matrix coefficients            : BT.709
+
+Audio #1
+ID                             : 2
+Format                         : FLAC
+Format/Info                    : Free Lossless Audio Codec
+Codec ID                       : A_FLAC
+Duration                       : 2 h 13 min
+Bit rate mode                  : Variable
+Bit rate                       : 1 607 kb/s
+Channel(s)                     : 6 channels
+Channel layout                 : L R C LFE Ls Rs
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 11.719 FPS (4096 SPF)
+Bit depth                      : 16 bits
+Compression mode               : Lossless
+Stream size                    : 1.50 GiB (9%)
+Title                          : 5.1
+Writing library                : libFLAC 1.4.2 (UTC 2022-10-22)
+Language                       : English
+Default                        : Yes
+Forced                         : No
+
+Audio #2
+ID                             : 3
+Format                         : MPEG Audio
+Format version                 : Version 1
+Format profile                 : Layer 2
+Codec ID                       : A_MPEG/L2
+Codec ID/Hint                  : MP2
+Duration                       : 2 h 13 min
+Bit rate mode                  : Constant
+Bit rate                       : 384 kb/s
+Channel(s)                     : 2 channels
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 41.667 FPS (1152 SPF)
+Compression mode               : Lossy
+Stream size                    : 366 MiB (2%)
+Title                          : 2.0
+Language                       : English
+Default                        : No
+Forced                         : No
+
+</pre>
+</div>
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div><br>
 <br>
-<b>Source:</b><br>
 <br>
-Some of the instrumentals were extracted directly from Madonna's official maxi-singles and EPs, then organized into a single collection.<br>
-<br>
-For tracks that were not officially released as instrumentals, I sourced them from various websites to make the collection as complete as possible. I also converted the audio files from MP3 320 kbps to M4A 256 kbps (AAC) for better compatibility with Apple devices and apps.<br>
-<br>
-<b><b><b>Madonna - Madonna: Instrumentals (1983) <b><b>| </b></b>AAC 256kbps / 48kHz</b></b></b><br>
-<a href="https://sharemania.us/threads/madonna-madonna-instrumentals-1983-aac-256kbps-48khz.304462/" class="internalLink">https://sharemania.us/threads/madonna-madonna-instrumentals-1983-aac-256kbps-48khz.304462/</a> <br>
-<b><br>
-<b>Madonna - Like A Virgin: Instrumentals (1984) <b><b>| </b></b>AAC 256kbps / 48kHz </b></b><br>
-<a href="https://sharemania.us/threads/madonna-like-a-virgin-instrumentals-1984-aac-256kbps-48khz.304506/" class="internalLink">https://sharemania.us/threads/madonna-like-a-virgin-instrumentals-1984-aac-256kbps-48khz.304506/</a> <br>
-<b><b><br>
-<b>Madonna - True Blue: Instrumentals (1986) <b><b>| </b></b>AAC 256kbps / 48kHz </b></b></b><br>
-<a href="https://sharemania.us/threads/madonna-true-blue-instrumentals-1986-aac-256kbps-48khz.304509/" class="internalLink">https://sharemania.us/threads/madonna-true-blue-instrumentals-1986-aac-256kbps-48khz.304509/</a> <br>
-<b><b><b><br>
-<b>Madonna - Like A Prayer: Instrumentals (1989) <b><b>| </b></b>AAC 256kbps / 48kHz </b></b></b></b><br>
-<a href="https://sharemania.us/threads/madonna-like-a-prayer-instrumentals-1989-aac-256kbps-48khz.304511/" class="internalLink">https://sharemania.us/threads/madonna-like-a-prayer-instrumentals-1989-aac-256kbps-48khz.304511/</a> <br>
-<b><b><b><b><br>
-<b>Madonna - Erotica: Instrumentals (1992) <b><b>| </b></b>AAC 256kbps / 48kHz </b></b></b></b></b><br>
-<a href="https://sharemania.us/threads/madonna-erotica-instrumentals-1992-aac-256kbps-48khz.304566/" class="internalLink">https://sharemania.us/threads/madonna-erotica-instrumentals-1992-aac-256kbps-48khz.304566/</a> <br>
-<b><b><b><b><b><br>
-<b>Madonna - Bedtime Stories: Instrumentals (1994) <b><b>| </b></b>AAC 256kbps / 48kHz </b></b></b></b></b></b><br>
-<a href="https://sharemania.us/threads/madonna-bedtime-stories-instrumentals-1994-aac-256kbps-48khz.304655/" class="internalLink">https://sharemania.us/threads/madonna-bedtime-stories-instrumentals-1994-aac-256kbps-48khz.304655/</a> <br>
-<b><b><b><b><b><b><br>
-<b>Madonna - Something To Remember: Instrumentals (1995) | AAC 256kbps / 48kHz </b></b></b></b></b></b></b><br>
-<a href="https://sharemania.us/threads/madonna-something-to-remember-instrumentals-1995-aac-256kbps-48khz.304657/" class="internalLink">https://sharemania.us/threads/madon...-instrumentals-1995-aac-256kbps-48khz.304657/</a> <br>
-<b><b><b><b><b><b><b><br>
-<b>Madonna - Ray Of Light: Instrumentals (1998) | AAC 256kbps / 48kHz </b></b></b></b></b></b></b></b><br>
-<a href="https://sharemania.us/threads/madonna-ray-of-light-instrumentals-1998-aac-256kbps-48khz.304659/" class="internalLink">https://sharemania.us/threads/madonna-ray-of-light-instrumentals-1998-aac-256kbps-48khz.304659/</a><b><b> <br>
-<b><b><b><b><b><b><br>
-<b>Madonna - Music: Instrumentals (2000) <b>| </b>AAC 256kbps / 44.1kHz </b></b></b></b></b></b></b></b></b><br>
-<a href="https://sharemania.us/threads/madonna-music-instrumentals-2000-aac-256kbps-44-1khz.304759/" class="internalLink">https://sharemania.us/threads/madonna-music-instrumentals-2000-aac-256kbps-44-1khz.304759/</a> <br>
-<b><b><b><b><b><b><b><b><b><br>
-<b>Madonna - American Life: Instrumentals (2003) CDRip | FLAC 16bit / 44.1kHz </b></b></b></b></b></b></b></b></b></b><br>
-<a href="https://sharemania.us/threads/madonna-american-life-instrumentals-2003-cdrip-16bit-44-1khz.304218/" class="internalLink">https://sharemania.us/threads/madonna-american-life-instrumentals-2003-cdrip-16bit-44-1khz.304218/</a> <br>
-<b><b><b><b><b><b><b><b><b><b><br>
-<b>Madonna - Confessions On A Dance Floor: Instrumentals (2005) | AAC 256kbps / 48kHz </b></b></b></b></b></b></b></b></b></b></b><br>
-<a href="https://sharemania.us/threads/madonna-confessions-on-a-dance-floor-instrumentals-2005-aac-256kbps-48khz.304151/" class="internalLink">https://sharemania.us/threads/madon...-instrumentals-2005-aac-256kbps-48khz.304151/</a> <br>
-<b><b><b><b><b><b><b><b><b><b><b><br>
-<b>Madonna - Hard Candy: Instrumentals (2008) <b>| </b>AAC 256kbps / 48kHz </b></b></b></b></b></b></b></b></b></b></b></b><br>
-<a href="https://sharemania.us/threads/madonna-hard-candy-instrumentals-2008-aac-256kbps-48khz.304760/" class="internalLink">https://sharemania.us/threads/madonna-hard-candy-instrumentals-2008-aac-256kbps-48khz.304760/</a> <br>
-<b><b><b><b><b><b><b><b><b><b><b><b><br>
-<b>Madonna - Celebration: Instrumentals (2009) <b><b>| </b></b>AAC 256kbps / 48kHz </b></b></b></b></b></b></b></b></b></b></b></b></b><br>
-<a href="https://sharemania.us/threads/madonna-celebration-instrumentals-2009-aac-256kbps-48khz.304771/" class="internalLink">https://sharemania.us/threads/madonna-celebration-instrumentals-2009-aac-256kbps-48khz.304771/</a> <br>
-<b><b><b><b><b><b><b><b><b><b><b><b><b><br>
-</b></b></b></b></b></b></b></b></b></b></b></b></b>​</div>
+<b><span style="font-size: 18px"><span style="color: #ff0000">Credits goes to <a href="https://sharemania.us/members/1219/" class="username" data-user="1219, @TrollHD">@TrollHD</a> !!!</span></span></b><br>
+<b><span style="font-size: 18px"><span style="color: #ff0000"><br>
+<img src="styles/default/xenforo/smilies/super_man-48.png" class="mceSmilie" alt=":super:" title="Super Man    :super:"><img src="styles/default/xenforo/smilies/super_man-48.png" class="mceSmilie" alt=":super:" title="Super Man    :super:"><img src="styles/default/xenforo/smilies/super_man-48.png" class="mceSmilie" alt=":super:" title="Super Man    :super:"></span></span></b>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[brucedixon]]></author>
+                <author><![CDATA[Dream66]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - The Beaches - Southside Festival 2026 [ARTE Concert - HVC1] by Batfan]]></title>
+                <link><![CDATA[https://sharemania.us/threads/the-beaches-southside-festival-2026-arte-concert-hvc1-by-batfan.304788/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Ripped directly from Arte concert website<br>
+<br>
+<img src="https://i.ibb.co/XZF9TRrd/The-Beaches-Southside-Festival-2026-ARTE-Concert-HVC1-by-Batfan-mkv-thumbs.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/XZF9TRrd/The-Beaches-Southside-Festival-2026-ARTE-Concert-HVC1-by-Batfan-mkv-thumbs.jpg" style=""> <br>
+<br>
+Hope you enjoy it <img src="styles/default/xenforo/smilies/big_smile-48.png" class="mceSmilie" alt=":)" title="Smile    :)"><br>
+<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Batfan]]></author>
                 </item>
 
                 </channel></rss>
