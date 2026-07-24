@@ -8,38 +8,241 @@
 
  
                 <item>
-                <title><![CDATA[【Cinema Center】SERIES - Entrevista con el vampiro S03 (1080p) WEB-DL [latino-Inglés] [Multi Subs]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/entrevista-con-el-vampiro-s03-1080p-web-dl-latino-ingl%C3%A9s-multi-subs.304870/]]></link>
+                <title><![CDATA[【HD Live Performances】FEED - Post Malone - iShowSpeed - Swae Lee - FIFA World Cup 2026 Closing Ceremony - 1080p HLG HDTV Backhaul FLAC 5.1 H.264-TrollHD]]></title>
+                <link><![CDATA[https://sharemania.us/threads/post-malone-ishowspeed-swae-lee-fifa-world-cup-2026-closing-ceremony-1080p-hlg-hdtv-backhaul-flac-5-1-h-264-trollhd.304871/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.imgur.com/Y774gAy.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/Y774gAy.jpeg" style=""> <br>
+					<div style="padding-left: 30px"><div style="padding-left: 30px"><div style="padding-left: 30px"><b><span style="font-size: 26px"><span style="color: rgb(255, 0, 0)">Post Malone - iShowSpeed - Swae Lee <br>
+FIFA World Cup 2026 Closing Ceremony  </span></span></b>​</div></div><b><span style="font-size: 26px"><span style="color: rgb(255, 0, 0)">1080p HLG HDTV Backhaul FLAC 5.1 H.264-TrollHD</span></span></b>​</div><br>
+<img src="https://i.imgur.com/huP2KJk.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/huP2KJk.jpeg" style=""><br>
 <br>
-Fuente video: WEB-DL 1080p H264 (AVC)<br>
-Fuente audios: WEB-DL EAC3 5.1 a 640 kb/s<br>
-Idiomas audios: English <br>
-Idiomas audios: Español (Latinoamérica) <br>
-Formato de subtítulos: SubRip (.srt)<br>
-Idiomas subtitulos: Español (Latinoamérica),English y Portugues Brasileño<br>
-Tamaño: 2.34 GB aproximados<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                      : 145418597074664236721158093861409795604 (0x6D669A61FD16AE8088E3978B16A42E14)
+Format                         : Matroska
+Format version                 : Version 4
+File size                      : 2.00 GiB
+Duration                       : 9 min 38 s
+Overall bit rate mode          : Variable
+Overall bit rate               : 29.7 Mb/s
+Encoded date                   : UTC 2026-07-24 00:38:07
+Writing application            : mkvmerge v24.0.0 ('Beyond The Pale') 32-bit
+Writing library                : libebml v1.3.6 + libmatroska v1.4.9
+
+Video
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High 4:2:2@L4.2
+Format settings                : 2 Ref Frames
+Format settings, CABAC         : No
+Format settings, Reference fra : 2 frames
+Codec ID                       : V_MPEG4/ISO/AVC
+Duration                       : 9 min 38 s
+Bit rate                       : 28.2 Mb/s
+Width                          : 1 920 pixels
+Height                         : 1 080 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 59.940 (60000/1001) FPS
+Standard                       : Component
+Color space                    : YUV
+Chroma subsampling             : 4:2:2
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.227
+Stream size                    : 1.85 GiB (92%)
+Writing library                : x264 core 160 r3000
+Encoding settings              : cabac=0 / ref=2 / deblock=1:0:0 / analyse=0x3:0x113 / me=hex / subme=4 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=3 / threads=20 / lookahead_threads=5 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=1 / keyint=286 / keyint_min=28 / scenecut=0 / intra_refresh=0 / rc_lookahead=20 / rc=cbr / mbtree=1 / bitrate=28182 / ratetol=1.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=28182 / vbv_bufsize=28000 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=1:1.00
+Default                        : Yes
+Forced                         : No
+Color range                    : Limited
+Color primaries                : BT.2020
+Transfer characteristics       : HLG / HLG
+Matrix coefficients            : BT.2020 non-constant
+
+Audio #1
+ID                             : 2
+Format                         : FLAC
+Format/Info                    : Free Lossless Audio Codec
+Codec ID                       : A_FLAC
+Duration                       : 9 min 38 s
+Bit rate mode                  : Variable
+Bit rate                       : 1 920 kb/s
+Channel(s)                     : 6 channels
+Channel layout                 : L R C LFE Ls Rs
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 11.719 FPS (4096 SPF)
+Bit depth                      : 16 bits
+Compression mode               : Lossless
+Stream size                    : 132 MiB (6%)
+Title                          : 5.1
+Writing library                : libFLAC 1.4.2 (UTC 2022-10-22)
+Language                       : English
+Default                        : Yes
+Forced                         : No
+
+Audio #2
+ID                             : 3
+Format                         : MPEG Audio
+Format version                 : Version 1
+Format profile                 : Layer 2
+Codec ID                       : A_MPEG/L2
+Codec ID/Hint                  : MP2
+Duration                       : 9 min 38 s
+Bit rate mode                  : Constant
+Bit rate                       : 384 kb/s
+Channel(s)                     : 2 channels
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 41.667 FPS (1152 SPF)
+Compression mode               : Lossy
+Stream size                    : 26.5 MiB (1%)
+Title                          : 2.0
+Language                       : English
+Default                        : No
+Forced                         : No
+
+</pre>
+</div>
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div><br>
 <br>
+<span style="font-size: 26px">Cutted with:</span><br>
+<b><span style="font-size: 26px">MKVToolNix GUI<br>
 <br>
+<img src="styles/default/xenforo/smilies/super_man-48.png" class="mceSmilie" alt=":super:" title="Super Man    :super:"><img src="styles/default/xenforo/smilies/super_man-48.png" class="mceSmilie" alt=":super:" title="Super Man    :super:"><img src="styles/default/xenforo/smilies/super_man-48.png" class="mceSmilie" alt=":super:" title="Super Man    :super:"></span></b>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Dream66]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Requests】[REQ CAP] - Fuji Rock Festival 2026]]></title>
+                <link><![CDATA[https://sharemania.us/threads/fuji-rock-festival-2026.304873/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Can anyone possibly get some of these sets?<br>
 <br>
-Capturas<br>
+(<a href="https://en.fujirockfestival.com/news/feat14?utm_campaign=224905_20260723" target="_blank" class="externalLink" rel="nofollow">https://en.fujirockfestival.com/news/feat14?utm_campaign=224905_20260723</a>)<br>
 <br>
-<img src="https://i.imgur.com/IXjfOQc.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/IXjfOQc.png" style=""> <img src="https://i.imgur.com/EdWp8Lb.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/EdWp8Lb.png" style=""><br>
- 
+I'm mainly interested in the day 2 sets by Fujii Kaze and XG and the Day 3 set by Mitski as I will be unable to watch them due to time differences.<br>
+Thanks in advance.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[thefoolontehhill]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】HDTV - KT Tunstall - Medley [2026 Commonwealth Games Opening Ceremony 23 July 2026 7HD] H.264 1080i DD2.0 azamusic]]></title>
+                <link><![CDATA[https://sharemania.us/threads/kt-tunstall-medley-2026-commonwealth-games-opening-ceremony-23-july-2026-7hd-h-264-1080i-dd2-0-azamusic.304872/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					She performed at the end of the Opening Ceremony in Glasgow.<br>
+<br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Media Info</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">General<br>
+ID                             : 1 (0x1)<br>
+Complete name                  : D:\KT Tunstall - Medley [2026 Commonwealth Games Opening Ceremony 23 July 2026 7HD]_azamusic.ts<br>
+Format                         : MPEG-TS<br>
+File size                      : 388 MiB<br>
+Duration                       : 8 min 46 s<br>
+Overall bit rate mode          : Variable<br>
+Overall bit rate               : 6 187 kb/s<br>
+Frame rate                     : 25.000 FPS<br>
+<br>
+Video<br>
+ID                             : 1089 (0x441)<br>
+Menu ID                        : 1348 (0x544)<br>
+Format                         : AVC<br>
+Format/Info                    : Advanced Video Codec<br>
+Format profile                 : High@L4<br>
+Format settings                : CABAC / 4 Ref Frames<br>
+Format settings, CABAC         : Yes<br>
+Format settings, Reference fra : 4 frames<br>
+Format settings, GOP           : M=8, N=24<br>
+Codec ID                       : 27<br>
+Duration                       : 8 min 46 s<br>
+Bit rate                       : 5 493 kb/s<br>
+Width                          : 1 920 pixels<br>
+Height                         : 1 080 pixels<br>
+Display aspect ratio           : 16:9<br>
+Frame rate                     : 25.000 FPS<br>
+Color space                    : YUV<br>
+Chroma subsampling             : 4:2:0<br>
+Bit depth                      : 8 bits<br>
+Scan type                      : MBAFF<br>
+Scan type, store method        : Interleaved fields<br>
+Scan order                     : Top Field First<br>
+Bits/(Pixel*Frame)             : 0.106<br>
+Stream size                    : 345 MiB (89%)<br>
+<br>
+Audio<br>
+ID                             : 1091 (0x443)<br>
+Menu ID                        : 1348 (0x544)<br>
+Format                         : AC-3<br>
+Format/Info                    : Audio Coding 3<br>
+Commercial name                : Dolby Digital<br>
+Codec ID                       : 6<br>
+Duration                       : 8 min 46 s<br>
+Bit rate mode                  : Constant<br>
+Bit rate                       : 384 kb/s<br>
+Channel(s)                     : 2 channels<br>
+Channel layout                 : L R<br>
+Sampling rate                  : 48.0 kHz<br>
+Frame rate                     : 31.250 FPS (1536 SPF)<br>
+Compression mode               : Lossy<br>
+Delay relative to video        : -80 ms<br>
+Stream size                    : 24.1 MiB (6%)<br>
+Language                       : English<br>
+Service kind                   : Complete Main<br>
+Dialog Normalization           : -24 dB<br>
+compr                          : 0.53 dB<br>
+dynrng                         : 0.27 dB<br>
+ltrtcmixlev                    : -3.0 dB<br>
+ltrtsurmixlev                  : -3.0 dB<br>
+lorocmixlev                    : -3.0 dB<br>
+lorosurmixlev                  : -3.0 dB<br>
+dialnorm_Average               : -24 dB<br>
+dialnorm_Minimum               : -24 dB<br>
+dialnorm_Maximum               : -24 dB<br>
+<br>
+Text<br>
+ID                             : 1092 (0x444)-801<br>
+Menu ID                        : 1348 (0x544)<br>
+Format                         : Teletext Subtitle<br>
+Language                       : English</div>
+</div><br>
+
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
 	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
+</div><img src="https://www.aaronsouth.com/azamusic/KTTunstall_commgames2026.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://www.aaronsouth.com/azamusic/KTTunstall_commgames2026.jpg" style="">
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[Subtronics]]></author>
+                <author><![CDATA[azamusic]]></author>
                 </item>
 
                 </channel></rss>
