@@ -8,112 +8,23 @@
 
  
                 <item>
-                <title><![CDATA[【HD Live Performances】WEB-DL - TOMORA - 2026-07-25 live Fuji Rock Festival (1080p VFR 192Kbps AAC LC 16x9 twitch stream capture)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/tomora-2026-07-25-live-fuji-rock-festival-1080p-vfr-192kbps-aac-lc-16x9-twitch-stream-capture.305862/]]></link>
+                <title><![CDATA[【Singles (lossless)】FLAC - Britney Spears - Remixes (1998-2004)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/britney-spears-remixes-1998-2004.305863/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					TOMORA - 2026-07-25 live Fuji Rock Festival (1080p VFR 192Kbps AAC LC 16x9 twitch stream capture)<br>
+					...Baby One More Time (Remixes) 1998<br>
 <br>
-TOMORA<br>
-Fuji Rock Festival 2026<br>
-Naeba Ski Resort<br>
-Yuzawa<br>
-Japan<br>
-July 25, 2026<br>
-<br>
-TOMORA is Tom Rowlands (The Chemical Brothers), Aurora Aksnes (AURORA), and Amalie Holt Kleive (AURORA)<br>
-<br>
-Despite the lower bitrate, this is far better for remastering via AI than the other version shared (which is a 10.5Mbps screen recording with unfixable macroblocking, judder, and glitches). This gig should respond well to the new video supersampling remastering process called HAFVSP.<br>
-<br>
-About the logo: I'm not sure why twitch didn't use their logo (or none).<br>
-<br>
-I know the capturer's prior work and verified the process used. This was the only gig from Fuji Rock he/she captured. Unless one of the other 6 billion folks who could have captured the festival shares their captures, the rest is lost media.<br>
-<br>
-VFR was confirmed with ffmpeg -vf vfrdet. If pushed, Gemini Flash Extended AI has an algorithm to create temporally correct 29.97FPS CFR interpolation using Topaz Video AI Chronos via the CLI. You must use real Chronos CFR video not fake CFR (that ffmpeg can do) for use with most remastering processes. Topaz will need real CFR to produce judder free output.<br>
-<br>
-TOMORA uses a lot of pink lighting. Videocameras can't focus on pink due to a physics issue called longitudinal chromatic aberration. Red and blue are at opposite ends of the visible spectrum and lenses put the focused light in different planes.<br>
-<br>
-I hope to remaster this at the original 1920x1080p resolution at 59.94fps, and other TOMORA videos with HAFVSP which may reduce or eliminate the pink blur. Sharemania has a upscales forum. Post your best effort (use your process or HAFVSP). Be sure to include your source file (or link/description), detailed process, and lineage.<br>
-<br>
-Lineage:<br>
-twitch.tv webcast -&gt; streamlink -&gt; .ts -&gt; trim with avidemux in lossless mode -&gt; .mp4<br>
-<br>
-Setlist:<br>
-00:00 Intro<br>
-01:22 RING THE ALARM<br>
-06:05 MY BABY<br>
-10:19 Starvation<br>
-15:44 The Universe Sent Me<br>
-21:19 THE THING<br>
-27:26 SOMEWHERE ELSE<br>
-33:19 Eve Of Destruction<br>
-39:23 I DRINK THE LIGHT<br>
-47:13 PLEASE<br>
-47:46 COME CLOSER<br>
-50:56 WHAT DO WE GOT?<br>
-55:19 IN A MINUTE<br>
-<br>
-Mediainfo:<br>
-General<br>
-Complete name : TOMORA - 2026-07-25 live Fuji Rock Festival (1080p VFR 192Kbps AAC LC 16x9 twitch stream capture).mp4<br>
-Format : MPEG-4<br>
-Format profile : Base Media<br>
-Codec ID : isom (isom/iso2/avc1/mp41)<br>
-File size : 2.39 GiB<br>
-Duration : 1 h 12 min<br>
-Overall bit rate : 4 722 kb/s<br>
-Writing application : Lavf58.76.100<br>
-<br>
-Video<br>
-ID : 1<br>
-Format : AVC<br>
-Format/Info : Advanced Video Codec<br>
-Format profile : Main@L4<br>
-HDR format : SMPTE ST 2086, HDR10 compatible<br>
-Format settings : CABAC / 1 Ref Frames<br>
-Format settings, CABAC : Yes<br>
-Format settings, Reference frames : 1 frame<br>
-Format settings, GOP : M=1, N=30<br>
-Codec ID : avc1<br>
-Codec ID/Info : Advanced Video Coding<br>
-Duration : 1 h 12 min<br>
-Bit rate : 4 521 kb/s<br>
-Width : 1 920 pixels<br>
-Height : 1 080 pixels<br>
-Display aspect ratio : 16:9<br>
-Frame rate mode : Variable<br>
-Frame rate : 29.970 FPS<br>
-Color space : YUV<br>
-Chroma subsampling : 4:2:0<br>
-Bit depth : 8 bits<br>
-Scan type : Progressive<br>
-Bits/(Pixel*Frame) : 0.073<br>
-Stream size : 2.29 GiB (96%)<br>
-Transfer characteristics : BT.709<br>
-Codec configuration box : avcC<br>
-<br>
-Audio<br>
-ID : 2<br>
-Format : AAC LC<br>
-Format/Info : Advanced Audio Codec Low Complexity<br>
-Codec ID : mp4a-40-2<br>
-Duration : 1 h 12 min<br>
-Source duration : 1 h 12 min<br>
-Source_Duration_LastFrame : -11 ms<br>
-Bit rate mode : Constant<br>
-Bit rate : 192 kb/s<br>
-Channel(s) : 2 channels<br>
-Channel layout : L R<br>
-Sampling rate : 48.0 kHz<br>
-Frame rate : 46.875 FPS (1024 SPF)<br>
-Compression mode : Lossy<br>
-Stream size : 99.7 MiB (4%)<br>
-Source stream size : 99.7 MiB (4%)<br>
-Default : Yes<br>
-Alternate group : 1<br>
-mdhd_Duration : 4354342<br>
-<br>
+...Baby One More Time (Boy Wunder Radio Mix)<br>
+...Baby One More Time (Davidson Ospina Chronicles Dub) (Vinyl)<br>
+...Baby One More Time (Davidson Ospina Club Mix)<br>
+...Baby One More Time (Davidson Ospina Radio Mix)<br>
+...Baby One More Time (Instrumental)<br>
+...Baby One More Time (Lenny Bertoldo Mix)<br>
+...Baby One More Time (Original)<br>
+...Baby One More Time (Sharp Platinum Vocal Edit)<br>
+...Baby One More Time (Sharp Platinum Vocal Remix)<br>
+...Baby One More Time (Sharp Trade Dub) (Vinyl)<br>
 <br>
 
 
@@ -121,12 +32,180 @@ mdhd_Duration : 4354342<br>
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>(You Drive Me) Crazy (Remixes) 1999<br>
+<br>
+(You Drive Me) Crazy (Jazzy Jim's Hip-Hop Bonus Beats)<br>
+(You Drive Me) Crazy (Jazzy Jim's Hip-Hop Mix)<br>
+(You Drive Me) Crazy (Johnick Dub)<br>
+(You Drive Me) Crazy (Lenny B Club Mix)<br>
+(You Drive Me) Crazy (Mike Ski Dub)<br>
+(You Drive Me) Crazy (Mike Ski Horn Build)<br>
+(You Drive Me) Crazy (Pimp Juice's Donkey Punch Dub)<br>
+(You Drive Me) Crazy (Pimp Juice's Souled Out 4 Tha Suits Vocal Mix)<br>
+(You Drive Me) Crazy (Spacedust Club Mix)<br>
+(You Drive Me) Crazy (Spacedust Dark Dub)<br>
+(You Drive Me) Crazy (Spacedust Pop Vocal Mix) (Vinyl)<br>
+(You Drive Me) Crazy (The Rascal Dub)<br>
+(You Drive Me) Crazy (The Stop Remix!) (Instrumental)<br>
+(You Drive Me) Crazy (The Stop Remix!)<br>
+<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>Lucky (Remixes) 2000<br>
+<br>
+Lucky (Album Version)<br>
+Lucky (Instrumental)<br>
+Lucky (Jack D. Elliot Club Mix)<br>
+Lucky (Jack D. Elliot Radio Mix)<br>
+Lucky (Jason Nevins Club Creation)<br>
+Lucky (Jason Nevins Mixshow Edit)<br>
+Lucky (Jason Nevins Radio Remix)<br>
+Lucky (Riprock 'n' Alex G. Extended Club Mix)<br>
+Lucky (Riprock 'n' Alex G. Radio Mix)<br>
+<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>Don't Let Me Be The Last To Know (Remixes) 2001<br>
+<br>
+Don't Let Me Be The Last To Know (Album Version)<br>
+Don't Let Me Be The Last To Know (Azza Remix)<br>
+Don't Let Me Be The Last To Know (Hex Hector Club Instrumental)<br>
+Don't Let Me Be The Last To Know (Hex Hector Club Mix)<br>
+Don't Let Me Be The Last To Know (Hex Hector Dub)<br>
+Don't Let Me Be The Last To Know (Hex Hector Radio Mix)<br>
+Don't Let Me Be The Last To Know (Instrumental)<br>
+Don't Let Me Be The Last To Know (Thunderpuss Club Mix)<br>
+Don't Let Me Be The Last To Know (Thunderpuss Drumapella)<br>
+Don't Let Me Be The Last To Know (Thunderpuss Dub)<br>
+Don't Let Me Be The Last To Know (Thunderpuss Radio Mix)<br>
+<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>Overprotected (Remixes) 2002<br>
+<br>
+Overprotected (Album Version Radio Edit)<br>
+Overprotected (Album Version) (Instrumental) (Vinyl)<br>
+Overprotected (Album Version)<br>
+Overprotected (JS16 Dub)<br>
+Overprotected (JS16 Remix)<br>
+Overprotected (Richi Lopez Remix)<br>
+Overprotected (Riprock N Alex G. Remix)<br>
+Overprotected (The Darkchild Remix Radio Edit)<br>
+Overprotected (The Darkchild Remix) (Instrumental) (Vinyl)<br>
+Overprotected (The Darkchild Remix)<br>
+<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>I'm Not A Girl, Not Yet A Woman (Remixes) 2002<br>
+<br>
+I'm Not A Girl, Not Yet A Woman (2002 DT Christmas Express) (Instrumental)<br>
+I'm Not A Girl, Not Yet A Woman (2002 DT Christmas Express)<br>
+I'm Not A Girl, Not Yet A Woman (Album Version)<br>
+I'm Not A Girl, Not Yet A Woman (Boris &amp; Beck Remix)<br>
+I'm Not A Girl, Not Yet A Woman (Call Out Reserch Hook)<br>
+I'm Not A Girl, Not Yet A Woman (Chocolate Puma Dub)<br>
+I'm Not A Girl, Not Yet A Woman (Chocolate Puma Remix)<br>
+I'm Not A Girl, Not Yet A Woman (Instrumental)<br>
+I'm Not A Girl, Not Yet A Woman (Metro Radio Edit)<br>
+I'm Not A Girl, Not Yet A Woman (Metro Remix)<br>
+I'm Not A Girl, Not Yet A Woman (Snakehips Remix)<br>
+I'm Not A Girl, Not Yet A Woman (Spanish Fly Club Mix)<br>
+I'm Not A Girl, Not Yet A Woman (Spanish Fly Dub Mix)<br>
+I'm Not A Girl, Not Yet A Woman (Spanish Fly Remix Radio Edit)<br>
+I'm Not A Girl, Not Yet A Woman (Thunderdub)<br>
+I'm Not A Girl, Not Yet A Woman (Thunderpuss Club Mix)<br>
+I'm Not A Girl, Not Yet A Woman (Thunderpuss Radio Mix)<br>
+I'm Not A Girl, Not Yet A Woman (Thunderpuss Tribapella)<br>
+<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>Me Against The Music (Remixes) 2003<br>
+<br>
+Me Against The Music (B.E.D Club Mix)<br>
+Me Against The Music (Bloodshy &amp; Avant "Dubbie Style" Remix)<br>
+Me Against The Music (Bloodshy &amp; Avant Chix Mix)<br>
+Me Against The Music (Call-Out Research Hook #1)<br>
+Me Against The Music (Call-Out Research Hook #2)<br>
+Me Against The Music (DragonMan Remix)<br>
+Me Against The Music (Gabriel &amp; Dresden Club Mix)<br>
+Me Against The Music (Gabriel &amp; Dresden Dub) (Vinyl)<br>
+Me Against The Music (Gabriel &amp; Dresden Radio Edit)<br>
+Me Against The Music (Justice Extended Remix) (Vinyl)<br>
+Me Against The Music (Kanye West Remix)<br>
+Me Against The Music (Passengerz Vs. The Club Mix)<br>
+Me Against The Music (Peter Rauhofer's Electrohouse Dub) (Vinyl)<br>
+Me Against The Music (Peter Rauhofer's Electrohouse Mix) (Vinyl)<br>
+Me Against The Music (Peter Rauhofer's Radio Mix)<br>
+Me Against The Music (Rishi Rich's Desi Kulcha Remix Instrumental) (Vinyl)<br>
+Me Against The Music (Rishi Rich's Desi Kulcha Remix)<br>
+Me Against The Music (Rishi Rich's Punjabi Club Mix) (Vinyl)<br>
+Me Against The Music (Scott Storch Remix)<br>
+Me Against The Music (Terminalhead Vocal Mix)<br>
+Me Against The Music (The Mad Brit Mixshow)<br>
+Me Against The Music (The Trak Starz Remix)<br>
+Me Against The Music (Video Mix)<br>
+Me Against The Music (Video Mix Instrumental)<br>
+<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>Everytime (Remixes) 2004<br>
+<br>
+Everytime (Above &amp; Beyond's Club Mix)<br>
+Everytime (Above &amp; Beyond's Radio Mix)<br>
+Everytime (Album Version)<br>
+Everytime (Bermudez &amp; Harris Remix)<br>
+Everytime (Dr. Octavo Lucid Radio Mix)<br>
+Everytime (Dr. Octavo's Translucent Mixshow Edit)<br>
+Everytime (Dr. Octavo's Translucent Radio)<br>
+Everytime (Hi-Bias Radio Remix)<br>
+Everytime (The Scumfrog Haunted Dub)<br>
+Everytime (The Scumfrog Vocal Mix)<br>
+Everytime (Valentin Remix)<br>
+Everytime (Valentin Show Edit)<br>
+<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
 </div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[chvfan4932]]></author>
+                <author><![CDATA[borisnikolic851]]></author>
                 </item>
 
                 </channel></rss>
