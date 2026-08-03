@@ -8,23 +8,125 @@
 
  
                 <item>
-                <title><![CDATA[【PRORES HD】Tate McRae - Run For The Hills (ProRes 1080p)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/tate-mcrae-run-for-the-hills-prores-1080p.305858/]]></link>
+                <title><![CDATA[【HD Live Performances】WEB-DL - TOMORA - 2026-07-25 live Fuji Rock Festival (1080p VFR 192Kbps AAC LC 16x9 twitch stream capture)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/tomora-2026-07-25-live-fuji-rock-festival-1080p-vfr-192kbps-aac-lc-16x9-twitch-stream-capture.305862/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/84/77/72/8477725b-6148-b671-126e-95c7410f5dea/1968716049700101.jpg/10000x10000bb.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/84/77/72/8477725b-6148-b671-126e-95c7410f5dea/1968716049700101.jpg/10000x10000bb.jpg" style=""> 
+					TOMORA - 2026-07-25 live Fuji Rock Festival (1080p VFR 192Kbps AAC LC 16x9 twitch stream capture)<br>
+<br>
+TOMORA<br>
+Fuji Rock Festival 2026<br>
+Naeba Ski Resort<br>
+Yuzawa<br>
+Japan<br>
+July 25, 2026<br>
+<br>
+TOMORA is Tom Rowlands (The Chemical Brothers), Aurora Aksnes (AURORA), and Amalie Holt Kleive (AURORA)<br>
+<br>
+Despite the lower bitrate, this is far better for remastering via AI than the other version shared (which is a 10.5Mbps screen recording with unfixable macroblocking, judder, and glitches). This gig should respond well to the new video supersampling remastering process called HAFVSP.<br>
+<br>
+About the logo: I'm not sure why twitch didn't use their logo (or none).<br>
+<br>
+I know the capturer's prior work and verified the process used. This was the only gig from Fuji Rock he/she captured. Unless one of the other 6 billion folks who could have captured the festival shares their captures, the rest is lost media.<br>
+<br>
+VFR was confirmed with ffmpeg -vf vfrdet. If pushed, Gemini Flash Extended AI has an algorithm to create temporally correct 29.97FPS CFR interpolation using Topaz Video AI Chronos via the CLI. You must use real Chronos CFR video not fake CFR (that ffmpeg can do) for use with most remastering processes. Topaz will need real CFR to produce judder free output.<br>
+<br>
+TOMORA uses a lot of pink lighting. Videocameras can't focus on pink due to a physics issue called longitudinal chromatic aberration. Red and blue are at opposite ends of the visible spectrum and lenses put the focused light in different planes.<br>
+<br>
+I hope to remaster this at the original 1920x1080p resolution at 59.94fps, and other TOMORA videos with HAFVSP which may reduce or eliminate the pink blur. Sharemania has a upscales forum. Post your best effort (use your process or HAFVSP). Be sure to include your source file (or link/description), detailed process, and lineage.<br>
+<br>
+Lineage:<br>
+twitch.tv webcast -&gt; streamlink -&gt; .ts -&gt; trim with avidemux in lossless mode -&gt; .mp4<br>
+<br>
+Setlist:<br>
+00:00 Intro<br>
+01:22 RING THE ALARM<br>
+06:05 MY BABY<br>
+10:19 Starvation<br>
+15:44 The Universe Sent Me<br>
+21:19 THE THING<br>
+27:26 SOMEWHERE ELSE<br>
+33:19 Eve Of Destruction<br>
+39:23 I DRINK THE LIGHT<br>
+47:13 PLEASE<br>
+47:46 COME CLOSER<br>
+50:56 WHAT DO WE GOT?<br>
+55:19 IN A MINUTE<br>
+<br>
+Mediainfo:<br>
+General<br>
+Complete name : TOMORA - 2026-07-25 live Fuji Rock Festival (1080p VFR 192Kbps AAC LC 16x9 twitch stream capture).mp4<br>
+Format : MPEG-4<br>
+Format profile : Base Media<br>
+Codec ID : isom (isom/iso2/avc1/mp41)<br>
+File size : 2.39 GiB<br>
+Duration : 1 h 12 min<br>
+Overall bit rate : 4 722 kb/s<br>
+Writing application : Lavf58.76.100<br>
+<br>
+Video<br>
+ID : 1<br>
+Format : AVC<br>
+Format/Info : Advanced Video Codec<br>
+Format profile : Main@L4<br>
+HDR format : SMPTE ST 2086, HDR10 compatible<br>
+Format settings : CABAC / 1 Ref Frames<br>
+Format settings, CABAC : Yes<br>
+Format settings, Reference frames : 1 frame<br>
+Format settings, GOP : M=1, N=30<br>
+Codec ID : avc1<br>
+Codec ID/Info : Advanced Video Coding<br>
+Duration : 1 h 12 min<br>
+Bit rate : 4 521 kb/s<br>
+Width : 1 920 pixels<br>
+Height : 1 080 pixels<br>
+Display aspect ratio : 16:9<br>
+Frame rate mode : Variable<br>
+Frame rate : 29.970 FPS<br>
+Color space : YUV<br>
+Chroma subsampling : 4:2:0<br>
+Bit depth : 8 bits<br>
+Scan type : Progressive<br>
+Bits/(Pixel*Frame) : 0.073<br>
+Stream size : 2.29 GiB (96%)<br>
+Transfer characteristics : BT.709<br>
+Codec configuration box : avcC<br>
+<br>
+Audio<br>
+ID : 2<br>
+Format : AAC LC<br>
+Format/Info : Advanced Audio Codec Low Complexity<br>
+Codec ID : mp4a-40-2<br>
+Duration : 1 h 12 min<br>
+Source duration : 1 h 12 min<br>
+Source_Duration_LastFrame : -11 ms<br>
+Bit rate mode : Constant<br>
+Bit rate : 192 kb/s<br>
+Channel(s) : 2 channels<br>
+Channel layout : L R<br>
+Sampling rate : 48.0 kHz<br>
+Frame rate : 46.875 FPS (1024 SPF)<br>
+Compression mode : Lossy<br>
+Stream size : 99.7 MiB (4%)<br>
+Source stream size : 99.7 MiB (4%)<br>
+Default : Yes<br>
+Alternate group : 1<br>
+mdhd_Duration : 4354342<br>
+<br>
+<br>
+
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
 </div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[Aterix]]></author>
+                <author><![CDATA[chvfan4932]]></author>
                 </item>
 
                 </channel></rss>
