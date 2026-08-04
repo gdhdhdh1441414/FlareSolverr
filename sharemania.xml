@@ -8,90 +8,96 @@
 
  
                 <item>
-                <title><![CDATA[【HD Live Performances】FEED - CHVRCHES - Bonnaroo Music and Arts Festival (2022) 720p HDTV Backhaul MPA2.0 H.264-ALANiS]]></title>
-                <link><![CDATA[https://sharemania.us/threads/chvrches-bonnaroo-music-and-arts-festival-2022-720p-hdtv-backhaul-mpa2-0-h-264-alanis.305915/]]></link>
+                <title><![CDATA[【UPSCALED】Christina Aguilera - Keeps Gettin' Better [Starlight Precise / 1080p]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/christina-aguilera-keeps-gettin-better-starlight-precise-1080p.305916/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<b><span style="font-size: 26px"><span style="color: #ff0000">CHVRCHES - Bonnaroo Music and Arts Festival (2022) </span></span></b><br>
-<div style="padding-left: 30px"><div style="padding-left: 30px"><b><span style="font-size: 26px"><span style="color: #ff0000">720p HDTV Backhaul MPA2.0 H.264-ALANiS</span></span></b>​</div></div><br>
-<img src="https://i.imgur.com/5cVjPSu.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/5cVjPSu.jpeg" style=""><br>
-<br>
+					<img src="https://i.ibb.co/kVr2Qsjn/Keeps-Getting-Better-slp-mov-20260804-161243-150.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/kVr2Qsjn/Keeps-Getting-Better-slp-mov-20260804-161243-150.png" style=""><br>
+<img src="https://i.ibb.co/B2r0yjLP/Keeps-Getting-Better-slp-mov-20260804-161258-730.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/B2r0yjLP/Keeps-Getting-Better-slp-mov-20260804-161258-730.png" style=""><br>
+<img src="https://i.ibb.co/Zpjr8HC8/Keeps-Getting-Better-slp-mov-20260804-161331-047.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/Zpjr8HC8/Keeps-Getting-Better-slp-mov-20260804-161331-047.png" style=""><br>
+<img src="https://i.ibb.co/gZ3JZSnh/Keeps-Getting-Better-slp-mov-20260804-161355-797.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/gZ3JZSnh/Keeps-Getting-Better-slp-mov-20260804-161355-797.png" style=""><br>
 
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
 
 <div class="bbCodeBlock bbCodeCode">
 	<div class="type">Code:</div>
 	<pre>General
-Unique ID                      : 131926345990195595287174012744263512663 (0x6340170B8674A8ACCA9A468F6A33B257)
-Format                         : Matroska
-Format version                 : Version 4
-File size                      : 4.65 GiB
-Duration                       : 50 min 19 s
-Overall bit rate mode          : Constant
-Overall bit rate               : 13.2 Mb/s
-Encoded date                   : UTC 2026-08-04 18:35:25
-Writing application            : mkvmerge v24.0.0 ('Beyond The Pale') 32-bit
-Writing library                : libebml v1.3.6 + libmatroska v1.4.9
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 395 MiB
+Duration                                 : 3 min 1 s
+Overall bit rate                         : 18.2 Mb/s
+Frame rate                               : 50.000 FPS
+Writing application                      : Lavf62.13.100
+Writing library                          : Lavf62.13.100
+ErrorDetectionType                       : Per level 1
+CRC_Error_Pos                            : 625
+VIDEOAI                                  : Created by JL92
 
 Video
-ID                             : 1
-Format                         : AVC
-Format/Info                    : Advanced Video Codec
-Format profile                 : High@L3.2
-Format settings                : CABAC / 5 Ref Frames
-Format settings, CABAC         : Yes
-Format settings, Reference fra : 5 frames
-Codec ID                       : V_MPEG4/ISO/AVC
-Duration                       : 50 min 18 s
-Bit rate mode                  : Constant
-Bit rate                       : 13.0 Mb/s
-Nominal bit rate               : 14.1 Mb/s
-Width                          : 1 280 pixels
-Height                         : 720 pixels
-Display aspect ratio           : 16:9
-Frame rate mode                : Constant
-Frame rate                     : 59.940 (60000/1001) FPS
-Color space                    : YUV
-Chroma subsampling             : 4:2:0
-Bit depth                      : 8 bits
-Scan type                      : Progressive
-Bits/(Pixel*Frame)             : 0.235
-Stream size                    : 4.56 GiB (98%)
-Default                        : Yes
-Forced                         : No
-Color range                    : Limited
-Color primaries                : BT.709
-Transfer characteristics       : BT.709
-Matrix coefficients            : BT.709
+ID                                       : 1
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L4.1@High
+Codec ID                                 : V_MPEGH/ISO/HEVC
+Duration                                 : 3 min 1 s
+Bit rate                                 : 15.6 Mb/s
+Width                                    : 1 508 pixels
+Height                                   : 1 144 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 10 bits
+Bits/(Pixel*Frame)                       : 0.180
+Stream size                              : 337 MiB (85%)
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
 
 Audio
-ID                             : 2
-Format                         : MPEG Audio
-Format version                 : Version 1
-Format profile                 : Layer 2
-Codec ID                       : A_MPEG/L2
-Codec ID/Hint                  : MP2
-Duration                       : 50 min 18 s
-Bit rate mode                  : Constant
-Bit rate                       : 256 kb/s
-Channel(s)                     : 2 channels
-Sampling rate                  : 48.0 kHz
-Frame rate                     : 41.667 FPS (1152 SPF)
-Compression mode               : Lossy
-Delay relative to video        : 206 ms
-Stream size                    : 92.1 MiB (2%)
-Language                       : English
-Default                        : Yes
-Forced                         : No
+ID                                       : 2
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : A_PCM/INT/LIT
+Duration                                 : 3 min 1 s
+Bit rate mode                            : Constant
+Bit rate                                 : 2 304 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Stream size                              : 49.8 MiB (13%)
+Writing library                          : Lavc62.29.100 pcm_s24le
+Default                                  : Yes
+Forced                                   : No
+VENDOR_ID                                : [0][0][0][0]
 
 </pre>
-</div><b><span style="font-size: 26px"><span style="color: #ff0000"><span style="text-decoration: underline">LINK</span> <span style="text-decoration: underline">SOON</span>!!!<br>
-<br>
-<img src="styles/default/xenforo/smilies/super_man-48.png" class="mceSmilie" alt=":super:" title="Super Man    :super:"><img src="styles/default/xenforo/smilies/super_man-48.png" class="mceSmilie" alt=":super:" title="Super Man    :super:"><img src="styles/default/xenforo/smilies/super_man-48.png" class="mceSmilie" alt=":super:" title="Super Man    :super:"></span></span></b>
+</div></div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Download</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText"><div style="text-align: center">
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div></div></div>
+</div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[Dream66]]></author>
+                <author><![CDATA[JL92]]></author>
                 </item>
 
                 </channel></rss>
