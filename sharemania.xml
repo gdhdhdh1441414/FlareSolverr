@@ -8,22 +8,72 @@
 
  
                 <item>
-                <title><![CDATA[【Requests】[REQ VID] - The Odyssey 2026 HD leak]]></title>
-                <link><![CDATA[https://sharemania.us/threads/the-odyssey-2026-hd-leak.306062/]]></link>
+                <title><![CDATA[【Cinema Center】SERIES - The Amazing Digital Circus - Season 1 + The Last Act - Enhanced [1080p, DTS-HD MA]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/the-amazing-digital-circus-season-1-the-last-act-enhanced-1080p-dts-hd-ma.306063/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					Hiya! <br>
+					<div style="text-align: center"><span style="font-family: 'Verdana'"><span style="font-size: 18px"><b><span style="color: rgb(232, 42, 31)">The</span> <span style="color: rgb(0, 93, 194)">Amazing</span> <span style="color: rgb(255, 250, 30)">Digital</span> <span style="color: rgb(245, 81, 255)">Circus</span> - Enhanced Edition</b><br>
+</span></span>​</div><span style="font-family: 'Trebuchet MS'"><span style="font-size: 18px"><b>Purpose:</b></span></span><br>
+
+
+
+<div class="bbCodeBlock bbCodeQuote">
+	<aside>
+		
+		<blockquote class="quoteContainer"><div class="quote">I went and saw The Last Act (Episode 8 &amp; 9) in theaters and was blown away by how cleaner of a source Episode 8 was on the DCP and how nice Episode 9 looked compared to what I saw on YouTube once it was released. I wasn't surprised of course due to how the rest of the show looked online, so that planted a seed in the back of my mind that grew into the end result of this project. This project originally started as a simple reconstruction of The Last Act using an AI upscale of the fish intro and 2 shots of the series recap I couldn't source from the rest of the episodes at the beginning of the movie and the cleaner Netflix source to reconstruct the recap of the series, and I was reminded of the compression issues after the first render and I wanted to see what I could do to improve it. After being mostly impressed with what I was able to accomplish with AviSynth over AI tools to fix compression issues (Banding, blocking, aliasing), I switched to a AviSynth workflow and decided to expand the project to cover all of the episodes.</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div><b><span style="font-family: 'Trebuchet MS'"><span style="font-size: 18px">Process:</span></span></b><br>
+
+
+
+<div class="bbCodeBlock bbCodeQuote">
+	<aside>
+		
+		<blockquote class="quoteContainer"><div class="quote">I did a few visual comparisons and found that the Netflix WEB-DL's of the episodes were the better source detail and bitrate so I went with those and used a script that Debands, deblocks, performs some anti-aliasing and does a light warp-sharpen to further hide any aliasing issues and make the image slightly less soft. A light layer of grain was added over the image to help make the filter come together cohesively. I felt an authentic 35mm grain overlay wouldn't suit the 3D animation so I opted to use an AviSynth script to add a light layer onto the image. I also tweaked the saturation slightly to reduce some of the harsh colors the show had and brightness/contrast to address the Netflix version having lower contrast than the YouTube version.<br>
 <br>
-that thread <a href="https://sharemania.us/threads/the-odyssey-2026-was-leaked-in-hd.305235/#post-8109912" class="internalLink">https://sharemania.us/threads/the-odyssey-2026-was-leaked-in-hd.305235/#post-8109912</a><br>
+I also discovered that the Netflix source had more detail in the mix than the YouTube so I also opted to use that mix.<br>
 <br>
-Has been locked, and I couldn't comment to get the movie, would it be possible to get it under this one? <br>
+Around this time I decided I wanted to do a Blu-Ray release eventually for myself so I tested out converting to Dolby Digital AC3 and it compressed the detail similar to how the YouTube mixed looked. I ended up encoding in DTS-HD MA for compatibility with the higher quality preserved. YouTube subtitles were synced up and cleaned up and converted to SUP files for Blu-Ray compatibility as well. This project should be 100% Blu-Ray compatible but I haven't tested it myself yet.</div><div class="quoteExpand quoteCut">Click to expand...</div></blockquote>
+	</aside>
+</div><b><span style="font-family: 'Trebuchet MS'"><span style="font-size: 18px">Comparisons (<a href="https://slow.pics/c/BjhR7FnL" target="_blank" class="externalLink" rel="nofollow">Full Gallery</a>):</span></span></b><br>
+
+
+
+<div class="bbCodeBlock bbCodeQuote">
+	<aside>
+		
+		<blockquote class="quoteContainer"><div class="quote"><img src="https://i.slow.pics/u9rPZSs2.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.slow.pics/u9rPZSs2.png" style=""><img src="https://i.slow.pics/sFyeAO49.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.slow.pics/sFyeAO49.png" style=""><br>
 <br>
-Thanks!
+<img src="https://i.slow.pics/OLqBh4Li.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.slow.pics/OLqBh4Li.png" style=""><img src="https://i.slow.pics/Iyz03Ctu.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.slow.pics/Iyz03Ctu.png" style=""><br>
+<br>
+<img src="https://i.slow.pics/DGWoXw6Y.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.slow.pics/DGWoXw6Y.png" style=""><img src="https://i.slow.pics/wG85aZFO.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.slow.pics/wG85aZFO.png" style=""><br>
+<br>
+<img src="https://i.slow.pics/liLoiwE5.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.slow.pics/liLoiwE5.png" style=""><img src="https://i.slow.pics/2QFkie2f.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.slow.pics/2QFkie2f.png" style=""></div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div><b><span style="font-size: 18px">Downloads: (Mega)</span></b><br>
+<br>
+<b>Season 1 Enhanced:</b><br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div><b>The Last Act - Reconstruction:</b><br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[MiyamotoMusashi]]></author>
+                <author><![CDATA[narth]]></author>
                 </item>
 
                 </channel></rss>
