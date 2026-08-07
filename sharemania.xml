@@ -8,72 +8,216 @@
 
  
                 <item>
-                <title><![CDATA[【Cinema Center】SERIES - The Amazing Digital Circus - Season 1 + The Last Act - Enhanced [1080p, DTS-HD MA]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/the-amazing-digital-circus-season-1-the-last-act-enhanced-1080p-dts-hd-ma.306063/]]></link>
+                <title><![CDATA[【Requests】[REQ VID] - VARIOUS ARTISTS - MASTER [+Starlight requests]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/various-artists-master-starlight-requests.306066/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<div style="text-align: center"><span style="font-family: 'Verdana'"><span style="font-size: 18px"><b><span style="color: rgb(232, 42, 31)">The</span> <span style="color: rgb(0, 93, 194)">Amazing</span> <span style="color: rgb(255, 250, 30)">Digital</span> <span style="color: rgb(245, 81, 255)">Circus</span> - Enhanced Edition</b><br>
-</span></span>​</div><span style="font-family: 'Trebuchet MS'"><span style="font-size: 18px"><b>Purpose:</b></span></span><br>
-
-
-
-<div class="bbCodeBlock bbCodeQuote">
-	<aside>
-		
-		<blockquote class="quoteContainer"><div class="quote">I went and saw The Last Act (Episode 8 &amp; 9) in theaters and was blown away by how cleaner of a source Episode 8 was on the DCP and how nice Episode 9 looked compared to what I saw on YouTube once it was released. I wasn't surprised of course due to how the rest of the show looked online, so that planted a seed in the back of my mind that grew into the end result of this project. This project originally started as a simple reconstruction of The Last Act using an AI upscale of the fish intro and 2 shots of the series recap I couldn't source from the rest of the episodes at the beginning of the movie and the cleaner Netflix source to reconstruct the recap of the series, and I was reminded of the compression issues after the first render and I wanted to see what I could do to improve it. After being mostly impressed with what I was able to accomplish with AviSynth over AI tools to fix compression issues (Banding, blocking, aliasing), I switched to a AviSynth workflow and decided to expand the project to cover all of the episodes.</div><div class="quoteExpand">Click to expand...</div></blockquote>
-	</aside>
-</div><b><span style="font-family: 'Trebuchet MS'"><span style="font-size: 18px">Process:</span></span></b><br>
-
-
-
-<div class="bbCodeBlock bbCodeQuote">
-	<aside>
-		
-		<blockquote class="quoteContainer"><div class="quote">I did a few visual comparisons and found that the Netflix WEB-DL's of the episodes were the better source detail and bitrate so I went with those and used a script that Debands, deblocks, performs some anti-aliasing and does a light warp-sharpen to further hide any aliasing issues and make the image slightly less soft. A light layer of grain was added over the image to help make the filter come together cohesively. I felt an authentic 35mm grain overlay wouldn't suit the 3D animation so I opted to use an AviSynth script to add a light layer onto the image. I also tweaked the saturation slightly to reduce some of the harsh colors the show had and brightness/contrast to address the Netflix version having lower contrast than the YouTube version.<br>
+					Here I am writing in my SHAREDIARY, another request that will probably be ignored.<br>
+I know some users have some of the videos I lost, if you want to help me, I appreciate it.<br>
+Thanks.<br>
+<img src="https://www.picgifs.com/glitter-gifs/c/care-bears/picgifs-care-bears-1940401.gif" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://www.picgifs.com/glitter-gifs/c/care-bears/picgifs-care-bears-1940401.gif" style="">   <br>
 <br>
-I also discovered that the Netflix source had more detail in the mix than the YouTube so I also opted to use that mix.<br>
+I can help by sharing sources for upscale, but you guys can't help me with a fucking simple video, this pisses me off so much. Unfortunately I was born with one of the worst sides, along with my extreme fire up my ass, mixed with the cute, friendly side. Shall we help these bitches? I hate it but I'll help, that's just how I am. I fight with myself over wanting and not wanting to help. You guys don't value my fucking help. Not that I'm the king of the universe, but you could be grateful for the time each person spends to help you.<br>
 <br>
-Around this time I decided I wanted to do a Blu-Ray release eventually for myself so I tested out converting to Dolby Digital AC3 and it compressed the detail similar to how the YouTube mixed looked. I ended up encoding in DTS-HD MA for compatibility with the higher quality preserved. YouTube subtitles were synced up and cleaned up and converted to SUP files for Blu-Ray compatibility as well. This project should be 100% Blu-Ray compatible but I haven't tested it myself yet.</div><div class="quoteExpand quoteCut">Click to expand...</div></blockquote>
-	</aside>
-</div><b><span style="font-family: 'Trebuchet MS'"><span style="font-size: 18px">Comparisons (<a href="https://slow.pics/c/BjhR7FnL" target="_blank" class="externalLink" rel="nofollow">Full Gallery</a>):</span></span></b><br>
-
-
-
-<div class="bbCodeBlock bbCodeQuote">
-	<aside>
-		
-		<blockquote class="quoteContainer"><div class="quote"><img src="https://i.slow.pics/u9rPZSs2.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.slow.pics/u9rPZSs2.png" style=""><img src="https://i.slow.pics/sFyeAO49.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.slow.pics/sFyeAO49.png" style=""><br>
+Sometimes we need to threaten to get what we want.. If you don't help me, I will, with all the certainty in the universe, fix my fucking HDD, recover everything, and share all these fucking videos with all the users I hate the most, the users I like and love are already included, obviously. &lt;3<br>
 <br>
-<img src="https://i.slow.pics/OLqBh4Li.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.slow.pics/OLqBh4Li.png" style=""><img src="https://i.slow.pics/Iyz03Ctu.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.slow.pics/Iyz03Ctu.png" style=""><br>
+Don't you ever think.. leave a like motherfuckers, those fucking useless 5 stars that don't mean a thing. You can think whatever you want, that I'm crazy, a psychopath, whatever, fuck your opinion. <br>
 <br>
-<img src="https://i.slow.pics/DGWoXw6Y.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.slow.pics/DGWoXw6Y.png" style=""><img src="https://i.slow.pics/wG85aZFO.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.slow.pics/wG85aZFO.png" style=""><br>
+Stop acting fake, liking and replying thank you in every single thread. <br>
+Reply as a normal human being.<br>
+That shit isn't normal.<br>
 <br>
-<img src="https://i.slow.pics/liLoiwE5.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.slow.pics/liLoiwE5.png" style=""><img src="https://i.slow.pics/2QFkie2f.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.slow.pics/2QFkie2f.png" style=""></div><div class="quoteExpand">Click to expand...</div></blockquote>
-	</aside>
-</div><b><span style="font-size: 18px">Downloads: (Mega)</span></b><br>
+<img src="https://media.tenor.com/Tg7iTZvrsOkAAAAM/meangirls-gretchen-weiners.gif" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://media.tenor.com/Tg7iTZvrsOkAAAAM/meangirls-gretchen-weiners.gif" style=""> <br>
+<i><br>
+I had... tks hdd. <br>
+Help me please, please, please.</i><br>
 <br>
-<b>Season 1 Enhanced:</b><br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div><b>The Last Act - Reconstruction:</b><br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
+BEAST - Midnight (Japanese Ver.) [JPPO81203468 ProRes 1080p]<br>
+BEAST - Beautiful Night [KRZ341200140 ProRes 1080p]<br>
+4Minute - Mirror Mirror [KRZ341100082 ProRes 1080p]<br>
+4Minute - Love Tension [JPPO81203299 ProRes 1080p]<br>
+4Minute - Volume Up [KRZ341200133 ProRes 1080p]<br>
+Cheryl Cole - Promise This [1.38GB ProRes 576]<br>
+Alesha Dixon - The Boy Does Nothing [1.68GB ProRes 576]<br>
+The Pussycat Dolls - Bottle Pop [1.06GB ProRes 480]<br>
+The Pussycat Dolls - I Don't Need a Man [1.34GB ProRes 480]<br>
+Mariah Carey - Obsessed [1.50GB USUV70902132 ProRes NTSC 480p]<br>
+Karol G - Provenza [19GB ProRes 4K]<br>
+Danity Kane - Damaged [Master Clean MPG 576i PAL]<br>
+Nicole Scherzinger - Whatever U Like [1.30GB ProRes 480p]<br>
+Nicole Scherzinger - Baby Love [1.76GB ProRes 480p]<br>
+Nicole Scherzinger - Wet [4.90GB ProRes 1080p]<br>
+Nicole Scherzinger - Don't Hold Your Breath [4.26GB ProRes 1080p] <br>
+The Saturdays - Notorious [4.52GB ProRes 1080i]<br>
+Samantha Mumba - Gotta Tell You [1.47GB ProRes 576p]<br>
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __<br>
+<br>
+PinkPantheress &amp; Zara Larsson - Stateside [ProRes 4K]<br>
+Zara Larsson - Mignight Sun [15.15GB ProRes 4K]<br>
+The Saturdays - What About Us [4.54GB]<br>
+The Saturdays - What Are You Waiting For [4.34GB]<br>
+The Saturdays - Gentleman [5GB]<br>
+The Saturdays - Disco Love [4.15GB]<br>
+The Saturdays - 30 Days [3.95GB]<br>
+The Saturdays – Not Giving Up [4.40GB]<br>
+The Saturdays - Not Giving Up (Cahill Remix) [4.05GB]<br>
+The Saturdays - My Heart Takes Over [5GB]<br>
+The Saturdays - Greatest Hits Megamix [9.90GB]<br>
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __<br>
+ <br>
+<b><span style="color: #ff0000">STARLIGHT AI REQUEST</span></b><br>
+Looking for something that looks as natural as the newer <a href="https://sharemania.us/members/515/" class="username" data-user="515, @ddnt32">@ddnt32</a> remasters.<br>
+<ul>
+<li>Adam Rickitt - I Breathe Again</li>
+<li>Lorie - Je vais Vite</li>
+<li>Kristinia DeBarge - Goodbye</li>
+<li>Solange - Sandcastle Disco</li>
+<li>Alicia Keys - Teenage Love Affair</li>
+<li>Mariah Carey - Obsessed</li>
+<li>Samantha Mumba - Gotta Tell You</li>
+<li>Leona Lewis - Bleeding Love (BRIT Awards 2008) [BETACAM 576p]</li>
+<li>Alesha Dixon - The Boy Does Nothing</li>
+<li>Toni Braxton - Unbreak My Heart</li>
+<li>The Saturdays - Higher [1.54GB ProRes 576]</li>
+<li>The Saturdays - If This Is Love (Moto Blanco Radio Edit) [1.60GB ProRes 576]</li>
+<li>The Saturdays - Work (Cahill Radio Edit) [950MB ProRes 576]</li>
+<li>The Saturdays - Up (Wideboys Remix Edit) [1.30GB ProRes 576]</li>
+<li>The Saturdays - Missing You (Cahill Remix) [1.49GB ProRes 576]</li>
+<li>The Saturdays - Issues (Digital Dog Remix) [1.37GB ProRes 576]</li>
+<li>The Saturdays - If This Is Love [1.47G ProRes 576]</li>
+<li>The Saturdays - Up [1.49GB ProRes 576]</li>
+<li>The Saturdays - Missing You [1.66GB ProRes 576]</li>
+<li>The Saturdays - Just Can't Get Enough [1.49GB ProRes 576]</li>
+<li>The Saturdays - Issues [1.60GB ProRes 576]</li>
+<li>The Saturdays - Forever Is Over [1.52GB ProRes 576]</li>
+<li>Jason Donovan - Everyday (I Love You More)</li>
+<li>Jason Donovan - R.S.V.P</li>
+<li>Jason Donovan - Nothing Can Divide Us</li>
+<li>Jason Donovan - Too Many Broken Hearts</li>
+<li>Jason Donovan - Sealed With a Kiss</li>
+<li>Jason Donovan - Hang on to Your Love</li>
+<li>Jason Donovan - Happy Together</li>
+<li>Jason Donovan - I'm Doing Fine</li>
+<li>Jason Donovan &amp; Kylie Minogue - Especially For You</li>
+<li>Kylie Minogue - Chocolate</li>
+<li>Kylie Minogue - Please Stay</li>
+<li>Kylie Minogue - Je ne sais pas pourquoi</li>
+<li>Kylie Minogue - I Belive in You</li>
+<li>Kylie Minogue - Come Into My World</li>
+<li>Kylie Minogue - I Should Be So Lucky</li>
+<li>Kylie Minogue - Never Too Late</li>
+<li>Kylie Minogue - Hand On Your Heart</li>
+<li>Kylie Minogue - Can't Get You Out of My Head</li>
+<li>Kylie Minogue - Some Kind of Bliss</li>
+<li>Kylie Minogue - Where the Wild Roses Grow</li>
+<li>Kylie Minogue - In My Arms</li>
+<li>Kylie Minogue - The One</li>
+<li>Dannii Minogue - Perfection</li>
+<li>Dannii Minogue - All I Wanna Do</li>
+<li>Dannii Minogue - So Under Pleasure</li>
+<li>Dannii Minogue - Love And Kisses</li>
+<li>Dannii Minogue - This Is It </li>
+<li>Dannii Minogue - Don't Wanna Lose this Groove</li>
+<li>Dannii Minogue - Touch Me Like That</li>
+<li>Dannii Minogue - Sucess</li>
+<li>Dannii Minogue - Show You The Way to Go</li>
+<li>Dannii Minogue - Jump to the Beat</li>
+<li>Shania Twain - That Don't Impress Me Much (Remix)</li>
+<li>Shania Twain - Man! I Feel Like a Woman</li>
+<li>The Pussycat Dolls - Whatcha Think About That</li>
+<li>The Pussycat Dolls - Sway</li>
+<li>The Pussycat Dolls - I Don't Need a Man</li>
+<li>Sophie Ellis-Bextor - Bittersweet [1.22GB ProRes 576]</li>
+<li>Sophie Ellis-Bextor - Heartbreak (Make me a dancer)</li>
+<li>Sophie Ellis-Bextor - Can't Fight this Feeling </li>
+<li>Gabriella Cilmi - On a Mission</li>
+<li>Gabriella Cilmi - On a Mission (Wideboys Remix)</li>
+<li>Duffy - Rain on your Parade</li>
+<li>Duffy - Mercy</li>
+<li>Hilary Duff - Reach Out</li>
+<li>Hilary Duff - Stranger [Remastered 1080p]</li>
+<li>Hilary Duff - With Love</li>
+<li>Danity Kane - Bad Girl</li>
+<li>Danity Kane - Damaged</li>
+<li>Danity Kane - Show Stopper [Remastered 1080p]</li>
+<li>Cheryl Cole - Promise This</li>
+<li>Cheryl Cole - Parachute</li>
+<li>Cheryl Cole - Fight For this Love</li>
+<li>Nicole Scherzinger - Whatever U Like</li>
+<li>Nicole Scherzinger - Baby Love</li>
+<li>Christina Aguilera - Hurt</li>
+<li>Christina Aguilera - Falsas Esperanzas</li>
+<li>Christina Aguilera - The Voice Within</li>
+<li>Christina Aguilera - You Lost Me</li>
+</ul>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[narth]]></author>
+                <author><![CDATA[NEOMBEONAIN]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】WEB-RiP - Charli xcx... Live at the BBC [H264 1280p | AAC 2.0]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/charli-xcx-live-at-the-bbc-h264-1280p-aac-2-0.306064/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center"><span style="font-family: 'Tahoma'"><img src="https://i.ibb.co/TBR4Q4Yg/Charli-xcx-Live-at-the-BBC-Charli-xcx-Live-at-the-BBC-p0p0mzxj-original-mp4-thumbs.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/TBR4Q4Yg/Charli-xcx-Live-at-the-BBC-Charli-xcx-Live-at-the-BBC-p0p0mzxj-original-mp4-thumbs.jpg" style=""> <br>
+<b>Source:</b> BBC iPlayer<br>
+<b>Download:</b><br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div><span data-s9e-mediaembed="youtube" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:56.25%"><iframe allowfullscreen="" loading="lazy" scrolling="no" style="background:url(https://i.ytimg.com/vi/YOL-GhLH2eo/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%" src="https://www.youtube.com/embed/YOL-GhLH2eo"></iframe></span></span></span>​</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[KESHAAA]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【Singles (lossless)】FLAC - Victorious - The Remixes - EP [16B-44.1kHz]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/victorious-the-remixes-ep-16b-44-1khz.306065/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center"><img src="https://i.imgur.com/TM4iNNl.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/TM4iNNl.png" style=""> <br>
+Recently leaked<br>
+Cover Art by Me <img src="styles/default/xenforo/smilies/exciting-48.png" class="mceSmilie" alt=":D" title="Big Grin    :D"><br>
+<br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Tracklist</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText"><div style="text-align: center">01 Make It Shine (Halatrax Remix)<br>
+02 Freak The Freak Out (Halatrax Remix)<br>
+03 Best Friend's Brother (Halatrax Remix)<br>
+04 All I Want Is Everything (Halatrax Remix)<br>
+<br>
+℗ 2010, 2011 Sony Music Entertainment​</div></div>
+</div><br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div><br>
+<br>
+​</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Mizz]]></author>
                 </item>
 
                 </channel></rss>
