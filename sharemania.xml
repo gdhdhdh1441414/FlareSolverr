@@ -8,268 +8,89 @@
 
  
                 <item>
-                <title><![CDATA[【Apple Music】WEB-RiP - KARD - Back To Life [AM 2160p]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/kard-back-to-life-am-2160p.306120/]]></link>
+                <title><![CDATA[【HD Live Performances】WEB-RiP - Zara Larsson - Untold Festival 2026 1080p 60fps YTRIP]]></title>
+                <link><![CDATA[https://sharemania.us/threads/zara-larsson-untold-festival-2026-1080p-60fps-ytrip.306122/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://a5.mzstatic.com/us/r1000/0/Video221/v4/d4/03/8d/d4038df7-47b0-d835-0521-c6414b83dde9/8804775411519_KRA382691012.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://a5.mzstatic.com/us/r1000/0/Video221/v4/d4/03/8d/d4038df7-47b0-d835-0521-c6414b83dde9/8804775411519_KRA382691012.jpg" style=""> <br>
+					<a href="https://ibb.co/gMgQztss" target="_blank" class="externalLink" rel="nofollow"><img src="https://i.ibb.co/jv4qg377/Zara-Larsson-Untold-Festival-1080p-60fps-YTRIP-thumbs-2026-08-08-01-42-57.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/jv4qg377/Zara-Larsson-Untold-Festival-1080p-60fps-YTRIP-thumbs-2026-08-08-01-42-57.jpg"></a><br>
+<br>
 
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
 
 <div class="bbCodeBlock bbCodeCode">
 	<div class="type">Code:</div>
 	<pre>General
-Format                                   : MPEG-4
-Format profile                           : Base Media / Version 2
-Codec ID                                 : mp42 (mp42/isom/iso6/avc1/hvc1)
-File size                                : 402 MiB
-Duration                                 : 2 min 43 s
-Overall bit rate mode                    : Variable
-Overall bit rate                         : 20.7 Mb/s
-Frame rate                               : 23.976 FPS
-Title                                    : Back To Life
-Performer                                : KARD
-Genre                                    : K-Pop
-ContentType                              : Music Video
-Recorded date                            : 2026-07-28 07:00:00 UTC
-Encoded date                             : 2026-07-27 08:15:07 UTC
-Tagged date                              : 2026-07-27 08:15:07 UTC
-Copyright                                : ℗ 2026 DSPmedia,under license to Kakao Entertainment
-Cover                                    : Yes
-Cover type                               : Cover
-Rating                                   : None
-GenreID                                  : 1686
-AlbumTitleID                             : 1215832588
-AppleStoreCatalogID                      : 6795020474
-Title/Sort                               : Back To Life
+compatible_brands         : isomiso2avc1mp41
+encoder                   : Lavf58.76.100
+filename                  : Zara Larsson - Untold Festival 1080p 60fps YTRIP.mp4
+format                    : mov,mp4,m4a,3gp,3g2,mj2
+major_brand               : isom
+minor_version             : 512
+overall_bitrate           : 5701 kb/s
+size                      : 2.67 GiB (2867480456 bytes)
+time                      : 01:07:04
 
-Video
-ID                                       : 1
-Format                                   : HEVC
-Format/Info                              : High Efficiency Video Coding
-Format profile                           : Main 10@L5@High
-Codec ID                                 : hvc1
-Codec ID/Info                            : High Efficiency Video Coding
-Duration                                 : 2 min 43 s
-Bit rate                                 : 20.4 Mb/s
-Width                                    : 3 840 pixels
-Height                                   : 2 160 pixels
-Display aspect ratio                     : 16:9
-Frame rate mode                          : Constant
-Frame rate                               : 23.976 (24000/1001) FPS
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0
-Bit depth                                : 10 bits
-Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.102
-Stream size                              : 397 MiB (99%)
-Title                                    : Core Media Video
-Encoded date                             : 2026-07-27 08:15:07 UTC
-Tagged date                              : 2026-07-27 08:15:07 UTC
-Color range                              : Limited
-Color primaries                          : BT.709
-Transfer characteristics                 : BT.709
-Matrix coefficients                      : BT.709
-Codec configuration box                  : hvcC
+Video #1
+albumart                  : false
+codec                     : h264
+default                   : true
+demux-fps                 : 59.322167695756406
+demux-h                   : 1080
+demux-par                 : 1
+demux-w                   : 1920
+dependent                 : false
+external                  : false
+ff-index                  : 0
+forced                    : false
+hearing-impaired          : false
+id                        : 1
+image                     : false
+metadata                  :
+src-id                    : 1
+type                      : video
+visual-impaired           : false
 
-Audio
-ID                                       : 2
-Format                                   : AAC LC
-Format/Info                              : Advanced Audio Codec Low Complexity
-Codec ID                                 : mp4a-40-2
-Duration                                 : 2 min 43 s
-Duration_LastFrame                       : -20 ms
-Bit rate mode                            : Variable
-Bit rate                                 : 256 kb/s
-Maximum bit rate                         : 304 kb/s
-Channel(s)                               : 2 channels
-Channel layout                           : L R
-Sampling rate                            : 48.0 kHz
-Frame rate                               : 46.875 FPS (1024 SPF)
-Compression mode                         : Lossy
-Stream size                              : 4.99 MiB (1%)
-Title                                    : Core Media Audio
-Encoded date                             : 2026-07-27 08:15:04 UTC
-Tagged date                              : 2026-07-27 08:15:04 UTC
-
-Image
-Type                                     : Cover
-Format                                   : JPEG
-Muxing mode                              : moov-meta-covr
-Width                                    : 1 200 pixels
-Height                                   : 675 pixels
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0
-Bit depth                                : 8 bits
-Compression mode                         : Lossy
-Stream size                              : 197 KiB (0%)
-</pre>
-</div></div>
-</div>
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Download</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div></div>
-</div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[JL92]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Instrumentals / Karaoke (lossy)】MP3 - Taylor Swift - I Knew It, I Knew You: Karaokes]]></title>
-                <link><![CDATA[https://sharemania.us/threads/taylor-swift-i-knew-it-i-knew-you-karaokes.306119/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					All of these I made myself, contains all four versions of "I Knew It, I Knew You" by Taylor Swift with instrumental and backing vocals. So that's the standard version, acoustic version, piano version, and country radio remix version. Hope you enjoy!<br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[enflores3000]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Albums (lossless)】ALAC - Ravyn Lenae - Blue Island (2026) [Apple Lossless 24 bits/48 kHz]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/ravyn-lenae-blue-island-2026-apple-lossless-24-bits-48-khz.306121/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<img src="https://a5.mzstatic.com/us/r1000/0/Music221/v4/2c/78/c5/2c78c5d7-daba-d1c7-d982-099a480fb239/075679576170.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://a5.mzstatic.com/us/r1000/0/Music221/v4/2c/78/c5/2c78c5d7-daba-d1c7-d982-099a480fb239/075679576170.jpg" style=""><br>
-
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>General
-Format                                   : MPEG-4
-Format profile                           : Apple audio with iTunes info
-Codec ID                                 : M4A  (isom/iso5/hlsf/cmfc/ccea/M4A /mp42)
-File size                                : 43.7 MiB
-Duration                                 : 3 min 6 s
-Overall bit rate mode                    : Variable
-Overall bit rate                         : 1 958 kb/s
-Title                                    : Handle
-Album                                    : Blue Island
-Album/Sorted by                          : Blue Island
-Album/Performer                          : Ravyn Lenae
-Album/Performer/Sort                     : Ravyn Lenae
-Part/Position                            : 1
-Part/Total                               : 1
-Track name/Position                      : 1
-Track name/Total                         : 14
-Performer                                : Ravyn Lenae
-Performer/Sorted by                      : Ravyn Lenae
-Composer                                 : Dacoury Dahi Natche, Ely Rise, Eric Leva, Mikky Ekko, Ravyn Lenae, Simon Martinez &amp; Spencer Stewart
-Composer/Sorted by                       : Dacoury Dahi Natche, Ely Rise, Eric Leva, Mikky Ekko, Ravyn Lenae, Simon Martinez &amp; Spencer Stewart
-Publisher                                : Atlantic Records
-Genre                                    : R&amp;B/soul
-Recorded date                            : 2026-08-07
-Encoded date                             : 2026-07-29 19:35:27 UTC
-Tagged date                              : 2026-07-29 19:35:27 UTC
-ISRC                                     : USAT22603251
-Copyright                                : ℗ 2026 Atlantic Recording Corporation
-Cover                                    : Yes
-Cover type                               : Cover
-Title/Sort                               : Handle
-AlbumTitleID                             : 1044417443
-UPC                                      : 075679576170
-RELEASETIME                              : 2026-05-28
-
-Audio
-ID                                       : 1
-Format                                   : ALAC
-Codec ID                                 : alac
-Codec ID/Info                            : Apple Lossless Audio Codec
-Duration                                 : 3 min 6 s
-Duration_LastFrame                       : -64 ms
-Bit rate mode                            : Variable
-Bit rate                                 : 1 823 kb/s
-Nominal bit rate                         : 2 304 kb/s
-Channel(s)                               : 2 channels
-Sampling rate                            : 48.0 kHz
-Bit depth                                : 24 bits
-Stream size                              : 40.6 MiB (93%)
-Title                                    : Core Media Audio
-Encoded date                             : 2026-07-29 19:35:27 UTC
-Tagged date                              : 2026-08-07 22:31:17 UTC
-
-Image
-Type                                     : Cover
-Format                                   : JPEG
-Muxing mode                              : moov-meta-covr
-Width                                    : 3 000 pixels
-Height                                   : 3 000 pixels
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0
-Bit depth                                : 8 bits
-Compression mode                         : Lossy
-Stream size                              : 3.00 MiB (7%)
+Audio #1
+albumart                  : false
+audio-channels            : 2
+codec                     : aac
+codec-desc                : AAC (Advanced Audio Coding)
+codec-profile             : LC
+decoder                   : aac
+decoder-desc              : AAC (Advanced Audio Coding)
+default                   : true
+demux-bitrate             : 126554
+demux-channel-count       : 2
+demux-channels            : stereo
+demux-samplerate          : 44100
+dependent                 : false
+external                  : false
+ff-index                  : 1
+forced                    : false
+hearing-impaired          : false
+id                        : 1
+image                     : false
+main-selection            : 0
+metadata                  :
+src-id                    : 2
+type                      : audio
+visual-impaired           : false
 
 </pre>
-</div></div>
-</div><b>Tracklist:</b><br>
-01 Handle<br>
-02 Familiar Dreams<br>
-03 Never Let Me Go<br>
-04 In &amp; Out<br>
-05 Potential<br>
-06 Sew Me Back Together<br>
-07 Reputation<br>
-08 Saturday Night<br>
-09 Babygirl (feat. Doechii)<br>
-10 Barriers<br>
-11 Wish You Well<br>
-12 Bobby<br>
-13 Find It One Day<br>
-14 Let Us In<br>
+</div>Ripped directly from Untold Festival youtube stream. Unfortunately there is a glitch at the end of Lush Life so the part of dance with the fan is cut out - this was stream issue.<br>
 <br>
 
 
 
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Download</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
-
-
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div></div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
 </div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[JL92]]></author>
+                <author><![CDATA[harmonizer54]]></author>
                 </item>
 
                 </channel></rss>
