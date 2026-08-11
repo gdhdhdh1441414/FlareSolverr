@@ -8,102 +8,156 @@
 
  
                 <item>
-                <title><![CDATA[【HD Live Performances】FEED - The Chainsmokers &amp; Chris Martin - iHeartRadio Music Awards 2017 BACKHAUL 1080i H.264 4-2-2 40Mbps DTSHDMA 5.1-ALANiS]]></title>
-                <link><![CDATA[https://sharemania.us/threads/the-chainsmokers-chris-martin-iheartradio-music-awards-2017-backhaul-1080i-h-264-4-2-2-40mbps-dtshdma-5-1-alanis.306390/]]></link>
+                <title><![CDATA[【HD Live Performances】HDTV - Coldplay - Eveglow (NRJ Music Awards 2016) 1080i HDTV DD2.0 H.264-ISK]]></title>
+                <link><![CDATA[https://sharemania.us/threads/coldplay-eveglow-nrj-music-awards-2016-1080i-hdtv-dd2-0-h-264-isk.306392/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<div style="text-align: center"><img src="https://i.postimg.cc/hjbW92VG/The-Chainsmokers-ft-Chris-Martin-Paris-Something-Just-Like-This-i-Heart-Radio-Music-Awards-2017.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/hjbW92VG/The-Chainsmokers-ft-Chris-Martin-Paris-Something-Just-Like-This-i-Heart-Radio-Music-Awards-2017.jpg" style=""> ​</div><br>
-
+					<div style="text-align: center"><img src="https://i.postimg.cc/fbghJynw/Coldplay-Eveglow-(NRJ-Music-Awards-2016)-1080i-HDTV-DD2-0-H-264-ISK-ts.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/fbghJynw/Coldplay-Eveglow-(NRJ-Music-Awards-2016)-1080i-HDTV-DD2-0-H-264-ISK-ts.jpg" style=""> ​</div>
 
 
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
 	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Media Info</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">Format                         : Matroska<br>
-Format version                 : Version 4<br>
-File size                      : 1.91 GiB<br>
-Duration                       : 6 min 16 s<br>
+	<div class="SpoilerTarget bbCodeSpoilerText">Format                         : MPEG-TS<br>
+File size                      : 324 MiB<br>
+Duration                       : 3 min 58 s<br>
 Overall bit rate mode          : Variable<br>
-Overall bit rate               : 43.5 Mb/s<br>
-Frame rate                     : 889.075 FPS<br>
-Encoded date                   : 2017-03-07 06:29:59 UTC<br>
-Writing application            : Lavf62.3.100<br>
-Writing library                : Lavf62.3.100<br>
-ErrorDetectionType             : Per level 1<br>
+Overall bit rate               : 11.4 Mb/s<br>
+Frame rate                     : 25.000 FPS<br>
 <br>
 Video<br>
-ID                             : 1<br>
+ID                             : 256 (0x100)<br>
+Menu ID                        : 1 (0x1)<br>
 Format                         : AVC<br>
 Format/Info                    : Advanced Video Codec<br>
-Format profile                 : High 4:2:2@L4.1<br>
+Format profile                 : High@L4<br>
 Format settings                : CABAC / 4 Ref Frames<br>
 Format settings, CABAC         : Yes<br>
 Format settings, Reference fra : 4 frames<br>
-Format settings, GOP           : M=4, N=32<br>
-Codec ID                       : V_MPEG4/ISO/AVC<br>
-Duration                       : 6 min 16 s<br>
-Bit rate                       : 38.7 Mb/s<br>
+Codec ID                       : 27<br>
+Duration                       : 3 min 58 s<br>
+Bit rate                       : 9 927 kb/s<br>
 Width                          : 1 920 pixels<br>
 Height                         : 1 080 pixels<br>
 Display aspect ratio           : 16:9<br>
-Frame rate mode                : Variable<br>
-Frame rate                     : 889.075 FPS<br>
-Original frame rate            : 29.970 (30000/1001) FPS<br>
+Frame rate                     : 25.000 FPS<br>
+Standard                       : Component<br>
 Color space                    : YUV<br>
-Chroma subsampling             : 4:2:2 (Type 0)<br>
-Bit depth                      : 10 bits<br>
+Chroma subsampling             : 4:2:0<br>
+Bit depth                      : 8 bits<br>
 Scan type                      : Interlaced<br>
-Scan type, store method        : Separated fields (2 fields per block)<br>
+Scan type, store method        : Separated fields<br>
 Scan order                     : Top Field First<br>
-Bits/(Pixel*Frame)             : 0.021<br>
-Stream size                    : 25.1 GiB<br>
-Default                        : Yes<br>
-Forced                         : No<br>
+Bits/(Pixel*Frame)             : 0.191<br>
+Stream size                    : 282 MiB (87%)<br>
 Color range                    : Limited<br>
-Color primaries                : BT.709<br>
-Transfer characteristics       : BT.709<br>
-Matrix coefficients            : BT.709<br>
+Color primaries                : BT.601 PAL<br>
+Transfer characteristics       : BT.470 System B/G<br>
+Matrix coefficients            : BT.470 System B/G<br>
 <br>
 Audio #1<br>
-ID                             : 2<br>
-Format                         : DTS XLL<br>
-Format/Info                    : Digital Theater Systems<br>
-Commercial name                : DTS-HD Master Audio<br>
-Codec ID                       : A_DTS<br>
-Duration                       : 6 min 16 s<br>
-Bit rate mode                  : Variable<br>
-Bit rate                       : 3 725 kb/s<br>
-Channel(s)                     : 6 channels<br>
-Channel layout                 : C L R Ls Rs LFE<br>
-Sampling rate                  : 48.0 kHz<br>
-Frame rate                     : 93.750 FPS (512 SPF)<br>
-Bit depth                      : 24 bits<br>
-Compression mode               : Lossless<br>
-Delay relative to video        : 18 ms<br>
-Stream size                    : 2.42 GiB<br>
-Language                       : English<br>
-Default                        : Yes<br>
-Forced                         : No<br>
-<br>
-Audio #2<br>
-ID                             : 3<br>
-Format                         : MPEG Audio<br>
-Format version                 : Version 1<br>
-Format profile                 : Layer 2<br>
-Codec ID                       : A_MPEG/L2<br>
-Codec ID/Hint                  : MP2<br>
-Duration                       : 6 min 16 s<br>
+ID                             : 257 (0x101)<br>
+Menu ID                        : 1 (0x1)<br>
+Format                         : AC-3<br>
+Format/Info                    : Audio Coding 3<br>
+Commercial name                : Dolby Digital<br>
+Codec ID                       : 129<br>
+Duration                       : 4 min 0 s<br>
 Bit rate mode                  : Constant<br>
 Bit rate                       : 384 kb/s<br>
 Channel(s)                     : 2 channels<br>
+Channel layout                 : L R<br>
 Sampling rate                  : 48.0 kHz<br>
-Frame rate                     : 618.244 FPS (78 SPF)<br>
+Frame rate                     : 31.250 FPS (1536 SPF)<br>
 Compression mode               : Lossy<br>
-Delay relative to video        : 37 ms<br>
-Stream size                    : 256 MiB (13%)<br>
-Language                       : English<br>
-Default                        : No<br>
-Forced                         : No</div>
+Delay relative to video        : -1 s 704 ms<br>
+Stream size                    : 11.0 MiB (3%)<br>
+Language                       : French<br>
+Service kind                   : Complete Main<br>
+Dialog Normalization           : -23 dB<br>
+compr                          : -0.28 dB<br>
+dynrng                         : -0.28 dB<br>
+ltrtcmixlev                    : -3.0 dB<br>
+ltrtsurmixlev                  : -3.0 dB<br>
+lorocmixlev                    : -3.0 dB<br>
+lorosurmixlev                  : -3.0 dB<br>
+adconvtyp                      : HDCD<br>
+dialnorm_Average               : -23 dB<br>
+dialnorm_Minimum               : -23 dB<br>
+dialnorm_Maximum               : -23 dB<br>
+<br>
+Audio #2<br>
+ID                             : 258 (0x102)<br>
+Menu ID                        : 1 (0x1)<br>
+Format                         : AC-3<br>
+Format/Info                    : Audio Coding 3<br>
+Commercial name                : Dolby Digital<br>
+Codec ID                       : 129<br>
+Duration                       : 4 min 0 s<br>
+Bit rate mode                  : Constant<br>
+Bit rate                       : 256 kb/s<br>
+Channel(s)                     : 2 channels<br>
+Channel layout                 : L R<br>
+Sampling rate                  : 48.0 kHz<br>
+Frame rate                     : 31.250 FPS (1536 SPF)<br>
+Compression mode               : Lossy<br>
+Delay relative to video        : -1 s 704 ms<br>
+Stream size                    : 7.33 MiB (2%)<br>
+Language                       : qaa<br>
+Service kind                   : Complete Main<br>
+Dialog Normalization           : -23 dB<br>
+compr                          : -0.28 dB<br>
+dynrng                         : -0.28 dB<br>
+ltrtcmixlev                    : -3.0 dB<br>
+ltrtsurmixlev                  : -3.0 dB<br>
+lorocmixlev                    : -3.0 dB<br>
+lorosurmixlev                  : -3.0 dB<br>
+adconvtyp                      : HDCD<br>
+dialnorm_Average               : -23 dB<br>
+dialnorm_Minimum               : -23 dB<br>
+dialnorm_Maximum               : -23 dB<br>
+<br>
+Audio #3<br>
+ID                             : 259 (0x103)<br>
+Menu ID                        : 1 (0x1)<br>
+Format                         : AC-3<br>
+Format/Info                    : Audio Coding 3<br>
+Commercial name                : Dolby Digital<br>
+Codec ID                       : 129<br>
+Duration                       : 4 min 0 s<br>
+Bit rate mode                  : Constant<br>
+Bit rate                       : 256 kb/s<br>
+Channel(s)                     : 2 channels<br>
+Channel layout                 : L R<br>
+Sampling rate                  : 48.0 kHz<br>
+Frame rate                     : 31.250 FPS (1536 SPF)<br>
+Compression mode               : Lossy<br>
+Delay relative to video        : -1 s 704 ms<br>
+Stream size                    : 7.33 MiB (2%)<br>
+Language                       : qad<br>
+Service kind                   : Complete Main<br>
+Dialog Normalization           : -23 dB<br>
+compr                          : -0.28 dB<br>
+dynrng                         : -0.14 dB<br>
+ltrtcmixlev                    : -3.0 dB<br>
+ltrtsurmixlev                  : -3.0 dB<br>
+lorocmixlev                    : -3.0 dB<br>
+lorosurmixlev                  : -3.0 dB<br>
+adconvtyp                      : HDCD<br>
+dialnorm_Average               : -23 dB<br>
+dialnorm_Minimum               : -23 dB<br>
+dialnorm_Maximum               : -23 dB<br>
+<br>
+Menu<br>
+ID                             : 4096 (0x1000)<br>
+Menu ID                        : 1 (0x1)<br>
+Format                         : AVC / AC-3 / AC-3 / AC-3<br>
+Duration                       : 3 min 58 s<br>
+List                           : 256 (0x100) (AVC) / 257 (0x101) (AC-3, French) / 258 (0x102) (AC-3, qaa) / 259 (0x103) (AC-3, qad)<br>
+Language                       :  / French / qaa / qad<br>
+Service name                   : Service01<br>
+Service provider               : FFmpeg<br>
+Service type                   : digital television</div>
 </div><br>
 <div style="text-align: center"><b><span style="text-decoration: underline">Download</span></b><br>
 
@@ -113,7 +167,146 @@ Forced                         : No</div>
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
 	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>track cut just because Chris Martin appears in it <img src="styles/default/xenforo/smilies/grimace-48.png" class="mceSmilie" alt=":p" title="Stick Out Tongue    :p">​</div>
+</div></div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[anyelot]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】HDTV - Coldplay - Adventure of a Lifetime (Top Of The Pops Christmas 2015) 1080i HDTV H.264 MP2-ISK]]></title>
+                <link><![CDATA[https://sharemania.us/threads/coldplay-adventure-of-a-lifetime-top-of-the-pops-christmas-2015-1080i-hdtv-h-264-mp2-isk.306391/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center"><img src="https://ichef.bbci.co.uk/images/ic/1008x567/p03cwm7s.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://ichef.bbci.co.uk/images/ic/1008x567/p03cwm7s.jpg" style=""><br>
+<img src="https://i.postimg.cc/cJGxdrWv/Coldplay-Adventure-of-a-Lifetime-(Top-Of-The-Pops-Christmas-2015)-1080i-HDTV-H-264-MP2-ISK-ts.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/cJGxdrWv/Coldplay-Adventure-of-a-Lifetime-(Top-Of-The-Pops-Christmas-2015)-1080i-HDTV-H-264-MP2-ISK-ts.jpg" style=""> ​</div><br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Media Info</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Format                         : MPEG-TS<br>
+File size                      : 374 MiB<br>
+Duration                       : 4 min 16 s<br>
+Overall bit rate mode          : Variable<br>
+Overall bit rate               : 12.2 Mb/s<br>
+Frame rate                     : 25.000 FPS<br>
+<br>
+Video<br>
+ID                             : 256 (0x100)<br>
+Menu ID                        : 1 (0x1)<br>
+Format                         : AVC<br>
+Format/Info                    : Advanced Video Codec<br>
+Format profile                 : High@L4<br>
+Format settings                : CABAC / 4 Ref Frames<br>
+Format settings, CABAC         : Yes<br>
+Format settings, Reference fra : 4 frames<br>
+Format settings, GOP           : M=8, N=24<br>
+Codec ID                       : 27<br>
+Duration                       : 4 min 16 s<br>
+Bit rate                       : 11.2 Mb/s<br>
+Width                          : 1 920 pixels<br>
+Height                         : 1 080 pixels<br>
+Display aspect ratio           : 16:9<br>
+Active Format Description      : Letterbox 16:9 image, with alternative 14:9 center<br>
+Frame rate                     : 25.000 FPS<br>
+Standard                       : Component<br>
+Color space                    : YUV<br>
+Chroma subsampling             : 4:2:0 (Type 0)<br>
+Bit depth                      : 8 bits<br>
+Scan type                      : MBAFF<br>
+Scan type, store method        : Interleaved fields<br>
+Scan order                     : Top Field First<br>
+Bits/(Pixel*Frame)             : 0.216<br>
+Stream size                    : 342 MiB (91%)<br>
+Color range                    : Limited<br>
+Color primaries                : BT.709<br>
+Transfer characteristics       : BT.709<br>
+Matrix coefficients            : BT.709<br>
+<br>
+Audio #1<br>
+ID                             : 257 (0x101)<br>
+Menu ID                        : 1 (0x1)<br>
+Format                         : MPEG Audio<br>
+Format version                 : Version 1<br>
+Format profile                 : Layer 2<br>
+Codec ID                       : 3<br>
+Duration                       : 4 min 17 s<br>
+Bit rate mode                  : Constant<br>
+Bit rate                       : 256 kb/s<br>
+Channel(s)                     : 2 channels<br>
+Sampling rate                  : 48.0 kHz<br>
+Frame rate                     : 41.667 FPS (1152 SPF)<br>
+Compression mode               : Lossy<br>
+Delay relative to video        : -1 s 331 ms<br>
+Stream size                    : 7.86 MiB (2%)<br>
+Language                       : nar<br>
+<br>
+Audio #2<br>
+ID                             : 258 (0x102)<br>
+Menu ID                        : 1 (0x1)<br>
+Format                         : AC-3<br>
+Format/Info                    : Audio Coding 3<br>
+Commercial name                : Dolby Digital<br>
+Codec ID                       : 129<br>
+Duration                       : 4 min 17 s<br>
+Bit rate mode                  : Constant<br>
+Bit rate                       : 192 kb/s<br>
+Channel(s)                     : 2 channels<br>
+Channel layout                 : L R<br>
+Sampling rate                  : 48.0 kHz<br>
+Frame rate                     : 31.250 FPS (1536 SPF)<br>
+Compression mode               : Lossy<br>
+Delay relative to video        : -1 s 309 ms<br>
+Stream size                    : 5.90 MiB (2%)<br>
+Language                       : English<br>
+Service kind                   : Complete Main<br>
+Dialog Normalization           : -23 dB<br>
+compr                          : -0.28 dB<br>
+dynrng                         : -1.97 dB<br>
+dsurmod                        : Not Dolby Surround encoded<br>
+mixlevel                       : 105 dB<br>
+ltrtcmixlev                    : 3.0 dB<br>
+ltrtsurmixlev                  : -3.0 dB<br>
+lorocmixlev                    : 3.0 dB<br>
+lorosurmixlev                  : -3.0 dB<br>
+dialnorm_Average               : -23 dB<br>
+dialnorm_Minimum               : -23 dB<br>
+dialnorm_Maximum               : -23 dB<br>
+<br>
+Text<br>
+ID                             : 259 (0x103)<br>
+Menu ID                        : 1 (0x1)<br>
+Format                         : DVB Subtitle<br>
+Codec ID                       : 6<br>
+Duration                       : 4 min 13 s<br>
+Delay relative to video        : 3 s 290 ms<br>
+Language                       : English<br>
+subtitling_type                : 16<br>
+<br>
+Menu<br>
+ID                             : 4096 (0x1000)<br>
+Menu ID                        : 1 (0x1)<br>
+Format                         : AVC / MPEG Audio / AC-3 / DVB Subtitle<br>
+Duration                       : 4 min 16 s<br>
+List                           : 256 (0x100) (AVC) / 257 (0x101) (MPEG Audio, nar) / 258 (0x102) (AC-3, English) / 259 (0x103) (DVB Subtitle, English)<br>
+Language                       :  / nar / English / English<br>
+Service name                   : Service01<br>
+Service provider               : FFmpeg<br>
+Service type                   : digital television</div>
+</div><br>
+<div style="text-align: center"><b><span style="text-decoration: underline">Download</span></b><br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
