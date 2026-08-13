@@ -8,111 +8,158 @@
 
  
                 <item>
-                <title><![CDATA[【UPSCALED】Rihanna - Only Girl (In The World) [Starlight Precise 1440p/2160p]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/rihanna-only-girl-in-the-world-starlight-precise-1440p-2160p.306517/]]></link>
+                <title><![CDATA[【HD Live Performances】WEB-RiP - Zara Larsson - Way Out West 720p_50fps TV4PLAY WEBRIP]]></title>
+                <link><![CDATA[https://sharemania.us/threads/zara-larsson-way-out-west-720p_50fps-tv4play-webrip.306520/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.ibb.co/C5hKBxXk/Only-Girl-slp-mov-20260813-150411-686.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/C5hKBxXk/Only-Girl-slp-mov-20260813-150411-686.png" style=""><br>
-<img src="https://i.ibb.co/BV24CcKS/Only-Girl-slp-mov-20260813-150535-768.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/BV24CcKS/Only-Girl-slp-mov-20260813-150535-768.png" style=""><br>
-<img src="https://i.ibb.co/xKBjcJh2/Only-Girl-slp-mov-20260813-151130-317.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/xKBjcJh2/Only-Girl-slp-mov-20260813-151130-317.png" style=""><br>
-<img src="https://i.ibb.co/Vyg1R4f/Only-Girl-slp-mov-20260813-151242-318.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/Vyg1R4f/Only-Girl-slp-mov-20260813-151242-318.png" style=""><br>
-<img src="https://i.ibb.co/7xMrb3dQ/Only-Girl-slp-mov-20260813-151519-745.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/7xMrb3dQ/Only-Girl-slp-mov-20260813-151519-745.png" style=""><br>
-<img src="https://i.ibb.co/qLSgNFTB/Only-Girl-slp-mov-20260813-151838-558.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/qLSgNFTB/Only-Girl-slp-mov-20260813-151838-558.png" style=""><br>
+					<img src="https://i.imgur.com/SzLbKc7.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/SzLbKc7.jpeg" style=""><br>
+<br>
 
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
 
 <div class="bbCodeBlock bbCodeCode">
 	<div class="type">Code:</div>
 	<pre>General
-Format                                   : Matroska
-Format version                           : Version 4
-File size                                : 604 MiB
-Duration                                 : 4 min 9 s
-Overall bit rate                         : 20.3 Mb/s
-Frame rate                               : 29.970 FPS
-Writing application                      : Lavf62.13.100
-Writing library                          : Lavf62.13.100
-ErrorDetectionType                       : Per level 1
-CRC_Error_Pos                            : 620
-VIDEOAI                                  : Created by JL92
+Format                         : MPEG-4
+Format profile                 : Base Media
+Codec ID                       : isom (isom/iso2/avc1/mp41)
+File size                      : 3.30 GiB
+Duration                       : 1 h 11 min
+Overall bit rate mode          : Constant
+Overall bit rate               : 6 625 kb/s
+Frame rate                     : 50.000 FPS
+Writing application            : Lavf58.76.100
 
 Video
-ID                                       : 1
-Format                                   : HEVC
-Format/Info                              : High Efficiency Video Coding
-Format profile                           : Main 10@L5@High
-Codec ID                                 : V_MPEGH/ISO/HEVC
-Duration                                 : 4 min 9 s
-Bit rate                                 : 17.6 Mb/s
-Width                                    : 2 544 pixels
-Height                                   : 1 072 pixels
-Display aspect ratio                     : 2.39:1
-Frame rate mode                          : Constant
-Frame rate                               : 29.970 (30000/1001) FPS
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0
-Bit depth                                : 10 bits
-Bits/(Pixel*Frame)                       : 0.215
-Stream size                              : 523 MiB (87%)
-Default                                  : Yes
-Forced                                   : No
-Color range                              : Limited
+ID                             : 1
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Format profile                 : High@L3.2
+Format settings                : CABAC / 2 Ref Frames
+Format settings, CABAC         : Yes
+Format settings, Reference fra : 2 frames
+Codec ID                       : avc1
+Codec ID/Info                  : Advanced Video Coding
+Duration                       : 1 h 11 min
+Source duration                : 1 h 11 min
+Bit rate mode                  : Constant
+Bit rate                       : 6 491 kb/s
+Width                          : 1 280 pixels
+Height                         : 720 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 50.000 FPS
+Standard                       : Component
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 8 bits
+Scan type                      : Progressive
+Bits/(Pixel*Frame)             : 0.141
+Stream size                    : 3.24 GiB (98%)
+Source stream size             : 3.24 GiB (98%)
+Color range                    : Limited
+mdhd_Duration                  : 4281740
+Codec configuration box        : avcC
 
 Audio
-ID                                       : 2
-Format                                   : PCM
-Format settings                          : Little / Signed
-Codec ID                                 : A_PCM/INT/LIT
-Duration                                 : 4 min 9 s
-Bit rate mode                            : Constant
-Bit rate                                 : 2 304 kb/s
-Channel(s)                               : 2 channels
-Sampling rate                            : 48.0 kHz
-Bit depth                                : 24 bits
-Stream size                              : 68.6 MiB (11%)
-Writing library                          : Lavc62.29.100 pcm_s24le
-Default                                  : Yes
-Forced                                   : No
-VENDOR_ID                                : [0][0][0][0]
+ID                             : 2
+Format                         : AAC LC
+Format/Info                    : Advanced Audio Codec Low Complexity
+Codec ID                       : mp4a-40-2
+Duration                       : 1 h 11 min
+Source duration                : 1 h 11 min
+Bit rate mode                  : Constant
+Bit rate                       : 125 kb/s
+Channel(s)                     : 2 channels
+Channel layout                 : L R
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 46.875 FPS (1024 SPF)
+Compression mode               : Lossy
+Stream size                    : 64.0 MiB (2%)
+Source stream size             : 64.0 MiB (2%)
+Language                       : English
+Default                        : Yes
+Alternate group                : 1
+mdhd_Duration                  : 4281770
+
 </pre>
-</div></div>
-</div>
+</div>Ripped by me from livestream, the highest quality was unfortunately 720p.<br>
+<br>
 
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Download</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText"><div style="text-align: center">
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
 	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div></div>
 </div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[JL92]]></author>
+                <author><![CDATA[harmonizer54]]></author>
                 </item>
 
                 
                 <item>
-                <title><![CDATA[【Requests】[REQ AUD] - Phoebe Bridgers - Best Dressed (Physical-Only Bonus Track from Lost Weekend) [FLAC]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/phoebe-bridgers-best-dressed-physical-only-bonus-track-from-lost-weekend-flac.306518/]]></link>
+                <title><![CDATA[【Albums (lossy)】MP3 - girl next door - Destination (YTM)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/girl-next-door-destination-ytm.306519/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					CD rip is preferable if anyone has it!
+					<div style="text-align: center"><img src="https://i.postimg.cc/Dwrx8pGn/20250101071703407038.webp" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/Dwrx8pGn/20250101071703407038.webp" style=""> <br>
+<br>
+'Destination' is the third original album by the Japanese music unit GIRL NEXT DOOR, released on April 27, 2011, by avex trax.<br>
+​</div><ol>
+<li><div style="text-align: center">3rd contact (<b>1:23</b>)<br>
+​</div></li>
+<li><div style="text-align: center">Freedom (<b>4:40</b>)<br>
+​</div></li>
+<li><div style="text-align: center">ユメのカタナ (<b>4:01</b>)<br>
+​</div></li>
+<li><div style="text-align: center">風のカプセル (<b>4:02</b>)<br>
+​</div></li>
+<li><div style="text-align: center">逢いたい夜 (<b>4:00</b>)<br>
+​</div></li>
+<li><div style="text-align: center">Winter breeze (<b>5:11</b>)<br>
+​</div></li>
+<li><div style="text-align: center">忘れたいのに… (<b>5:32</b>)<br>
+​</div></li>
+<li><div style="text-align: center">運命のしずく～Destiny's star～ (<b>5:00</b>)<br>
+​</div></li>
+<li><div style="text-align: center">Impish music (<b>1:18</b>)<br>
+​</div></li>
+<li><div style="text-align: center">Ready to be a lady (<b>5:12</b>)<br>
+​</div></li>
+<li><div style="text-align: center">はじまり (<b>4:10</b>)<br>
+​</div></li>
+<li><div style="text-align: center">Silent Scream (<b>4:02</b>)<br>
+​</div></li>
+<li><div style="text-align: center">ありがとう (<b>4:56</b>)​</div></li>
+</ol><div style="text-align: center">         DOWNLOAD LINK:<br>
+<br>
+<i>Buzzheavier:</i><br>
+<b>
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></b><br>
+<i><br>
+Mega:</i><br>
+<b>
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></b>​</div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[d8myke]]></author>
+                <author><![CDATA[andspades]]></author>
                 </item>
 
                 </channel></rss>
