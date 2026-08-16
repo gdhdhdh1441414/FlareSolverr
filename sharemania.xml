@@ -8,16 +8,19 @@
 
  
                 <item>
-                <title><![CDATA[【Live Audios (lossless)】FLAC - Swedish House Mafia - Paradise Again: The Live Album (2023) [Explicit] [FLAC | 24bit/44.1kHz]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/swedish-house-mafia-paradise-again-the-live-album-2023-explicit-flac-24bit-44-1khz.306814/]]></link>
+                <title><![CDATA[【Live Audios (lossy)】M4A - [Dolby Atmos] Swedish House Mafia - Paradise Again: The Live Album (2023) [Explicit] [E-AC3-JOC | 768Kbps/48.0kHz]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/dolby-atmos-swedish-house-mafia-paradise-again-the-live-album-2023-explicit-e-ac3-joc-768kbps-48-0khz.306815/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://a1.mzstatic.com/r40/Music116/v4/33/52/ac/3352acb3-8b1a-5156-d9af-b96fde0479e5/23UMGIM86916.rgb.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://a1.mzstatic.com/r40/Music116/v4/33/52/ac/3352acb3-8b1a-5156-d9af-b96fde0479e5/23UMGIM86916.rgb.jpg" style=""> <br>
+					<img src="https://a1.mzstatic.com/r40/Music116/v4/33/52/ac/3352acb3-8b1a-5156-d9af-b96fde0479e5/23UMGIM86916.rgb.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://a1.mzstatic.com/r40/Music116/v4/33/52/ac/3352acb3-8b1a-5156-d9af-b96fde0479e5/23UMGIM86916.rgb.jpg" style=""><br>
 <div style="text-align: center"><br>
+<img src="https://i.ibb.co/QFfTSBq2/apple-music-atmos.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/QFfTSBq2/apple-music-atmos.png" style=""><br>
+<br>
 <span style="font-size: 18px">════════════════ ⋆★⋆ ════════════════</span>​</div><br>
-<b>Format:</b> FLAC<br>
-<b>Audio quality:</b> 24bit / 44.1kHz<br>
+<b>Format:</b> Dolby Digital Plus with Dolby Atmos<br>
+<b>Source:</b> Apple Music<br>
+<b>Audio quality:</b> 768Kbps / 48kHz<br>
 <b>Artist:</b> Swedish House Mafia<br>
 <b>Album:</b> Paradise Again: The Live Album<br>
 <b>Genre:</b> Dance<br>
@@ -34,57 +37,92 @@
 <div class="bbCodeBlock bbCodeCode">
 	<div class="type">Code:</div>
 	<pre>General
-Complete name               : 01. Intro (Live from New York).flac
-Format                      : FLAC
-Format/Info                 : Free Lossless Audio Codec
-File size                   : 34.5 MiB
+Complete name               : 01. Intro (Live from New York).m4a
+Format                      : MPEG-4
+Format profile              : Apple audio with iTunes info
+Codec ID                    : M4A  (M4A /mp42/isom)
+File size                   : 18.7 MiB
 Duration                    : 3 min 13 s
-Overall bit rate mode       : Variable
-Overall bit rate            : 1 500 kb/s
+Overall bit rate mode       : Constant
+Overall bit rate            : 813 kb/s
 Title                       : Intro (Live from New York)
 Album                       : Paradise Again: The Live Album
+Album/Sorted by             : Paradise Again: The Live Album
 Album/Performer             : Swedish House Mafia
 Part/Position               : 1
 Part/Total                  : 1
 Track name/Position         : 1
 Track name/Total            : 22
 Performer                   : Swedish House Mafia
+Performer/Sorted by         : Swedish House Mafia
 Composer                    : Axel Hedfors, Steve Angello &amp; Sebastian Ingrosso
+Composer/Sorted by          : Axel Hedfors, Steve Angello &amp; Sebastian Ingrosso
 Genre                       : Dance
+ContentType                 : Music
 Recorded date               : 2023-07-28
+Encoded date                : 2026-04-01 07:09:05 UTC
+Tagged date                 : 2026-04-01 07:09:05 UTC
 Copyright                   : ℗ 2023 SSA Recording, LLP, under exclusive license to Republic Records, a division of UMG Recordings, Inc.
 Cover                       : Yes
 Cover type                  : Cover
-Cover MIME                  : image/jpeg
 Lyrics                      : Can you feel it? / Can you feel it? / Can you feel it? / Can you feel it? / Can you feel it? / Can you feel it? / Can you feel it? / Can you feel it?
 Comment                     : (Live from New York)
+Rating                      : None
+GenreID                     : 17
+AppleStoreCountry           : Spain
+cmID                        : 77816993
+AlbumTitleID                : 375569761
+PlayListID                  : 1699437884
+AppleStoreCatalogID         : 1699438066
+Title/Sort                  : Intro (Live from New York)
+Vendor                      : Universal:isrc:USUG12306476
 
 Audio
-Format                      : FLAC
-Format/Info                 : Free Lossless Audio Codec
+ID                          : 1
+Format                      : E-AC-3 JOC
+Format/Info                 : Enhanced AC-3 with Joint Object Coding
+Commercial name             : Dolby Digital Plus with Dolby Atmos
+Codec ID                    : ec-3
 Duration                    : 3 min 13 s
-Bit rate mode               : Variable
-Bit rate                    : 1 455 kb/s
-Channel(s)                  : 2 channels
-Channel layout              : L R
-Sampling rate               : 44.1 kHz
-Bit depth                   : 24 bits
-Compression mode            : Lossless
-Stream size                 : 33.5 MiB (97%)
-Writing library             : Lavf63.5.101
-MD5 of the unencoded conten : E0C9434B613C01423B18CB9A2A3D00C1
+Duration_LastFrame          : -21 ms
+Bit rate mode               : Constant
+Bit rate                    : 768 kb/s
+Channel(s)                  : 6 channels
+Channel layout              : L R C LFE Ls Rs
+Sampling rate               : 48.0 kHz
+Frame rate                  : 31.250 FPS (1536 SPF)
+Compression mode            : Lossy
+Stream size                 : 17.7 MiB (94%)
+Title                       : Core Media Audio
+Service kind                : Complete Main
+Encoded date                : 2026-04-01 07:09:05 UTC
+Tagged date                 : 2026-04-01 07:09:05 UTC
+Complexity index            : 16
+Number of dynamic objects   : 15
+Bed channel count           : 1 channel
+Bed channel configuration   : LFE
+Dialog Normalization        : -20 dB
+compr                       : -0.28 dB
+dmixmod                     : Lo/Ro
+ltrtcmixlev                 : -3.0 dB
+ltrtsurmixlev               : -3.0 dB
+lorocmixlev                 : -3.0 dB
+lorosurmixlev               : -3.0 dB
+dialnorm_Average            : -20 dB
+dialnorm_Minimum            : -20 dB
+dialnorm_Maximum            : -20 dB
 
 Image
 Type                        : Cover
 Format                      : JPEG
-Muxing mode                 : FLAC Picture
+Muxing mode                 : moov-meta-covr
 Width                       : 3 840 pixels
 Height                      : 3 840 pixels
 Color space                 : YUV
 Chroma subsampling          : 4:2:0
 Bit depth                   : 8 bits
 Compression mode            : Lossy
-Stream size                 : 1 016 KiB (3%)
+Stream size                 : 1 016 KiB (5%)
 </pre>
 </div></div>
 </div><br>
