@@ -8,178 +8,13 @@
 
  
                 <item>
-                <title><![CDATA[【Music Videos】Britney Spears - Oops!... I Did It Again / Apple Music 1080p / PCM 2.0 / E-AC-3 JOC 5.1 / DTS-HD 5.1 / AAC 2.0]]></title>
-                <link><![CDATA[https://sharemania.us/threads/britney-spears-oops-i-did-it-again-apple-music-1080p-pcm-2-0-e-ac-3-joc-5-1-dts-hd-5-1-aac-2-0.306816/]]></link>
+                <title><![CDATA[【UPSCALED】Kabah - Antro [Starlight precise]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/kabah-antro-starlight-precise.306818/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<div style="text-align: center"><img src="https://i.postimg.cc/ncC66LhN/Britney-Spears-Oops-I-Did-It-Again-Apple-Music-1080p-PCM-Dolby-Atmos-DTS-HD-AAC-colla.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/ncC66LhN/Britney-Spears-Oops-I-Did-It-Again-Apple-Music-1080p-PCM-Dolby-Atmos-DTS-HD-AAC-colla.jpg" style=""> <br>
-<b>Video Source: Apple Music.<br>
-PCM audio downloaded and converted from Qobuz.<br>
-Dolby Atmos audio mixed by me.<br>
-DTS-HD audio mixed by me.<br>
-Original AAC audio.<br>
+					<img src="https://i.postimg.cc/vYpyb9pW/Kabah-Antro-Starlight-precise-mp4-thumbs.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/vYpyb9pW/Kabah-Antro-Starlight-precise-mp4-thumbs.jpg" style=""> <br>
 <br>
-</b>​</div><b>
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>Format                      : Matroska
-Format version              : Version 4
-File size                   : 459 MiB
-Duration                    : 4 min 12 s
-Overall bit rate            : 15.2 Mb/s
-Frame rate                  : 23.976 FPS
-Title                       : Oops!...I Did It Again
-Encoded date                : 2026-08-16 17:26:01 UTC
-Writing application         : mkvmerge 88.0 ('All I Know') 64-bit
-Writing library             : libebml v1.4.5 + libmatroska v1.7.1
-Cover                       : Yes
-Cover description           : cover.jpg
-Cover type                  : Cover
-Attachments                 : cover.jpg
-
-Video
-ID                          : 1
-Format                      : AVC
-Format/Info                 : Advanced Video Codec
-Format profile              : High@L4
-Format settings             : CABAC / 4 Ref Frames
-Format settings, CABAC      : Yes
-Format settings, Reference  : 4 frames
-Format settings, Slice coun : 8 slices per frame
-Codec ID                    : V_MPEG4/ISO/AVC
-Duration                    : 4 min 12 s
-Bit rate                    : 9 971 kb/s
-Width                       : 1 920 pixels
-Height                      : 1 036 pixels
-Display aspect ratio        : 1.85:1
-Frame rate mode             : Constant
-Frame rate                  : 23.976 (24000/1001) FPS
-Color space                 : YUV
-Chroma subsampling          : 4:2:0 (Type 2)
-Bit depth                   : 8 bits
-Scan type                   : Progressive
-Bits/(Pixel*Frame)          : 0.209
-Stream size                 : 300 MiB (65%)
-Default                     : Yes
-Forced                      : No
-Color range                 : Limited
-Color primaries             : BT.709
-Transfer characteristics    : BT.709
-Matrix coefficients         : BT.709
-
-Audio #1
-ID                          : 2
-Format                      : PCM
-Format settings             : Little / Signed
-Codec ID                    : A_PCM/INT/LIT
-Duration                    : 4 min 12 s
-Bit rate mode               : Constant
-Bit rate                    : 1 411.2 kb/s
-Channel(s)                  : 2 channels
-Sampling rate               : 44.1 kHz
-Frame rate                  : 25.000 FPS (1764 SPF)
-Bit depth                   : 16 bits
-Stream size                 : 42.5 MiB (9%)
-Title                       : PCM Lossless 2.0
-Default                     : Yes
-Forced                      : No
-
-Audio #2
-ID                          : 3
-Format                      : E-AC-3 JOC
-Format/Info                 : Enhanced AC-3 with Joint Object Coding
-Commercial name             : Dolby Digital Plus with Dolby Atmos
-Codec ID                    : A_EAC3
-Duration                    : 4 min 12 s
-Bit rate mode               : Constant
-Bit rate                    : 768 kb/s
-Channel(s)                  : 6 channels
-Channel layout              : L R C LFE Ls Rs
-Sampling rate               : 48.0 kHz
-Frame rate                  : 31.250 FPS (1536 SPF)
-Compression mode            : Lossy
-Stream size                 : 23.1 MiB (5%)
-Title                       : Dolby Atmos
-Service kind                : Complete Main
-Default                     : Yes
-Forced                      : No
-Complexity index            : 16
-Number of dynamic objects   : 15
-Bed channel count           : 1 channel
-Bed channel configuration   : LFE
-Dialog Normalization        : -19 dB
-compr                       : -0.28 dB
-dmixmod                     : Lt/Rt
-ltrtcmixlev                 : -3.0 dB
-ltrtsurmixlev               : -3.0 dB
-lorocmixlev                 : -3.0 dB
-lorosurmixlev               : -3.0 dB
-dialnorm_Average            : -19 dB
-dialnorm_Minimum            : -19 dB
-dialnorm_Maximum            : -19 dB
-
-Audio #3
-ID                          : 4
-Format                      : DTS XBR
-Format/Info                 : Digital Theater Systems
-Commercial name             : DTS-HD High Resolution Audio
-Codec ID                    : A_DTS
-Duration                    : 4 min 12 s
-Bit rate mode               : Constant
-Bit rate                    : 2 814 kb/s
-Channel(s)                  : 6 channels
-Channel layout              : C L R Ls Rs LFE
-Sampling rate               : 48.0 kHz
-Frame rate                  : 93.750 FPS (512 SPF)
-Bit depth                   : 16 bits
-Compression mode            : Lossy
-Stream size                 : 84.7 MiB (18%)
-Title                       : DTS-HD 5.1
-Default                     : Yes
-Forced                      : No
-
-Audio #4
-ID                          : 5
-Format                      : AAC LC
-Format/Info                 : Advanced Audio Codec Low Complexity
-Codec ID                    : A_AAC-2
-Duration                    : 4 min 12 s
-Bit rate                    : 273 kb/s
-Channel(s)                  : 2 channels
-Channel layout              : L R
-Sampling rate               : 48.0 kHz
-Frame rate                  : 46.875 FPS (1024 SPF)
-Compression mode            : Lossy
-Stream size                 : 8.23 MiB (2%)
-Title                       : AAC 2.0
-Default                     : Yes
-Forced                      : No
-
-Image
-Type                        : Cover
-Title                       : cover.jpg
-Format                      : JPEG
-Muxing mode                 : Attachment
-Width                       : 1 200 pixels
-Height                      : 648 pixels
-Color space                 : YUV
-Chroma subsampling          : 4:2:0
-Bit depth                   : 8 bits
-Compression mode            : Lossy
-Stream size                 : 85.0 KiB (0%)
-</pre>
-</div></div>
-</div><br>
-<br>
-</b><br>
-<div style="text-align: center"><b>Download (Google Drive)<br>
 
 
 
@@ -187,30 +22,11 @@ Stream size                 : 85.0 KiB (0%)
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
 	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div></b>​</div>
+</div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[narXerino]]></author>
-                </item>
-
-                
-                <item>
-                <title><![CDATA[【Requests】[REQ VID] - The.Cheetah.Girls.(2003).720p.WEBRip-Wide.Screen]]></title>
-                <link><![CDATA[https://sharemania.us/threads/the-cheetah-girls-2003-720p-webrip-wide-screen.306817/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<b><span style="font-size: 18px">Hi, I'm looking for web-rip wide screen version of the Cheetah Girls (2003)<br>
-either,"The.Cheetah.Girls.(2003).720p.WEBRip-Tulio"<br>
-or<br>
-"The Cheetah Girls (2003) [Upscaled] 720p Disney WEB-DL AAC 2.0 x264-TVSmash"<br>
-or any other web-rip wide screen version.. <br>
-thanks in advance.</span></b>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[dc95hd]]></author>
+                <author><![CDATA[memzinla]]></author>
                 </item>
 
                 </channel></rss>
