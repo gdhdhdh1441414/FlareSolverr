@@ -8,177 +8,33 @@
 
  
                 <item>
-                <title><![CDATA[【HD Live Performances】HDTV - Anitta - Altas Horas - Programa de 15/08/2026 - 1080p GLOBO HDTV H.264 DD5.1]]></title>
-                <link><![CDATA[https://sharemania.us/threads/anitta-altas-horas-programa-de-15-08-2026-1080p-globo-hdtv-h-264-dd5-1.306794/]]></link>
+                <title><![CDATA[【Albums (lossless)】CD Image - Megadeth - Megadeth (Japanese Limited Edition) Qualities: FLAC | 16Bit - 44.1 kHz | CD Rip (Scans, Log, Cue)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/megadeth-megadeth-japanese-limited-edition-qualities-flac-16bit-44-1-khz-cd-rip-scans-log-cue.306795/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.imgur.com/QIt94PX.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/QIt94PX.jpeg" style=""> <br>
-<img src="https://i.imgur.com/1s6sE4B.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/1s6sE4B.jpeg" style=""> <br>
-<img src="https://i.imgur.com/mI3epWW.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/mI3epWW.png" style=""> <br>
-<img src="https://i.imgur.com/oINjUTo.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/oINjUTo.jpeg" style=""> <br>
-
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>General
-ID                             : 1 (0x1)
-Complete name                  : Anitta - Altas Horas - Programa de 15:08:2026 - 1080p  HDTV H.264 DD5.1.ts
-Format                         : MPEG-TS
-File size                      : 7.40 GiB
-Duration                       : 1 h 26 min
-Overall bit rate mode          : Variable
-Overall bit rate               : 12.3 Mb/s
-
-Video
-ID                             : 256 (0x100)
-Menu ID                        : 1 (0x1)
-Format                         : AVC
-Format/Info                    : Advanced Video Codec
-Format profile                 : High@L4
-Format settings                : CABAC / 3 Ref Frames
-Format settings, CABAC         : Yes
-Format settings, Reference fra : 3 frames
-Codec ID                       : 27
-Duration                       : 1 h 26 min
-Bit rate mode                  : Constant
-Bit rate                       : 11.0 Mb/s
-Width                          : 1 920 pixels
-Height                         : 1 080 pixels
-Display aspect ratio           : 16:9
-Frame rate                     : 29.970 (30000/1001) FPS
-Color space                    : YUV
-Chroma subsampling             : 4:2:0
-Bit depth                      : 8 bits
-Scan type                      : MBAFF
-Scan type, store method        : Separated fields
-Scan order                     : Top Field First
-Bits/(Pixel*Frame)             : 0.177
-Stream size                    : 6.49 GiB (88%)
-Color range                    : Limited
-Color primaries                : BT.709
-Transfer characteristics       : BT.709
-Matrix coefficients            : BT.709
-
-Audio #1
-ID                             : 257 (0x101)
-Menu ID                        : 1 (0x1)
-Format                         : AC-3
-Format/Info                    : Audio Coding 3
-Commercial name                : Dolby Digital
-Codec ID                       : 129
-Duration                       : 1 h 26 min
-Bit rate mode                  : Constant
-Bit rate                       : 384 kb/s
-Channel(s)                     : 6 channels
-Channel layout                 : L R C LFE Ls Rs
-Sampling rate                  : 48.0 kHz
-Frame rate                     : 31.250 FPS (1536 SPF)
-Compression mode               : Lossy
-Delay relative to video        : -38 ms
-Stream size                    : 237 MiB (3%)
-Language                       : Portuguese
-Service kind                   : Complete Main
-
-Audio #2
-ID                             : 258 (0x102)
-Menu ID                        : 1 (0x1)
-Format                         : AC-3
-Format/Info                    : Audio Coding 3
-Commercial name                : Dolby Digital
-Codec ID                       : 129
-Duration                       : 1 h 26 min
-Bit rate mode                  : Constant
-Bit rate                       : 192 kb/s
-Channel(s)                     : 2 channels
-Channel layout                 : L R
-Sampling rate                  : 48.0 kHz
-Frame rate                     : 31.250 FPS (1536 SPF)
-Compression mode               : Lossy
-Delay relative to video        : -38 ms
-Stream size                    : 119 MiB (2%)
-Language                       : sap
-Service kind                   : Complete Main
-
-Audio #3
-ID                             : 259 (0x103)
-Menu ID                        : 1 (0x1)
-Format                         : MPEG Audio
-Format version                 : Version 1
-Format profile                 : Layer 2
-Codec ID                       : 3
-Duration                       : 1 h 26 min
-Bit rate mode                  : Constant
-Bit rate                       : 192 kb/s
-Channel(s)                     : 2 channels
-Sampling rate                  : 48.0 kHz
-Frame rate                     : 41.667 FPS (1152 SPF)
-Compression mode               : Lossy
-Delay relative to video        : -56 ms
-Stream size                    : 119 MiB (2%)
-Language                       : dub
-
-Audio #4
-ID                             : 260 (0x104)
-Menu ID                        : 1 (0x1)
-Format                         : MPEG Audio
-Format version                 : Version 1
-Format profile                 : Layer 2
-Codec ID                       : 3
-Duration                       : 1 h 26 min
-Bit rate mode                  : Constant
-Bit rate                       : 128 kb/s
-Channel(s)                     : 2 channels
-Sampling rate                  : 48.0 kHz
-Frame rate                     : 41.667 FPS (1152 SPF)
-Compression mode               : Lossy
-Delay relative to video        : -56 ms
-Stream size                    : 79.1 MiB (1%)
-Language                       : aud
-
-Text #1
-ID                             : 256 (0x100)-CC1
-Menu ID                        : 1 (0x1)
-Format                         : EIA-608
-Muxing mode                    : SCTE 128 / DTVCC Transport
-Muxing mode, more info         : Muxed in Video #1
-Duration                       : 1 h 26 min
-Bit rate mode                  : Constant
-Stream size                    : 0.00 Byte (0%)
-CaptionServiceName             : CC1
-
-Text #2
-ID                             : 256 (0x100)-1
-Menu ID                        : 1 (0x1)
-Format                         : EIA-708
-Muxing mode                    : SCTE 128 / DTVCC Transport
-Muxing mode, more info         : Muxed in Video #1
-Duration                       : 1 h 26 min
-Bit rate mode                  : Constant
-Stream size                    : 0.00 Byte (0%)
-
-Menu
-ID                             : 4096 (0x1000)
-Menu ID                        : 1 (0x1)
-Duration                       : 1 h 26 min
-List                           : 256 (0x100) (AVC) / 257 (0x101) (AC-3, Portuguese) / 258 (0x102) (AC-3, sap) / 259 (0x103) (MPEG Audio, dub) / 260 (0x104) (MPEG Audio, aud)
-Language                       : / Portuguese / sap / dub / aud
-Service name                   : Service01
-Service provider               : FFmpeg
-Service type                   : digital television
-</pre>
-</div>
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div>
+					<img src="https://cdn.phototourl.com/free/2026-08-16-28084244-ccb0-4fd9-8342-7171cd9c3717.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://cdn.phototourl.com/free/2026-08-16-28084244-ccb0-4fd9-8342-7171cd9c3717.jpg" style=""> <img src="https://ibb.co.com/gLx7T6Nz" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://ibb.co.com/gLx7T6Nz" style=""> Tracklist<br>
+Megadeth – Megadeth [Japanese Limited Edition]<br>
+<br>
+1. Tipping Point<br>
+2. I Don't Care<br>
+3. Hey, God?!<br>
+4. Let There Be Shred<br>
+5. Puppet Parade<br>
+6. Another Bad Day<br>
+7. Made To Kill<br>
+8. Obey The Call<br>
+9. I Am War<br>
+10. The Last Note<br>
+11. Ride The Lightning<br>
+12. The Last Note (Instrumental) — Japan Bonus Track<br>
+<br>
+Download<br>
+<a href="https://justpaste.it/gzrak" target="_blank" class="externalLink" rel="nofollow">https://justpaste.it/gzrak</a>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[Brendow]]></author>
+                <author><![CDATA[ArifReza]]></author>
                 </item>
 
                 </channel></rss>
