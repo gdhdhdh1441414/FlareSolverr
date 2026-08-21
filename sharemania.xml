@@ -8,15 +8,12 @@
 
  
                 <item>
-                <title><![CDATA[【UPSCALED】Rouge - Sem Você [Starlight Precise 1440p]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/rouge-sem-voc%C3%AA-starlight-precise-1440p.307084/]]></link>
+                <title><![CDATA[【Albums (lossless)】ALAC - PRISCILLA - ECO (2026) [Apple Lossless 24 bits/44,1 kHz]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/priscilla-eco-2026-apple-lossless-24-bits-44-1-khz.307085/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.ibb.co/ynWt6nRm/1.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/ynWt6nRm/1.png" style=""><br>
-<img src="https://i.ibb.co/TDchhpmd/2.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/TDchhpmd/2.png" style=""><br>
-<img src="https://i.ibb.co/hJCHKrXH/4.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/hJCHKrXH/4.png" style=""><br>
-<img src="https://i.ibb.co/SDbNCFmZ/5.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/SDbNCFmZ/5.png" style=""><br>
+					<img src="https://a5.mzstatic.com/us/r1000/0/Music221/v4/73/13/27/731327eb-6eba-ca81-d3a2-fdc1d72e6252/fe454afc-d176-4879-9cb3-90bf0d2da397.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://a5.mzstatic.com/us/r1000/0/Music221/v4/73/13/27/731327eb-6eba-ca81-d3a2-fdc1d72e6252/fe454afc-d176-4879-9cb3-90bf0d2da397.jpg" style=""><br>
 
 
 
@@ -27,73 +24,97 @@
 <div class="bbCodeBlock bbCodeCode">
 	<div class="type">Code:</div>
 	<pre>General
-Format                                   : Matroska
-Format version                           : Version 4
-File size                                : 541 MiB
-Duration                                 : 3 min 25 s
-Overall bit rate                         : 22.1 Mb/s
-Frame rate                               : 29.970 FPS
-Writing application                      : Lavf62.13.100
-Writing library                          : Lavf62.13.100
-ErrorDetectionType                       : Per level 1
-CRC_Error_Pos                            : 620
-VIDEOAI                                  : Created by JL92
-
-Video
-ID                                       : 1
-Format                                   : HEVC
-Format/Info                              : High Efficiency Video Coding
-Format profile                           : Main 10@L5@High
-Codec ID                                 : V_MPEGH/ISO/HEVC
-Duration                                 : 3 min 25 s
-Bit rate                                 : 19.5 Mb/s
-Width                                    : 2 354 pixels
-Height                                   : 1 440 pixels
-Display aspect ratio                     : 16:10
-Frame rate mode                          : Constant
-Frame rate                               : 29.970 (30000/1001) FPS
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0
-Bit depth                                : 10 bits
-Bits/(Pixel*Frame)                       : 0.192
-Stream size                              : 479 MiB (88%)
-Default                                  : Yes
-Forced                                   : No
-Color range                              : Limited
+Format                                   : MPEG-4
+Format profile                           : Apple audio with iTunes info
+Codec ID                                 : M4A  (isom/iso5/hlsf/cmfc/ccea/M4A /mp42)
+File size                                : 45.0 MiB
+Duration                                 : 3 min 32 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 781 kb/s
+Title                                    : Nosso Lugar
+Album                                    : ECO
+Album/Sorted by                          : ECO
+Album/Performer                          : PRISCILLA
+Album/Performer/Sort                     : PRISCILLA
+Part/Position                            : 1
+Part/Total                               : 1
+Track name/Position                      : 2
+Track name/Total                         : 10
+Performer                                : PRISCILLA
+Performer/Sorted by                      : PRISCILLA
+Composer                                 : Andre Murilo da Silva, Priscilla Alcantara Silva Fonseca &amp; Ben Silverstein
+Composer/Sorted by                       : Andre Murilo da Silva, Priscilla Alcantara Silva Fonseca &amp; Ben Silverstein
+Publisher                                : Independent
+Genre                                    : Pop
+Recorded date                            : 2026-08-13
+Encoded date                             : 2026-07-29 17:54:36 UTC
+Tagged date                              : 2026-07-29 17:54:36 UTC
+ISRC                                     : QZN882651650
+Copyright                                : ℗ 2026 D-AMANTS
+Cover                                    : Yes
+Cover type                               : Cover
+Title/Sort                               : Nosso Lugar
+AlbumTitleID                             : 573502408
+UPC                                      : 7316483026110
+RELEASETIME                              : 2026-08-13
 
 Audio
-ID                                       : 2
-Format                                   : PCM
-Format settings                          : Little / Signed
-Codec ID                                 : A_PCM/INT/LIT
-Duration                                 : 3 min 25 s
-Bit rate mode                            : Constant
-Bit rate                                 : 2 117 kb/s
+ID                                       : 1
+Format                                   : ALAC
+Codec ID                                 : alac
+Codec ID/Info                            : Apple Lossless Audio Codec
+Duration                                 : 3 min 32 s
+Duration_LastFrame                       : -61 ms
+Bit rate mode                            : Variable
+Bit rate                                 : 1 751 kb/s
+Nominal bit rate                         : 2 117 kb/s
 Channel(s)                               : 2 channels
 Sampling rate                            : 44.1 kHz
 Bit depth                                : 24 bits
-Delay relative to video                  : 20 ms
-Stream size                              : 51.8 MiB (10%)
-Writing library                          : Lavc62.29.100 pcm_s24le
-Default                                  : Yes
-Forced                                   : No
-VENDOR_ID                                : [0][0][0][0]
+Stream size                              : 44.3 MiB (98%)
+Title                                    : Core Media Audio
+Encoded date                             : 2026-07-29 17:54:36 UTC
+Tagged date                              : 2026-08-21 00:09:15 UTC
+
+Image
+Type                                     : Cover
+Format                                   : JPEG
+Muxing mode                              : moov-meta-covr
+Width                                    : 2 026 pixels
+Height                                   : 2 026 pixels
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Compression mode                         : Lossy
+Stream size                              : 757 KiB (2%)
 
 </pre>
 </div></div>
-</div>
+</div><b>Tracklist:</b><br>
+01 Esse É O Meu Eco<br>
+02 Nosso Lugar<br>
+03 Não Testa<br>
+04 Sua Demais<br>
+05 Obsessão<br>
+06 Melhor Sozinho<br>
+07 Destino<br>
+08 Meu Santo Me Guarde<br>
+09 Doce Com Amargo<br>
+10 Respirar<br>
+<br>
+
 
 
 <div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
 	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Download</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText"><div style="text-align: center">
+	<div class="SpoilerTarget bbCodeSpoilerText">
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
 	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div></div></div>
+</div></div>
 </div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
