@@ -21,4 +21,4 @@ threads/tweet-oops-oh-my-radio-edit.307841/
 threads/alex-warren-wildchild-extended-version.307840/
 threads/dua-lipa-training-seasons-over-ep-flac-16bit-44-1khz.307839/
 threads/ril%C3%A8s-1000-reasons-2021-alac-16-bit-44-1-khz.307838/
-threads/tample-visions-2024-qobuz-alac-24-bit-48khz.307837/
+threads/tample-visions-2024-qobuz-flac-24-bit-48khz.307837/
