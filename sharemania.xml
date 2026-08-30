@@ -8,28 +8,223 @@
 
  
                 <item>
-                <title><![CDATA[【Albums (lossless)】FLAC - Billie Eilish - HIT ME HARD AND SOFT (Japanese Anniversary Edition) (2025) [FLAC CD Rip 16bit/44.1kHz]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/billie-eilish-hit-me-hard-and-soft-japanese-anniversary-edition-2025-flac-cd-rip-16bit-44-1khz.307906/]]></link>
+                <title><![CDATA[【Music Videos】Lady Gaga, Ariana Grande - Rain On Me / Apple Music 1080p / PCM 2.0 / E-AC-3 JOC 5.1 / AAC 2.0]]></title>
+                <link><![CDATA[https://sharemania.us/threads/lady-gaga-ariana-grande-rain-on-me-apple-music-1080p-pcm-2-0-e-ac-3-joc-5-1-aac-2-0.307908/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<div style="text-align: center"><img src="https://i.ibb.co/XxB24pqp/cover.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/XxB24pqp/cover.jpg" style=""><br>
+					<div style="text-align: center"><img src="https://i.postimg.cc/289d4vNq/Lady-Gaga-Ariana-Grande-Rain-On-Me-(Apple-Music-1080p-PCM-Dolby-Atmos-AAC)-collage-5059.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/289d4vNq/Lady-Gaga-Ariana-Grande-Rain-On-Me-(Apple-Music-1080p-PCM-Dolby-Atmos-AAC)-collage-5059.jpg" style=""> <br>
+<b>PCM downloaded and converted from Qobuz.<br>
+Dolby Atmos audio mixed by me.<br>
+Dolby Atmos audio track without Rain FX, in case you find it annoying.<br>
+Original AAC audio.<br>
 <br>
-<b>Tracklist:</b><br>
-1. Skinny<br>
-2. Lunch <br>
-3. Chihiro<br>
-4. Birds of a Feather<br>
-5. Wildflower<br>
-6. The Greatest<br>
- 7. L'Amour de Ma Vie<br>
-8. The Diner<br>
-9. Bittersuite <br>
-10. Blue<br>
-11. L'Amour de Ma Vie (Over Now Extended Edit) <br>
-12. The Greates (Live Acoustic)<br>
-13. Wildflower (Live Acoustic) <br>
-14. Birds of a Feather (Live Acoustic)<br>
+<br>
+<br>
+</b>​</div><b>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>Format                      : Matroska
+
+<b>Format version              : Version 4
+File size                   : 311 MiB
+Duration                    : 3 min 8 s
+Overall bit rate            : 13.9 Mb/s
+Frame rate                  : 23.976 FPS
+Title                       : Rain On Me
+Encoded date                : 2026-08-30 15:53:44 UTC
+Writing application         : mkvmerge 88.0 ('All I Know') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Cover                       : Yes
+Cover description           : cover.jpg
+Cover type                  : Cover
+Attachments                 : cover.jpg
+
+Video
+ID                          : 1
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L4
+Format settings             : CABAC / 4 Ref Frames
+Format settings, CABAC      : Yes
+Format settings, Reference  : 4 frames
+Format settings, Slice coun : 8 slices per frame
+Codec ID                    : V_MPEG4/ISO/AVC
+Duration                    : 3 min 8 s
+Bit rate                    : 9 718 kb/s
+Width                       : 1 912 pixels
+Height                      : 1 072 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Constant
+Frame rate                  : 23.976 (24000/1001) FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0 (Type 2)
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.198
+Stream size                 : 218 MiB (70%)
+Language                    : English
+Default                     : Yes
+Forced                      : No
+Color range                 : Limited
+Color primaries             : BT.709
+Transfer characteristics    : BT.709
+Matrix coefficients         : BT.709
+
+Audio #1
+ID                          : 2
+Format                      : PCM
+Format settings             : Little / Signed
+Codec ID                    : A_PCM/INT/LIT
+Duration                    : 3 min 8 s
+Bit rate mode               : Constant
+Bit rate                    : 2 304 kb/s
+Channel(s)                  : 2 channels
+Sampling rate               : 48.0 kHz
+Frame rate                  : 25.001 FPS (1920 SPF)
+Bit depth                   : 24 bits
+Delay relative to video     : -42 ms
+Stream size                 : 51.7 MiB (17%)
+Title                       : PCM 2.0 Lossless
+Default                     : Yes
+Forced                      : No
+
+Audio #2
+ID                          : 3
+Format                      : E-AC-3 JOC
+Format/Info                 : Enhanced AC-3 with Joint Object Coding
+Commercial name             : Dolby Digital Plus with Dolby Atmos
+Codec ID                    : A_EAC3
+Duration                    : 3 min 8 s
+Bit rate mode               : Constant
+Bit rate                    : 768 kb/s
+Channel(s)                  : 6 channels
+Channel layout              : L R C LFE Ls Rs
+Sampling rate               : 48.0 kHz
+Frame rate                  : 31.250 FPS (1536 SPF)
+Compression mode            : Lossy
+Delay relative to video     : -42 ms
+Stream size                 : 17.2 MiB (6%)
+Title                       : Dolby Atmos
+Service kind                : Complete Main
+Default                     : Yes
+Forced                      : No
+Complexity index            : 16
+Number of dynamic objects   : 15
+Bed channel count           : 1 channel
+Bed channel configuration   : LFE
+Dialog Normalization        : -18 dB
+compr                       : -0.28 dB
+dmixmod                     : Lt/Rt
+ltrtcmixlev                 : -3.0 dB
+ltrtsurmixlev               : -3.0 dB
+lorocmixlev                 : -3.0 dB
+lorosurmixlev               : -3.0 dB
+dialnorm_Average            : -18 dB
+dialnorm_Minimum            : -18 dB
+dialnorm_Maximum            : -18 dB
+
+Audio #3
+ID                          : 4
+Format                      : E-AC-3 JOC
+Format/Info                 : Enhanced AC-3 with Joint Object Coding
+Commercial name             : Dolby Digital Plus with Dolby Atmos
+Codec ID                    : A_EAC3
+Duration                    : 3 min 8 s
+Bit rate mode               : Constant
+Bit rate                    : 768 kb/s
+Channel(s)                  : 6 channels
+Channel layout              : L R C LFE Ls Rs
+Sampling rate               : 48.0 kHz
+Frame rate                  : 31.250 FPS (1536 SPF)
+Compression mode            : Lossy
+Delay relative to video     : -42 ms
+Stream size                 : 17.2 MiB (6%)
+Title                       : Dolby Atmos (No Rain FX)
+Service kind                : Complete Main
+Default                     : Yes
+Forced                      : No
+Complexity index            : 16
+Number of dynamic objects   : 15
+Bed channel count           : 1 channel
+Bed channel configuration   : LFE
+Dialog Normalization        : -18 dB
+compr                       : -0.28 dB
+dmixmod                     : Lt/Rt
+ltrtcmixlev                 : -3.0 dB
+ltrtsurmixlev               : -3.0 dB
+lorocmixlev                 : -3.0 dB
+lorosurmixlev               : -3.0 dB
+dialnorm_Average            : -18 dB
+dialnorm_Minimum            : -18 dB
+dialnorm_Maximum            : -18 dB
+
+Audio #4
+ID                          : 5
+Format                      : AAC LC
+Format/Info                 : Advanced Audio Codec Low Complexity
+Codec ID                    : A_AAC-2
+Duration                    : 3 min 8 s
+Bit rate                    : 245 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 46.875 FPS (1024 SPF)
+Compression mode            : Lossy
+Delay relative to video     : -42 ms
+Stream size                 : 5.50 MiB (2%)
+Title                       : AAC 2.0
+Default                     : Yes
+Forced                      : No
+
+Image
+Type                        : Cover
+Title                       : cover.jpg
+Format                      : JPEG
+Muxing mode                 : Attachment
+Width                       : 5 000 pixels
+Height                      : 2 813 pixels
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Compression mode            : Lossy
+Stream size                 : 1.09 MiB (0%)</b></pre>
+</div><b><br>
+</b></div>
+</div><br>
+<br>
+<br>
+<br>
+<br>
+<div style="text-align: center"><b>Download (Google Drive)<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></b>​</div></b>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[narXerino]]></author>
+                </item>
+
+                
+                <item>
+                <title><![CDATA[【HD Live Performances】HDTV - Destiny's Child - Say My Name (Top of the Pops, 07/04/2000) 50fps 1080p]]></title>
+                <link><![CDATA[https://sharemania.us/threads/destinys-child-say-my-name-top-of-the-pops-07-04-2000-50fps-1080p.307907/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.postimg.cc/pd41k4NB/Destiny-s-Child-Say-My-Name-(TOTP-2000)-ts.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/pd41k4NB/Destiny-s-Child-Say-My-Name-(TOTP-2000)-ts.jpg" style=""> <br>
 
 
 
@@ -37,11 +232,11 @@
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
 	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div></div>
+</div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[2NE1]]></author>
+                <author><![CDATA[l-ayu]]></author>
                 </item>
 
                 </channel></rss>
