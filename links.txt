@@ -1,3 +1,5 @@
+threads/tmf-awards-2000.308101/
+threads/lorde-rock-en-seine-2026.308100/
 threads/tweet-oops-oh-my-cdm-2002-16bit-44-1khz.308099/
 threads/avengers-endgame-2019-imax-2160p-dsnp-web-dl-ddp5-1-atmos-dv-hdr-h-265-pirates.308098/
 threads/avengers-infinity-war-2018-imax-2160p-dsnp-web-dl-ddp5-1-atmos-dv-hdr-h-265-pirates.308097/
@@ -20,5 +22,3 @@ threads/majid-jordan-two-roads-dolby-atmos.308081/
 threads/taeyeon-do-you-like-brahms-original-television-soundtrack-pt-5-single-alac-cd.308080/
 threads/erin-hamilton-i-got-the-music-in-me-us-cd-maxi-single-2002-flac.308079/
 threads/m83-oblivion-feat-susanne-sundf%C3%B8r-2013-alac-16-bit-44-1-khz.308078/
-threads/lee-west-wishing-uk-promo-cd-2000-flac.308077/
-threads/lonnie-gordon-happenin-all-over-again-us-cd-maxi-single-1998-flac.308076/
