@@ -8,25 +8,16 @@
 
  
                 <item>
-                <title><![CDATA[【Helpdesk】Set correct colors for ProRes masters in VLC]]></title>
-                <link><![CDATA[https://sharemania.us/threads/set-correct-colors-for-prores-masters-in-vlc.308160/]]></link>
+                <title><![CDATA[【Requests】[REQ AUD] - Kelela - Mexico (Incubus Cover)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/kelela-mexico-incubus-cover.308161/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					Hello everyone,<br>
-I noticed that the colors of my ProRes masters are never rendered correctly when playing them in <b>VLC</b>. The contrast is always far too high, causing details in bright areas to be lost due to overexposure, while details in dark areas are lost as well:<br>
-<img src="https://i.ibb.co/V0vp2hRB/Screenshot-328.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/V0vp2hRB/Screenshot-328.png" style=""><br>
-<br>
-So I did some research and found a solution: <b>Tools </b>&gt;<b> Preferences </b>&gt;<b> Video </b>&gt;<b> Output </b>&gt;<b> Direct3D9 video output</b><br>
-The colors should now be displayed correctly:<br>
-<img src="https://i.ibb.co/0V2WQSX0/Screenshot-330.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/0V2WQSX0/Screenshot-330.png" style=""><br>
-<br>
-I don't know why, but changing this setting also caused my DVD-ISOs to stop working properly. Luckily, I also found a solution for that: <b>Tools </b>&gt;<b> Preferences </b>&gt;<b> Input / Codecs </b>&gt;<b> Hardware-accelerated decoding </b>&gt;<b> Disable</b><br>
-With both settings changed, ProRes masters are displayed with the correct colors, and DVD-ISOs work properly again.
+					I just saw that it was posted on Spotify but I have no way to rip it. Would anyone be able to help? 320k mp3 or better is preferred
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[Hard Hardy]]></author>
+                <author><![CDATA[Afrosamari]]></author>
                 </item>
 
                 </channel></rss>
