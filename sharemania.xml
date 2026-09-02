@@ -8,24 +8,27 @@
 
  
                 <item>
-                <title><![CDATA[【Helpdesk】Set correct colors for ProRes masters in MPC-HC (x64)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/set-correct-colors-for-prores-masters-in-mpc-hc-x64.308164/]]></link>
+                <title><![CDATA[【Requests】[REQ AUD] - Eternity / Jade Valerie / Sweetbox]]></title>
+                <link><![CDATA[https://sharemania.us/threads/eternity-jade-valerie-sweetbox.308165/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					Hello everyone,<br>
-After fixing the color issue when playing ProRes masters in <a href="https://sharemania.us/threads/set-correct-colors-for-prores-masters-in-vlc.308160/" class="internalLink">VLC</a>, I wanted to fix the same video renderer issue in <b>MPC-HC</b> as well.<br>
+					Hi everyone, <br>
 <br>
-With MPC-HC, the shadows and the overall image of the ProRes master are displayed too brightly, while the highlights are too dark, resulting in a washed-out look. At least, that's the best way I can describe it. In any case, the colors are clearly not being displayed correctly:<br>
-<img src="https://i.ibb.co/fVkFRQ3f/Screenshot-339.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/fVkFRQ3f/Screenshot-339.png" style=""> <br>
+I'm trying to compile a Jade Valerie / Sweetbox discography and have some CDs on the way right now, but I was unable to find copies of the side project Eternity (2009) and the solo album Bittersweet Symphony (2008). <br>
 <br>
-Fortunately, there is a solution for this as well: <b>View</b> &gt; <b>Options...</b> &gt; <b>Playback</b> &gt; <b>DirectShow Video</b> &gt; <b>Video Mixing Renderer 9 (renderless)</b><br>
-After changing this setting, the colors of the ProRes master should now be displayed correctly:<br>
-<img src="https://i.ibb.co/3yTLSk6C/Screenshot-340.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/3yTLSk6C/Screenshot-340.png" style="">
+I was wondering if anyone had lossless or iTunes rips of these as I already have mp3 copies. Discogs links below, any edition is fine (especially for Eternity since it's so rare):<br>
+<br>
+<a href="https://www.discogs.com/master/279858-Eternity-Eternity" target="_blank" class="externalLink" rel="nofollow">https://www.discogs.com/master/279858-Eternity-Eternity</a><br>
+iTunes Japan link if anyone has access to it: <a href="https://music.apple.com/jp/album/eternity/317301147" target="_blank" class="externalLink" rel="nofollow">https://music.apple.com/jp/album/eternity/317301147</a><br>
+<br>
+<a href="https://www.discogs.com/master/1501246-Jade-Valerie-Bittersweet-Symphony" target="_blank" class="externalLink" rel="nofollow">https://www.discogs.com/master/1501246-Jade-Valerie-Bittersweet-Symphony</a><br>
+<br>
+Thank you!
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[Hard Hardy]]></author>
+                <author><![CDATA[Turn Ya Head]]></author>
                 </item>
 
                 </channel></rss>
