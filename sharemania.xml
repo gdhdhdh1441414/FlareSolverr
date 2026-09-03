@@ -8,31 +8,92 @@
 
  
                 <item>
-                <title><![CDATA[【Singles (lossy)】iTunes Plus - Christina Aguilera - Genie in a Bottle (Levi Mix) | 16bits/44.1kHz | 256kb/s M4A]]></title>
-                <link><![CDATA[https://sharemania.us/threads/christina-aguilera-genie-in-a-bottle-levi-mix-16bits-44-1khz-256kb-s-m4a.308250/]]></link>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Florence + The Machine - Reading Festival (2026) - BBC iPlayer]]></title>
+                <link><![CDATA[https://sharemania.us/threads/florence-the-machine-reading-festival-2026-bbc-iplayer.308254/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<div style="text-align: center"><img src="https://i.imgur.gg/nqSQxI3-CAGITAB.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.gg/nqSQxI3-CAGITAB.jpeg" style=""> <br>
-<br>
-<b>Genre</b>: Electronic<br>
-<b>Release Date</b>: 08/28/2026<br>
-<b>Label</b>: TH3RD BRAIN<br>
-<b>Source</b>: Purchased from iTunes<br>
-<br>
-<br>
-<span style="font-size: 12px">
+					<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 245115225441533704289981061225310574831 (0xB86779AA011152ABD9A75D4CDA6FD8EF)
+Complete name                            : Reading and Leeds Festival 2026 - Florence The Machine.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 4.79 GiB
+Duration                                 : 1 h 15 min
+Overall bit rate                         : 9 082 kb/s
+Frame rate                               : 50.000 FPS
+Title                                    : Reading and Leeds Festival 2026 - Florence + The Machine
+Encoded date                             : 2026-09-03 18:14:44 UTC
+Writing application                      : mkvmerge v97.0 ('You Don't Have A Clue') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.2
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 15 min
+Bit rate                                 : 8 953 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 50.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.086
+Stream size                              : 4.72 GiB (99%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 1 h 15 min
+Bit rate                                 : 125 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 67.8 MiB (1%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+</pre>
+</div>
 
 
 
 <div class="bbCodeBlock bbCodeVfcHH HiddenContent">
 	<div class="attribution type">Hidden Content:</div>
 	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div></span>​</div>
+</div>sha256sum<br>
+
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>b425571125f1b72e565e648ec25b63b132ae158b68fb5ffbd22d9aa7cc0e2ddf</pre>
+</div>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[sunflow3r]]></author>
+                <author><![CDATA[geght]]></author>
                 </item>
 
                 </channel></rss>
