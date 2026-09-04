@@ -8,20 +8,60 @@
 
  
                 <item>
-                <title><![CDATA[【Singles (lossy)】Dolby Atmos - JISOO - CLICK [EAC3-JOC, 16bit/48khz, 768Kbps, 5.1 Surround] (TIDAL)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/jisoo-click-eac3-joc-16bit-48khz-768kbps-5-1-surround-tidal.308385/]]></link>
+                <title><![CDATA[【HD Live Performances】HDTV - Hitmaker e Melody - Rock In Rio 2026 - 1080p HDTV Canal Bis DD5.1 H.264 - BRE]]></title>
+                <link><![CDATA[https://sharemania.us/threads/hitmaker-e-melody-rock-in-rio-2026-1080p-hdtv-canal-bis-dd5-1-h-264-bre.308388/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/b8/39/91b8390c-ad9a-6a20-8681-51d5bdaf8014/054391222855.jpg/600x600bb.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/b8/39/91b8390c-ad9a-6a20-8681-51d5bdaf8014/054391222855.jpg/600x600bb.jpg" style=""><br>
-<br>
-<br>
-<div style="padding-left: 30px"><div style="padding-left: 30px"><div style="padding-left: 30px"><i>Jisoo</i> - <span style="color: #ff00ff">Click</span> (<span style="color: #000000">dolby atmos by tidal</span>)<br>
-Genre: K-Pop<br>
-Release Date: 09/04/2026<br>
-SOURCE: TIDAL<br>
-Format: ◗◖Dolby Atmos◗◖<br>
-​</div></div></div>
+					<img src="https://i.imgur.com/8cKchnK.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/8cKchnK.jpeg" style=""> <br>
+<img src="https://i.imgur.com/9dvpOkH.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/9dvpOkH.png" style=""> <br>
+<img src="https://i.imgur.com/TeuJ0zY.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/TeuJ0zY.png" style=""> <br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+ID                             : 55 (0x37)
+Complete name                  : Hitmaker e Melody- Rock In Rio 2026 - 1080p HDTV Canal Bis DD5.1 H.264 - BRE.ts
+Format                         : MPEG-TS
+File size                      : 3.41 GiB
+Duration                       : 59 min 47 s
+Overall bit rate mode          : Variable
+Overall bit rate               : 8 158 kb/s
+
+Video
+ID                             : 5603 (0x15E3)
+Menu ID                        : 544 (0x220)
+Format                         : AVC
+Format/Info                    : Advanced Video Codec
+Codec ID                       : 27
+Encryption                     : Encrypted
+
+Audio
+ID                             : 5601 (0x15E1)
+Menu ID                        : 544 (0x220)
+Format                         : AC-3
+Format/Info                    : Audio Coding 3
+Codec ID                       : 6
+Channel(s)                     : 2 channels
+Compression mode               : Lossy
+Language                       : Portuguese
+Encryption                     : Encrypted
+
+Menu
+ID                             : 5600 (0x15E0)
+Menu ID                        : 544 (0x220)
+Duration                       : 59 min 47 s
+List                           : 5603 (0x15E3) (AVC) / 5601 (0x15E1) (AC-3, Portuguese)
+Language                       : / Portuguese
+</pre>
+</div></div>
+</div>
 
 
 
@@ -32,7 +72,7 @@ Format: ◗◖Dolby Atmos◗◖<br>
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
-                <author><![CDATA[Thespider]]></author>
+                <author><![CDATA[Brendow]]></author>
                 </item>
 
                 </channel></rss>
