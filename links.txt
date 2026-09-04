@@ -1,3 +1,5 @@
+threads/daine-pqc-2026-single-16-bit-44-1khz-lossless-flac.308365/
+threads/krewella-peak.308364/
 threads/tiffany-giardina-no-average-angel-2009.308363/
 threads/jisoo-click-16bits-44-1khz-256kb-s-m4a.308362/
 threads/stella-lefty-long-way-home.308361/
@@ -20,5 +22,3 @@ threads/after-after-ep-2-qobuz-cd-16bit-44-1khz.308345/
 threads/adele-live-at-the-royal-albert-hall-2011.308344/
 threads/after-after-ep-qobuz-hi-res-24bit-44-1khz.308343/
 threads/tinashe-too-easy-single-2026-24-bit-48khz-flac-prostudiomasters.308342/
-threads/sabrina-carpenter-espresso-prores-rip-4k-hevc-10-bit.308341/
-threads/lady-gaga-abracadabra-prores-rip-4k-hevc-10-bit.308340/
