@@ -8,14 +8,14 @@
 
  
                 <item>
-                <title><![CDATA[【HD Live Performances】HDTV - Rock In Gil com Larissa Luz - Rock In Rio 2026 - 1080p HDTV Canal Bis DD5.1 H.264 - BRE]]></title>
-                <link><![CDATA[https://sharemania.us/threads/rock-in-gil-com-larissa-luz-rock-in-rio-2026-1080p-hdtv-canal-bis-dd5-1-h-264-bre.308397/]]></link>
+                <title><![CDATA[【HD Live Performances】HDTV - Detonautas convida Biquíni - 2160p WEB-DL Multishow DD5.1 H.265 - BRE]]></title>
+                <link><![CDATA[https://sharemania.us/threads/detonautas-convida-biqui%CC%81ni-2160p-web-dl-multishow-dd5-1-h-265-bre.308405/]]></link>
                 <description><![CDATA[<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
-					<img src="https://i.imgur.com/Cwo7K81.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/Cwo7K81.jpeg" style=""> <br>
+					<img src="https://i.imgur.com/qjym9BY.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/qjym9BY.jpeg" style=""> <br>
 <img src="https://i.imgur.com/9dvpOkH.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/9dvpOkH.png" style=""> <br>
-<img src="https://i.imgur.com/kbXGy2D.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/kbXGy2D.png" style=""> <br>
+<img src="https://i.imgur.com/v3gD7eX.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/v3gD7eX.png" style=""> <br>
 
 
 
@@ -26,39 +26,65 @@
 <div class="bbCodeBlock bbCodeCode">
 	<div class="type">Code:</div>
 	<pre>General
-ID                             : 55 (0x37)
-Complete name                  :Rock In Gil com Larissa Luz - Rock In Rio 2026 - 1080p HDTV Canal Bis DD5.1 H.264 - BRE.ts
-Format                         : MPEG-TS
-File size                      : 3.02 GiB
-Duration                       : 48 min 53 s
-Overall bit rate mode          : Variable
-Overall bit rate               : 8 859 kb/s
+Complete name                  :Detonautas convida Biquíni - 2160p WEB-DL Multishow DD5.1 H.265 - BRE.mkv
+Format                         : Matroska
+Format version                 : Version 4
+File size                      : 8.16 GiB
+Duration                       : 1 h 3 min
+Overall bit rate               : 18.5 Mb/s
+Writing application            : Lavf58.76.100
+Writing library                : Lavf58.76.100
+ErrorDetectionType             : Per level 1
 
 Video
-ID                             : 5603 (0x15E3)
-Menu ID                        : 544 (0x220)
-Format                         : AVC
-Format/Info                    : Advanced Video Codec
-Codec ID                       : 27
-Encryption                     : Encrypted
+ID                             : 1
+Format                         : HEVC
+Format/Info                    : High Efficiency Video Coding
+Format profile                 : Main 10@L5.1@High
+Codec ID                       : V_MPEGH/ISO/HEVC
+Duration                       : 1 h 3 min
+Bit rate                       : 17.6 Mb/s
+Width                          : 3 840 pixels
+Height                         : 2 160 pixels
+Display aspect ratio           : 16:9
+Frame rate mode                : Constant
+Frame rate                     : 30.000 FPS
+Standard                       : Component
+Color space                    : YUV
+Chroma subsampling             : 4:2:0
+Bit depth                      : 10 bits
+Bits/(Pixel*Frame)             : 0.071
+Stream size                    : 7.80 GiB (96%)
+Default                        : Yes
+Forced                         : No
+Color range                    : Limited
+Color primaries                : BT.2020
+Transfer characteristics       : HLG
+Matrix coefficients            : BT.2020 non-constant
 
 Audio
-ID                             : 5601 (0x15E1)
-Menu ID                        : 544 (0x220)
-Format                         : AC-3
-Format/Info                    : Audio Coding 3
-Codec ID                       : 6
-Channel(s)                     : 2 channels
+ID                             : 2
+Format                         : E-AC-3 JOC
+Format/Info                    : Enhanced AC-3 with Joint Object Coding
+Commercial name                : Dolby Digital Plus with Dolby Atmos
+Codec ID                       : A_EAC3
+Duration                       : 1 h 3 min
+Bit rate mode                  : Constant
+Bit rate                       : 448 kb/s
+Channel(s)                     : 6 channels
+Channel layout                 : L R C LFE Ls Rs
+Sampling rate                  : 48.0 kHz
+Frame rate                     : 31.250 FPS (1536 SPF)
 Compression mode               : Lossy
-Language                       : Portuguese
-Encryption                     : Encrypted
-
-Menu
-ID                             : 5600 (0x15E0)
-Menu ID                        : 544 (0x220)
-Duration                       : 48 min 53 s
-List                           : 5603 (0x15E3) (AVC) / 5601 (0x15E1) (AC-3, Portuguese)
-Language                       : / Portuguese
+Delay relative to video        : -32 ms
+Stream size                    : 203 MiB (2%)
+Service kind                   : Complete Main
+Default                        : Yes
+Forced                         : No
+Complexity index               : 12
+Number of dynamic objects      : 0
+Bed channel count              : 12 channels
+Bed channel configuration      : L R C LFE Ls Rs Lb Rb Tfl Tfr Tbl Tbr
 </pre>
 </div></div>
 </div>
