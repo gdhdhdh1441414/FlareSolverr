@@ -1,4 +1,4 @@
-# -*- coding: UTF-8 -*- 
+# -*- coding: UTF-8 -*-
 import time
 import re
 import os
@@ -68,6 +68,72 @@ def run_flaresolverr_request(curl_cmd):
     return result
 # ↑↑↑ 新增结束 ↑↑↑
 
+# ↓↓↓ 新增：RSS 头尾、单条 item 的正则、以及"合并旧xml+新item，只保留最新50条"的工具函数 ↓↓↓
+MAX_ITEMS = 50
+
+header = '''<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="rss1.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>sharemania</title>
+ <link>http://www.sharemania.us/</link>
+ <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
+
+ '''
+
+footer = '</channel></rss>'
+
+ITEM_XML_RE = re.compile(r'<item>[\s\S]*?</item>')
+ITEM_LINK_RE = re.compile(r'<link><!\[CDATA\[(.*?)\]\]></link>')
+
+XML_PATH = './sharemania.xml'
+
+
+def build_error_item(msg, err_url):
+    """构造一条用于提示抓取出错的 item"""
+    return (
+        f'<item>\n\t<title><![CDATA[{msg} {date}-{hour}]]></title>\n'
+        f'\t<link><![CDATA[{err_url}#{date}-{hour}]]></link>\n'
+        f'\t<author><![CDATA[sharemania]]></author>\n'
+        f'\t<description><![CDATA[sharemania]]></description>\n</item>'
+    )
+
+
+def load_old_items(xml_path=XML_PATH):
+    """读取已有 xml 中的所有 <item>...</item> 块"""
+    if not os.path.exists(xml_path):
+        return []
+    with open(xml_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+    return ITEM_XML_RE.findall(content)
+
+
+def get_item_link(item_xml):
+    m = ITEM_LINK_RE.search(item_xml)
+    return m.group(1) if m else None
+
+
+def save_merged_xml(new_item_blocks, xml_path=XML_PATH, max_items=MAX_ITEMS):
+    """将本次新抓取到的 item 与旧 xml 中的 item 合并：
+       - 新的排在前面，旧的排在后面
+       - 若某条旧 item 的 link 与本次新抓取的重复，则丢弃旧的（保留新的）
+       - 最终只保留最新 max_items 条，写回 xml_path
+       返回最终写入的 xml 全文字符串"""
+    old_items = load_old_items(xml_path)
+
+    new_links_set = set(filter(None, (get_item_link(it) for it in new_item_blocks)))
+
+    filtered_old_items = [it for it in old_items if get_item_link(it) not in new_links_set]
+
+    combined = new_item_blocks + filtered_old_items
+    combined = combined[:max_items]
+
+    final_xml = header + "\n" + "\n".join(combined) + "\n" + footer
+    with open(xml_path, 'w', encoding='utf-8') as f:
+        f.write(final_xml)
+    return final_xml
+# ↑↑↑ 新增结束 ↑↑↑
+
 # 使用 subprocess 模块调用 curl 命令，并捕获命令输出结果
 # ↓↓↓ 修改：改用带 cookie 的 payload 文件发起请求 ↓↓↓
 payload_path = build_payload_file("https://sharemania.us/", 16000)
@@ -91,7 +157,7 @@ try:
         print("STDOUT:", uc_result.stdout[:200] if uc_result.stdout else "空")
         print("STDERR:", uc_result.stderr[:200] if uc_result.stderr else "空")
         print("returncode:", uc_result.returncode)
-        
+
     # ↑↑↑ 新增结束 ↑↑↑
     with open("sharemania...html", "w", encoding="utf-8") as file:
         file.write(f"{response}")
@@ -111,11 +177,13 @@ except (json.JSONDecodeError, AttributeError, UnicodeDecodeError) as e:
 
 
 if response is None:
-    rss = f'{header}\n\t<item>\n\t\t<title>抓取首页出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t</item>\n{footer}'
-    print(rss)
-    with open('./sharemania.xml', 'w', encoding='utf-8') as f:
-        f.write(rss)
+    # ↓↓↓ 修改：不再整体覆盖xml，而是把出错提示合并进最新50条里，保留历史 item ↓↓↓
+    home_url = "https://sharemania.us/"
+    error_item = build_error_item("抓取首页出错，请检查github：https://github.com/gdhdhdh1441414", home_url)
+    final_xml = save_merged_xml([error_item])
+    print(final_xml)
     sys.exit(0)
+    # ↑↑↑ 修改结束 ↑↑↑
 
 pattern = r'href\=\"(threads\/.+?)\"\>'
 links = re.findall(pattern, response)
@@ -126,7 +194,7 @@ with open('links.txt', 'r') as f:
 # Find the new links
 new_links = set(links) - saved_links
 if not new_links:  # or len(new_links) == 0
-    print("无新链接") 
+    print("无新链接")
     sys.exit(0)  # 0 表示成功退出，GitHub Actions 不会报错
 
 if len(links) != 0 and len(links) >= 5:
@@ -190,18 +258,6 @@ regex_con = r'meta name\=\"description\"[\s\S]*?(\<article\>[\s\S]*?\<\/article\
 regex_prefix = r'Discussion in.+?\>(.+?)\<\/a\>'
 regex_author = r'started by.+?\>(.+?)\<\/a\>'
 
-header = '''<?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="rss1.xsl"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
-<channel>
- <title>sharemania</title>
- <link>http://www.sharemania.us/</link>
- <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
-
- '''
-
-footer = '</channel></rss>'
-
 html = html_string
 
 if re.findall(regex_link, html) and re.findall(regex_tit, html):
@@ -209,9 +265,10 @@ if re.findall(regex_link, html) and re.findall(regex_tit, html):
     titles = re.findall(regex_tit, html)
     prefixs = re.findall(regex_prefix, html)
     authors = re.findall(regex_author, html)
-    articles = re.findall(regex_con, html)  
-    
-    rss = ""
+    articles = re.findall(regex_con, html)
+
+    # ↓↓↓ 修改：不再拼接成一个大字符串，而是收集成一个 item 列表，方便和旧 xml 合并 ↓↓↓
+    new_item_blocks = []
 
     for i in range(len(links)):
         link = re.sub(r'link rel\=\"canonical\" href="(.+?)\"', r'\1', links[i])
@@ -223,32 +280,37 @@ if re.findall(regex_link, html) and re.findall(regex_tit, html):
         if not author or len(author) > 30 or len(author) < 1:
             print("抓取全文出错，强制退出")
             sys.exit(0)
-            
-        rss += f'''
-                <item>
+
+        new_item_blocks.append(
+            f'''<item>
                 <title><![CDATA[【{prefix}】{title}]]></title>
                 <link><![CDATA[{link}]]></link>
                 <description><![CDATA[{article}]]></description>
                 <author><![CDATA[{author}]]></author>
-                </item>
+                </item>'''
+        )
+    # ↑↑↑ 修改结束 ↑↑↑
 
-                '''
+    # ↓↓↓ 修改：与旧 xml 合并，只保留最新 MAX_ITEMS 条，并写回文件 ↓↓↓
+    final_xml = save_merged_xml(new_item_blocks)
+    print(final_xml)
+    # ↑↑↑ 修改结束 ↑↑↑
 
-    rss_feed = header + rss + footer
+    # ↓↓↓ 修改：检查遗漏的逻辑改为——用最终写入 xml 的 link 和 new_links 对比，
+    #         而不是用本次抓取到的原始 html 里解析出的 link 对比 ↓↓↓
+    xml_links = set(ITEM_LINK_RE.findall(final_xml))
 
-    print(rss_feed)
-    with open('./sharemania.xml', 'w', encoding='utf-8') as f:
-        f.write(rss_feed)
+    def to_full_url(relative_link):
+        full = "https://sharemania.us/" + relative_link
+        return full if full.endswith('/') else full + '/'
 
-    # ↓↓↓ 新增：把 xml 里实际收录的 link 与 new_links 比对，没匹配上的从 links.txt 移除，下次重新抓取 ↓↓↓
     matched_new_links = set()
-    for full_link in links:
-        # 去掉域名前缀，还原成 links.txt 里保存的相对路径格式，如 "threads/xxx.123/"
-        path = re.sub(r'^https?://sharemania\.us/', '', full_link)
-        if not path.endswith('/'):
-            path += '/'
-        if path in new_links:
-            matched_new_links.add(path)
+    for l in new_links:
+        full_url = to_full_url(l)
+        # 兼容 xml 中的 link 结尾是否带斜杠
+        if full_url in xml_links or full_url.rstrip('/') in {x.rstrip('/') for x in xml_links}:
+            matched_new_links.add(l)
+
     unmatched_new_links = new_links - matched_new_links
     if unmatched_new_links:
         with open('links.txt', 'r') as f:
@@ -258,15 +320,16 @@ if re.findall(regex_link, html) and re.findall(regex_tit, html):
             for l in current_saved_links:
                 f.write(l + '\n')
         print(f"以下链接本次未成功写入RSS，已从 links.txt 移除，下次将重新抓取：{unmatched_new_links}")
-    # ↑↑↑ 新增结束 ↑↑↑
+    # ↑↑↑ 修改结束 ↑↑↑
 else:
-    url = "https://sharemania.us/"
-    rss = f'{header}\n\t<item>\n\t\t<title>出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t</item>\n{footer}'
-    print(rss)
-    with open('./sharemania.xml', 'w', encoding='utf-8') as f:
-        f.write(rss)
+    # ↓↓↓ 修改：解析彻底失败时，同样不整体覆盖xml，而是把出错提示合并进最新50条里 ↓↓↓
+    err_home_url = "https://sharemania.us/"
+    error_item = build_error_item("出错，请检查github：https://github.com/gdhdhdh1441414", err_home_url)
+    final_xml = save_merged_xml([error_item])
+    print(final_xml)
+    # ↑↑↑ 修改结束 ↑↑↑
 
-    # ↓↓↓ 新增：本次全文解析彻底失败，new_links 全部视为未匹配，从 links.txt 移除以便下次重新抓取 ↓↓↓
+    # 本次全文解析彻底失败，new_links 全部视为未匹配，从 links.txt 移除以便下次重新抓取
     if new_links:
         with open('links.txt', 'r') as f:
             current_saved_links = set(f.read().splitlines())
@@ -275,4 +338,3 @@ else:
             for l in current_saved_links:
                 f.write(l + '\n')
         print(f"抓取全文解析出错，已将本次 new_links 从 links.txt 移除，下次将重新抓取：{new_links}")
-    # ↑↑↑ 新增结束 ↑↑↑
