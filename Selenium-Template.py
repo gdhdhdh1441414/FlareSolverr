@@ -239,9 +239,40 @@ if re.findall(regex_link, html) and re.findall(regex_tit, html):
     print(rss_feed)
     with open('./sharemania.xml', 'w', encoding='utf-8') as f:
         f.write(rss_feed)
+
+    # ↓↓↓ 新增：把 xml 里实际收录的 link 与 new_links 比对，没匹配上的从 links.txt 移除，下次重新抓取 ↓↓↓
+    matched_new_links = set()
+    for full_link in links:
+        # 去掉域名前缀，还原成 links.txt 里保存的相对路径格式，如 "threads/xxx.123/"
+        path = re.sub(r'^https?://sharemania\.us/', '', full_link)
+        if not path.endswith('/'):
+            path += '/'
+        if path in new_links:
+            matched_new_links.add(path)
+    unmatched_new_links = new_links - matched_new_links
+    if unmatched_new_links:
+        with open('links.txt', 'r') as f:
+            current_saved_links = set(f.read().splitlines())
+        current_saved_links -= unmatched_new_links
+        with open('links.txt', 'w') as f:
+            for l in current_saved_links:
+                f.write(l + '\n')
+        print(f"以下链接本次未成功写入RSS，已从 links.txt 移除，下次将重新抓取：{unmatched_new_links}")
+    # ↑↑↑ 新增结束 ↑↑↑
 else:
     url = "https://sharemania.us/"
     rss = f'{header}\n\t<item>\n\t\t<title>出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t</item>\n{footer}'
     print(rss)
     with open('./sharemania.xml', 'w', encoding='utf-8') as f:
         f.write(rss)
+
+    # ↓↓↓ 新增：本次全文解析彻底失败，new_links 全部视为未匹配，从 links.txt 移除以便下次重新抓取 ↓↓↓
+    if new_links:
+        with open('links.txt', 'r') as f:
+            current_saved_links = set(f.read().splitlines())
+        current_saved_links -= new_links
+        with open('links.txt', 'w') as f:
+            for l in current_saved_links:
+                f.write(l + '\n')
+        print(f"抓取全文解析出错，已将本次 new_links 从 links.txt 移除，下次将重新抓取：{new_links}")
+    # ↑↑↑ 新增结束 ↑↑↑
