@@ -238,11 +238,11 @@ with open('./sharemania_all_page.html', 'w', encoding='utf-8') as f:
 html = html_string
 
 if re.findall(regex_link, html) and re.findall(regex_tit, html):
-    links = re.findall(regex_link, html)
-    titles = re.findall(regex_tit, html)
-    prefixs = re.findall(regex_prefix, html)
-    authors = re.findall(regex_author, html)
-    articles = re.findall(regex_con, html)  
+    links = re.findall(regex_link, html, re.DOTALL)
+    titles = re.findall(regex_tit, html, re.DOTALL)
+    articles = re.findall(regex_con, html, re.DOTALL)
+    prefixs = re.findall(regex_prefix, html, re.DOTALL)
+    authors = re.findall(regex_author, html, re.DOTALL)
     
     rss = ""
 
