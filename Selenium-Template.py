@@ -251,6 +251,7 @@ if re.findall(regex_link, html) and re.findall(regex_tit, html):
         prefix = re.sub(r'\Discussion in.+?\>(.+?)\<\/a\>', r'\1', prefixs[i])
         title = re.sub(r'\<title\>(.+?) \| ShareMania\.US', r'\1', titles[i])
         author = re.sub(r'started by.+?\>(.+?)\<\/a\>', r'\1', authors[i])
+        author = re.sub(r'\<[^\>]+\>', '', author).strip() 
         article = re.sub(r'meta name\=\"description\"[\s\S]*?(\<article\>[\s\S]*?\<\/article\>)', r'\1', articles[i])
 
         if not author or len(author) > 30 or len(author) < 1:
