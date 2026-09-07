@@ -184,13 +184,17 @@ use_uc = not response or "lastThreadTitle" not in response
 # ↑↑↑ 新增结束 ↑↑↑
 
 for link in new_links:
-    while True:
+    # ↓↓↓ 修改：单条链接最多重试 3 次，3 次都失败就放弃这一条，继续抓下一条，不再无限重试/退出脚本 ↓↓↓
+    retry_count = 0
+    max_retries = 3
+    link_success = False
+
+    while retry_count < max_retries:
         try:
             url = "https://sharemania.us/" + link
             print(url)
             os.system("pkill chrome;pkill chromedriver")
 
-            # ↓↓↓ 新增：根据标志选择方案 ↓↓↓
             if use_uc:
                 uc_result = subprocess.run(
                     ["python", "uc.py", url],
@@ -199,29 +203,33 @@ for link in new_links:
                 )
                 response = uc_result.stdout
             else:
-                # ↓↓↓ 修改：改用带 cookie 的 payload 文件发起请求 ↓↓↓
                 payload_path = build_payload_file(url, 60000)
                 curl_cmd = f"curl -s 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data-binary @{payload_path}"
                 result = run_flaresolverr_request(curl_cmd)
                 if result is None:
-                    # 本次失败但未达到连续2次，继续重试
+                    retry_count += 1
+                    print(f"该链接第 {retry_count} 次尝试失败：{url}")
                     continue
-                # ↑↑↑ 修改结束 ↑↑↑
 
                 data = json.loads(result.decode('utf-8'))
                 response = data.get("solution", {}).get("response")
                 print(result)
-            # ↑↑↑ 新增结束 ↑↑↑
 
             if response is None:
                 raise ValueError("Response is None")
 
             html_string += response
+            link_success = True
             break
 
         except Exception as e:
-            print("An error occurred:", str(e))
+            retry_count += 1
+            print(f"该链接第 {retry_count} 次尝试出错: {str(e)}，url={url}")
             continue
+
+    if not link_success:
+        print(f"该链接连续 {max_retries} 次抓取全文失败，放弃，跳过：{url}")
+    # ↑↑↑ 修改结束 ↑↑↑
 
 with open('./sharemania_all_page.html', 'w', encoding='utf-8') as f:
     f.write(html_string)
@@ -259,12 +267,8 @@ if re.findall(regex_link, html) and re.findall(regex_tit, html):
 
                 '''
 
-    # ↓↓↓ 修改：不再整份覆盖重写，改成把新 item 合并进已有 xml（老 item 保留）↓↓↓
     write_rss(rss)
-    # ↑↑↑ 修改结束 ↑↑↑
 else:
-    # ↓↓↓ 修改：解析失败时也走合并逻辑，把错误提示插入已有 xml 最前面，而不是整份覆盖丢失历史 ↓↓↓
     url = "https://sharemania.us/"
     error_item = f'\n\t<item>\n\t\t<title>出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t</item>\n'
     write_rss(error_item)
-    # ↑↑↑ 修改结束 ↑↑↑
