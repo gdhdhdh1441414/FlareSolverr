@@ -5,7 +5,7 @@ import os
 import sys
 import json
 import subprocess
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 now = datetime.now()
 date = now.strftime("%m-%d")
@@ -167,6 +167,61 @@ if os.path.exists(XML_PATH):
         existing_links_relpath.add(path)
 # ↑↑↑ 修改结束 ↑↑↑
 
+# ↓↓↓ 新增：sharemania_error.log 相关 —— 记录/清理"重试3次仍失败"的链接 ↓↓↓
+ERROR_LOG_PATH = './sharemania_error.log'
+BEIJING_TZ = timezone(timedelta(hours=8))
+BEIJING_TIME_FORMAT = "%Y-%m-%d %H:%M:%S"
+
+def get_beijing_now():
+    return datetime.now(BEIJING_TZ)
+
+def load_error_log():
+    """返回 {url: 首次失败时间字符串}"""
+    entries = {}
+    if os.path.exists(ERROR_LOG_PATH):
+        with open(ERROR_LOG_PATH, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                parts = line.split('\t')
+                if len(parts) != 2:
+                    continue
+                u, t = parts
+                entries[u] = t
+    return entries
+
+def save_error_log(entries):
+    with open(ERROR_LOG_PATH, 'w', encoding='utf-8') as f:
+        for u, t in entries.items():
+            f.write(f"{u}\t{t}\n")
+
+error_entries = load_error_log()
+pending_24h_error_items = ""
+
+for err_url in list(error_entries.keys()):
+    err_relpath = re.sub(r'^https?://sharemania\.us/', '', err_url)
+    if not err_relpath.endswith('/'):
+        err_relpath += '/'
+
+    if err_relpath in existing_links_relpath:
+        # 已经成功抓取并写入xml，从错误日志移除
+        print(f"错误日志中的链接已成功写入xml，移除记录：{err_url}")
+        del error_entries[err_url]
+        continue
+
+    first_time = datetime.strptime(error_entries[err_url], BEIJING_TIME_FORMAT).replace(tzinfo=BEIJING_TZ)
+    if get_beijing_now() - first_time >= timedelta(hours=24):
+        print(f"链接连续24小时未成功抓取，追加提示到xml：{err_url}")
+        pending_24h_error_items += f'\n\t<item>\n\t\t<title>{err_url} 过去24小时没有成功抓取，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{err_url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t</item>\n'
+        del error_entries[err_url]
+
+if pending_24h_error_items:
+    write_rss(pending_24h_error_items)
+
+save_error_log(error_entries)
+# ↑↑↑ 新增结束 ↑↑↑
+
 pattern = r'href\=\"(threads\/.+?)\"\>'
 links = re.findall(pattern, response)
 
@@ -184,7 +239,7 @@ use_uc = not response or "lastThreadTitle" not in response
 # ↑↑↑ 新增结束 ↑↑↑
 
 for link in new_links:
-    # ↓↓↓ 修改：单条链接最多重试 3 次，3 次都失败就放弃这一条，继续抓下一条，不再无限重试/退出脚本 ↓↓↓
+    # ↓↓↓ 修改：单条链接最多重试 3 次，3 次都失败就放弃这一条并记入错误日志，继续抓下一条，不再无限重试/退出脚本 ↓↓↓
     retry_count = 0
     max_retries = 3
     link_success = False
@@ -229,6 +284,14 @@ for link in new_links:
 
     if not link_success:
         print(f"该链接连续 {max_retries} 次抓取全文失败，放弃，跳过：{url}")
+        # ↓↓↓ 新增：记录到错误日志，若已存在则保留最早的发生时间不覆盖 ↓↓↓
+        if url not in error_entries:
+            error_entries[url] = get_beijing_now().strftime(BEIJING_TIME_FORMAT)
+            print(f"已记录到 {ERROR_LOG_PATH}（首次失败时间）：{url}")
+        else:
+            print(f"该链接已在错误日志中，保留首次失败时间：{url}")
+        save_error_log(error_entries)
+        # ↑↑↑ 新增结束 ↑↑↑
     # ↑↑↑ 修改结束 ↑↑↑
 
 with open('./sharemania_all_page.html', 'w', encoding='utf-8') as f:
@@ -238,11 +301,11 @@ with open('./sharemania_all_page.html', 'w', encoding='utf-8') as f:
 html = html_string
 
 if re.findall(regex_link, html) and re.findall(regex_tit, html):
-    links = re.findall(regex_link, html, re.DOTALL)
-    titles = re.findall(regex_tit, html, re.DOTALL)
-    articles = re.findall(regex_con, html, re.DOTALL)
-    prefixs = re.findall(regex_prefix, html, re.DOTALL)
-    authors = re.findall(regex_author, html, re.DOTALL)
+    links = re.findall(regex_link, html)
+    titles = re.findall(regex_tit, html)
+    prefixs = re.findall(regex_prefix, html)
+    authors = re.findall(regex_author, html)
+    articles = re.findall(regex_con, html)  
     
     rss = ""
 
@@ -251,7 +314,9 @@ if re.findall(regex_link, html) and re.findall(regex_tit, html):
         prefix = re.sub(r'\Discussion in.+?\>(.+?)\<\/a\>', r'\1', prefixs[i])
         title = re.sub(r'\<title\>(.+?) \| ShareMania\.US', r'\1', titles[i])
         author = re.sub(r'started by.+?\>(.+?)\<\/a\>', r'\1', authors[i])
-        author = re.sub(r'\<[^\>]+\>', '', author).strip() 
+        # ↓↓↓ 新增：author 可能被 <span class="styleN">...</span> 包裹，去掉标签只留纯文本用户名 ↓↓↓
+        author = re.sub(r'\<[^\>]+\>', '', author).strip()
+        # ↑↑↑ 新增结束 ↑↑↑
         article = re.sub(r'meta name\=\"description\"[\s\S]*?(\<article\>[\s\S]*?\<\/article\>)', r'\1', articles[i])
 
         if not author or len(author) > 30 or len(author) < 1:
