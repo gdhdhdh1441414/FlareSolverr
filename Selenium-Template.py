@@ -5,6 +5,7 @@ import os
 import sys
 import json
 import subprocess
+import html as html_lib
 from datetime import datetime, timedelta, timezone
 
 now = datetime.now()
@@ -61,11 +62,115 @@ def run_flaresolverr_request(curl_cmd):
         print(f"FlareSolverr 请求失败（{e}），连续失败 {fail_count} 次")
         if fail_count >= 2:
             print("FlareSolverr 连续2次请求失败，脚本彻底退出")
+            generate_read_html()
             sys.exit(1)
         return None
 
     fail_count = 0  # 成功一次就清零
     return result
+# ↑↑↑ 新增结束 ↑↑↑
+
+# ↓↓↓ 新增：北京时间工具 & sharemania_read.html 生成 ↓↓↓
+BEIJING_TZ = timezone(timedelta(hours=8))
+BEIJING_TIME_FORMAT = "%Y-%m-%d %H:%M:%S"
+
+def get_beijing_now():
+    return datetime.now(BEIJING_TZ)
+
+def get_beijing_now_str():
+    return get_beijing_now().strftime(BEIJING_TIME_FORMAT)
+
+XML_PATH = './sharemania.xml'
+READ_HTML_PATH = './sharemania_read.html'
+
+def parse_rss_items(xml_content):
+    """从最终的 sharemania.xml 内容中解析出每一条 item"""
+    items = []
+    for item_match in re.finditer(r'<item>([\s\S]*?)</item>', xml_content):
+        item_xml = item_match.group(1)
+
+        def extract(tag):
+            m = re.search(rf'<{tag}><!\[CDATA\[([\s\S]*?)\]\]></{tag}>', item_xml)
+            if m:
+                return m.group(1)
+            # 兼容没有用 CDATA 包裹的字段（比如报错条目的 title/link/author）
+            m2 = re.search(rf'<{tag}>([\s\S]*?)</{tag}>', item_xml)
+            return m2.group(1) if m2 else ''
+
+        items.append({
+            'title': extract('title'),
+            'link': extract('link'),
+            'description': extract('description'),
+            'author': extract('author'),
+            'pubDate': extract('pubDate'),
+        })
+    return items
+
+def generate_read_html(xml_path=XML_PATH, html_path=READ_HTML_PATH):
+    """把 sharemania.xml 转换成人类可读的 sharemania_read.html：
+       标题 + 发布者/发布时间（北京时间）+ 默认折叠的全文描述（带明显的展开按钮）"""
+    if not os.path.exists(xml_path):
+        print(f"{xml_path} 不存在，跳过生成 {html_path}")
+        return
+
+    with open(xml_path, 'r', encoding='utf-8') as f:
+        xml_content = f.read()
+
+    items = parse_rss_items(xml_content)
+
+    rows = []
+    for it in items:
+        title_esc = html_lib.escape(it['title']) if it['title'] else '（无标题）'
+        author_esc = html_lib.escape(it['author']) if it['author'] else '未知'
+        pubdate_esc = html_lib.escape(it['pubDate']) if it['pubDate'] else '未知'
+        link_esc = html_lib.escape(it['link']) if it['link'] else '#'
+        # description 本身是原网页富文本片段，直接原样放进折叠区域展示
+        desc = it['description']
+
+        rows.append(f'''
+        <div class="item">
+            <div class="item-title"><a href="{link_esc}" target="_blank" rel="noopener noreferrer">{title_esc}</a></div>
+            <div class="item-meta">发布者：{author_esc} &nbsp;|&nbsp; 发布时间（北京时间）：{pubdate_esc}</div>
+            <details class="item-desc">
+                <summary class="toggle-btn">展开 / 收起 全文</summary>
+                <div class="desc-content">{desc}</div>
+            </details>
+        </div>''')
+
+    page = f'''<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ShareMania 更新列表</title>
+<style>
+    body {{ font-family: -apple-system, "Microsoft YaHei", "PingFang SC", sans-serif; background:#f5f5f5; margin:0; padding:20px; color:#222; }}
+    h1 {{ font-size:20px; margin-bottom:16px; }}
+    .item {{ background:#fff; border:1px solid #e0e0e0; border-radius:8px; padding:14px 16px; margin-bottom:12px; box-shadow:0 1px 2px rgba(0,0,0,0.04); }}
+    .item-title a {{ font-size:16px; font-weight:600; color:#1a5fb4; text-decoration:none; }}
+    .item-title a:hover {{ text-decoration:underline; }}
+    .item-meta {{ font-size:13px; color:#666; margin:6px 0 8px; }}
+    summary.toggle-btn {{
+        display:inline-block; cursor:pointer; user-select:none;
+        background:#1a5fb4; color:#fff; padding:4px 12px; border-radius:14px;
+        font-size:13px; list-style:none;
+    }}
+    summary.toggle-btn::-webkit-details-marker {{ display:none; }}
+    summary.toggle-btn:hover {{ background:#154a8f; }}
+    .desc-content {{ margin-top:10px; padding-top:10px; border-top:1px dashed #ddd; line-height:1.6; font-size:14px; word-break:break-word; }}
+    .desc-content img {{ max-width:100%; height:auto; }}
+    .empty {{ color:#999; text-align:center; margin-top:40px; }}
+</style>
+</head>
+<body>
+<h1>ShareMania 更新列表（共 {len(items)} 条，生成时间：{get_beijing_now_str()} 北京时间）</h1>
+{"".join(rows) if rows else '<div class="empty">暂无内容</div>'}
+</body>
+</html>'''
+
+    with open(html_path, 'w', encoding='utf-8') as f:
+        f.write(page)
+    print(f"已生成人类可读页面：{html_path}")
 # ↑↑↑ 新增结束 ↑↑↑
 
 # 使用 subprocess 模块调用 curl 命令，并捕获命令输出结果
@@ -111,15 +216,14 @@ except (json.JSONDecodeError, AttributeError, UnicodeDecodeError) as e:
 
 
 if response is None:
-    rss = f'{header}\n\t<item>\n\t\t<title>抓取首页出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t</item>\n{footer}'
+    rss = f'{header}\n\t<item>\n\t\t<title>抓取首页出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t<pubDate><![CDATA[{get_beijing_now_str()}]]></pubDate>\n\t</item>\n{footer}'
     print(rss)
     with open('./sharemania.xml', 'w', encoding='utf-8') as f:
         f.write(rss)
+    generate_read_html()
     sys.exit(0)
 
 # ↓↓↓ 修改：不再用 links.txt，改成直接读现有 sharemania.xml 里已收录的 link 来判断"新链接" ↓↓↓
-XML_PATH = './sharemania.xml'
-
 regex_link = r'link rel\=\"canonical\" href="(.+?)\"'
 regex_tit = r'\<title\>(.+?) \| ShareMania\.US'
 regex_con = r'meta name\=\"description\"[\s\S]*?(\<article\>[\s\S]*?\<\/article\>)'
@@ -155,6 +259,9 @@ def write_rss(new_items_str):
     print(new_content)
     with open(XML_PATH, 'w', encoding='utf-8') as f:
         f.write(new_content)
+    # ↓↓↓ 新增：每次写入 xml 后，同步刷新人类可读页面 ↓↓↓
+    generate_read_html()
+    # ↑↑↑ 新增结束 ↑↑↑
 
 existing_links_relpath = set()
 if os.path.exists(XML_PATH):
@@ -169,11 +276,6 @@ if os.path.exists(XML_PATH):
 
 # ↓↓↓ 新增：sharemania_error.log 相关 —— 记录/清理"重试3次仍失败"的链接 ↓↓↓
 ERROR_LOG_PATH = './sharemania_error.log'
-BEIJING_TZ = timezone(timedelta(hours=8))
-BEIJING_TIME_FORMAT = "%Y-%m-%d %H:%M:%S"
-
-def get_beijing_now():
-    return datetime.now(BEIJING_TZ)
 
 def load_error_log():
     """返回 {url: 首次失败时间字符串}"""
@@ -213,7 +315,7 @@ for err_url in list(error_entries.keys()):
     first_time = datetime.strptime(error_entries[err_url], BEIJING_TIME_FORMAT).replace(tzinfo=BEIJING_TZ)
     if get_beijing_now() - first_time >= timedelta(hours=24):
         print(f"链接连续24小时未成功抓取，追加提示到xml：{err_url}")
-        pending_24h_error_items += f'\n\t<item>\n\t\t<title>{err_url} 过去24小时没有成功抓取，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{err_url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t</item>\n'
+        pending_24h_error_items += f'\n\t<item>\n\t\t<title>{err_url} 过去24小时没有成功抓取，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{err_url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t<pubDate><![CDATA[{get_beijing_now_str()}]]></pubDate>\n\t</item>\n'
         del error_entries[err_url]
 
 if pending_24h_error_items:
@@ -229,7 +331,10 @@ links = re.findall(pattern, response)
 new_links = set(links) - existing_links_relpath
 # ↑↑↑ 修改结束 ↑↑↑
 if not new_links:  # or len(new_links) == 0
-    print("无新链接") 
+    print("无新链接")
+    # ↓↓↓ 新增：即使没有新链接，也刷新一下可读页面（保证首次运行/xml 单独更新时页面存在）↓↓↓
+    generate_read_html()
+    # ↑↑↑ 新增结束 ↑↑↑
     sys.exit(0)  # 0 表示成功退出，GitHub Actions 不会报错
 
 html_string = ""
@@ -321,14 +426,20 @@ if re.findall(regex_link, html) and re.findall(regex_tit, html):
 
         if not author or len(author) > 30 or len(author) < 1:
             print("抓取全文出错，强制退出")
+            generate_read_html()
             sys.exit(0)
-            
+
+        # ↓↓↓ 新增：每条新抓取的 item 记录北京时间发布时间，供 sharemania_read.html 展示 ↓↓↓
+        pub_date_str = get_beijing_now_str()
+        # ↑↑↑ 新增结束 ↑↑↑
+
         rss += f'''
                 <item>
                 <title><![CDATA[【{prefix}】{title}]]></title>
                 <link><![CDATA[{link}]]></link>
                 <description><![CDATA[{article}]]></description>
                 <author><![CDATA[{author}]]></author>
+                <pubDate><![CDATA[{pub_date_str}]]></pubDate>
                 </item>
 
                 '''
@@ -336,5 +447,5 @@ if re.findall(regex_link, html) and re.findall(regex_tit, html):
     write_rss(rss)
 else:
     url = "https://sharemania.us/"
-    error_item = f'\n\t<item>\n\t\t<title>出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t</item>\n'
+    error_item = f'\n\t<item>\n\t\t<title>出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t<pubDate><![CDATA[{get_beijing_now_str()}]]></pubDate>\n\t</item>\n'
     write_rss(error_item)
