@@ -5,7 +5,6 @@ import os
 import sys
 import json
 import subprocess
-import html as html_lib
 from datetime import datetime, timedelta, timezone
 
 now = datetime.now()
@@ -62,115 +61,11 @@ def run_flaresolverr_request(curl_cmd):
         print(f"FlareSolverr 请求失败（{e}），连续失败 {fail_count} 次")
         if fail_count >= 2:
             print("FlareSolverr 连续2次请求失败，脚本彻底退出")
-            generate_read_html()
             sys.exit(1)
         return None
 
     fail_count = 0  # 成功一次就清零
     return result
-# ↑↑↑ 新增结束 ↑↑↑
-
-# ↓↓↓ 新增：北京时间工具 & sharemania_read.html 生成 ↓↓↓
-BEIJING_TZ = timezone(timedelta(hours=8))
-BEIJING_TIME_FORMAT = "%Y-%m-%d %H:%M:%S"
-
-def get_beijing_now():
-    return datetime.now(BEIJING_TZ)
-
-def get_beijing_now_str():
-    return get_beijing_now().strftime(BEIJING_TIME_FORMAT)
-
-XML_PATH = './sharemania.xml'
-READ_HTML_PATH = './sharemania_read.html'
-
-def parse_rss_items(xml_content):
-    """从最终的 sharemania.xml 内容中解析出每一条 item"""
-    items = []
-    for item_match in re.finditer(r'<item>([\s\S]*?)</item>', xml_content):
-        item_xml = item_match.group(1)
-
-        def extract(tag):
-            m = re.search(rf'<{tag}><!\[CDATA\[([\s\S]*?)\]\]></{tag}>', item_xml)
-            if m:
-                return m.group(1)
-            # 兼容没有用 CDATA 包裹的字段（比如报错条目的 title/link/author）
-            m2 = re.search(rf'<{tag}>([\s\S]*?)</{tag}>', item_xml)
-            return m2.group(1) if m2 else ''
-
-        items.append({
-            'title': extract('title'),
-            'link': extract('link'),
-            'description': extract('description'),
-            'author': extract('author'),
-            'pubDate': extract('pubDate'),
-        })
-    return items
-
-def generate_read_html(xml_path=XML_PATH, html_path=READ_HTML_PATH):
-    """把 sharemania.xml 转换成人类可读的 sharemania_read.html：
-       标题 + 发布者/发布时间（北京时间）+ 默认折叠的全文描述（带明显的展开按钮）"""
-    if not os.path.exists(xml_path):
-        print(f"{xml_path} 不存在，跳过生成 {html_path}")
-        return
-
-    with open(xml_path, 'r', encoding='utf-8') as f:
-        xml_content = f.read()
-
-    items = parse_rss_items(xml_content)
-
-    rows = []
-    for it in items:
-        title_esc = html_lib.escape(it['title']) if it['title'] else '（无标题）'
-        author_esc = html_lib.escape(it['author']) if it['author'] else '未知'
-        pubdate_esc = html_lib.escape(it['pubDate']) if it['pubDate'] else '未知'
-        link_esc = html_lib.escape(it['link']) if it['link'] else '#'
-        # description 本身是原网页富文本片段，直接原样放进折叠区域展示
-        desc = it['description']
-
-        rows.append(f'''
-        <div class="item">
-            <div class="item-title"><a href="{link_esc}" target="_blank" rel="noopener noreferrer">{title_esc}</a></div>
-            <div class="item-meta">发布者：{author_esc} &nbsp;|&nbsp; 发布时间（北京时间）：{pubdate_esc}</div>
-            <details class="item-desc">
-                <summary class="toggle-btn">展开 / 收起 全文</summary>
-                <div class="desc-content">{desc}</div>
-            </details>
-        </div>''')
-
-    page = f'''<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>ShareMania 更新列表</title>
-<style>
-    body {{ font-family: -apple-system, "Microsoft YaHei", "PingFang SC", sans-serif; background:#f5f5f5; margin:0; padding:20px; color:#222; }}
-    h1 {{ font-size:20px; margin-bottom:16px; }}
-    .item {{ background:#fff; border:1px solid #e0e0e0; border-radius:8px; padding:14px 16px; margin-bottom:12px; box-shadow:0 1px 2px rgba(0,0,0,0.04); }}
-    .item-title a {{ font-size:16px; font-weight:600; color:#1a5fb4; text-decoration:none; }}
-    .item-title a:hover {{ text-decoration:underline; }}
-    .item-meta {{ font-size:13px; color:#666; margin:6px 0 8px; }}
-    summary.toggle-btn {{
-        display:inline-block; cursor:pointer; user-select:none;
-        background:#1a5fb4; color:#fff; padding:4px 12px; border-radius:14px;
-        font-size:13px; list-style:none;
-    }}
-    summary.toggle-btn::-webkit-details-marker {{ display:none; }}
-    summary.toggle-btn:hover {{ background:#154a8f; }}
-    .desc-content {{ margin-top:10px; padding-top:10px; border-top:1px dashed #ddd; line-height:1.6; font-size:14px; word-break:break-word; }}
-    .desc-content img {{ max-width:100%; height:auto; }}
-    .empty {{ color:#999; text-align:center; margin-top:40px; }}
-</style>
-</head>
-<body>
-<h1>ShareMania 更新列表（共 {len(items)} 条，生成时间：{get_beijing_now_str()} 北京时间）</h1>
-{"".join(rows) if rows else '<div class="empty">暂无内容</div>'}
-</body>
-</html>'''
-
-    with open(html_path, 'w', encoding='utf-8') as f:
-        f.write(page)
-    print(f"已生成人类可读页面：{html_path}")
 # ↑↑↑ 新增结束 ↑↑↑
 
 # 使用 subprocess 模块调用 curl 命令，并捕获命令输出结果
@@ -179,6 +74,185 @@ payload_path = build_payload_file("https://sharemania.us/", 16000)
 curl_cmd = f"curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data-binary @{payload_path} | tee ./FlareSolverr.log"
 result = run_flaresolverr_request(curl_cmd)
 # ↑↑↑ 修改结束 ↑↑↑
+
+# ============================================================
+# 新增：自包含 HTML 阅读页生成器（不依赖 rss1.xsl / 外部字体 / 任何外部文件）
+# 全部数据、CSS、JS 都内联在这一个 sharemania.html 里，双击即可打开查看，
+# 描述默认折叠，展开按钮明显。sharemania.xml 保持纯净，供阅读器订阅。
+# ============================================================
+HTML_PATH = './sharemania.html'
+
+def _extract_tag(tag, block):
+    """在一个 <item>...</item> 片段里取某个标签的内容，兼容 CDATA 和纯文本两种写法"""
+    m = re.search(
+        rf'<{tag}>(?:<!\[CDATA\[(.*?)\]\]>|(.*?))</{tag}>',
+        block,
+        re.DOTALL
+    )
+    if not m:
+        return ''
+    val = m.group(1) if m.group(1) is not None else m.group(2)
+    return val.strip()
+
+def generate_html_viewer(xml_path=XML_PATH if 'XML_PATH' in dir() else './sharemania.xml',
+                          html_path=HTML_PATH):
+    """读取最终的 sharemania.xml，把所有 item 转成 JSON 内嵌进一个完全自包含的 HTML 文件。
+       该 HTML 不发起任何网络请求（没有外部字体/CSS/JS/图标），只用系统自带字体。"""
+    if not os.path.exists(xml_path):
+        return
+    with open(xml_path, 'r', encoding='utf-8') as f:
+        xml_content = f.read()
+
+    feed_title_m = re.search(r'<title>(.*?)</title>', xml_content, re.DOTALL)
+    feed_title = feed_title_m.group(1).strip() if feed_title_m else 'sharemania'
+
+    items = []
+    for block in re.findall(r'<item>(.*?)</item>', xml_content, re.DOTALL):
+        items.append({
+            'title': _extract_tag('title', block),
+            'link': _extract_tag('link', block),
+            'description': _extract_tag('description', block),
+            'author': _extract_tag('author', block),
+        })
+
+    # JSON 序列化后要防止内容里出现 </script> 提前把 <script> 标签截断
+    payload_json = json.dumps({'feedTitle': feed_title, 'items': items}, ensure_ascii=False)
+    payload_json = payload_json.replace('</script', '<\\/script').replace('<!--', '<\\!--')
+
+    html_doc = '''<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>__FEED_TITLE__</title>
+<style>
+:root{
+  --bg:#EEF0E8;
+  --paper:#F5F6EF;
+  --ink:#1E271F;
+  --muted:#5B6459;
+  --accent:#9C6A2E;
+  --accent-2:#3B6A55;
+  --line:#D7DACB;
+}
+*{box-sizing:border-box;}
+html,body{margin:0;padding:0;}
+body{
+  background:var(--bg);
+  color:var(--ink);
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"PingFang SC","Microsoft YaHei",sans-serif;
+  line-height:1.6;
+}
+.wrap{max-width:700px;margin:0 auto;padding:clamp(24px,5vw,56px) clamp(16px,4vw,24px) 80px;}
+header.feed-head{border-bottom:2px solid var(--ink);padding-bottom:20px;margin-bottom:8px;}
+header.feed-head h1{
+  font-family:Georgia,"Noto Serif SC","PingFang SC",serif;
+  font-weight:700;font-size:clamp(26px,5vw,36px);margin:0 0 8px;letter-spacing:-0.01em;
+}
+header.feed-head p{margin:0;color:var(--muted);font-size:14px;}
+ul.items{list-style:none;margin:0;padding:0;}
+li.item{padding:28px 0;border-bottom:1px solid var(--line);}
+li.item:last-child{border-bottom:none;}
+.tag{display:inline-block;font-size:12px;color:var(--accent);border:1px solid var(--accent);border-radius:2px;padding:2px 8px;margin-bottom:10px;}
+.item-title{
+  font-family:Georgia,"Noto Serif SC","PingFang SC",serif;
+  font-weight:600;font-size:clamp(19px,3vw,22px);margin:0 0 8px;line-height:1.4;
+}
+.item-title a{
+  color:var(--ink);text-decoration:none;
+  background-image:linear-gradient(var(--accent),var(--accent));
+  background-repeat:no-repeat;background-position:0 100%;background-size:0% 1px;
+  transition:background-size .2s ease;
+}
+.item-title a:hover{background-size:100% 1px;}
+.item-meta{font-size:13px;color:var(--muted);margin-bottom:14px;}
+details.desc summary{
+  cursor:pointer;list-style:none;display:inline-flex;align-items:center;gap:6px;
+  font-size:14px;color:var(--accent-2);border:1px solid var(--accent-2);border-radius:2px;
+  padding:5px 12px;width:fit-content;user-select:none;
+}
+details.desc summary::-webkit-details-marker{display:none;}
+details.desc summary:hover{background:var(--accent-2);color:var(--paper);}
+details.desc summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
+details.desc summary .chev{display:inline-block;transition:transform .2s ease;}
+details.desc[open] summary .chev{transform:rotate(180deg);}
+details.desc[open] summary{margin-bottom:14px;}
+.desc-body{font-size:15px;color:var(--ink);max-width:66ch;padding-top:2px;}
+.desc-body img,.desc-body video{max-width:100%;height:auto;border-radius:2px;}
+.desc-body p{margin:0 0 12px;}
+.desc-body a{color:var(--accent-2);}
+.empty{color:var(--muted);padding:40px 0;}
+@media (prefers-reduced-motion:reduce){
+  .item-title a,details.desc summary .chev{transition:none;}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="feed-head">
+    <h1 id="feed-title"></h1>
+    <p id="feed-count"></p>
+  </header>
+  <ul class="items" id="items"></ul>
+</div>
+
+<script id="feed-data" type="application/json">__PAYLOAD_JSON__</script>
+<script>
+(function(){
+  var data = JSON.parse(document.getElementById('feed-data').textContent);
+  document.getElementById('feed-title').textContent = data.feedTitle;
+  document.getElementById('feed-count').textContent = '共 ' + data.items.length + ' 条更新';
+
+  var list = document.getElementById('items');
+  if (!data.items.length) {
+    var empty = document.createElement('p');
+    empty.className = 'empty';
+    empty.textContent = '暂无内容';
+    list.appendChild(empty);
+    return;
+  }
+
+  data.items.forEach(function(item){
+    var li = document.createElement('li');
+    li.className = 'item';
+
+    var rawTitle = item.title || '';
+    var tag = '';
+    var titleText = rawTitle;
+    var m = rawTitle.match(/^【(.*?)】([\\s\\S]*)$/);
+    if (m) { tag = m[1]; titleText = m[2]; }
+
+    var html = '';
+    if (tag) {
+      html += '<span class="tag"></span>';
+    }
+    html += '<h2 class="item-title"><a target="_blank" rel="noopener"></a></h2>';
+    html += '<p class="item-meta"></p>';
+    html += '<details class="desc"><summary>展开全文 <span class="chev">\\u25be</span></summary><div class="desc-body"></div></details>';
+    li.innerHTML = html;
+
+    if (tag) li.querySelector('.tag').textContent = tag;
+    var a = li.querySelector('.item-title a');
+    a.textContent = titleText;
+    a.href = item.link || '#';
+    li.querySelector('.item-meta').textContent = '发布者：' + (item.author || '');
+    li.querySelector('.desc-body').innerHTML = item.description || '';
+
+    list.appendChild(li);
+  });
+})();
+</script>
+</body>
+</html>
+'''
+
+    html_doc = html_doc.replace('__FEED_TITLE__', feed_title).replace('__PAYLOAD_JSON__', payload_json)
+
+    with open(html_path, 'w', encoding='utf-8') as f:
+        f.write(html_doc)
+# ============================================================
+# 新增结束
+# ============================================================
 
 # 假设 result 是字节数据（如从网络请求获取的响应）
 try:
@@ -216,22 +290,25 @@ except (json.JSONDecodeError, AttributeError, UnicodeDecodeError) as e:
 
 
 if response is None:
-    rss = f'{header}\n\t<item>\n\t\t<title>抓取首页出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t<pubDate><![CDATA[{get_beijing_now_str()}]]></pubDate>\n\t</item>\n{footer}'
+    rss = f'{header}\n\t<item>\n\t\t<title>抓取首页出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t</item>\n{footer}'
     print(rss)
     with open('./sharemania.xml', 'w', encoding='utf-8') as f:
         f.write(rss)
-    generate_read_html()
+    generate_html_viewer()
     sys.exit(0)
 
 # ↓↓↓ 修改：不再用 links.txt，改成直接读现有 sharemania.xml 里已收录的 link 来判断"新链接" ↓↓↓
+XML_PATH = './sharemania.xml'
+
 regex_link = r'link rel\=\"canonical\" href="(.+?)\"'
 regex_tit = r'\<title\>(.+?) \| ShareMania\.US'
 regex_con = r'meta name\=\"description\"[\s\S]*?(\<article\>[\s\S]*?\<\/article\>)'
 regex_prefix = r'Discussion in.+?\>(.+?)\<\/a\>'
 regex_author = r'started by.+?\>(.+?)\<\/a\>'
 
+# 注意：不再引用 rss1.xsl（改用 generate_html_viewer() 生成完全自包含的 sharemania.html 来查看），
+# 所以这里不再输出 <?xml-stylesheet?> 这一行，sharemania.xml 保持最干净的纯 RSS，方便订阅。
 header = '''<?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="rss1.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
  <title>sharemania</title>
@@ -259,8 +336,8 @@ def write_rss(new_items_str):
     print(new_content)
     with open(XML_PATH, 'w', encoding='utf-8') as f:
         f.write(new_content)
-    # ↓↓↓ 新增：每次写入 xml 后，同步刷新人类可读页面 ↓↓↓
-    generate_read_html()
+    # ↓↓↓ 新增：每次写完 xml 后，同步重新生成自包含的 html 阅读页 ↓↓↓
+    generate_html_viewer()
     # ↑↑↑ 新增结束 ↑↑↑
 
 existing_links_relpath = set()
@@ -276,6 +353,11 @@ if os.path.exists(XML_PATH):
 
 # ↓↓↓ 新增：sharemania_error.log 相关 —— 记录/清理"重试3次仍失败"的链接 ↓↓↓
 ERROR_LOG_PATH = './sharemania_error.log'
+BEIJING_TZ = timezone(timedelta(hours=8))
+BEIJING_TIME_FORMAT = "%Y-%m-%d %H:%M:%S"
+
+def get_beijing_now():
+    return datetime.now(BEIJING_TZ)
 
 def load_error_log():
     """返回 {url: 首次失败时间字符串}"""
@@ -315,7 +397,7 @@ for err_url in list(error_entries.keys()):
     first_time = datetime.strptime(error_entries[err_url], BEIJING_TIME_FORMAT).replace(tzinfo=BEIJING_TZ)
     if get_beijing_now() - first_time >= timedelta(hours=24):
         print(f"链接连续24小时未成功抓取，追加提示到xml：{err_url}")
-        pending_24h_error_items += f'\n\t<item>\n\t\t<title>{err_url} 过去24小时没有成功抓取，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{err_url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t<pubDate><![CDATA[{get_beijing_now_str()}]]></pubDate>\n\t</item>\n'
+        pending_24h_error_items += f'\n\t<item>\n\t\t<title>{err_url} 过去24小时没有成功抓取，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{err_url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t</item>\n'
         del error_entries[err_url]
 
 if pending_24h_error_items:
@@ -331,10 +413,7 @@ links = re.findall(pattern, response)
 new_links = set(links) - existing_links_relpath
 # ↑↑↑ 修改结束 ↑↑↑
 if not new_links:  # or len(new_links) == 0
-    print("无新链接")
-    # ↓↓↓ 新增：即使没有新链接，也刷新一下可读页面（保证首次运行/xml 单独更新时页面存在）↓↓↓
-    generate_read_html()
-    # ↑↑↑ 新增结束 ↑↑↑
+    print("无新链接") 
     sys.exit(0)  # 0 表示成功退出，GitHub Actions 不会报错
 
 html_string = ""
@@ -426,20 +505,14 @@ if re.findall(regex_link, html) and re.findall(regex_tit, html):
 
         if not author or len(author) > 30 or len(author) < 1:
             print("抓取全文出错，强制退出")
-            generate_read_html()
             sys.exit(0)
-
-        # ↓↓↓ 新增：每条新抓取的 item 记录北京时间发布时间，供 sharemania_read.html 展示 ↓↓↓
-        pub_date_str = get_beijing_now_str()
-        # ↑↑↑ 新增结束 ↑↑↑
-
+            
         rss += f'''
                 <item>
                 <title><![CDATA[【{prefix}】{title}]]></title>
                 <link><![CDATA[{link}]]></link>
                 <description><![CDATA[{article}]]></description>
                 <author><![CDATA[{author}]]></author>
-                <pubDate><![CDATA[{pub_date_str}]]></pubDate>
                 </item>
 
                 '''
@@ -447,5 +520,5 @@ if re.findall(regex_link, html) and re.findall(regex_tit, html):
     write_rss(rss)
 else:
     url = "https://sharemania.us/"
-    error_item = f'\n\t<item>\n\t\t<title>出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t<pubDate><![CDATA[{get_beijing_now_str()}]]></pubDate>\n\t</item>\n'
+    error_item = f'\n\t<item>\n\t\t<title>出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t</item>\n'
     write_rss(error_item)
