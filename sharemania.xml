@@ -7,6 +7,18 @@
  <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
 
  <item>
+                <title><![CDATA[【Requests】[REQ VID] - 260906 BTS WORLD TOUR ‘ARIRANG’ IN LOS ANGELES D4]]></title>
+                <link><![CDATA[https://sharemania.us/threads/260906-bts-world-tour-%E2%80%98arirang%E2%80%99-in-los-angeles-d4.308711/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					The only day I can't seem to find. Help would be greatly appreciated.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[guwols]]></author>
+                </item>
+<item>
                 <title><![CDATA[【UPSCALED】Bts - Save Me [4k HEVC 10-bit]]]></title>
                 <link><![CDATA[https://sharemania.us/threads/bts-save-me-4k-hevc-10-bit.308710/]]></link>
                 <description><![CDATA[<article>
@@ -1831,123 +1843,5 @@ Enjoy!<br>
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[BLAZ1166]]></author>
-                </item>
-<item>
-                <title><![CDATA[【HD Live Performances】HDTV - Luísa Sonza convida Roberto Menescal - Rock In Rio 2026 - 1080p Multishow HDTV MP2 2.0 H.264 - BRE]]></title>
-                <link><![CDATA[https://sharemania.us/threads/lui%CC%81sa-sonza-convida-roberto-menescal-rock-in-rio-2026-1080p-multishow-hdtv-mp2-2-0-h-264-bre.308661/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<img src="https://i.imgur.com/bBX4hR7.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/bBX4hR7.jpeg" style=""> <br>
-<img src="https://i.imgur.com/9dvpOkH.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/9dvpOkH.png" style=""> <br>
-<img src="https://i.imgur.com/oXxeweN.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/oXxeweN.png" style=""> <br>
-
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>General
-ID                             : 1 (0x1)
-Complete name                  : Luísa Sonza - Rock In Rio 2026 - 1080p Multishow HDTV MP2 2.0 H.264 - BRE.ts
-Format                         : MPEG-TS
-File size                      : 1.94 GiB
-Duration                       : 59 min 56 s
-Overall bit rate mode          : Variable
-Overall bit rate               : 4 641 kb/s
-
-Video
-ID                             : 256 (0x100)
-Menu ID                        : 1 (0x1)
-Format                         : AVC
-Format/Info                    : Advanced Video Codec
-Format profile                 : High@L4.1
-Format settings                : CABAC / 4 Ref Frames
-Format settings, CABAC         : Yes
-Format settings, Reference fra : 4 frames
-Format settings, GOP           : M=4, N=32
-Codec ID                       : 27
-Duration                       : 59 min 56 s
-Bit rate                       : 4 024 kb/s
-Width                          : 1 920 pixels
-Height                         : 1 080 pixels
-Display aspect ratio           : 16:9
-Frame rate                     : 29.970 (30000/1001) FPS
-Color space                    : YUV
-Chroma subsampling             : 4:2:0
-Bit depth                      : 8 bits
-Scan type                      : Interlaced
-Scan type, store method        : Separated fields
-Scan order                     : Top Field First
-Bits/(Pixel*Frame)             : 0.065
-Stream size                    : 1.68 GiB (87%)
-Color range                    : Limited
-Color primaries                : BT.709
-Transfer characteristics       : BT.709
-Matrix coefficients            : BT.709
-
-Audio #1
-ID                             : 257 (0x101)
-Menu ID                        : 1 (0x1)
-Format                         : MPEG Audio
-Format version                 : Version 1
-Format profile                 : Layer 2
-Codec ID                       : 3
-Duration                       : 59 min 56 s
-Bit rate mode                  : Constant
-Bit rate                       : 192 kb/s
-Channel(s)                     : 2 channels
-Sampling rate                  : 48.0 kHz
-Frame rate                     : 41.667 FPS (1152 SPF)
-Compression mode               : Lossy
-Delay relative to video        : -89 ms
-Stream size                    : 82.3 MiB (4%)
-Language                       : Portuguese
-
-Audio #2
-ID                             : 258 (0x102)
-Menu ID                        : 1 (0x1)
-Format                         : MPEG Audio
-Format version                 : Version 1
-Format profile                 : Layer 2
-Format settings                : Dual mono
-Codec ID                       : 3
-Duration                       : 59 min 56 s
-Bit rate mode                  : Constant
-Bit rate                       : 192 kb/s
-Channel(s)                     : 2 channels
-Sampling rate                  : 48.0 kHz
-Frame rate                     : 41.667 FPS (1152 SPF)
-Compression mode               : Lossy
-Delay relative to video        : -152 ms
-Stream size                    : 82.3 MiB (4%)
-Language                       : English
-
-Menu
-ID                             : 4096 (0x1000)
-Menu ID                        : 1 (0x1)
-Duration                       : 59 min 56 s
-List                           : 256 (0x100) (AVC) / 257 (0x101) (MPEG Audio, Portuguese) / 258 (0x102) (MPEG Audio, English)
-Language                       : / Portuguese / English
-Service name                   : Service01
-Service provider               : FFmpeg
-Service type                   : digital television
-</pre>
-</div></div>
-</div>
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[Brendow]]></author>
                 </item>
                 </channel></rss>
