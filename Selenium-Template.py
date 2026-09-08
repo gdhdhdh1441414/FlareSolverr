@@ -138,6 +138,19 @@ header = '''<?xml version="1.0" encoding="utf-8"?>
 
 footer = '</channel></rss>'
 
+# ↓↓↓ 新增：只保留最新50条 <item> ↓↓↓
+def trim_items(xml_content, max_items=50):
+    """只保留最新的 max_items 条 <item>...</item>，多余的丢弃"""
+    items = re.findall(r'<item>[\s\S]*?</item>', xml_content)
+    if len(items) <= max_items:
+        return xml_content
+    kept = items[:max_items]  # 新条目在前，所以前 max_items 个就是最新的
+    body_only = re.sub(r'<item>[\s\S]*?</item>\s*', '', xml_content)
+    idx = body_only.index(header) + len(header)
+    new_content = body_only[:idx] + '\n'.join(kept) + body_only[idx:]
+    return new_content
+# ↑↑↑ 新增结束 ↑↑↑
+
 def write_rss(new_items_str):
     """把新抓到的 item 合并进已有的 sharemania.xml（新条目插在最前面，老条目保留）；
        如果 xml 还不存在，就新建一个。"""
@@ -151,6 +164,10 @@ def write_rss(new_items_str):
             new_content = header + new_items_str + footer
     else:
         new_content = header + new_items_str + footer
+
+    # ↓↓↓ 新增：写入前裁剪，只保留最新50条 ↓↓↓
+    new_content = trim_items(new_content, max_items=50)
+    # ↑↑↑ 新增结束 ↑↑↑
 
     print(new_content)
     with open(XML_PATH, 'w', encoding='utf-8') as f:
