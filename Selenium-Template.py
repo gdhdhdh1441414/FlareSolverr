@@ -75,185 +75,6 @@ curl_cmd = f"curl 'http://localhost:8191/v1' -H 'Content-Type: application/json'
 result = run_flaresolverr_request(curl_cmd)
 # ↑↑↑ 修改结束 ↑↑↑
 
-# ============================================================
-# 新增：自包含 HTML 阅读页生成器（不依赖 rss1.xsl / 外部字体 / 任何外部文件）
-# 全部数据、CSS、JS 都内联在这一个 sharemania.html 里，双击即可打开查看，
-# 描述默认折叠，展开按钮明显。sharemania.xml 保持纯净，供阅读器订阅。
-# ============================================================
-HTML_PATH = './sharemania.html'
-
-def _extract_tag(tag, block):
-    """在一个 <item>...</item> 片段里取某个标签的内容，兼容 CDATA 和纯文本两种写法"""
-    m = re.search(
-        rf'<{tag}>(?:<!\[CDATA\[(.*?)\]\]>|(.*?))</{tag}>',
-        block,
-        re.DOTALL
-    )
-    if not m:
-        return ''
-    val = m.group(1) if m.group(1) is not None else m.group(2)
-    return val.strip()
-
-def generate_html_viewer(xml_path=XML_PATH if 'XML_PATH' in dir() else './sharemania.xml',
-                          html_path=HTML_PATH):
-    """读取最终的 sharemania.xml，把所有 item 转成 JSON 内嵌进一个完全自包含的 HTML 文件。
-       该 HTML 不发起任何网络请求（没有外部字体/CSS/JS/图标），只用系统自带字体。"""
-    if not os.path.exists(xml_path):
-        return
-    with open(xml_path, 'r', encoding='utf-8') as f:
-        xml_content = f.read()
-
-    feed_title_m = re.search(r'<title>(.*?)</title>', xml_content, re.DOTALL)
-    feed_title = feed_title_m.group(1).strip() if feed_title_m else 'sharemania'
-
-    items = []
-    for block in re.findall(r'<item>(.*?)</item>', xml_content, re.DOTALL):
-        items.append({
-            'title': _extract_tag('title', block),
-            'link': _extract_tag('link', block),
-            'description': _extract_tag('description', block),
-            'author': _extract_tag('author', block),
-        })
-
-    # JSON 序列化后要防止内容里出现 </script> 提前把 <script> 标签截断
-    payload_json = json.dumps({'feedTitle': feed_title, 'items': items}, ensure_ascii=False)
-    payload_json = payload_json.replace('</script', '<\\/script').replace('<!--', '<\\!--')
-
-    html_doc = '''<!DOCTYPE html>
-<html lang="zh">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>__FEED_TITLE__</title>
-<style>
-:root{
-  --bg:#EEF0E8;
-  --paper:#F5F6EF;
-  --ink:#1E271F;
-  --muted:#5B6459;
-  --accent:#9C6A2E;
-  --accent-2:#3B6A55;
-  --line:#D7DACB;
-}
-*{box-sizing:border-box;}
-html,body{margin:0;padding:0;}
-body{
-  background:var(--bg);
-  color:var(--ink);
-  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"PingFang SC","Microsoft YaHei",sans-serif;
-  line-height:1.6;
-}
-.wrap{max-width:700px;margin:0 auto;padding:clamp(24px,5vw,56px) clamp(16px,4vw,24px) 80px;}
-header.feed-head{border-bottom:2px solid var(--ink);padding-bottom:20px;margin-bottom:8px;}
-header.feed-head h1{
-  font-family:Georgia,"Noto Serif SC","PingFang SC",serif;
-  font-weight:700;font-size:clamp(26px,5vw,36px);margin:0 0 8px;letter-spacing:-0.01em;
-}
-header.feed-head p{margin:0;color:var(--muted);font-size:14px;}
-ul.items{list-style:none;margin:0;padding:0;}
-li.item{padding:28px 0;border-bottom:1px solid var(--line);}
-li.item:last-child{border-bottom:none;}
-.tag{display:inline-block;font-size:12px;color:var(--accent);border:1px solid var(--accent);border-radius:2px;padding:2px 8px;margin-bottom:10px;}
-.item-title{
-  font-family:Georgia,"Noto Serif SC","PingFang SC",serif;
-  font-weight:600;font-size:clamp(19px,3vw,22px);margin:0 0 8px;line-height:1.4;
-}
-.item-title a{
-  color:var(--ink);text-decoration:none;
-  background-image:linear-gradient(var(--accent),var(--accent));
-  background-repeat:no-repeat;background-position:0 100%;background-size:0% 1px;
-  transition:background-size .2s ease;
-}
-.item-title a:hover{background-size:100% 1px;}
-.item-meta{font-size:13px;color:var(--muted);margin-bottom:14px;}
-details.desc summary{
-  cursor:pointer;list-style:none;display:inline-flex;align-items:center;gap:6px;
-  font-size:14px;color:var(--accent-2);border:1px solid var(--accent-2);border-radius:2px;
-  padding:5px 12px;width:fit-content;user-select:none;
-}
-details.desc summary::-webkit-details-marker{display:none;}
-details.desc summary:hover{background:var(--accent-2);color:var(--paper);}
-details.desc summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px;}
-details.desc summary .chev{display:inline-block;transition:transform .2s ease;}
-details.desc[open] summary .chev{transform:rotate(180deg);}
-details.desc[open] summary{margin-bottom:14px;}
-.desc-body{font-size:15px;color:var(--ink);max-width:66ch;padding-top:2px;}
-.desc-body img,.desc-body video{max-width:100%;height:auto;border-radius:2px;}
-.desc-body p{margin:0 0 12px;}
-.desc-body a{color:var(--accent-2);}
-.empty{color:var(--muted);padding:40px 0;}
-@media (prefers-reduced-motion:reduce){
-  .item-title a,details.desc summary .chev{transition:none;}
-}
-</style>
-</head>
-<body>
-<div class="wrap">
-  <header class="feed-head">
-    <h1 id="feed-title"></h1>
-    <p id="feed-count"></p>
-  </header>
-  <ul class="items" id="items"></ul>
-</div>
-
-<script id="feed-data" type="application/json">__PAYLOAD_JSON__</script>
-<script>
-(function(){
-  var data = JSON.parse(document.getElementById('feed-data').textContent);
-  document.getElementById('feed-title').textContent = data.feedTitle;
-  document.getElementById('feed-count').textContent = '共 ' + data.items.length + ' 条更新';
-
-  var list = document.getElementById('items');
-  if (!data.items.length) {
-    var empty = document.createElement('p');
-    empty.className = 'empty';
-    empty.textContent = '暂无内容';
-    list.appendChild(empty);
-    return;
-  }
-
-  data.items.forEach(function(item){
-    var li = document.createElement('li');
-    li.className = 'item';
-
-    var rawTitle = item.title || '';
-    var tag = '';
-    var titleText = rawTitle;
-    var m = rawTitle.match(/^【(.*?)】([\\s\\S]*)$/);
-    if (m) { tag = m[1]; titleText = m[2]; }
-
-    var html = '';
-    if (tag) {
-      html += '<span class="tag"></span>';
-    }
-    html += '<h2 class="item-title"><a target="_blank" rel="noopener"></a></h2>';
-    html += '<p class="item-meta"></p>';
-    html += '<details class="desc"><summary>展开全文 <span class="chev">\\u25be</span></summary><div class="desc-body"></div></details>';
-    li.innerHTML = html;
-
-    if (tag) li.querySelector('.tag').textContent = tag;
-    var a = li.querySelector('.item-title a');
-    a.textContent = titleText;
-    a.href = item.link || '#';
-    li.querySelector('.item-meta').textContent = '发布者：' + (item.author || '');
-    li.querySelector('.desc-body').innerHTML = item.description || '';
-
-    list.appendChild(li);
-  });
-})();
-</script>
-</body>
-</html>
-'''
-
-    html_doc = html_doc.replace('__FEED_TITLE__', feed_title).replace('__PAYLOAD_JSON__', payload_json)
-
-    with open(html_path, 'w', encoding='utf-8') as f:
-        f.write(html_doc)
-# ============================================================
-# 新增结束
-# ============================================================
-
 # 假设 result 是字节数据（如从网络请求获取的响应）
 try:
     # 尝试解析 JSON
@@ -294,7 +115,6 @@ if response is None:
     print(rss)
     with open('./sharemania.xml', 'w', encoding='utf-8') as f:
         f.write(rss)
-    generate_html_viewer()
     sys.exit(0)
 
 # ↓↓↓ 修改：不再用 links.txt，改成直接读现有 sharemania.xml 里已收录的 link 来判断"新链接" ↓↓↓
@@ -306,9 +126,8 @@ regex_con = r'meta name\=\"description\"[\s\S]*?(\<article\>[\s\S]*?\<\/article\
 regex_prefix = r'Discussion in.+?\>(.+?)\<\/a\>'
 regex_author = r'started by.+?\>(.+?)\<\/a\>'
 
-# 注意：不再引用 rss1.xsl（改用 generate_html_viewer() 生成完全自包含的 sharemania.html 来查看），
-# 所以这里不再输出 <?xml-stylesheet?> 这一行，sharemania.xml 保持最干净的纯 RSS，方便订阅。
 header = '''<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="rss1.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
  <title>sharemania</title>
@@ -336,9 +155,6 @@ def write_rss(new_items_str):
     print(new_content)
     with open(XML_PATH, 'w', encoding='utf-8') as f:
         f.write(new_content)
-    # ↓↓↓ 新增：每次写完 xml 后，同步重新生成自包含的 html 阅读页 ↓↓↓
-    generate_html_viewer()
-    # ↑↑↑ 新增结束 ↑↑↑
 
 existing_links_relpath = set()
 if os.path.exists(XML_PATH):
