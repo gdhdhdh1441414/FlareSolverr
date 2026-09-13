@@ -7,6 +7,995 @@
  <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
 
  <item>
+                <title><![CDATA[【Unreleased/Unofficial (lossy)】Dolby Atmos - Ariana Grande - Everyday feat. Future (CTMP's Atmos Mix) 5.1 E-AC3 JOC 16bit/48khz/768kbps|AC4-IMS 2.0 256kbps|ADM BWF 24bit/48kHz]]></title>
+                <link><![CDATA[https://sharemania.us/threads/ariana-grande-everyday-feat-future-ctmps-atmos-mix-5-1-e-ac3-joc-16bit-48khz-768kbps-ac4-ims-2-0-256kbps-adm-bwf-24bit-48khz.309157/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://a5.mzstatic.com/us/r1000/0/Music115/v4/fc/38/e6/fc38e60e-02f5-882d-689b-f8f40f842a3e/16UMGIM12432.rgb.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://a5.mzstatic.com/us/r1000/0/Music115/v4/fc/38/e6/fc38e60e-02f5-882d-689b-f8f40f842a3e/16UMGIM12432.rgb.jpg" style=""> <br>
+<br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo/EAC-3 JOC</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Complete name                            : /Users/stephen/Downloads/Everyday feat. Future (CTMP's Atmos Mix) [E-AC3 JOC).mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42 (mp42/dby1)
+File size                                : 19.3 MiB
+Duration                                 : 3 min 14 s
+Overall bit rate mode                    : Constant
+Overall bit rate                         : 832 kb/s
+Title                                    : Everyday (feat. Future) [CTMP's Atmos Mix]
+Album                                    : Dangerous Woman
+Album/Performer                          : Ariana Grande
+Performer                                : Ariana Grande
+Genre                                    : Pop
+Recorded date                            : 2016
+Encoded date                             : 2026-09-13 14:40:08 UTC
+Tagged date                              : 2026-09-13 14:40:08 UTC
+Cover                                    : Yes
+Cover type                               : Cover
+
+Audio
+ID                                       : 1
+Format                                   : E-AC-3 JOC
+Format/Info                              : Enhanced AC-3 with Joint Object Coding
+Commercial name                          : Dolby Digital Plus with Dolby Atmos
+Codec ID                                 : ec-3
+Duration                                 : 3 min 14 s
+Bit rate mode                            : Constant
+Bit rate                                 : 768 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 17.8 MiB (92%)
+Service kind                             : Complete Main
+Default                                  : Yes
+Alternate group                          : 2
+Encoded date                             : 2026-09-13 14:40:08 UTC
+Tagged date                              : 2026-09-13 14:40:08 UTC
+Complexity index                         : 16
+Number of dynamic objects                : 15
+Bed channel count                        : 1 channel
+Bed channel configuration                : LFE
+Dialog Normalization                     : -14 dB
+compr                                    : -0.28 dB
+dmixmod                                  : Lo/Ro
+ltrtcmixlev                              : -3.0 dB
+ltrtsurmixlev                            : -3.0 dB
+lorocmixlev                              : -3.0 dB
+lorosurmixlev                            : -3.0 dB
+dialnorm_Average                         : -14 dB
+dialnorm_Minimum                         : -14 dB
+dialnorm_Maximum                         : -14 dB
+
+Image
+Type                                     : Cover
+Muxing mode                              : moov-meta-covr
+Stream size                              : 1.47 MiB (8%)</pre>
+</div></div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo/AC4</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Complete name                            : /Users/stephen/Downloads/Everyday feat. Future (CTMP's Atmos Mix) [AC4-IMS].mp4
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42 (mp42/dby1)
+File size                                : 7.44 MiB
+Duration                                 : 3 min 14 s
+Overall bit rate                         : 320 kb/s
+Title                                    : Everyday (feat. Future) [CTMP's Atmos Mix]
+Album                                    : Dangerous Woman
+Album/Performer                          : Ariana Grande
+Performer                                : Ariana Grande
+Genre                                    : Pop
+Recorded date                            : 2016
+Encoded date                             : 2026-09-13 14:41:09 UTC
+Tagged date                              : 2026-09-13 14:41:09 UTC
+Cover                                    : Yes
+Cover type                               : Cover
+
+Audio
+ID                                       : 1
+Format                                   : AC-4
+Format/Info                              : Audio Coding 4
+Commercial name                          : Dolby AC-4
+Format version                           : Version 2
+Codec ID                                 : ac-4
+Duration                                 : 3 min 14 s
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 23.438 FPS (2048 SPF)
+Compression mode                         : Lossy
+Stream size                              : 5.94 MiB (80%)
+Default                                  : Yes
+Alternate group                          : 2
+Encoded date                             : 2026-09-13 14:41:09 UTC
+Tagged date                              : 2026-09-13 14:41:09 UTC
+I-Frame interval                         : 24 frames
+Number of presentations                  : 1
+NumberOfGroups                           : 1
+Number of substreams                     : 1
+Bitstream level                          : 3
+Presentation #1                          : Immersive Stereo Main
+ Presentation ID                         : 0
+ Presentation level                      : 0
+ Dolby Atmos                             : Yes
+ Dialogue normalization                  : -17.00
+ Loudness                                : Yes
+  Integrated loudness (speech gated)     : -17.0 LKFS
+  Integrated loudness (level gated)      : -8.5 LKFS
+  Audio Loudness Standard                : ATSC A/85
+  Realtime loudness corrected            : No
+  Dialogue corrected                     : Yes
+ Dynamic Range Control                   : Yes
+  E-AC-3 DRC profile                     : Film light
+  Home theater AVR                       : Film light
+  Flat panel TV                          : Film light
+  Portable speakers                      : Film light
+  Portable headphones                    : Film light
+ Group #s                                : 1
+Group #1                                 : Main
+ Content classifier                      : Main
+ Channel coded                           : Yes
+ Immersive stereo                        : Dolby Atmos Content
+ Number of substreams                    : 1
+ Substream #s                            : 1
+Substream #1                             : Stereo
+ Channel mode                            : Stereo
+ Immersive stereo                        : Dolby Atmos Content
+ Channel layout                          : L R
+ Dialogue enhancement                    : Yes
+  Enabled                                : Yes
+  Max gain                               : 9 dB
+
+Image
+Type                                     : Cover
+Muxing mode                              : moov-meta-covr
+Stream size                              : 1.47 MiB (20%)</pre>
+</div></div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo/ADM BWF</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Complete name                            : /Users/stephen/Downloads/Everyday feat. Future (CTMP's Atmos Mix) [ADM BWF].wav
+Format                                   : Wave
+Format settings                          : PcmWaveformat
+File size                                : 538 MiB
+Duration                                 : 3 min 14 s
+Overall bit rate mode                    : Constant
+Overall bit rate                         : 23.2 Mb/s
+Title                                    : Everyday (feat. Future) [CTMP's Atmos Mix]
+Album                                    : Dangerous Woman
+Album/Performer                          : Ariana Grande
+Performer                                : Ariana Grande
+Director                                 : Ariana Grande
+Genre                                    : Pop
+Recorded date                            : 2016
+Original source form/Name                : Dangerous Woman
+Cover                                    : Yes
+Cover type                               : Cover
+Cover MIME                               : image/jpeg
+
+Audio
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : 1
+Duration                                 : 3 min 14 s
+Bit rate mode                            : Constant
+Bit rate                                 : 23.0 Mb/s
+Channel(s)                               : 20 channels
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Stream size                              : 535 MiB (99%)
+Dolby Atmos metadata                     : Yes
+ Writing application                     : Logic Pro with Dolby monitoring, Version 11.2.2
+ 5.1 to 2.0 downmix                      : Lo/Ro w/o Phase 90
+ 5.1 and 5.1.x downmix                   : Standard (Lo/Ro)
+ Associated video frame rate             : 24.000 FPS
+ Trim mode                               : Automatic
+Metadata format                          : ADM, Version 0
+Metadata muxing mode                     : axml
+ADM profile                              : Dolby Atmos Master, Version 1
+Number of programmes                     : 1
+Number of contents                       : 1
+Number of objects                        : 11
+Number of pack formats                   : 11
+Number of channel formats                : 20
+Number of track UIDs                     : 20
+Number of track formats                  : 20
+Number of stream formats                 : 20
+Programme #1                             : Atmos_Master
+ ID                                      : APR_1001
+ Title                                   : Atmos_Master
+ Start                                   : 01:00:00.00000 (01:00:00:00)
+ End                                     : 01:03:14.67610 (01:03:14:16.23)
+ Content #s                              : 1
+Content #1                               : Atmos_Master_Content
+ ID                                      : ACO_1001
+ Title                                   : Atmos_Master_Content
+ Mode                                    : Mixed
+ Object #s                               : 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11
+Object #1                                : Master
+ ID                                      : AO_1001
+ Title                                   : Master
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:03:14.67610
+ Pack format #s                          : 1
+ Track UID #s                            : 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10
+ Binaural render mode                    : Not Indicated (Mid) + Not Indicated (Mid) + Not Indicated (Mid) + Off + Not Indicated (Mid) + Not Indicated (Mid) + Not Indicated (Mid) + Not Indicated (Mid) + Not Indicated (Mid) + Not Indicated (Mid)
+Object #2                                : Everyday Voc FX Stem L
+ ID                                      : AO_100B
+ Title                                   : Everyday Voc FX Stem L
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:03:14.67610
+ Pack format #s                          : 2
+ Track UID #s                            : 11
+ Binaural render mode                    : Not Indicated (Mid)
+Object #3                                : Everyday Voc FX Stem R
+ ID                                      : AO_100C
+ Title                                   : Everyday Voc FX Stem R
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:03:14.67610
+ Pack format #s                          : 3
+ Track UID #s                            : 12
+ Binaural render mode                    : Not Indicated (Mid)
+Object #4                                : High Voc FX Stem L
+ ID                                      : AO_100D
+ Title                                   : High Voc FX Stem L
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:03:14.67610
+ Pack format #s                          : 4
+ Track UID #s                            : 13
+ Binaural render mode                    : Not Indicated (Mid)
+Object #5                                : High Voc FX Stem R
+ ID                                      : AO_100E
+ Title                                   : High Voc FX Stem R
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:03:14.67610
+ Pack format #s                          : 5
+ Track UID #s                            : 14
+ Binaural render mode                    : Not Indicated (Mid)
+Object #6                                : Kick Stem L
+ ID                                      : AO_100F
+ Title                                   : Kick Stem L
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:03:14.67610
+ Pack format #s                          : 6
+ Track UID #s                            : 15
+ Binaural render mode                    : Not Indicated (Mid)
+Object #7                                : Kick Stem R
+ ID                                      : AO_1010
+ Title                                   : Kick Stem R
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:03:14.67610
+ Pack format #s                          : 7
+ Track UID #s                            : 16
+ Binaural render mode                    : Not Indicated (Mid)
+Object #8                                : Verb FX Stem L
+ ID                                      : AO_1011
+ Title                                   : Verb FX Stem L
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:03:14.67610
+ Pack format #s                          : 8
+ Track UID #s                            : 17
+ Binaural render mode                    : Not Indicated (Mid)
+Object #9                                : Verb FX Stem R
+ ID                                      : AO_1012
+ Title                                   : Verb FX Stem R
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:03:14.67610
+ Pack format #s                          : 9
+ Track UID #s                            : 18
+ Binaural render mode                    : Not Indicated (Mid)
+Object #10                               : Vocal Riff Stem L
+ ID                                      : AO_1013
+ Title                                   : Vocal Riff Stem L
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:03:14.67610
+ Pack format #s                          : 10
+ Track UID #s                            : 19
+ Binaural render mode                    : Not Indicated (Mid)
+Object #11                               : Vocal Riff Stem R
+ ID                                      : AO_1014
+ Title                                   : Vocal Riff Stem R
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:03:14.67610
+ Pack format #s                          : 11
+ Track UID #s                            : 20
+ Binaural render mode                    : Not Indicated (Mid)
+Pack format #1                           : Master
+ ID                                      : AP_00011001
+ Title                                   : Master
+ Type definition                         : DirectSpeakers
+ Channel layout                          : L R C LFE Lss Rss Lb Rb Tsl Tsr
+ Channel format #s                       : 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10
+Pack format #2                           : Everyday Voc FX Stem-L
+ ID                                      : AP_00031002
+ Title                                   : Everyday Voc FX Stem-L
+ Type definition                         : Objects
+ Channel format #s                       : 11
+Pack format #3                           : Everyday Voc FX Stem-R
+ ID                                      : AP_00031003
+ Title                                   : Everyday Voc FX Stem-R
+ Type definition                         : Objects
+ Channel format #s                       : 12
+Pack format #4                           : High Voc FX Stem-L
+ ID                                      : AP_00031004
+ Title                                   : High Voc FX Stem-L
+ Type definition                         : Objects
+ Channel format #s                       : 13
+Pack format #5                           : High Voc FX Stem-R
+ ID                                      : AP_00031005
+ Title                                   : High Voc FX Stem-R
+ Type definition                         : Objects
+ Channel format #s                       : 14
+Pack format #6                           : Kick Stem-L
+ ID                                      : AP_00031006
+ Title                                   : Kick Stem-L
+ Type definition                         : Objects
+ Channel format #s                       : 15
+Pack format #7                           : Kick Stem-R
+ ID                                      : AP_00031007
+ Title                                   : Kick Stem-R
+ Type definition                         : Objects
+ Channel format #s                       : 16
+Pack format #8                           : Verb FX Stem-L
+ ID                                      : AP_00031008
+ Title                                   : Verb FX Stem-L
+ Type definition                         : Objects
+ Channel format #s                       : 17
+Pack format #9                           : Verb FX Stem-R
+ ID                                      : AP_00031009
+ Title                                   : Verb FX Stem-R
+ Type definition                         : Objects
+ Channel format #s                       : 18
+Pack format #10                          : Vocal Riff Stem-L
+ ID                                      : AP_0003100A
+ Title                                   : Vocal Riff Stem-L
+ Type definition                         : Objects
+ Channel format #s                       : 19
+Pack format #11                          : Vocal Riff Stem-R
+ ID                                      : AP_0003100B
+ Title                                   : Vocal Riff Stem-R
+ Type definition                         : Objects
+ Channel format #s                       : 20
+Channel format #1                        : RoomCentricLeft
+ ID                                      : AC_00011001
+ Title                                   : RoomCentricLeft
+ Type definition                         : DirectSpeakers
+ Channel layout                          : L
+ Type                                    : Static
+Channel format #2                        : RoomCentricRight
+ ID                                      : AC_00011002
+ Title                                   : RoomCentricRight
+ Type definition                         : DirectSpeakers
+ Channel layout                          : R
+ Type                                    : Static
+Channel format #3                        : RoomCentricCenter
+ ID                                      : AC_00011003
+ Title                                   : RoomCentricCenter
+ Type definition                         : DirectSpeakers
+ Channel layout                          : C
+ Type                                    : Static
+Channel format #4                        : RoomCentricLFE
+ ID                                      : AC_00011004
+ Title                                   : RoomCentricLFE
+ Type definition                         : DirectSpeakers
+ Channel layout                          : LFE
+ Type                                    : Static
+Channel format #5                        : RoomCentricLeftSideSurround
+ ID                                      : AC_00011005
+ Title                                   : RoomCentricLeftSideSurround
+ Type definition                         : DirectSpeakers
+ Channel layout                          : Lss
+ Type                                    : Static
+Channel format #6                        : RoomCentricRightSideSurround
+ ID                                      : AC_00011006
+ Title                                   : RoomCentricRightSideSurround
+ Type definition                         : DirectSpeakers
+ Channel layout                          : Rss
+ Type                                    : Static
+Channel format #7                        : RoomCentricLeftRearSurround
+ ID                                      : AC_00011007
+ Title                                   : RoomCentricLeftRearSurround
+ Type definition                         : DirectSpeakers
+ Channel layout                          : Lb
+ Type                                    : Static
+Channel format #8                        : RoomCentricRightRearSurround
+ ID                                      : AC_00011008
+ Title                                   : RoomCentricRightRearSurround
+ Type definition                         : DirectSpeakers
+ Channel layout                          : Rb
+ Type                                    : Static
+Channel format #9                        : RoomCentricLeftTopSurround
+ ID                                      : AC_00011009
+ Title                                   : RoomCentricLeftTopSurround
+ Type definition                         : DirectSpeakers
+ Channel layout                          : Tsl
+ Type                                    : Static
+Channel format #10                       : RoomCentricRightTopSurround
+ ID                                      : AC_0001100a
+ Title                                   : RoomCentricRightTopSurround
+ Type definition                         : DirectSpeakers
+ Channel layout                          : Tsr
+ Type                                    : Static
+Channel format #11                       : Everyday Voc FX Stem L
+ ID                                      : AC_0003100b
+ Title                                   : Everyday Voc FX Stem L
+ Type definition                         : Objects
+Channel format #12                       : Everyday Voc FX Stem R
+ ID                                      : AC_0003100c
+ Title                                   : Everyday Voc FX Stem R
+ Type definition                         : Objects
+Channel format #13                       : High Voc FX Stem L
+ ID                                      : AC_0003100d
+ Title                                   : High Voc FX Stem L
+ Type definition                         : Objects
+Channel format #14                       : High Voc FX Stem R
+ ID                                      : AC_0003100e
+ Title                                   : High Voc FX Stem R
+ Type definition                         : Objects
+Channel format #15                       : Kick Stem L
+ ID                                      : AC_0003100f
+ Title                                   : Kick Stem L
+ Type definition                         : Objects
+Channel format #16                       : Kick Stem R
+ ID                                      : AC_00031010
+ Title                                   : Kick Stem R
+ Type definition                         : Objects
+Channel format #17                       : Verb FX Stem L
+ ID                                      : AC_00031011
+ Title                                   : Verb FX Stem L
+ Type definition                         : Objects
+Channel format #18                       : Verb FX Stem R
+ ID                                      : AC_00031012
+ Title                                   : Verb FX Stem R
+ Type definition                         : Objects
+Channel format #19                       : Vocal Riff Stem L
+ ID                                      : AC_00031013
+ Title                                   : Vocal Riff Stem L
+ Type definition                         : Objects
+Channel format #20                       : Vocal Riff Stem R
+ ID                                      : AC_00031014
+ Title                                   : Vocal Riff Stem R
+ Type definition                         : Objects
+Track UID #1                             : ATU_00000001
+ ID                                      : ATU_00000001
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 1
+ Pack format #s                          : 1
+ Track format #s                         : 1
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #2                             : ATU_00000002
+ ID                                      : ATU_00000002
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 2
+ Pack format #s                          : 1
+ Track format #s                         : 2
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #3                             : ATU_00000003
+ ID                                      : ATU_00000003
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 3
+ Pack format #s                          : 1
+ Track format #s                         : 3
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #4                             : ATU_00000004
+ ID                                      : ATU_00000004
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 4
+ Pack format #s                          : 1
+ Track format #s                         : 4
+ Binaural render mode                    : Off
+Track UID #5                             : ATU_00000005
+ ID                                      : ATU_00000005
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 5
+ Pack format #s                          : 1
+ Track format #s                         : 5
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #6                             : ATU_00000006
+ ID                                      : ATU_00000006
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 6
+ Pack format #s                          : 1
+ Track format #s                         : 6
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #7                             : ATU_00000007
+ ID                                      : ATU_00000007
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 7
+ Pack format #s                          : 1
+ Track format #s                         : 7
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #8                             : ATU_00000008
+ ID                                      : ATU_00000008
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 8
+ Pack format #s                          : 1
+ Track format #s                         : 8
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #9                             : ATU_00000009
+ ID                                      : ATU_00000009
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 9
+ Pack format #s                          : 1
+ Track format #s                         : 9
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #10                            : ATU_0000000A
+ ID                                      : ATU_0000000A
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 10
+ Pack format #s                          : 1
+ Track format #s                         : 10
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #11                            : ATU_0000000B
+ ID                                      : ATU_0000000B
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 11
+ Pack format #s                          : 2
+ Track format #s                         : 11
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #12                            : ATU_0000000C
+ ID                                      : ATU_0000000C
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 12
+ Pack format #s                          : 3
+ Track format #s                         : 12
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #13                            : ATU_0000000D
+ ID                                      : ATU_0000000D
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 13
+ Pack format #s                          : 4
+ Track format #s                         : 13
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #14                            : ATU_0000000E
+ ID                                      : ATU_0000000E
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 14
+ Pack format #s                          : 5
+ Track format #s                         : 14
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #15                            : ATU_0000000F
+ ID                                      : ATU_0000000F
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 15
+ Pack format #s                          : 6
+ Track format #s                         : 15
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #16                            : ATU_00000010
+ ID                                      : ATU_00000010
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 16
+ Pack format #s                          : 7
+ Track format #s                         : 16
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #17                            : ATU_00000011
+ ID                                      : ATU_00000011
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 17
+ Pack format #s                          : 8
+ Track format #s                         : 17
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #18                            : ATU_00000012
+ ID                                      : ATU_00000012
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 18
+ Pack format #s                          : 9
+ Track format #s                         : 18
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #19                            : ATU_00000013
+ ID                                      : ATU_00000013
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 19
+ Pack format #s                          : 10
+ Track format #s                         : 19
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #20                            : ATU_00000014
+ ID                                      : ATU_00000014
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 20
+ Pack format #s                          : 11
+ Track format #s                         : 20
+ Binaural render mode                    : Not Indicated (Mid)
+Track format #1                          : PCM_RoomCentricLeft
+ ID                                      : AT_00011001_01
+ Title                                   : PCM_RoomCentricLeft
+ Format definition                       : PCM
+ Stream format #s                        : 1
+Track format #2                          : PCM_RoomCentricRight
+ ID                                      : AT_00011002_01
+ Title                                   : PCM_RoomCentricRight
+ Format definition                       : PCM
+ Stream format #s                        : 2
+Track format #3                          : PCM_RoomCentricCenter
+ ID                                      : AT_00011003_01
+ Title                                   : PCM_RoomCentricCenter
+ Format definition                       : PCM
+ Stream format #s                        : 3
+Track format #4                          : PCM_RoomCentricLFE
+ ID                                      : AT_00011004_01
+ Title                                   : PCM_RoomCentricLFE
+ Format definition                       : PCM
+ Stream format #s                        : 4
+Track format #5                          : PCM_RoomCentricLeftSideSurround
+ ID                                      : AT_00011005_01
+ Title                                   : PCM_RoomCentricLeftSideSurround
+ Format definition                       : PCM
+ Stream format #s                        : 5
+Track format #6                          : PCM_RoomCentricRightSideSurround
+ ID                                      : AT_00011006_01
+ Title                                   : PCM_RoomCentricRightSideSurround
+ Format definition                       : PCM
+ Stream format #s                        : 6
+Track format #7                          : PCM_RoomCentricLeftRearSurround
+ ID                                      : AT_00011007_01
+ Title                                   : PCM_RoomCentricLeftRearSurround
+ Format definition                       : PCM
+ Stream format #s                        : 7
+Track format #8                          : PCM_RoomCentricRightRearSurround
+ ID                                      : AT_00011008_01
+ Title                                   : PCM_RoomCentricRightRearSurround
+ Format definition                       : PCM
+ Stream format #s                        : 8
+Track format #9                          : PCM_RoomCentricLeftTopSurround
+ ID                                      : AT_00011009_01
+ Title                                   : PCM_RoomCentricLeftTopSurround
+ Format definition                       : PCM
+ Stream format #s                        : 9
+Track format #10                         : PCM_RoomCentricRightTopSurround
+ ID                                      : AT_0001100a_01
+ Title                                   : PCM_RoomCentricRightTopSurround
+ Format definition                       : PCM
+ Stream format #s                        : 10
+Track format #11                         : PCM_Everyday Voc FX Stem L
+ ID                                      : AT_0003100b_01
+ Title                                   : PCM_Everyday Voc FX Stem L
+ Format definition                       : PCM
+ Stream format #s                        : 11
+Track format #12                         : PCM_Everyday Voc FX Stem R
+ ID                                      : AT_0003100c_01
+ Title                                   : PCM_Everyday Voc FX Stem R
+ Format definition                       : PCM
+ Stream format #s                        : 12
+Track format #13                         : PCM_High Voc FX Stem L
+ ID                                      : AT_0003100d_01
+ Title                                   : PCM_High Voc FX Stem L
+ Format definition                       : PCM
+ Stream format #s                        : 13
+Track format #14                         : PCM_High Voc FX Stem R
+ ID                                      : AT_0003100e_01
+ Title                                   : PCM_High Voc FX Stem R
+ Format definition                       : PCM
+ Stream format #s                        : 14
+Track format #15                         : PCM_Kick Stem L
+ ID                                      : AT_0003100f_01
+ Title                                   : PCM_Kick Stem L
+ Format definition                       : PCM
+ Stream format #s                        : 15
+Track format #16                         : PCM_Kick Stem R
+ ID                                      : AT_00031010_01
+ Title                                   : PCM_Kick Stem R
+ Format definition                       : PCM
+ Stream format #s                        : 16
+Track format #17                         : PCM_Verb FX Stem L
+ ID                                      : AT_00031011_01
+ Title                                   : PCM_Verb FX Stem L
+ Format definition                       : PCM
+ Stream format #s                        : 17
+Track format #18                         : PCM_Verb FX Stem R
+ ID                                      : AT_00031012_01
+ Title                                   : PCM_Verb FX Stem R
+ Format definition                       : PCM
+ Stream format #s                        : 18
+Track format #19                         : PCM_Vocal Riff Stem L
+ ID                                      : AT_00031013_01
+ Title                                   : PCM_Vocal Riff Stem L
+ Format definition                       : PCM
+ Stream format #s                        : 19
+Track format #20                         : PCM_Vocal Riff Stem R
+ ID                                      : AT_00031014_01
+ Title                                   : PCM_Vocal Riff Stem R
+ Format definition                       : PCM
+ Stream format #s                        : 20
+Stream format #1                         : PCM_RoomCentricLeft
+ ID                                      : AS_00011001
+ Title                                   : PCM_RoomCentricLeft
+ Format                                  : PCM
+ Channel format #s                       : 1
+ Pack format #s                          : 1
+ Track format #s                         : 1
+Stream format #2                         : PCM_RoomCentricRight
+ ID                                      : AS_00011002
+ Title                                   : PCM_RoomCentricRight
+ Format                                  : PCM
+ Channel format #s                       : 2
+ Pack format #s                          : 1
+ Track format #s                         : 2
+Stream format #3                         : PCM_RoomCentricCenter
+ ID                                      : AS_00011003
+ Title                                   : PCM_RoomCentricCenter
+ Format                                  : PCM
+ Channel format #s                       : 3
+ Pack format #s                          : 1
+ Track format #s                         : 3
+Stream format #4                         : PCM_RoomCentricLFE
+ ID                                      : AS_00011004
+ Title                                   : PCM_RoomCentricLFE
+ Format                                  : PCM
+ Channel format #s                       : 4
+ Pack format #s                          : 1
+ Track format #s                         : 4
+Stream format #5                         : PCM_RoomCentricLeftSideSurround
+ ID                                      : AS_00011005
+ Title                                   : PCM_RoomCentricLeftSideSurround
+ Format                                  : PCM
+ Channel format #s                       : 5
+ Pack format #s                          : 1
+ Track format #s                         : 5
+Stream format #6                         : PCM_RoomCentricRightSideSurround
+ ID                                      : AS_00011006
+ Title                                   : PCM_RoomCentricRightSideSurround
+ Format                                  : PCM
+ Channel format #s                       : 6
+ Pack format #s                          : 1
+ Track format #s                         : 6
+Stream format #7                         : PCM_RoomCentricLeftRearSurround
+ ID                                      : AS_00011007
+ Title                                   : PCM_RoomCentricLeftRearSurround
+ Format                                  : PCM
+ Channel format #s                       : 7
+ Pack format #s                          : 1
+ Track format #s                         : 7
+Stream format #8                         : PCM_RoomCentricRightRearSurround
+ ID                                      : AS_00011008
+ Title                                   : PCM_RoomCentricRightRearSurround
+ Format                                  : PCM
+ Channel format #s                       : 8
+ Pack format #s                          : 1
+ Track format #s                         : 8
+Stream format #9                         : PCM_RoomCentricLeftTopSurround
+ ID                                      : AS_00011009
+ Title                                   : PCM_RoomCentricLeftTopSurround
+ Format                                  : PCM
+ Channel format #s                       : 9
+ Pack format #s                          : 1
+ Track format #s                         : 9
+Stream format #10                        : PCM_RoomCentricRightTopSurround
+ ID                                      : AS_0001100a
+ Title                                   : PCM_RoomCentricRightTopSurround
+ Format                                  : PCM
+ Channel format #s                       : 10
+ Pack format #s                          : 1
+ Track format #s                         : 10
+Stream format #11                        : PCM_Everyday Voc FX Stem L
+ ID                                      : AS_0003100b
+ Title                                   : PCM_Everyday Voc FX Stem L
+ Format                                  : PCM
+ Channel format #s                       : 11
+ Pack format #s                          : 2
+ Track format #s                         : 11
+Stream format #12                        : PCM_Everyday Voc FX Stem R
+ ID                                      : AS_0003100c
+ Title                                   : PCM_Everyday Voc FX Stem R
+ Format                                  : PCM
+ Channel format #s                       : 12
+ Pack format #s                          : 3
+ Track format #s                         : 12
+Stream format #13                        : PCM_High Voc FX Stem L
+ ID                                      : AS_0003100d
+ Title                                   : PCM_High Voc FX Stem L
+ Format                                  : PCM
+ Channel format #s                       : 13
+ Pack format #s                          : 4
+ Track format #s                         : 13
+Stream format #14                        : PCM_High Voc FX Stem R
+ ID                                      : AS_0003100e
+ Title                                   : PCM_High Voc FX Stem R
+ Format                                  : PCM
+ Channel format #s                       : 14
+ Pack format #s                          : 5
+ Track format #s                         : 14
+Stream format #15                        : PCM_Kick Stem L
+ ID                                      : AS_0003100f
+ Title                                   : PCM_Kick Stem L
+ Format                                  : PCM
+ Channel format #s                       : 15
+ Pack format #s                          : 6
+ Track format #s                         : 15
+Stream format #16                        : PCM_Kick Stem R
+ ID                                      : AS_00031010
+ Title                                   : PCM_Kick Stem R
+ Format                                  : PCM
+ Channel format #s                       : 16
+ Pack format #s                          : 7
+ Track format #s                         : 16
+Stream format #17                        : PCM_Verb FX Stem L
+ ID                                      : AS_00031011
+ Title                                   : PCM_Verb FX Stem L
+ Format                                  : PCM
+ Channel format #s                       : 17
+ Pack format #s                          : 8
+ Track format #s                         : 17
+Stream format #18                        : PCM_Verb FX Stem R
+ ID                                      : AS_00031012
+ Title                                   : PCM_Verb FX Stem R
+ Format                                  : PCM
+ Channel format #s                       : 18
+ Pack format #s                          : 9
+ Track format #s                         : 18
+Stream format #19                        : PCM_Vocal Riff Stem L
+ ID                                      : AS_00031013
+ Title                                   : PCM_Vocal Riff Stem L
+ Format                                  : PCM
+ Channel format #s                       : 19
+ Pack format #s                          : 10
+ Track format #s                         : 19
+Stream format #20                        : PCM_Vocal Riff Stem R
+ ID                                      : AS_00031014
+ Title                                   : PCM_Vocal Riff Stem R
+ Format                                  : PCM
+ Channel format #s                       : 20
+ Pack format #s                          : 11
+ Track format #s                         : 20
+Transport #1                             : Yes
+ Track index #1                          : ATU_00000001
+  Track UID #s                           : 1
+ Track index #2                          : ATU_00000002
+  Track UID #s                           : 2
+ Track index #3                          : ATU_00000003
+  Track UID #s                           : 3
+ Track index #4                          : ATU_00000004
+  Track UID #s                           : 4
+ Track index #5                          : ATU_00000005
+  Track UID #s                           : 5
+ Track index #6                          : ATU_00000006
+  Track UID #s                           : 6
+ Track index #7                          : ATU_00000007
+  Track UID #s                           : 7
+ Track index #8                          : ATU_00000008
+  Track UID #s                           : 8
+ Track index #9                          : ATU_00000009
+  Track UID #s                           : 9
+ Track index #10                         : ATU_0000000A
+  Track UID #s                           : 10
+ Track index #11                         : ATU_0000000B
+  Track UID #s                           : 11
+ Track index #12                         : ATU_0000000C
+  Track UID #s                           : 12
+ Track index #13                         : ATU_0000000D
+  Track UID #s                           : 13
+ Track index #14                         : ATU_0000000E
+  Track UID #s                           : 14
+ Track index #15                         : ATU_0000000F
+  Track UID #s                           : 15
+ Track index #16                         : ATU_00000010
+  Track UID #s                           : 16
+ Track index #17                         : ATU_00000011
+  Track UID #s                           : 17
+ Track index #18                         : ATU_00000012
+  Track UID #s                           : 18
+ Track index #19                         : ATU_00000013
+  Track UID #s                           : 19
+ Track index #20                         : ATU_00000014
+  Track UID #s                           : 20</pre>
+</div></div>
+</div><br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[cometomyparty]]></author>
+                </item>
+<item>
+                <title><![CDATA[【Albums (lossless)】FLAC - Boris Berezovsky - Rachmaninoff: Concertos pour piano Nos. 1 - 4 (2006)  [FLAC 16-bit/44.1kHz]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/boris-berezovsky-rachmaninoff-concertos-pour-piano-nos-1-4-2006-flac-16-bit-44-1khz.309156/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center"><img src="https://static.qobuz.com/images/covers/rb/n5/t0h0ef6grn5rb_600.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://static.qobuz.com/images/covers/rb/n5/t0h0ef6grn5rb_600.jpg" style=""><br>
+<br>
+<b><span style="font-family: 'Arial'"><span style="font-size: 18px">Boris Berezovsky - Rachmaninoff: Concertos pour piano Nos. 1 - 4 (2006)</span></span></b><br>
+<span style="font-family: 'Arial'"><span style="font-size: 15px"><b><b><b>Boris Berezovsky</b> - piano</b></b></span></span><br>
+<b><span style="font-family: 'Arial'"><span style="font-size: 15px"><b>Orchestre Philharmonique De L'Oural (Russia) conducted by </b></span></span><b><span style="font-family: 'Arial'"><span style="font-size: 15px">Dmitri Liss</span></span><br>
+Published:</b> 2006<br>
+Cover<br>
+<b>File Size:</b> 0.56 Gb<br>
+FLAC 16-bit/44.1kHz</b><br>
+Recorded at the Arsenal de Metz 08.2005г.​</div><br>
+<div style="text-align: center"><b><b><b>TRACKLIST</b>:<br>
+<b>Rachmaninov: Concertos pour piano Nos. 1 &amp; 4</b></b></b><br>
+Concerto No.1 in F-sharp minor, Op.1<br>
+01. Vivace<br>
+02. Andante<br>
+03. Allegro vivace<br>
+Concerto No.4 in G minor, Op.40<br>
+04. Allegro vivace<br>
+05. Largo<br>
+06. Allegro vivace<br>
+07. Rhapsodie Sur un Thème de Paganini, Op. 43<br>
+<br>
+<b><b>Rachmaninov: Concertos pour piano Nos. 2 &amp; 3</b></b><br>
+Concerto No. 2, Op. 18 in C Minor<br>
+1. Moderato; Allegro<br>
+2. Adagio sostenuto<br>
+3. Allegro scherzando<br>
+Concerto No. 3, Op. 30 in D Minor<br>
+4. Allegro ma non tanto<br>
+5. Intermezzo: Adagio<br>
+6. Finale: Alla breve<br>
+<br>
+<b>Mirare PRODUCTION</b><br>
+<br>
+<b>Enjoy the Masterpiece!<br>
+<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div></b>​</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[LV-Rus]]></author>
+                </item>
+<item>
                 <title><![CDATA[【Singles (lossless)】FLAC - Toni Braxton – I Belong To You US Promo CD LFPCD-4083]]></title>
                 <link><![CDATA[https://sharemania.us/threads/toni-braxton-%E2%80%93-i-belong-to-you-us-promo-cd-lfpcd-4083.309155/]]></link>
                 <description><![CDATA[<article>
@@ -2618,193 +3607,5 @@ Nice Life Recording Company and Atlantic Recording Corporation<br>
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[emeraldman1994]]></author>
-                </item>
-<item>
-                <title><![CDATA[【Apple Music】WEB-RiP - Tiffany Day &amp; Slayr - Constantly [Apple Music 4K WEB-DL FLAC] [With Subtitles]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/tiffany-day-slayr-constantly-apple-music-4k-web-dl-flac-with-subtitles.309107/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<img src="https://i.imgur.com/N8lxxOw.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/N8lxxOw.jpeg" style=""><br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>Video<br>
-ID                                       : 1<br>
-Format                                   : AVC<br>
-Format/Info                              : Advanced Video Codec<br>
-Format profile                           : High@L4<br>
-Format settings                          : CABAC / 4 Ref Frames<br>
-Format settings, CABAC                   : Yes<br>
-Format settings, Reference frames        : 4 frames<br>
-Format settings, Slice count             : 8 slices per frame<br>
-Codec ID                                 : V_MPEG4/ISO/AVC<br>
-Duration                                 : 3 min 3 s<br>
-Bit rate                                 : 9 796 kb/s<br>
-Width                                    : 1 920 pixels<br>
-Height                                   : 1 080 pixels<br>
-Display aspect ratio                     : 16:9<br>
-Frame rate mode                          : Constant<br>
-Frame rate                               : 29.970 (30000/1001) FPS<br>
-Color space                              : YUV<br>
-Chroma subsampling                       : 4:2:0 (Type 2)<br>
-Bit depth                                : 8 bits<br>
-Scan type                                : Progressive<br>
-Bits/(Pixel*Frame)                       : 0.158<br>
-Stream size                              : 214 MiB (90%)<br>
-Default                                  : Yes<br>
-Forced                                   : No<br>
-Color range                              : Limited<br>
-Color primaries                          : BT.709<br>
-Transfer characteristics                 : BT.709<br>
-Matrix coefficients                      : BT.709<br>
-<br>
-Audio<br>
-ID                                       : 2<br>
-Format                                   : FLAC<br>
-Format/Info                              : Free Lossless Audio Codec<br>
-Codec ID                                 : A_FLAC<br>
-Duration                                 : 3 min 2 s<br>
-Bit rate mode                            : Variable<br>
-Bit rate                                 : 1 063 kb/s<br>
-Channel(s)                               : 2 channels<br>
-Channel layout                           : L R<br>
-Sampling rate                            : 44.1 kHz<br>
-Frame rate                               : 9.574 FPS (4606 SPF)<br>
-Bit depth                                : 16 bits<br>
-Compression mode                         : Lossless<br>
-Delay relative to video                  : 400 ms<br>
-Stream size                              : 23.1 MiB (10%)<br>
-Title                                    : CONSTANTLY<br>
-Writing library                          : Lavf60.3.100<br>
-Default                                  : Yes<br>
-Forced                                   : No<br>
-MD5 of the unencoded content             : 8B9CA58036322EB05C1768746984122E<br>
-<br>
-Text<br>
-ID                                       : 3<br>
-Format                                   : UTF-8<br>
-Codec ID                                 : S_TEXT/UTF8<br>
-Codec ID/Info                            : UTF-8 Plain Text<br>
-Duration                                 : 3 min 0 s<br>
-Bit rate                                 : 147 b/s<br>
-Frame rate                               : 0.327 FPS<br>
-Count of elements                        : 59<br>
-Stream size                              : 3.25 KiB (0%)<br>
-Default                                  : Yes<br>
-Forced                                   : Yes
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[IndustrialComplex]]></author>
-                </item>
-<item>
-                <title><![CDATA[【HD Live Performances】WEB-DL - Maroon 5 - Rock In Rio XI 2026 2160p WEB-DL HLG HDR DDP5.1 H.265-JL92]]></title>
-                <link><![CDATA[https://sharemania.us/threads/maroon-5-rock-in-rio-xi-2026-2160p-web-dl-hlg-hdr-ddp5-1-h-265-jl92.309106/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<img src="https://i.ibb.co/0R2KcYrc/Rock-In-Rio-XI-2026-Maroon-5-2160p-WEB-DL-HLG-HDR-DDP5-1-H-265-JL92.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/0R2KcYrc/Rock-In-Rio-XI-2026-Maroon-5-2160p-WEB-DL-HLG-HDR-DDP5-1-H-265-JL92.png" style=""><br>
-
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>General
-Format                                   : Matroska
-Format version                           : Version 4
-File size                                : 12.4 GiB
-Duration                                 : 1 h 36 min
-Overall bit rate                         : 18.5 Mb/s
-Frame rate                               : 30.000 FPS
-Writing application                      : Lavf58.76.100
-Writing library                          : Lavf58.76.100
-ErrorDetectionType                       : Per level 1
-
-Video
-ID                                       : 1
-Format                                   : HEVC
-Format/Info                              : High Efficiency Video Coding
-Format profile                           : Main 10@L5.1@High
-Codec ID                                 : V_MPEGH/ISO/HEVC
-Duration                                 : 1 h 36 min
-Bit rate                                 : 17.6 Mb/s
-Width                                    : 3 840 pixels
-Height                                   : 2 160 pixels
-Display aspect ratio                     : 16:9
-Frame rate mode                          : Constant
-Frame rate                               : 30.000 FPS
-Standard                                 : Component
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0
-Bit depth                                : 10 bits
-Bits/(Pixel*Frame)                       : 0.071
-Time code of first frame                 : 03:06:59:09
-Stream size                              : 11.9 GiB (96%)
-Default                                  : Yes
-Forced                                   : No
-Color range                              : Limited
-Color primaries                          : BT.2020
-Transfer characteristics                 : HLG
-Matrix coefficients                      : BT.2020 non-constant
-
-Audio
-ID                                       : 2
-Format                                   : E-AC-3 JOC
-Format/Info                              : Enhanced AC-3 with Joint Object Coding
-Commercial name                          : Dolby Digital Plus with Dolby Atmos
-Codec ID                                 : A_EAC3
-Duration                                 : 1 h 36 min
-Bit rate mode                            : Constant
-Bit rate                                 : 448 kb/s
-Channel(s)                               : 6 channels
-Channel layout                           : L R C LFE Ls Rs
-Sampling rate                            : 48.0 kHz
-Frame rate                               : 31.250 FPS (1536 SPF)
-Compression mode                         : Lossy
-Delay relative to video                  : 32 ms
-Stream size                              : 309 MiB (2%)
-Language                                 : English
-Service kind                             : Complete Main
-Default                                  : Yes
-Forced                                   : No
-Complexity index                         : 12
-Number of dynamic objects                : 0
-Bed channel count                        : 12 channels
-Bed channel configuration                : L R C LFE Ls Rs Lb Rb Tfl Tfr Tbl Tbr
-Dialog Normalization                     : -24 dB
-compr                                    : -4.08 dB
-Dialogue normalization, average          : -24 dB
-Dialogue normalization, minimum          : -24 dB
-Dialogue normalization, maximum          : -24 dB
-
-</pre>
-</div></div>
-</div>
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Download</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText"><div style="text-align: center">
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div></div>
-</div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[JL92]]></author>
                 </item>
                 </channel></rss>
