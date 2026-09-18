@@ -7,6 +7,134 @@
  <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
 
  <item>
+                <title><![CDATA[【Albums (lossless)】FLAC - Dance Gavin Dance - Downtown Battle Mountain - Fan remaster [16B/44.1kHz] (DR7)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/dance-gavin-dance-downtown-battle-mountain-fan-remaster-16b-44-1khz-dr7.309669/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center"><img src="https://i.imgur.com/MhCZogz.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/MhCZogz.jpeg" style=""> <br>
+<br>
+Genre: Screamo, Swancore<br>
+Release date: May 15, 2007<br>
+<br>
+I really just like one song from this album, but i decided to remaster it anyway because the underlying mix is strong, it's just that it's too smashed up. I used Izotope RX11 as a declipper, EQd it, low passed it, used Dynamic Mirror, applied a soft clipper, and then softly limited it. I didn't want to do one of those *audiophile* fan releases where it's just mostly high passed just so the DR meter shows a high DR. I deliberately tried to keep it compressed, and just add a bit more air to the strong guitar work<br>
+<br>
+<br>
+<img src="https://i.imgur.com/QQliX3x.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/QQliX3x.png" style=""><br>
+<br>
+​</div><br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">OG DR4</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">foobar2000 v2.25.8 / DR Meter v1.0.7<br>
+log date: 2026-09-16 16:34:47<br>
+<br>
+--------------------------------------------------------------------------------<br>
+Analyzed: Dance Gavin Dance / Downtown Battle Mountain<br>
+--------------------------------------------------------------------------------<br>
+<br>
+DR         Peak           RMS       Duration Track<br>
+--------------------------------------------------------------------------------<br>
+DR8       -0.04 dBFS   -14.10 dBFS      0:48 01-Untitled<br>
+DR4        0.00 dBFS    -5.13 dBFS      4:48 02-And I Told Them I Invented Times New Roman<br>
+DR4        0.00 dBFS    -5.42 dBFS      5:14 03-It's Safe To Say You Dig The Backseat<br>
+DR4        0.00 dBFS    -5.36 dBFS      3:13 04-Strawberry Andre<br>
+DR4        0.00 dBFS    -5.43 dBFS      3:51 05-Lemon Meringue Tie<br>
+DR4        0.00 dBFS    -5.24 dBFS      4:07 06-The Backwards Pumpkin Song<br>
+DR4        0.00 dBFS    -5.39 dBFS      3:19 07-Antlion<br>
+DR5        0.00 dBFS    -6.16 dBFS      3:59 08-Turn Off The Lights I'm Watching Back To The Future<br>
+DR4        0.00 dBFS    -5.55 dBFS      4:30 09-Open Your Eyes And Look North<br>
+DR4        0.00 dBFS    -6.83 dBFS      4:55 10-Surprise! I'm From Cuba, Everyone Has One Brain<br>
+DR11       0.00 dBFS   -12.75 dBFS      1:25 11-12 Hours, 630 Miles<br>
+--------------------------------------------------------------------------------<br>
+<br>
+Number of tracks:  11<br>
+Official DR value: DR5<br>
+<br>
+Samplerate:        44100 Hz<br>
+Channels:          2<br>
+Bits per sample:   16<br>
+Bitrate:           1078 kbps<br>
+Codec:             FLAC<br>
+================================================================================</div>
+</div><br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Fan remaster DR7</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">foobar2000 v2.25.8 / DR Meter v1.0.7<br>
+log date: 2026-09-18 17:34:04<br>
+<br>
+--------------------------------------------------------------------------------<br>
+Analyzed: Dance Gavin Dance / Downtown Battle Mountain<br>
+--------------------------------------------------------------------------------<br>
+<br>
+DR         Peak           RMS       Duration Track<br>
+--------------------------------------------------------------------------------<br>
+DR8       -0.04 dBFS   -14.10 dBFS      0:48 01-Untitled<br>
+DR7       -0.53 dBFS    -8.77 dBFS      4:48 02-And I Told Them I Invented Times New Roman<br>
+DR7       -0.27 dBFS    -8.93 dBFS      5:14 03-It’s Safe to Say You Dig the Backseat<br>
+DR7       -0.47 dBFS    -8.72 dBFS      3:13 04-Strawberry André<br>
+DR7       -0.16 dBFS    -9.01 dBFS      3:51 05-Lemon Meringue Tie<br>
+DR7       -0.57 dBFS    -8.84 dBFS      4:07 06-The Backwards Pumpkin Song<br>
+DR7       -0.90 dBFS    -8.95 dBFS      3:19 07-Antlion<br>
+DR7       -0.10 dBFS    -9.43 dBFS      3:59 08-Turn Off the Lights I’m Watching Back to the Future<br>
+DR7       -0.41 dBFS    -8.96 dBFS      4:30 09-Open Your Eyes and Look North<br>
+DR7       -0.04 dBFS   -10.24 dBFS      4:55 10-Surprise! I’m From Cuba. Everyone Has One Brain<br>
+DR11      -0.01 dBFS   -13.45 dBFS      1:25 11-12 Hours, 630 Miles<br>
+--------------------------------------------------------------------------------<br>
+<br>
+Number of tracks:  11<br>
+Official DR value: DR7<br>
+<br>
+Samplerate:        44100 Hz<br>
+Channels:          2<br>
+Bits per sample:   16<br>
+Bitrate:           1003 kbps<br>
+Codec:             FLAC<br>
+================================================================================</div>
+</div><br>
+<br>
+<div style="text-align: center">
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div></div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[someone5112]]></author>
+                </item>
+<item>
+                <title><![CDATA[【Singles (lossless)】FLAC - Sade – Cherish The Day (Sade Remixes) (Maxi CD Single) (FRANCE) (1993) [FLAC]]]></title>
+                <link><![CDATA[https://sharemania.us/threads/sade-%E2%80%93-cherish-the-day-sade-remixes-maxi-cd-single-france-1993-flac.309668/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center"><img src="https://i128.fastpic.org/big/2026/0918/52/e7ff218670d183d105f64b6ea5a5b452.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i128.fastpic.org/big/2026/0918/52/e7ff218670d183d105f64b6ea5a5b452.jpeg" style=""><br>
+<b><a href="https://www.discogs.com/release/2372242-Sade-Cherish-The-Day" target="_blank" class="externalLink" rel="nofollow">DISCOGS</a></b><br>
+01 <b>Cherish The Day</b> (Sade Remix) (Short Version) (5:18)<br>
+02 <b>Cherish The Day</b> (Sade Remix) (Long Version) (6:21)<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Bnik]]></author>
+                </item>
+<item>
                 <title><![CDATA[【Albums (lossless)】FLAC - Green Day - Greatest Hits God's Favorite Band (24bit-88kHz) HDTracks]]></title>
                 <link><![CDATA[https://sharemania.us/threads/green-day-greatest-hits-gods-favorite-band-24bit-88khz-hdtracks.309667/]]></link>
                 <description><![CDATA[<article>
@@ -1725,138 +1853,5 @@ Stream size                    : 286 KiB (1%)</pre>
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[nikhoetine]]></author>
-                </item>
-<item>
-                <title><![CDATA[【Interviews / TV shows / Others】WEB-DL - Miley: The Zane Lowe Interview [1080p.AM.WEB-DL.AAC.2.0.H.264]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/miley-the-zane-lowe-interview-1080p-am-web-dl-aac-2-0-h-264.309621/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<img src="https://i.ibb.co/PGmDKTTv/Miley-Cyrus-Zane-Lowe-Miley-The-Zane-Lowe-Interview-1920x1080-2026-Thumbnail.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/PGmDKTTv/Miley-Cyrus-Zane-Lowe-Miley-The-Zane-Lowe-Interview-1920x1080-2026-Thumbnail.jpg" style=""> <br>
-<b>Miley </b><i>(Cyrus)</i><b>: The Zane Lowe Interview</b><br>
-Source: Apple Music<br>
-<br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>General
-Complete name                  : Miley Cyrus &amp; Zane Lowe - Miley_ The Zane Lowe Interview [1920x1080] (2026).mp4
-Format                         : MPEG-4
-Format profile                 : Base Media
-Codec ID                       : isom (isom/iso2/avc1/mp41)
-File size                      : 3.37 GiB
-Duration                       : 1 h 9 min
-Overall bit rate               : 6 911 kb/s
-Frame rate                     : 23.976 FPS
-Title                          : Miley: The Zane Lowe Interview
-Performer                      : Miley Cyrus &amp; Zane Lowe
-Genre                          : Pop
-ContentType                    : Music Video
-Recorded date                  : 2026-09-17 07:00:00 UTC
-Cover                          : Yes
-Cover type                     : Cover
-Rating                         : Explicit
-GenreID                        : 1614
-AppleStoreCountry              : United States
-AlbumTitleID                   : 137057909
-AppleStoreCatalogID            : 6812922716
-Title/Sort                     : Miley: The Zane Lowe Interview
-
-Video
-ID                             : 1
-Format                         : AVC
-Format/Info                    : Advanced Video Codec
-Format profile                 : High@L4
-Format settings                : CABAC / 4 Ref Frames
-Format settings, CABAC         : Yes
-Format settings, Reference fra : 4 frames
-Format settings, Slice count   : 8 slices per frame
-Codec ID                       : avc1
-Codec ID/Info                  : Advanced Video Coding
-Duration                       : 1 h 9 min
-Bit rate                       : 6 635 kb/s
-Width                          : 1 920 pixels
-Height                         : 1 080 pixels
-Display aspect ratio           : 16:9
-Frame rate mode                : Constant
-Frame rate                     : 23.976 (24000/1001) FPS
-Color space                    : YUV
-Chroma subsampling             : 4:2:0 (Type 2)
-Bit depth                      : 8 bits
-Scan type                      : Progressive
-Bits/(Pixel*Frame)             : 0.133
-Stream size                    : 3.23 GiB (96%)
-Title                          : Core Media Video
-Color range                    : Limited
-Color primaries                : BT.709
-Transfer characteristics       : BT.709
-Matrix coefficients            : BT.709
-Codec configuration box        : avcC
-
-Audio
-ID                             : 2
-Format                         : AAC LC
-Format/Info                    : Advanced Audio Codec Low Complexity
-Codec ID                       : mp4a-40-2
-Duration                       : 1 h 9 min
-Bit rate mode                  : Constant
-Bit rate                       : 265 kb/s
-Channel(s)                     : 2 channels
-Channel layout                 : L R
-Sampling rate                  : 48.0 kHz
-Frame rate                     : 46.875 FPS (1024 SPF)
-Compression mode               : Lossy
-Stream size                    : 131 MiB (4%)
-Title                          : Core Media Audio
-Default                        : Yes
-Alternate group                : 1
-
-Image
-Type                           : Cover
-Format                         : JPEG
-Muxing mode                    : moov-meta-covr
-Width                          : 1 400 pixels
-Height                         : 788 pixels
-Color space                    : YUV
-Chroma subsampling             : 4:2:0
-Bit depth                      : 8 bits
-Compression mode               : Lossy
-Stream size                    : 169 KiB (0%)</pre>
-</div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[nikhoetine]]></author>
-                </item>
-<item>
-                <title><![CDATA[【Singles (lossless)】FLAC - Barbra Streisand - The Way We Were (1974/2002) Qobuz [FLAC 24-Bit/44.1kHz]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/barbra-streisand-the-way-we-were-1974-2002-qobuz-flac-24-bit-44-1khz.309619/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<div style="text-align: center"><img src="https://static.qobuz.com/images/covers/21/53/0696998515321_600.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://static.qobuz.com/images/covers/21/53/0696998515321_600.jpg" style=""><br>
-<br>
-Barbra Streisand - The Way We Were<br>
-<br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[LV-Rus]]></author>
                 </item>
                 </channel></rss>
