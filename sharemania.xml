@@ -7,6 +7,66 @@
  <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
 
  <item>
+                <title><![CDATA[【Helpdesk】How to create a backup of your DVD]]></title>
+                <link><![CDATA[https://sharemania.us/threads/how-to-create-a-backup-of-your-dvd.309805/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Personally, I really like using <a href="https://www.makemkv.com/" target="_blank" class="externalLink" rel="nofollow">MakeMKV</a>. It can copy both DVDs and Blu-rays to your computer without any problems. The program is only free for the first 30 days, but I always uninstall it before the trial period expires, and when I install it again later, I can use the full 30-day trial once more. So, in practice, it's basically free to use indefinitely.<br>
+<img src="https://i.ibb.co/vGLvk6S/Screenshot-317.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/vGLvk6S/Screenshot-317.png" style=""> <br>
+There isn't much you have to do with this program. Just insert a DVD or Blu-ray into your internal or external DVD/Blu-ray drive and open <i>MakeMKV</i>. The program should automatically detect the disc. All you have to do is click the icon showing a folder with a green arrow:<br>
+<img src="https://i.ibb.co/gZYtpq2w/Screenshot-320.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/gZYtpq2w/Screenshot-320.png" style=""> <br>
+The following window will then open:<br>
+<img src="https://i.ibb.co/0yLdjqFF/Screenshot-321.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/0yLdjqFF/Screenshot-321.png" style=""> <br>
+It's important to check the "Decrypt video files" box so that the DVD's copy protection (usually CSS - Content Scramble System) is removed. That's all.<br>
+<br>
+If your DVD already has scratches and you're unsure whether it can still be read correctly to create a flawless backup, I can recommend the program <a href="https://www.vso-software.fr/products/inspector/inspector.php" target="_blank" class="externalLink" rel="nofollow">VSO Inspector</a>.<br>
+<img src="https://i.ibb.co/39Bs4kJJ/scratched-disc.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/39Bs4kJJ/scratched-disc.jpg" style=""> <br>
+When you open the program, you'll see this:<br>
+<img src="https://i.ibb.co/CxZT9cL/vso1.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/CxZT9cL/vso1.jpg" style=""> <br>
+The important part is the "<b>Scan</b>" tab. This is where the program reads the DVD and checks whether the entire disc can be read without errors:<br>
+<img src="https://i.ibb.co/qH6QZNt/vso2.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/qH6QZNt/vso2.jpg" style=""> <br>
+Anything <b>marked in red means</b> that there is an <b>error</b> on that part of the disc. The more of these errors there are, the higher the chance that the backup will contain the same errors as well:<br>
+<img src="https://i.ibb.co/JTjjvVM/vso3.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/JTjjvVM/vso3.jpg" style=""> <br>
+Ideally, the program shouldn't show any red at all. Small, barely noticeable scratches are usually not a problem.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Hard Hardy]]></author>
+                </item>
+<item>
+                <title><![CDATA[【Helpdesk】How to extract a single track from a DVD without re-encoding]]></title>
+                <link><![CDATA[https://sharemania.us/threads/how-to-extract-a-single-track-from-a-dvd-without-re-encoding.309806/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Hello everyone,<br>
+after explaining <a href="https://sharemania.us/threads/how-to-create-a-backup-of-your-dvd.309805/" class="internalLink">how to create a backup of your DVD</a>, I think it's time to explain how you can <b>extract a specific title</b> from a DVD <b>without any quality loss or re-encoding</b>. For example, this is useful if you want to extract a single music video from a music video collection DVD. For this guide, I'm using the program <a href="https://www.videohelp.com/software/PgcDemux" target="_blank" class="externalLink" rel="nofollow">PgcDemux</a>.<br>
+<ol>
+<li>Locate the ISO file that contains the DVD you want to extract a title from.</li>
+<li>Right-click the ISO file and select <b>Open with &gt; Windows Explorer</b>.</li>
+</ol><img src="https://i.ibb.co/YBjthd1H/Screenshot-356.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/YBjthd1H/Screenshot-356.png" style=""> <br>
+3. If you now go to "This PC" in Windows, a DVD drive (E<img src="styles/default/xenforo/smilies/big_smile-48.png" class="mceSmilie" alt=":)" title="Smile    :)"> should appear. This is important.<br>
+<img src="https://i.ibb.co/1G5HrFGh/Screenshot-358.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/1G5HrFGh/Screenshot-358.png" style=""> <br>
+4. Next, open the program <b>PgcDemux</b>.<br>
+5. At the very top, you will see "Input IFO" &gt; click "Browse" next to it.<br>
+6. Navigate to the virtual DVD drive (E<img src="styles/default/xenforo/smilies/big_smile-48.png" class="mceSmilie" alt=":)" title="Smile    :)"> containing the Madonna DVD and open the VIDEO_TS folder.<br>
+<img src="https://i.ibb.co/rKzBq4ps/Screenshot-359.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/rKzBq4ps/Screenshot-359.png" style=""> <br>
+7. Select the second file: "VTS_01_0.IFO"<br>
+<img src="https://i.ibb.co/FLpkGJGh/Screenshot-360.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/FLpkGJGh/Screenshot-360.png" style=""> <br>
+8. Also, don't forget to select an "Output Folder" where the extracted file will be saved later.<br>
+9. In PgcDemux, select "<b>Single Cell</b>" mode and set the domain to "<b>Titles</b>" under Cell Selection. You should now see a list of all the titles contained on the DVD in the grid below.<br>
+<img src="https://i.ibb.co/8DySMnVg/Screenshot-364.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/8DySMnVg/Screenshot-364.png" style=""> <br>
+10. Under "Options", check only the box for "<b>Create a PGC VOB</b>" - nothing else.<br>
+11. Then, in the Cell Selection area, select the title you want to extract and click "Process!".<br>
+<br>
+You're welcome!
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Hard Hardy]]></author>
+                </item>
+<item>
                 <title><![CDATA[【Requests】[REQ AUD] - JISOO - CLICK (CD RIP)]]></title>
                 <link><![CDATA[https://sharemania.us/threads/jisoo-click-cd-rip.309804/]]></link>
                 <description><![CDATA[<article>
@@ -2046,49 +2106,5 @@ HUGEL, David Guetta, Kehlani, Daecolm - Think Of Me (2025)</b><br>
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[LV-Rus]]></author>
-                </item>
-<item>
-                <title><![CDATA[【Singles (lossless)】FLAC - Zerb, INK, The Chainsmokers - Addicted (2024) [FLAC 24-Bit/44.1kHz]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/zerb-ink-the-chainsmokers-addicted-2024-flac-24-bit-44-1khz.309766/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<div style="text-align: center"><b><img src="https://i.ytimg.com/vi/S76nGnrQNUU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gLygzMA8=&amp;amp;rs=AOn4CLC4uTBpMZMkGWGv3qdUWV5PYIPE1Q" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ytimg.com/vi/S76nGnrQNUU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gLygzMA8=&amp;amp;rs=AOn4CLC4uTBpMZMkGWGv3qdUWV5PYIPE1Q" style=""><br>
-<br>
-Zerb, INK, The Chainsmokers - Addicted (2024)</b><br>
-<br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[LV-Rus]]></author>
-                </item>
-<item>
-                <title><![CDATA[【UPSCALED】Spice Girls - Goodbye [Starlight precise]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/spice-girls-goodbye-starlight-precise.309763/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<img src="https://i.postimg.cc/6trPV5BF/Spice-Girls-Goodbye-Starlight-precise-mp4-thumbs.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.postimg.cc/6trPV5BF/Spice-Girls-Goodbye-Starlight-precise-mp4-thumbs.jpg" style=""> <br>
-<br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[memzinla]]></author>
                 </item>
                 </channel></rss>
