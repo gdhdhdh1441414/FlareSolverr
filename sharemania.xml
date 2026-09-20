@@ -7,6 +7,22 @@
  <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
 
  <item>
+                <title><![CDATA[【Requests】[REQ PIC] - Carly Rae Jepsen - Day and Night CD booklet scans]]></title>
+                <link><![CDATA[https://sharemania.us/threads/carly-rae-jepsen-day-and-night-cd-booklet-scans.309853/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Hello,<br>
+<br>
+Can someone who owns a CD version of Carly Rae Jepsen’s new album <i>Day and Night</i> <b>pplleeassseeeee</b> scan the full booklet, the CD discs themselves, and both sides of the inlay (the inside cover under the CD disc(s) and the back cover)? I would more than appreciate it as I can not afford a copy currently and want to see the full album lyrics and credits in HQ, as well as recreate it as a digital version.<br>
+<br>
+Please and thank you!
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[wackysmackyflacky]]></author>
+                </item>
+<item>
                 <title><![CDATA[【Albums (lossless)】FLAC - Metric - Fantasies [Qobuz CD 16bit / 44.1kHz]]]></title>
                 <link><![CDATA[https://sharemania.us/threads/metric-fantasies-qobuz-cd-16bit-44-1khz.309851/]]></link>
                 <description><![CDATA[<article>
@@ -1816,38 +1832,6 @@ The important part is the "<b>Scan</b>" tab. This is where the program reads the
 Anything <b>marked in red means</b> that there is an <b>error</b> on that part of the disc. The more of these errors there are, the higher the chance that the backup will contain the same errors as well:<br>
 <img src="https://i.ibb.co/JTjjvVM/vso3.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/JTjjvVM/vso3.jpg" style=""> <br>
 Ideally, the program shouldn't show any red at all. Small, barely noticeable scratches are usually not a problem.
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[Hard Hardy]]></author>
-                </item>
-<item>
-                <title><![CDATA[【Helpdesk】How to extract a single track from a DVD without re-encoding]]></title>
-                <link><![CDATA[https://sharemania.us/threads/how-to-extract-a-single-track-from-a-dvd-without-re-encoding.309806/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					Hello everyone,<br>
-after explaining <a href="https://sharemania.us/threads/how-to-create-a-backup-of-your-dvd.309805/" class="internalLink">how to create a backup of your DVD</a>, I think it's time to explain how you can <b>extract a specific title</b> from a DVD <b>without any quality loss or re-encoding</b>. For example, this is useful if you want to extract a single music video from a music video collection DVD. For this guide, I'm using the program <a href="https://www.videohelp.com/software/PgcDemux" target="_blank" class="externalLink" rel="nofollow">PgcDemux</a>.<br>
-<ol>
-<li>Locate the ISO file that contains the DVD you want to extract a title from.</li>
-<li>Right-click the ISO file and select <b>Open with &gt; Windows Explorer</b>.</li>
-</ol><img src="https://i.ibb.co/YBjthd1H/Screenshot-356.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/YBjthd1H/Screenshot-356.png" style=""> <br>
-3. If you now go to "This PC" in Windows, a DVD drive (E<img src="styles/default/xenforo/smilies/big_smile-48.png" class="mceSmilie" alt=":)" title="Smile    :)"> should appear. This is important.<br>
-<img src="https://i.ibb.co/1G5HrFGh/Screenshot-358.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/1G5HrFGh/Screenshot-358.png" style=""> <br>
-4. Next, open the program <b>PgcDemux</b>.<br>
-5. At the very top, you will see "Input IFO" &gt; click "Browse" next to it.<br>
-6. Navigate to the virtual DVD drive (E<img src="styles/default/xenforo/smilies/big_smile-48.png" class="mceSmilie" alt=":)" title="Smile    :)"> containing the Madonna DVD and open the VIDEO_TS folder.<br>
-<img src="https://i.ibb.co/rKzBq4ps/Screenshot-359.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/rKzBq4ps/Screenshot-359.png" style=""> <br>
-7. Select the second file: "VTS_01_0.IFO"<br>
-<img src="https://i.ibb.co/FLpkGJGh/Screenshot-360.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/FLpkGJGh/Screenshot-360.png" style=""> <br>
-8. Also, don't forget to select an "Output Folder" where the extracted file will be saved later.<br>
-9. In PgcDemux, select "<b>Single Cell</b>" mode and set the domain to "<b>Titles</b>" under Cell Selection. You should now see a list of all the titles contained on the DVD in the grid below.<br>
-<img src="https://i.ibb.co/8DySMnVg/Screenshot-364.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/8DySMnVg/Screenshot-364.png" style=""> <br>
-10. Under "Options", check only the box for "<b>Create a PGC VOB</b>" - nothing else.<br>
-11. Then, in the Cell Selection area, select the title you want to extract and click "Process!".<br>
-<br>
-You're welcome!
 					<div class="messageTextEndMarker">&nbsp;</div>
 				</blockquote>
 			</article>]]></description>
