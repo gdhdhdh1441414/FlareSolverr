@@ -7,6 +7,988 @@
  <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
 
  <item>
+                <title><![CDATA[【Unreleased/Unofficial (lossy)】Dolby Atmos - Ariana Grande - 7 rings (CTMP's Atmos Mix) 5.1 E-AC3 JOC 16bit/48khz/768kbps|AC4-IMS 2.0 256kbps|ADM BWF 24bit/48kHz]]></title>
+                <link><![CDATA[https://sharemania.us/threads/ariana-grande-7-rings-ctmps-atmos-mix-5-1-e-ac3-joc-16bit-48khz-768kbps-ac4-ims-2-0-256kbps-adm-bwf-24bit-48khz.310390/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/9ZJlF9V.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/9ZJlF9V.jpeg" style=""><br>
+<br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo/ADM BWF</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Complete name                            : C:\Users\sjre8\Downloads\7 rings (CTMP's Atmos Mix) [ADM BWF].wav
+Format                                   : Wave
+Format settings                          : PcmWaveformat
+File size                                : 496 MiB
+Duration                                 : 2 min 58 s
+Overall bit rate mode                    : Constant
+Overall bit rate                         : 23.3 Mb/s
+Title                                    : 7 rings (CTMP's Atmos Mix)
+Album                                    : 7 rings
+Album/Performer                          : Ariana Grande
+Part/Position                            : 1
+Track name/Position                      : 1
+Performer                                : Ariana Grande
+Director                                 : Ariana Grande
+Genre                                    : Pop
+Recorded date                            : 2019
+Original source form/Name                : 7 rings
+Cover                                    : Yes
+Cover type                               : Cover
+Cover MIME                               : image/jpeg
+Comment                                  : mixed and shared by cometomyparty on sharemania.us
+ITRK                                     : 1
+
+Audio
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : 1
+Duration                                 : 2 min 58 s
+Bit rate mode                            : Constant
+Bit rate                                 : 23.0 Mb/s
+Channel(s)                               : 20 channels
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Stream size                              : 490 MiB (99%)
+Dolby Atmos metadata                     : Yes
+ Writing application                     : Logic Pro with Dolby monitoring, Version 11.2.2
+ 5.1 to 2.0 downmix                      : Lo/Ro w/o Phase 90
+ 5.1 and 5.1.x downmix                   : Standard (Lo/Ro)
+ Associated video frame rate             : 24.000 FPS
+ Trim mode                               : Automatic
+Metadata format                          : ADM, Version 0
+Metadata muxing mode                     : axml
+ADM profile                              : Dolby Atmos Master, Version 1
+Number of programmes                     : 1
+Number of contents                       : 1
+Number of objects                        : 11
+Number of pack formats                   : 11
+Number of channel formats                : 20
+Number of track UIDs                     : 20
+Number of track formats                  : 20
+Number of stream formats                 : 20
+Programme #1                             : Atmos_Master
+ ID                                      : APR_1001
+ Title                                   : Atmos_Master
+ Start                                   : 01:00:00.00000 (01:00:00:00)
+ End                                     : 01:02:58.32925 (01:02:58:07.91)
+ Content #s                              : 1
+Content #1                               : Atmos_Master_Content
+ ID                                      : ACO_1001
+ Title                                   : Atmos_Master_Content
+ Mode                                    : Mixed
+ Object #s                               : 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11
+Object #1                                : Master
+ ID                                      : AO_1001
+ Title                                   : Master
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:02:58.32925
+ Pack format #s                          : 1
+ Track UID #s                            : 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10
+ Binaural render mode                    : Not Indicated (Mid) + Not Indicated (Mid) + Not Indicated (Mid) + Off + Not Indicated (Mid) + Not Indicated (Mid) + Not Indicated (Mid) + Not Indicated (Mid) + Not Indicated (Mid) + Not Indicated (Mid)
+Object #2                                : Bells Stem L
+ ID                                      : AO_100B
+ Title                                   : Bells Stem L
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:02:58.32925
+ Pack format #s                          : 2
+ Track UID #s                            : 11
+ Binaural render mode                    : Not Indicated (Mid)
+Object #3                                : Bells Stem R
+ ID                                      : AO_100C
+ Title                                   : Bells Stem R
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:02:58.32925
+ Pack format #s                          : 3
+ Track UID #s                            : 12
+ Binaural render mode                    : Not Indicated (Mid)
+Object #4                                : Keytar Stem L
+ ID                                      : AO_100D
+ Title                                   : Keytar Stem L
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:02:58.32925
+ Pack format #s                          : 4
+ Track UID #s                            : 13
+ Binaural render mode                    : Not Indicated (Mid)
+Object #5                                : Keytar Stem R
+ ID                                      : AO_100E
+ Title                                   : Keytar Stem R
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:02:58.32925
+ Pack format #s                          : 5
+ Track UID #s                            : 14
+ Binaural render mode                    : Not Indicated (Mid)
+Object #6                                : Kick Stem L
+ ID                                      : AO_100F
+ Title                                   : Kick Stem L
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:02:58.32925
+ Pack format #s                          : 6
+ Track UID #s                            : 15
+ Binaural render mode                    : Not Indicated (Mid)
+Object #7                                : Kick Stem R
+ ID                                      : AO_1010
+ Title                                   : Kick Stem R
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:02:58.32925
+ Pack format #s                          : 7
+ Track UID #s                            : 16
+ Binaural render mode                    : Not Indicated (Mid)
+Object #8                                : Percussion Stem L
+ ID                                      : AO_1011
+ Title                                   : Percussion Stem L
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:02:58.32925
+ Pack format #s                          : 8
+ Track UID #s                            : 17
+ Binaural render mode                    : Not Indicated (Mid)
+Object #9                                : Percussion Stem R
+ ID                                      : AO_1012
+ Title                                   : Percussion Stem R
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:02:58.32925
+ Pack format #s                          : 9
+ Track UID #s                            : 18
+ Binaural render mode                    : Not Indicated (Mid)
+Object #10                               : Snare Stem L
+ ID                                      : AO_1013
+ Title                                   : Snare Stem L
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:02:58.32925
+ Pack format #s                          : 10
+ Track UID #s                            : 19
+ Binaural render mode                    : Not Indicated (Mid)
+Object #11                               : Snare Stem R
+ ID                                      : AO_1014
+ Title                                   : Snare Stem R
+ Start                                   : 00:00:00.00000
+ Duration                                : 00:02:58.32925
+ Pack format #s                          : 11
+ Track UID #s                            : 20
+ Binaural render mode                    : Not Indicated (Mid)
+Pack format #1                           : Master
+ ID                                      : AP_00011001
+ Title                                   : Master
+ Type definition                         : DirectSpeakers
+ Channel layout                          : L R C LFE Lss Rss Lb Rb Tsl Tsr
+ Channel format #s                       : 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10
+Pack format #2                           : Bells Stem-L
+ ID                                      : AP_00031002
+ Title                                   : Bells Stem-L
+ Type definition                         : Objects
+ Channel format #s                       : 11
+Pack format #3                           : Bells Stem-R
+ ID                                      : AP_00031003
+ Title                                   : Bells Stem-R
+ Type definition                         : Objects
+ Channel format #s                       : 12
+Pack format #4                           : Keytar Stem-L
+ ID                                      : AP_00031004
+ Title                                   : Keytar Stem-L
+ Type definition                         : Objects
+ Channel format #s                       : 13
+Pack format #5                           : Keytar Stem-R
+ ID                                      : AP_00031005
+ Title                                   : Keytar Stem-R
+ Type definition                         : Objects
+ Channel format #s                       : 14
+Pack format #6                           : Kick Stem-L
+ ID                                      : AP_00031006
+ Title                                   : Kick Stem-L
+ Type definition                         : Objects
+ Channel format #s                       : 15
+Pack format #7                           : Kick Stem-R
+ ID                                      : AP_00031007
+ Title                                   : Kick Stem-R
+ Type definition                         : Objects
+ Channel format #s                       : 16
+Pack format #8                           : Percussion Stem-L
+ ID                                      : AP_00031008
+ Title                                   : Percussion Stem-L
+ Type definition                         : Objects
+ Channel format #s                       : 17
+Pack format #9                           : Percussion Stem-R
+ ID                                      : AP_00031009
+ Title                                   : Percussion Stem-R
+ Type definition                         : Objects
+ Channel format #s                       : 18
+Pack format #10                          : Snare Stem-L
+ ID                                      : AP_0003100A
+ Title                                   : Snare Stem-L
+ Type definition                         : Objects
+ Channel format #s                       : 19
+Pack format #11                          : Snare Stem-R
+ ID                                      : AP_0003100B
+ Title                                   : Snare Stem-R
+ Type definition                         : Objects
+ Channel format #s                       : 20
+Channel format #1                        : RoomCentricLeft
+ ID                                      : AC_00011001
+ Title                                   : RoomCentricLeft
+ Type definition                         : DirectSpeakers
+ Channel layout                          : L
+ Type                                    : Static
+Channel format #2                        : RoomCentricRight
+ ID                                      : AC_00011002
+ Title                                   : RoomCentricRight
+ Type definition                         : DirectSpeakers
+ Channel layout                          : R
+ Type                                    : Static
+Channel format #3                        : RoomCentricCenter
+ ID                                      : AC_00011003
+ Title                                   : RoomCentricCenter
+ Type definition                         : DirectSpeakers
+ Channel layout                          : C
+ Type                                    : Static
+Channel format #4                        : RoomCentricLFE
+ ID                                      : AC_00011004
+ Title                                   : RoomCentricLFE
+ Type definition                         : DirectSpeakers
+ Channel layout                          : LFE
+ Type                                    : Static
+Channel format #5                        : RoomCentricLeftSideSurround
+ ID                                      : AC_00011005
+ Title                                   : RoomCentricLeftSideSurround
+ Type definition                         : DirectSpeakers
+ Channel layout                          : Lss
+ Type                                    : Static
+Channel format #6                        : RoomCentricRightSideSurround
+ ID                                      : AC_00011006
+ Title                                   : RoomCentricRightSideSurround
+ Type definition                         : DirectSpeakers
+ Channel layout                          : Rss
+ Type                                    : Static
+Channel format #7                        : RoomCentricLeftRearSurround
+ ID                                      : AC_00011007
+ Title                                   : RoomCentricLeftRearSurround
+ Type definition                         : DirectSpeakers
+ Channel layout                          : Lb
+ Type                                    : Static
+Channel format #8                        : RoomCentricRightRearSurround
+ ID                                      : AC_00011008
+ Title                                   : RoomCentricRightRearSurround
+ Type definition                         : DirectSpeakers
+ Channel layout                          : Rb
+ Type                                    : Static
+Channel format #9                        : RoomCentricLeftTopSurround
+ ID                                      : AC_00011009
+ Title                                   : RoomCentricLeftTopSurround
+ Type definition                         : DirectSpeakers
+ Channel layout                          : Tsl
+ Type                                    : Static
+Channel format #10                       : RoomCentricRightTopSurround
+ ID                                      : AC_0001100a
+ Title                                   : RoomCentricRightTopSurround
+ Type definition                         : DirectSpeakers
+ Channel layout                          : Tsr
+ Type                                    : Static
+Channel format #11                       : Bells Stem L
+ ID                                      : AC_0003100b
+ Title                                   : Bells Stem L
+ Type definition                         : Objects
+Channel format #12                       : Bells Stem R
+ ID                                      : AC_0003100c
+ Title                                   : Bells Stem R
+ Type definition                         : Objects
+Channel format #13                       : Keytar Stem L
+ ID                                      : AC_0003100d
+ Title                                   : Keytar Stem L
+ Type definition                         : Objects
+Channel format #14                       : Keytar Stem R
+ ID                                      : AC_0003100e
+ Title                                   : Keytar Stem R
+ Type definition                         : Objects
+Channel format #15                       : Kick Stem L
+ ID                                      : AC_0003100f
+ Title                                   : Kick Stem L
+ Type definition                         : Objects
+Channel format #16                       : Kick Stem R
+ ID                                      : AC_00031010
+ Title                                   : Kick Stem R
+ Type definition                         : Objects
+Channel format #17                       : Percussion Stem L
+ ID                                      : AC_00031011
+ Title                                   : Percussion Stem L
+ Type definition                         : Objects
+Channel format #18                       : Percussion Stem R
+ ID                                      : AC_00031012
+ Title                                   : Percussion Stem R
+ Type definition                         : Objects
+Channel format #19                       : Snare Stem L
+ ID                                      : AC_00031013
+ Title                                   : Snare Stem L
+ Type definition                         : Objects
+Channel format #20                       : Snare Stem R
+ ID                                      : AC_00031014
+ Title                                   : Snare Stem R
+ Type definition                         : Objects
+Track UID #1                             : ATU_00000001
+ ID                                      : ATU_00000001
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 1
+ Pack format #s                          : 1
+ Track format #s                         : 1
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #2                             : ATU_00000002
+ ID                                      : ATU_00000002
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 2
+ Pack format #s                          : 1
+ Track format #s                         : 2
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #3                             : ATU_00000003
+ ID                                      : ATU_00000003
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 3
+ Pack format #s                          : 1
+ Track format #s                         : 3
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #4                             : ATU_00000004
+ ID                                      : ATU_00000004
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 4
+ Pack format #s                          : 1
+ Track format #s                         : 4
+ Binaural render mode                    : Off
+Track UID #5                             : ATU_00000005
+ ID                                      : ATU_00000005
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 5
+ Pack format #s                          : 1
+ Track format #s                         : 5
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #6                             : ATU_00000006
+ ID                                      : ATU_00000006
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 6
+ Pack format #s                          : 1
+ Track format #s                         : 6
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #7                             : ATU_00000007
+ ID                                      : ATU_00000007
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 7
+ Pack format #s                          : 1
+ Track format #s                         : 7
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #8                             : ATU_00000008
+ ID                                      : ATU_00000008
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 8
+ Pack format #s                          : 1
+ Track format #s                         : 8
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #9                             : ATU_00000009
+ ID                                      : ATU_00000009
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 9
+ Pack format #s                          : 1
+ Track format #s                         : 9
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #10                            : ATU_0000000A
+ ID                                      : ATU_0000000A
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 10
+ Pack format #s                          : 1
+ Track format #s                         : 10
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #11                            : ATU_0000000B
+ ID                                      : ATU_0000000B
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 11
+ Pack format #s                          : 2
+ Track format #s                         : 11
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #12                            : ATU_0000000C
+ ID                                      : ATU_0000000C
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 12
+ Pack format #s                          : 3
+ Track format #s                         : 12
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #13                            : ATU_0000000D
+ ID                                      : ATU_0000000D
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 13
+ Pack format #s                          : 4
+ Track format #s                         : 13
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #14                            : ATU_0000000E
+ ID                                      : ATU_0000000E
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 14
+ Pack format #s                          : 5
+ Track format #s                         : 14
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #15                            : ATU_0000000F
+ ID                                      : ATU_0000000F
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 15
+ Pack format #s                          : 6
+ Track format #s                         : 15
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #16                            : ATU_00000010
+ ID                                      : ATU_00000010
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 16
+ Pack format #s                          : 7
+ Track format #s                         : 16
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #17                            : ATU_00000011
+ ID                                      : ATU_00000011
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 17
+ Pack format #s                          : 8
+ Track format #s                         : 17
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #18                            : ATU_00000012
+ ID                                      : ATU_00000012
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 18
+ Pack format #s                          : 9
+ Track format #s                         : 18
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #19                            : ATU_00000013
+ ID                                      : ATU_00000013
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 19
+ Pack format #s                          : 10
+ Track format #s                         : 19
+ Binaural render mode                    : Not Indicated (Mid)
+Track UID #20                            : ATU_00000014
+ ID                                      : ATU_00000014
+ Bit depth                               : 24
+ Sampling rate                           : 48000
+ Track index                             : 20
+ Pack format #s                          : 11
+ Track format #s                         : 20
+ Binaural render mode                    : Not Indicated (Mid)
+Track format #1                          : PCM_RoomCentricLeft
+ ID                                      : AT_00011001_01
+ Title                                   : PCM_RoomCentricLeft
+ Format definition                       : PCM
+ Stream format #s                        : 1
+Track format #2                          : PCM_RoomCentricRight
+ ID                                      : AT_00011002_01
+ Title                                   : PCM_RoomCentricRight
+ Format definition                       : PCM
+ Stream format #s                        : 2
+Track format #3                          : PCM_RoomCentricCenter
+ ID                                      : AT_00011003_01
+ Title                                   : PCM_RoomCentricCenter
+ Format definition                       : PCM
+ Stream format #s                        : 3
+Track format #4                          : PCM_RoomCentricLFE
+ ID                                      : AT_00011004_01
+ Title                                   : PCM_RoomCentricLFE
+ Format definition                       : PCM
+ Stream format #s                        : 4
+Track format #5                          : PCM_RoomCentricLeftSideSurround
+ ID                                      : AT_00011005_01
+ Title                                   : PCM_RoomCentricLeftSideSurround
+ Format definition                       : PCM
+ Stream format #s                        : 5
+Track format #6                          : PCM_RoomCentricRightSideSurround
+ ID                                      : AT_00011006_01
+ Title                                   : PCM_RoomCentricRightSideSurround
+ Format definition                       : PCM
+ Stream format #s                        : 6
+Track format #7                          : PCM_RoomCentricLeftRearSurround
+ ID                                      : AT_00011007_01
+ Title                                   : PCM_RoomCentricLeftRearSurround
+ Format definition                       : PCM
+ Stream format #s                        : 7
+Track format #8                          : PCM_RoomCentricRightRearSurround
+ ID                                      : AT_00011008_01
+ Title                                   : PCM_RoomCentricRightRearSurround
+ Format definition                       : PCM
+ Stream format #s                        : 8
+Track format #9                          : PCM_RoomCentricLeftTopSurround
+ ID                                      : AT_00011009_01
+ Title                                   : PCM_RoomCentricLeftTopSurround
+ Format definition                       : PCM
+ Stream format #s                        : 9
+Track format #10                         : PCM_RoomCentricRightTopSurround
+ ID                                      : AT_0001100a_01
+ Title                                   : PCM_RoomCentricRightTopSurround
+ Format definition                       : PCM
+ Stream format #s                        : 10
+Track format #11                         : PCM_Bells Stem L
+ ID                                      : AT_0003100b_01
+ Title                                   : PCM_Bells Stem L
+ Format definition                       : PCM
+ Stream format #s                        : 11
+Track format #12                         : PCM_Bells Stem R
+ ID                                      : AT_0003100c_01
+ Title                                   : PCM_Bells Stem R
+ Format definition                       : PCM
+ Stream format #s                        : 12
+Track format #13                         : PCM_Keytar Stem L
+ ID                                      : AT_0003100d_01
+ Title                                   : PCM_Keytar Stem L
+ Format definition                       : PCM
+ Stream format #s                        : 13
+Track format #14                         : PCM_Keytar Stem R
+ ID                                      : AT_0003100e_01
+ Title                                   : PCM_Keytar Stem R
+ Format definition                       : PCM
+ Stream format #s                        : 14
+Track format #15                         : PCM_Kick Stem L
+ ID                                      : AT_0003100f_01
+ Title                                   : PCM_Kick Stem L
+ Format definition                       : PCM
+ Stream format #s                        : 15
+Track format #16                         : PCM_Kick Stem R
+ ID                                      : AT_00031010_01
+ Title                                   : PCM_Kick Stem R
+ Format definition                       : PCM
+ Stream format #s                        : 16
+Track format #17                         : PCM_Percussion Stem L
+ ID                                      : AT_00031011_01
+ Title                                   : PCM_Percussion Stem L
+ Format definition                       : PCM
+ Stream format #s                        : 17
+Track format #18                         : PCM_Percussion Stem R
+ ID                                      : AT_00031012_01
+ Title                                   : PCM_Percussion Stem R
+ Format definition                       : PCM
+ Stream format #s                        : 18
+Track format #19                         : PCM_Snare Stem L
+ ID                                      : AT_00031013_01
+ Title                                   : PCM_Snare Stem L
+ Format definition                       : PCM
+ Stream format #s                        : 19
+Track format #20                         : PCM_Snare Stem R
+ ID                                      : AT_00031014_01
+ Title                                   : PCM_Snare Stem R
+ Format definition                       : PCM
+ Stream format #s                        : 20
+Stream format #1                         : PCM_RoomCentricLeft
+ ID                                      : AS_00011001
+ Title                                   : PCM_RoomCentricLeft
+ Format                                  : PCM
+ Channel format #s                       : 1
+ Pack format #s                          : 1
+ Track format #s                         : 1
+Stream format #2                         : PCM_RoomCentricRight
+ ID                                      : AS_00011002
+ Title                                   : PCM_RoomCentricRight
+ Format                                  : PCM
+ Channel format #s                       : 2
+ Pack format #s                          : 1
+ Track format #s                         : 2
+Stream format #3                         : PCM_RoomCentricCenter
+ ID                                      : AS_00011003
+ Title                                   : PCM_RoomCentricCenter
+ Format                                  : PCM
+ Channel format #s                       : 3
+ Pack format #s                          : 1
+ Track format #s                         : 3
+Stream format #4                         : PCM_RoomCentricLFE
+ ID                                      : AS_00011004
+ Title                                   : PCM_RoomCentricLFE
+ Format                                  : PCM
+ Channel format #s                       : 4
+ Pack format #s                          : 1
+ Track format #s                         : 4
+Stream format #5                         : PCM_RoomCentricLeftSideSurround
+ ID                                      : AS_00011005
+ Title                                   : PCM_RoomCentricLeftSideSurround
+ Format                                  : PCM
+ Channel format #s                       : 5
+ Pack format #s                          : 1
+ Track format #s                         : 5
+Stream format #6                         : PCM_RoomCentricRightSideSurround
+ ID                                      : AS_00011006
+ Title                                   : PCM_RoomCentricRightSideSurround
+ Format                                  : PCM
+ Channel format #s                       : 6
+ Pack format #s                          : 1
+ Track format #s                         : 6
+Stream format #7                         : PCM_RoomCentricLeftRearSurround
+ ID                                      : AS_00011007
+ Title                                   : PCM_RoomCentricLeftRearSurround
+ Format                                  : PCM
+ Channel format #s                       : 7
+ Pack format #s                          : 1
+ Track format #s                         : 7
+Stream format #8                         : PCM_RoomCentricRightRearSurround
+ ID                                      : AS_00011008
+ Title                                   : PCM_RoomCentricRightRearSurround
+ Format                                  : PCM
+ Channel format #s                       : 8
+ Pack format #s                          : 1
+ Track format #s                         : 8
+Stream format #9                         : PCM_RoomCentricLeftTopSurround
+ ID                                      : AS_00011009
+ Title                                   : PCM_RoomCentricLeftTopSurround
+ Format                                  : PCM
+ Channel format #s                       : 9
+ Pack format #s                          : 1
+ Track format #s                         : 9
+Stream format #10                        : PCM_RoomCentricRightTopSurround
+ ID                                      : AS_0001100a
+ Title                                   : PCM_RoomCentricRightTopSurround
+ Format                                  : PCM
+ Channel format #s                       : 10
+ Pack format #s                          : 1
+ Track format #s                         : 10
+Stream format #11                        : PCM_Bells Stem L
+ ID                                      : AS_0003100b
+ Title                                   : PCM_Bells Stem L
+ Format                                  : PCM
+ Channel format #s                       : 11
+ Pack format #s                          : 2
+ Track format #s                         : 11
+Stream format #12                        : PCM_Bells Stem R
+ ID                                      : AS_0003100c
+ Title                                   : PCM_Bells Stem R
+ Format                                  : PCM
+ Channel format #s                       : 12
+ Pack format #s                          : 3
+ Track format #s                         : 12
+Stream format #13                        : PCM_Keytar Stem L
+ ID                                      : AS_0003100d
+ Title                                   : PCM_Keytar Stem L
+ Format                                  : PCM
+ Channel format #s                       : 13
+ Pack format #s                          : 4
+ Track format #s                         : 13
+Stream format #14                        : PCM_Keytar Stem R
+ ID                                      : AS_0003100e
+ Title                                   : PCM_Keytar Stem R
+ Format                                  : PCM
+ Channel format #s                       : 14
+ Pack format #s                          : 5
+ Track format #s                         : 14
+Stream format #15                        : PCM_Kick Stem L
+ ID                                      : AS_0003100f
+ Title                                   : PCM_Kick Stem L
+ Format                                  : PCM
+ Channel format #s                       : 15
+ Pack format #s                          : 6
+ Track format #s                         : 15
+Stream format #16                        : PCM_Kick Stem R
+ ID                                      : AS_00031010
+ Title                                   : PCM_Kick Stem R
+ Format                                  : PCM
+ Channel format #s                       : 16
+ Pack format #s                          : 7
+ Track format #s                         : 16
+Stream format #17                        : PCM_Percussion Stem L
+ ID                                      : AS_00031011
+ Title                                   : PCM_Percussion Stem L
+ Format                                  : PCM
+ Channel format #s                       : 17
+ Pack format #s                          : 8
+ Track format #s                         : 17
+Stream format #18                        : PCM_Percussion Stem R
+ ID                                      : AS_00031012
+ Title                                   : PCM_Percussion Stem R
+ Format                                  : PCM
+ Channel format #s                       : 18
+ Pack format #s                          : 9
+ Track format #s                         : 18
+Stream format #19                        : PCM_Snare Stem L
+ ID                                      : AS_00031013
+ Title                                   : PCM_Snare Stem L
+ Format                                  : PCM
+ Channel format #s                       : 19
+ Pack format #s                          : 10
+ Track format #s                         : 19
+Stream format #20                        : PCM_Snare Stem R
+ ID                                      : AS_00031014
+ Title                                   : PCM_Snare Stem R
+ Format                                  : PCM
+ Channel format #s                       : 20
+ Pack format #s                          : 11
+ Track format #s                         : 20
+Transport #1                             : Yes
+ Track index #1                          : ATU_00000001
+  Track UID #s                           : 1
+ Track index #2                          : ATU_00000002
+  Track UID #s                           : 2
+ Track index #3                          : ATU_00000003
+  Track UID #s                           : 3
+ Track index #4                          : ATU_00000004
+  Track UID #s                           : 4
+ Track index #5                          : ATU_00000005
+  Track UID #s                           : 5
+ Track index #6                          : ATU_00000006
+  Track UID #s                           : 6
+ Track index #7                          : ATU_00000007
+  Track UID #s                           : 7
+ Track index #8                          : ATU_00000008
+  Track UID #s                           : 8
+ Track index #9                          : ATU_00000009
+  Track UID #s                           : 9
+ Track index #10                         : ATU_0000000A
+  Track UID #s                           : 10
+ Track index #11                         : ATU_0000000B
+  Track UID #s                           : 11
+ Track index #12                         : ATU_0000000C
+  Track UID #s                           : 12
+ Track index #13                         : ATU_0000000D
+  Track UID #s                           : 13
+ Track index #14                         : ATU_0000000E
+  Track UID #s                           : 14
+ Track index #15                         : ATU_0000000F
+  Track UID #s                           : 15
+ Track index #16                         : ATU_00000010
+  Track UID #s                           : 16
+ Track index #17                         : ATU_00000011
+  Track UID #s                           : 17
+ Track index #18                         : ATU_00000012
+  Track UID #s                           : 18
+ Track index #19                         : ATU_00000013
+  Track UID #s                           : 19
+ Track index #20                         : ATU_00000014
+  Track UID #s                           : 20
+
+</pre>
+</div></div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo/EAC3-JOC</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Complete name                            : C:\Users\sjre8\Downloads\7 rings (CTMP's Atmos Mix) [EAC-3 JOC with Dolby Atmos].m4a
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42 (mp42/dby1)
+File size                                : 17.3 MiB
+Duration                                 : 2 min 58 s
+Overall bit rate mode                    : Constant
+Overall bit rate                         : 816 kb/s
+Title                                    : 7 rings (CTMP's Atmos Mix)
+Album                                    : 7 rings
+Album/Performer                          : Ariana Grande
+Part/Position                            : 1
+Track name/Position                      : 1
+Performer                                : Ariana Grande
+Genre                                    : Pop
+Recorded date                            : 2019
+Encoded date                             : 2026-09-26 16:46:00 UTC
+Tagged date                              : 2026-09-26 16:46:00 UTC
+Cover                                    : Yes
+Cover type                               : Cover
+Comment                                  : mixed and shared by cometomyparty on sharemania.us
+
+Audio
+ID                                       : 1
+Format                                   : E-AC-3 JOC
+Format/Info                              : Enhanced AC-3 with Joint Object Coding
+Commercial name                          : Dolby Digital Plus with Dolby Atmos
+Codec ID                                 : ec-3
+Duration                                 : 2 min 58 s
+Bit rate mode                            : Constant
+Bit rate                                 : 768 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 16.3 MiB (94%)
+Service kind                             : Complete Main
+Default                                  : Yes
+Alternate group                          : 2
+Encoded date                             : 2026-09-26 16:46:00 UTC
+Tagged date                              : 2026-09-26 16:46:00 UTC
+Complexity index                         : 16
+Number of dynamic objects                : 15
+Bed channel count                        : 1 channel
+Bed channel configuration                : LFE
+Dialog Normalization                     : -21 dB
+compr                                    : -0.28 dB
+dmixmod                                  : Lo/Ro
+ltrtcmixlev                              : -3.0 dB
+ltrtsurmixlev                            : -3.0 dB
+lorocmixlev                              : -3.0 dB
+lorosurmixlev                            : -3.0 dB
+Dialogue normalization, average          : -21 dB
+Dialogue normalization, minimum          : -21 dB
+Dialogue normalization, maximum          : -21 dB
+
+Image
+Type                                     : Cover
+Format                                   : JPEG
+Muxing mode                              : moov-meta-covr
+Width                                    : 3 000 pixels
+Height                                   : 3 000 pixels
+Color space                              : YUV
+Chroma subsampling                       : 4:4:4
+Bit depth                                : 8 bits
+Compression mode                         : Lossy
+Stream size                              : 1 021 KiB (6%)
+
+</pre>
+</div></div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo/AC4-IMS</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Complete name                            : C:\Users\sjre8\Downloads\7 rings (CTMP's Atmos Mix) [AC4].m4a
+Format                                   : MPEG-4
+Format profile                           : Base Media / Version 2
+Codec ID                                 : mp42 (mp42/dby1)
+File size                                : 6.47 MiB
+Duration                                 : 2 min 58 s
+Overall bit rate                         : 304 kb/s
+Title                                    : 7 rings (CTMP's Atmos Mix)
+Album                                    : 7 rings
+Album/Performer                          : Ariana Grande
+Part/Position                            : 1
+Track name/Position                      : 1
+Performer                                : Ariana Grande
+Genre                                    : Pop
+Recorded date                            : 2019
+Encoded date                             : 2026-09-26 16:48:24 UTC
+Tagged date                              : 2026-09-26 16:48:24 UTC
+Cover                                    : Yes
+Cover type                               : Cover
+Comment                                  : mixed and shared by cometomyparty on sharemania.us
+
+Audio
+ID                                       : 1
+Format                                   : AC-4
+Format/Info                              : Audio Coding 4
+Commercial name                          : Dolby AC-4
+Format version                           : Version 2
+Codec ID                                 : ac-4
+Duration                                 : 2 min 58 s
+Bit rate                                 : 256 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 23.438 FPS (2048 SPF)
+Compression mode                         : Lossy
+Stream size                              : 5.44 MiB (84%)
+Default                                  : Yes
+Alternate group                          : 2
+Encoded date                             : 2026-09-26 16:48:24 UTC
+Tagged date                              : 2026-09-26 16:48:24 UTC
+I-Frame interval                         : 24 frames
+Number of presentations                  : 1
+NumberOfGroups                           : 1
+Number of substreams                     : 1
+Bitstream level                          : 3
+Presentation #1                          : Immersive Stereo Main
+ Presentation ID                         : 0
+ Presentation level                      : 0
+ Dolby Atmos                             : Yes
+ Dialogue normalization                  : -21.00
+ Loudness                                : Yes
+  Integrated loudness (speech gated)     : -21.0 LKFS
+  Integrated loudness (level gated)      : -9.0 LKFS
+  Audio Loudness Standard                : ATSC A/85
+  Realtime loudness corrected            : No
+  Dialogue corrected                     : Yes
+ Dynamic Range Control                   : Yes
+  E-AC-3 DRC profile                     : Film light
+  Home theater AVR                       : Film light
+  Flat panel TV                          : Film light
+  Portable speakers                      : Film light
+  Portable headphones                    : Film light
+ Group #s                                : 1
+Group #1                                 : Main
+ Content classifier                      : Main
+ Channel coded                           : Yes
+ Immersive stereo                        : Dolby Atmos Content
+ Number of substreams                    : 1
+ Substream #s                            : 1
+Substream #1                             : Stereo
+ Channel mode                            : Stereo
+ Immersive stereo                        : Dolby Atmos Content
+ Channel layout                          : L R
+ Dialogue enhancement                    : Yes
+  Enabled                                : Yes
+  Max gain                               : 9 dB
+  Channel configuration                  : L R
+
+Image
+Type                                     : Cover
+Format                                   : JPEG
+Muxing mode                              : moov-meta-covr
+Width                                    : 3 000 pixels
+Height                                   : 3 000 pixels
+Color space                              : YUV
+Chroma subsampling                       : 4:4:4
+Bit depth                                : 8 bits
+Compression mode                         : Lossy
+Stream size                              : 1 021 KiB (15%)</pre>
+</div></div>
+</div><br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[cometomyparty]]></author>
+                </item>
+<item>
+                <title><![CDATA[【Cinema Center】WEB-DL - Pulp.What.Do.You.Do.for.an.Encore.2026.2160p.MUBI.WEB-DL.DDP5.1.H.265-Aterix]]></title>
+                <link><![CDATA[https://sharemania.us/threads/pulp-what-do-you-do-for-an-encore-2026-2160p-mubi-web-dl-ddp5-1-h-265-aterix.310389/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://m.media-amazon.com/images/M/MV5BOGZhYzcxNmEtOTBlMC00M2M4LWIyYmEtN2ZhMTRiNGVkMjdmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://m.media-amazon.com/images/M/MV5BOGZhYzcxNmEtOTBlMC00M2M4LWIyYmEtN2ZhMTRiNGVkMjdmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" style=""> 
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Aterix]]></author>
+                </item>
+<item>
                 <title><![CDATA[【Vimeo】Charli xcx - 360 (Vimeo 4K AVC/AAC LC 2.0)]]></title>
                 <link><![CDATA[https://sharemania.us/threads/charli-xcx-360-vimeo-4k-avc-aac-lc-2-0.310388/]]></link>
                 <description><![CDATA[<article>
@@ -2530,41 +3512,5 @@ Thank you in advance
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[Endy]]></author>
-                </item>
-<item>
-                <title><![CDATA[【Requests】[REQ VID] - LINDSAY DOCU-SERIES]]></title>
-                <link><![CDATA[https://sharemania.us/threads/lindsay-docu-series.310340/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<a href="https://ibb.co/ZRWBBM17" target="_blank" class="externalLink" rel="nofollow"><img src="https://i.ibb.co/DP599RgT/IMG-2361.webp" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/DP599RgT/IMG-2361.webp"></a><br>
-<br>
-Does anyone have the Lindsay Lohan show for the Oprah channel?
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[hole2feed]]></author>
-                </item>
-<item>
-                <title><![CDATA[【DVD】DVD9 - Sandy &amp; Junior Acústico MTV 480p (MKV sem perda)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/sandy-junior-ac%C3%BAstico-mtv-480p-mkv-sem-perda.310339/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<div style="text-align: center"><span style="font-size: 22px"><b>Arquivo MKV sem nenhuma especificação na imagem e no áudio.</b><br>
-</span><br>
-<span style="font-size: 15px"><img src="https://m.media-amazon.com/images/M/MV5BMzYwNDhmZTItNWJhYS00NjIwLWI0YzYtYTkzM2MwMzcyNzBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://m.media-amazon.com/images/M/MV5BMzYwNDhmZTItNWJhYS00NjIwLWI0YzYtYTkzM2MwMzcyNzBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" style=""></span>​</div><br>
-- Extraído diretamente do DVD original.<br>
-- Legendas: vai até todas que estão no DVD e uma legenda em .SRT no nosso idioma (PTBR) separada, exportada diretamente do DVD.<br>
-- Áudio: as três faixas de áudio presentes do DVD, SEM PERDA.<br>
-- Vídeo: Arquivo original 480p sem nenhuma compressão.<br>
-<br>
-Link para download: <a href="https://bit.ly/sandyjuniorMKV" target="_blank" class="externalLink" rel="nofollow">https://bit.ly/sandyjuniorMKV</a><br>
-<br>
-Senha para proteção do arquivo: turuturu
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[lemaofarinha]]></author>
                 </item>
                 </channel></rss>
