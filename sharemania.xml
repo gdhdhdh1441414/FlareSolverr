@@ -7,6 +7,20 @@
  <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
 
  <item>
+                <title><![CDATA[【Requests】[REQ VID] - Britney Spears - I’m A Slave 4 U (VMAs 2001) | HD 1080]]></title>
+                <link><![CDATA[https://sharemania.us/threads/britney-spears-i%E2%80%99m-a-slave-4-u-vmas-2001-hd-1080.310370/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<iframe data-s9e-mediaembed="spotify" allow="encrypted-media" allowfullscreen="" loading="lazy" scrolling="no" src="https://open.spotify.com/embed/episode/7KoFOmRE9EQ5dC62byjClG" style="border:0;height:152px;max-width:900px;width:100%"></iframe><br>
+<br>
+Source: Spotify
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Dave]]></author>
+                </item>
+<item>
                 <title><![CDATA[【Live Audios (lossless)】FLAC - Iron Maiden + Megadeth + Anthrax @ BMO Stadium, Los Angeles, CA 2026-09-25]]></title>
                 <link><![CDATA[https://sharemania.us/threads/iron-maiden-megadeth-anthrax-bmo-stadium-los-angeles-ca-2026-09-25.310369/]]></link>
                 <description><![CDATA[<article>
@@ -3134,139 +3148,5 @@ LINK:
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[2NE1]]></author>
-                </item>
-<item>
-                <title><![CDATA[【HD Live Performances】HDTV - Mariah Carey - I Stay In Love (American Music Awards, 2008.11.23)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/mariah-carey-i-stay-in-love-american-music-awards-2008-11-23.310328/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<img src="https://i.ibb.co/wZq84L5w/Mariah-Carey-I-Stay-In-Love-American-Music-Awards-2008-11-23-sheet.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/wZq84L5w/Mariah-Carey-I-Stay-In-Love-American-Music-Awards-2008-11-23-sheet.jpg" style=""><br>
-
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>General
-ID                             : 1 (0x1)
-Complete name                  : Mariah Carey - I Stay In Love (American Music Awards, 2008.11.23).ts
-Format                         : MPEG-TS
-File size                      : 408 MiB
-Duration                       : 3 min 51 s
-Overall bit rate mode          : Variable
-Overall bit rate               : 14.8 Mb/s
-Frame rate                     : 59.940 FPS
-Title                          : 2008 AMERICAN MUSIC AWARDS
-Law rating                     : TV-14 (L)
-
-Video
-ID                             : 17 (0x11)
-Menu ID                        : 1 (0x1)
-Format                         : MPEG Video
-Commercial name                : HDV 720p
-Format version                 : Version 2
-Format profile                 : Main@High
-Format settings                : BVOP
-Format settings, BVOP          : Yes
-Format settings, Matrix        : Default
-Format settings, GOP           : M=3, N=30
-Codec ID                       : 2
-Duration                       : 3 min 51 s
-Bit rate mode                  : Variable
-Bit rate                       : 13.7 Mb/s
-Maximum bit rate               : 14.9 Mb/s
-Width                          : 1 280 pixels
-Height                         : 720 pixels
-Display aspect ratio           : 16:9
-Frame rate                     : 59.940 (60000/1001) FPS
-Color space                    : YUV
-Chroma subsampling             : 4:2:0
-Bit depth                      : 8 bits
-Scan type                      : Progressive
-Compression mode               : Lossy
-Bits/(Pixel*Frame)             : 0.248
-Time code of first frame       : 21:44:28:08
-Time code source               : Group of pictures header
-GOP, Open/Closed               : Open
-Stream size                    : 377 MiB (92%)
-
-Audio
-ID                             : 20 (0x14)
-Menu ID                        : 1 (0x1)
-Format                         : AC-3
-Format/Info                    : Audio Coding 3
-Commercial name                : Dolby Digital
-Codec ID                       : 129
-Duration                       : 3 min 51 s
-Bit rate mode                  : Constant
-Bit rate                       : 384 kb/s
-Channel(s)                     : 6 channels
-Channel layout                 : L R C LFE Ls Rs
-Sampling rate                  : 48.0 kHz
-Frame rate                     : 31.250 FPS (1536 SPF)
-Compression mode               : Lossy
-Delay relative to video        : -342 ms
-Stream size                    : 10.6 MiB (3%)
-Language                       : English
-Service kind                   : Complete Main
-Dialog Normalization           : -27 dB
-compr                          : -5.00 dB
-dynrng                         : -3.06 dB
-cmixlev                        : -3.0 dB
-surmixlev                      : -3 dB
-dialnorm_Average               : -27 dB
-dialnorm_Minimum               : -27 dB
-dialnorm_Maximum               : -27 dB
-
-Text #1
-ID                             : 17 (0x11)-CC1
-Menu ID                        : 1 (0x1)
-Format                         : EIA-608
-Muxing mode                    : A/53 / DTVCC Transport
-Muxing mode, more info         : Muxed in Video #1
-Duration                       : 3 min 51 s
-Duration of the visible conten : 3 min 49 s
-Start time                     : 12 h 53 min
-End time                       : 12 h 57 min
-Bit rate mode                  : Constant
-Stream size                    : 0.00 Byte (0%)
-Count of frames before first e : 467
-Type of the first event        : PaintOn
-
-Text #2
-ID                             : 17 (0x11)-CC3
-Menu ID                        : 1 (0x1)
-Format                         : EIA-608
-Muxing mode                    : A/53 / DTVCC Transport
-Muxing mode, more info         : Muxed in Video #1
-Duration                       : 3 min 51 s
-Bit rate mode                  : Constant
-Stream size                    : 0.00 Byte (0%)
-
-Text #3
-ID                             : 17 (0x11)-1
-Menu ID                        : 1 (0x1)
-Format                         : EIA-708
-Muxing mode                    : A/53 / DTVCC Transport
-Muxing mode, more info         : Muxed in Video #1
-Duration                       : 3 min 51 s
-Bit rate mode                  : Constant
-Stream size                    : 0.00 Byte (0%)
-
-</pre>
-</div><br>
-Requested by <a href="https://sharemania.us/members/brian182.42/" class="internalLink">brian182</a><br>
-<br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[weiweiliangyan]]></author>
                 </item>
                 </channel></rss>
