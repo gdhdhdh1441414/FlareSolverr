@@ -7,6 +7,31 @@
  <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
 
  <item>
+                <title><![CDATA[【Helpdesk】Windows Script to Fix Large Duration in EAC-3 JOC files from AM]]></title>
+                <link><![CDATA[https://sharemania.us/threads/windows-script-to-fix-large-duration-in-eac-3-joc-files-from-am.310966/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Fix wrong duration in Dolby Atmos files downloaded from Apple Music<br>
+<br>
+Requires MP4Box installed on your system and added in System Path to Works<br>
+<br>
+Just put into your files folder and execute, it creates an new folder with corrected files, doesn't modificates the Atmos Stream. Preserves al Atmos Metadata and original files attributes except MP4 Tags.<br>
+<br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Mpsp1234]]></author>
+                </item>
+<item>
                 <title><![CDATA[【Albums (lossless)】FLAC - Miso Extra - Earcandy [Qobuz Hi-Res 24bit / 44.1kHz]]]></title>
                 <link><![CDATA[https://sharemania.us/threads/miso-extra-earcandy-qobuz-hi-res-24bit-44-1khz.310965/]]></link>
                 <description><![CDATA[<article>
@@ -1784,26 +1809,5 @@ Metadata : Tagged
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[lvsk]]></author>
-                </item>
-<item>
-                <title><![CDATA[【UPSCALED】Taio Cruz - Dynamite [Starlight precise]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/taio-cruz-dynamite-starlight-precise.310916/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<img src="https://ibb.co/Gf2Px4v5" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://ibb.co/Gf2Px4v5" style=""><br>
-<img src="https://pixhost.to/show/6149/778130698_taio-cruz-dynamite-starlight-precise-1080p-mkv.webp" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://pixhost.to/show/6149/778130698_taio-cruz-dynamite-starlight-precise-1080p-mkv.webp" style=""> <br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[cart99]]></author>
                 </item>
                 </channel></rss>
