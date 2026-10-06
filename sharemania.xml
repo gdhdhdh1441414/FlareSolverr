@@ -7,6 +7,22 @@
  <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
 
  <item>
+                <title><![CDATA[【Music Videos】Question: Apple Music Videos]]></title>
+                <link><![CDATA[https://sharemania.us/threads/question-apple-music-videos.311212/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					I'm new to this site, I don't know how to use it fully but I wanted to ask.<br>
+<br>
+I've been seeing a lot of Apple Music videos and I really wanted to learn to do by myself just to collect them and watch them on trips when I have no service.<br>
+<br>
+Does someone have a tutorial? I have used Terminal on my Mac to do stuff like this, but haven't been successful with Apple Music videos in high quality or 4K
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[kvn17]]></author>
+                </item>
+<item>
                 <title><![CDATA[【Requests】[REQ VID] - Looking for ProRes Music Videos – Madonna, Fifth Harmony, Britney, Kylie + More]]></title>
                 <link><![CDATA[https://sharemania.us/threads/looking-for-prores-music-videos-%E2%80%93-madonna-fifth-harmony-britney-kylie-more.311211/]]></link>
                 <description><![CDATA[<article>
@@ -4459,95 +4475,5 @@ Stream size                    : 332 KiB (0%)</pre>
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[BeautifullyChaotic]]></author>
-                </item>
-<item>
-                <title><![CDATA[【UPSCALED】Beyoncé &amp; Lady Gaga - Video Phone [Non-AI 1080p]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/beyonc%C3%A9-lady-gaga-video-phone-non-ai-1080p.311163/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<img src="https://i.ibb.co/Q7bb8bDY/Video-Phone-1.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/Q7bb8bDY/Video-Phone-1.png" style=""><br>
-
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>General
-Format                                   : Matroska
-Format version                           : Version 4
-File size                                : 428 MiB
-Duration                                 : 5 min 6 s
-Overall bit rate                         : 11.7 Mb/s
-Frame rate                               : 29.970 FPS
-Encoded date                             : 2026-10-05 13:40:54 UTC
-Writing application                      : mkvmerge 102.0 ('Little Houses') 64-bit
-Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
-
-Video
-ID                                       : 1
-Format                                   : HEVC
-Format/Info                              : High Efficiency Video Coding
-Format profile                           : Main 10@L4@Main
-Codec ID                                 : V_MPEGH/ISO/HEVC
-Duration                                 : 5 min 6 s
-Bit rate                                 : 11.3 Mb/s
-Width                                    : 1 920 pixels
-Height                                   : 786 pixels
-Display aspect ratio                     : 2.40:1
-Frame rate mode                          : Constant
-Frame rate                               : 29.970 (30000/1001) FPS
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0
-Bit depth                                : 10 bits
-Bits/(Pixel*Frame)                       : 0.251
-Stream size                              : 413 MiB (97%)
-Default                                  : Yes
-Forced                                   : Yes
-Color range                              : Limited
-Color primaries                          : BT.709
-Transfer characteristics                 : BT.709
-Matrix coefficients                      : BT.709
-
-Audio
-ID                                       : 2
-Format                                   : MPEG Audio
-Format version                           : Version 1
-Format profile                           : Layer 2
-Codec ID                                 : A_MPEG/L2
-Codec ID/Hint                            : MP2
-Duration                                 : 5 min 6 s
-Bit rate mode                            : Constant
-Bit rate                                 : 384 kb/s
-Channel(s)                               : 2 channels
-Sampling rate                            : 48.0 kHz
-Frame rate                               : 41.667 FPS (1152 SPF)
-Compression mode                         : Lossy
-Stream size                              : 14.0 MiB (3%)
-Default                                  : Yes
-Forced                                   : No
-</pre>
-</div></div>
-</div>
-
-
-<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
-	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Download</span></span></button>
-	<div class="SpoilerTarget bbCodeSpoilerText">
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div>
-</div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[JL92]]></author>
                 </item>
                 </channel></rss>
