@@ -7,6 +7,498 @@
  <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
 
  <item>
+                <title><![CDATA[【Cinema Center】SERIES - ‎Shows Collection (1080p H.264 WEB-DL) No Filehost | Support Stremio/Nuvio addon]]></title>
+                <link><![CDATA[https://sharemania.us/threads/%E2%80%8Eshows-collection-1080p-h-264-web-dl-no-filehost-support-stremio-nuvio-addon.311810/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					‎<b>This would be my last post on the cinema center. </b><br>
+‎Don't know since when Terabox has been slower the download speed from the PC app itself and the web version. <b>I'm done with that </b><img src="styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie94" alt=":unamused:" title="Unamused    :unamused:">.<br>
+<br>
+‎<b>Yesterday I found out the existence of TeleStremio app. That allows me to use my telegram as addon on Streamio/Nuvio. Streaming directly without need to download any files.<span style="color: #ff0000"> I'm 2 months late.</span></b><br>
+<span style="color: #b30059"><b> "Language is not supposed to be barrier for knowledge, use google translate or a.i if my instructions aren't clear."</b></span><br>
+<br>
+<b>Requirements :</b><br>
+- <b>Android phone</b><br>
+- <b>TeleStremio apk</b> =&gt; Download here =&gt; <a href="https://github.com/weebzone/Telegram-Stremio/releases/tag/v1.0.7" target="_blank" class="externalLink" rel="nofollow">https://github.com/weebzone/Telegram-Stremio/releases/tag/v1.0.7</a><br>
+- <b>API_ID / API_HASH</b> =&gt; visit my.telegram.org -&gt; Login → API development tools → create an app.<br>
+API_ID &amp; API_HASH <b>is used as username/password to login to TeleStremio app</b>...<b><span style="color: #ff0000">use it carefully.</span></b><br>
+<br>
+<b>Can be deployed for "multiple users" on:<br>
+Heroku<br>
+VPS (recommended)<br>
+Koyeb / Render / orkestr (free)<br>
+Cloudflare streaming (optional)<br>
+Check the full Guide here : <a href="https://github.com/weebzone/Telegram-Stremio" target="_blank" class="externalLink" rel="nofollow">https://github.com/weebzone/Telegram-Stremio</a><br>
+<br>
+<img src="https://i.imgur.com/KwP2XYG.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/KwP2XYG.png" style=""> <br>
+</b><br>
+<br>
+<span style="text-decoration: underline"><b>The tutorial videos for personal use on phone are below</b></span><br>
+<b><span style="font-size: 18px">1) Setting Up TeleStremio App</span></b><br>
+<span data-s9e-mediaembed="googledrive" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:75%"><iframe allowfullscreen="" loading="lazy" scrolling="no" src="//drive.google.com/file/d/1sBYV0-2cD8ZeHayNa_GkICLPX5IEF_uh/preview" style="border:0;height:100%;left:0;position:absolute;width:100%"></iframe></span></span><br>
+<b>Install and Login to TeleStremio app on your phone</b><br>
+1️⃣ <b>Create a public channel</b><br>
+2️⃣ <b>Copy the channel link ▶️ Click Add</b> <b>on</b> "<b>Channels"</b> <b>Section</b><br>
+3️⃣ <b>Forward the Shows/ Episodes you'd like to watch<br>
+4️⃣ Click Scan/ Rescan from scratch</b><br>
+5️⃣ <b>If it works, on Library you can see the poster for the shows is available</b><br>
+6️⃣ <b>On "Home" Section, Click on the "Addon server Running" and Turn it on</b><br>
+7️⃣ <b>Copy the manifest.json link<br>
+<br>
+<span style="font-size: 18px">2) Setting Up Stremio &amp; Nuvio</span></b><br>
+<span data-s9e-mediaembed="googledrive" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:75%"><iframe allowfullscreen="" loading="lazy" scrolling="no" src="//drive.google.com/file/d/1uXk-DoXDAOr3FBvoIFFahBk5-2DQEJNe/preview" style="border:0;height:100%;left:0;position:absolute;width:100%"></iframe></span></span><br>
+<b><b>8️⃣ Paste the manifest.json link to Stremio/Nuvio addon<br>
+9️⃣ Finish <br>
+Stream the Shows that available on my group without need to download or even extract them.<br>
+<br>
+# Stremio Sample on my linux, earlier record was buffering</b></b><br>
+<span data-s9e-mediaembed="googledrive" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:75%"><iframe allowfullscreen="" loading="lazy" scrolling="no" src="//drive.google.com/file/d/18a0qLT2MUN4ZQumHYKsq9GJu4Xv2r29w/preview" style="border:0;height:100%;left:0;position:absolute;width:100%"></iframe></span></span><br>
+<br>
+<b># Stremio sample on my phone, a little bit buffering and you need to keep the telestremio app open on the background<br>
+<span data-s9e-mediaembed="googledrive" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:75%"><iframe allowfullscreen="" loading="lazy" scrolling="no" src="//drive.google.com/file/d/12jvlRhBzvnK-eAXuLepNjweQwt2KmBEg/preview" style="border:0;height:100%;left:0;position:absolute;width:100%"></iframe></span></span></b><br>
+<br>
+‎<br>
+‎<br>
+‎<br>
+‎<br>
+‎<b><span style="font-size: 18px"><span style="color: #ff0000">PLEASE DO NOT PUT ANY REQUEST UNDER THIS THREAD! </span></span></b><br>
+‎<br>
+‎<br>
+‎<b>The list of shows I've posted ... so far<br>
+Group link : 
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div></b><br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">000-999</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">007: Road to a Million (S01-S02) FLUX<br>
+    999: What Happened Next (S01) RAWR<br>
+    999: What's Your Emergency? (S01) TrollHD</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">A</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">A Killer Among Friends (S01-S02) playWEB<br>
+    A Stranger in My Home (S01-S03) SiGMA<br>
+    A Tale of Two Cities (S01) RAWR<br>
+    A.N.T Farm (S01-S03 TrollHD)<br>
+    Accused: Guilty or Innocent? (S01-S07) playWEB<br>
+    Adventure Time: Distant Lands (S01) PRESENT<br>
+    Adventure Time: Fionna and Cake (S01-S02) NTb<br>
+    Adventure Time: Side Quests (S01-S02) playWEB/NTb<br>
+    Agatha Christie's Marple (S01-S06) Burcyg/DAWN<br>
+    Agatha Christie's Seven Dials (S01) FLUX<br>
+    Agatha Christie's Tommy &amp; Tuppence (S01) RAWR<br>
+    Agatha Christie’s Poirot (S01-S10) playWEB<br>
+    Alex &amp; Co (S01-S03) playWEB<br>
+    Alex, Inc. (S01) NTb<br>
+    All Creatures Great &amp; Small (S01-S06) Mixed<br>
+    Almost Human (S01 TrollHD)<br>
+    American Dad (S01-S22) playWEB/NTb<br>
+    American Horror Story (S01-S13) Mixed<br>
+    Among Us (S01) NTb<br>
+    An Irish Atlantic Rainforest (S01) SWAN<br>
+    Andi Mack (S01-S03) TVSmash/TrollHD<br>
+    Anna Pigeon (S01) RAWR<br>
+    Annedroids (S01-S04) TrollHD<br>
+    Annika (S01-S02) SMURF/CHDWEB<br>
+    Apples Never Fall (S01) FLUX<br>
+    As Time Goes By (S01-S09 LoTV)<br>
+    Australia ReDiscovered with Ricko (S01-S04) BTN<br>
+    Avatar: Seven Havens (S01) FLUX</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">B</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Baptiste (S01-S02) NTb/Cinefeel<br>
+    Barbie Dreamhouse Adventures (S01-S05) OldT<br>
+    Batman Caped Crusader (S01-S02) FLUX/NTb<br>
+    Below Deck Down Under (S01-S04) NTb<br>
+    Benidorm Is Murder (S01) RAWR<br>
+    Bernard (S01-S03) Mixed<br>
+    Best Friends Whenever (S01-S02) TrollHD<br>
+    Big City Greens (S01-S04) NTb<br>
+    Blade Runner: Black Lotus (S01) NTb<br>
+    Bleak Clause (S01) RAWR<br>
+    Blodsoffer (S01) RAWR<br>
+    Blood Legacy (S01) playWEB<br>
+    Bloom (S01-S02) NTb<br>
+    Bob’s Burgers (S01-S16) Mixed<br>
+    Booba (S01 TrollHD)<br>
+    Bookish (S01-S02) RAWR<br>
+    Brave Wilderness (S01-S10) playWEB<br>
+    Breaking (S01 TrollHD)<br>
+    Broad City (S01 TrollHD)<br>
+    Broadchurch (S01-S03) playWEB<br>
+    Bunk’d (S01 TrollHD)<br>
+    Buried with Michael Sheen (S01) RAWR<br>
+    Bäckström (S01-S03) PlayWEB</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">C</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">CAUGH*T (S01) LAZYCUNTS<br>
+    Cape Fear (S01) FLUX<br>
+    Carol &amp; The End of the World (S01) FLUX<br>
+    Carrie (S01) FLUX<br>
+    Castle (S01-S08) FLUX<br>
+    CatDog (S01-S04) BTN<br>
+    Chalkzone (S01, S03, S04) Reimu<br>
+    Chance (S01 TrollHD)<br>
+    Cheer Squad (S01 TrollHD)<br>
+    Chilean Mine Rescue: Race Against Time (S01) playWEB<br>
+    Close Enough (S01-S03) CtrlHD/NTb<br>
+    Common Side Effects (S01) Kitsune<br>
+    Cooper &amp; Fry (S01) playWEB<br>
+    Courage the Cowardly Dog (S01-S04) ViSiON<br>
+    Coven Academy (S01) playWEB<br>
+    Creature Commandos (S01) FLUX<br>
+    Crookhaven (S01) SNAKE<br>
+    Cucumber (S01) SPRiNTER</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">D</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Dalliance (S01) RAWR<br>
+    Dang! (S01) playWEB<br>
+    Darby and Joan (S01-S02) RAWR<br>
+    Dark Matter (S01-S02) NTb<br>
+    Death of the Pastor's Wife (S01) RAWR<br>
+    Degrassi: Next Class (S01) TrollHD<br>
+    Delicious (S01-S03) Ntb<br>
+    Departure (S01-S03) Mixed<br>
+    Dexter: Original Sin (S01) NTb<br>
+    Digman! (S01) NTb<br>
+    Dog With a Blog (S01 TrollHD)<br>
+    Dope (S01) TrollHD<br>
+    Dreamwork's Dragon (S01-S08 iTOONZ/TrollHD)</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">E</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Elementary (S01-S07) WADU<br>
+    Everwood (S01-S04) playWEB<br>
+    Every Witch Way (S01-S04) TrollHD<br>
+    Evil Lives Here: My Child the Killer (S01) RAWR<br>
+    Evil Lives Here: Shadows of Death (S01-S06) LycanHD B2B<br>
+    Evil Lives Here: The Killer Speaks (S01-S02) EDITH/RAWR<br>
+    Evolution (S01) playWEB<br>
+    Extinct 2017 (S01) iCX</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">F</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Family Guy (S01-S24) Mixed<br>
+    Faraway Downs (S01) NTb<br>
+    Father Brown (S01-S13) Kitsune/RAWR<br>
+    FBI: Most Wanted (S01-S06) NTb<br>
+    Fearless (S01) NTb<br>
+    Felix the Cat (S01 TrollHD)<br>
+    Fightland (S01) NTb<br>
+    Forever (S01) CasStudio<br>
+    Forever Home (S01) RAWR<br>
+    Foyle’s War (S01-S08) WhiskeyJack<br>
+    Frank of Ireland (S01) NTb<br>
+    Futurama (S01-S14) Mixed<br>
+    Future Man (S01-S03) NTb/Kitsune</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">G</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Gnomes (S01) RAWR<br>
+    Good Luck Charlie (S01-S04) BLOOM/playWEB<br>
+    Grace and Frankie (S01-S07) Mixed<br>
+    Gravity Falls (S01-S02) FLUX<br>
+    Grey's Anatomy (S01-S22) playWEB/NTb<br>
+    Grimsburg (S01-S02) NTb/FLUX<br>
+    Grizzy &amp; the Lemmings (S01-S04) AJP69/playWEB</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">H</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">H20: Just Add Water (S01-S03) Mixed<br>
+    Habeas Corpus (S01) playWEB<br>
+    Hannah Montana (S01-S04) Mixed<br>
+    Harlan Coben's Final Twist (S01-S02) RAWR<br>
+    Harrow (S01-S03) playWEB<br>
+    Hazbin Hotel (S01-S02) NTb/FLUX<br>
+    Hitoshi Matsumoto Presents Documental (S01) NTb<br>
+    Hong Kong Phooey (S01) DVD Upscale tokar86a<br>
+    Houdinin and Doyle (S01) Cinefeel<br>
+    House of the Dragon (S01-S03) NTb<br>
+    How to Rock (S01) TEPES<br>
+    I Didn’t Do It (S01-S02) FLUX</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">I</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">In the Womb: Animal Babies (S01) playWEB<br>
+    Inside Job (S01) FLUX<br>
+    Invasion (S01-S03) NTb</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">J</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Jack Taylor (S01-S03 TenaciousD/CLZ)</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">K</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Kaos (S01) FLUX<br>
+    Killer Case (S01-S07 playWEB/RAWR<br>
+    Knightfall (S01) NTb<br>
+    Krypto Saves the Day! (S01) DOLORES</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">L</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">La querida del Centauro (S01-S02) TrollHD<br>
+    Lana Longbeard (S01) OldT<br>
+    Lanterns (S01) NTb<br>
+    Last Days of the Space Age (S01) FLUX<br>
+    Law &amp; Order (S01-S25) playWEB/NTb<br>
+    Law &amp; Order Toronto: Criminal Intent (S01-S03) NTb<br>
+    Law &amp; Order: True Crime (S01) NTb<br>
+    Law &amp; Order: Criminal Intent (S01-S10) playWEB/NTb<br>
+    Law &amp; Order: Organized Crime (S01-S05) playWEB<br>
+    Law &amp; Order: Special Victims Unit (S01-S27)playWEB/NTb<br>
+    Law &amp; Order: UK (S01-S08) playWEB<br>
+    Lippy the Lion and Hardy Har Har (S01) REBORN<br>
+    Long Story Short (S01) FLUX<br>
+    Lucky (S01) FLUX<br>
+    Ludwig (S01-S02) RAWR</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">M</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Magpie Murders (S01) playWEB<br>
+    Manifest (S01-S04) Mixed<br>
+    Marble Hall Murders (S01) RAWR<br>
+    Medium (S01) TrollHD<br>
+    Mel Brooks: The 99 Year Old Man! (S01) FLUX<br>
+    Midsomer Murders (S01-S25) Mixed<br>
+    Miraculous: Tales of Ladybug &amp; Cat Noir (S01-S05) Mixed<br>
+    Mis muertos tristes/My Sad Dead (S01) playWEB<br>
+    Murder Among the Mormons (S01) NTb<br>
+    Murder in Shetland: Trial by Jury (S01) RAWR</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">N</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Neagley (S01) FLUX<br>
+    New Looney Tunes (S01-S03) NTb<br>
+    New York Homicide (S01-S03) Mixed<br>
+    Night Court (S01-S03) NTb/FLUX</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">O</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Old School (S01) squalor<br>
+    Oscar’s Oasis (S01) SFM<br>
+    Outer Banks (S01-S05) NTb/FLUX</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">P</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Paris Has Fallen (S01-S02) FLUX/playWEB<br>
+    Patience (S01-S02) RAWR/playWEB<br>
+    Peaky Blinders (S01-S06) playWEB<br>
+    Percy Jackson and the Olympians (S01-S02) NTb<br>
+    Perfect Sweat (S01) GOON<br>
+    Phineas and Ferb (S01-S05) playWEB<br>
+    Pionek (S01) RAWR<br>
+    Pluribus (S01) NTb<br>
+    President Curtis (S01) playWEB<br>
+    Professor T (S01-S05) Mixed<br>
+    Proud (S01) playWEB<br>
+    Puppy Place (S01) FLUX</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">R</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Reacher (S01-S04) NTb<br>
+    Regular Show: The Lost Tapes (S01) RAWR<br>
+    Renegade Nell (S01) playWEB<br>
+    Reyka (S01-S02) NTb/MADSKY<br>
+    Ride or Die (S01) FLUX<br>
+    Ripper Street (S01-S05) Vialle<br>
+    Rugrats 2021 (S01-S03) LAZY</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">S</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Saturday Night Live: UK (S01-S02) RAWR<br>
+    Secret and Lies 2015 (S01-S02) playWEB<br>
+    Secrets of the Whales (S01) playWEB<br>
+    Sense8 (S01-S02) playWEB<br>
+    Shake It Up (S01-S03) playWEB<br>
+    Shaque: Trust No One (S01) playWEB<br>
+    Sherlock &amp; Daughter (S01) RAWR<br>
+    Sherlock (S01-S04) playWEB<br>
+    Shrinking (S01-S03) NTb<br>
+    Silo (S01-S03) NTb<br>
+    Slow Horses (S01-S05) NTb<br>
+    Small Prophets (S01) RAWR<br>
+    Solar Opposites (S01-S06) Mixed<br>
+    Spartacus: House of Ashur (S01) FLUX<br>
+    Special Ops: Lioness (S01-S03) NTb<br>
+    Spongebob SquarePants (S01-S15) OldT<br>
+    Star Trek: Strange New Worlds (S01-S04) NTb<br>
+    Stitchers (S01-S03) NGRP/ViSUM<br>
+    Stranger Things: Tales from '85 (S01-S02) FLUX<br>
+    Stuart Fails to Save the Universe (S01) NTb<br>
+    Survivor's Remors (S01) playWEB</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">T</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Tall Tales &amp; Murder (S01) WhiskeyJack<br>
+    Ted Lasso (S01-S04) NTb<br>
+    That’s So Raven (S01-S04) BLOOM<br>
+    The Adventures of Jimmy Neutron Boy Genius (S01-S03) OldT<br>
+    The Adventures of Rocky and Bullwinkle (S01) TVSmash<br>
+    The Amazing Digital Circus (S01) NTb<br>
+    The Ark (S01-S03) Mixed<br>
+    The Bad Guys: The Series (S01-S02) OldT<br>
+    The Blame (S01) RAWR<br>
+    The Cat in the Hat Knows a Lot About That! (S01) ETHiCS<br>
+    The Chelsea Detective (S01-S04) NTb<br>
+    The Creep Tapes (S01-S03) FLUX/RAWR<br>
+    The Curious Case of... (S01-S02) RAWR<br>
+    The Diplomat (S01-S03) playWEB/FLUX<br>
+    The Dream Job (S01) TrollHD<br>
+    The Dukes of Hazzard (S01) TrollHD<br>
+    The Great North (S01-S05) NTb<br>
+    The Grim Adventures of Billy &amp; Mandy (S01-S07) ViSiON<br>
+    The Hard Times of RJ Berger (S01-S02) TrollHD<br>
+    The Hardacres (S01-S02) RAWR<br>
+    The Killings at Parrish Station (S01) playWEB<br>
+    The Last Frontier (S01) NTb<br>
+    The Legend of Vox Machina (S01-S04) NTb/playWEB<br>
+    The Librarians (S01-S04) FORTKNOX<br>
+    The Librarians: The Next Chapter(S01-S02) NTb<br>
+    The Listener (S01-S05) playWEB<br>
+    The Lost Symbol (S01) playWEB<br>
+    The Murder Detective (S01) RAWR<br>
+    The Mysterious Benedict Society (S01-S02) FLUX/NTb<br>
+    The New Fred and Barney Show (S01-S02) OldT<br>
+    The Old Man (S01-S02) NTb<br>
+    The Pacific: In the Wake of Captain Cook with Sam Neill (S01) XME+W4F<br>
+    The Paper (S01-S02) NTb<br>
+    The Patrick Star Show (S01-S03) Mixed<br>
+    The Peripheral (S01) NTb<br>
+    The Pitt (S01-S02) FLUX<br>
+    The Real Housewives of Auckland (S01) NTb<br>
+    The Real Peaky Blinders (S01) playWEB<br>
+    The Shards (S01) RAWR<br>
+    The Shards (S01) RAWR<br>
+    The Simpsons (S01-S38) playWEB/NTb<br>
+    The Smurfs 1981 (S01-S03) Mixed<br>
+    The Suit Life on Deck (S01-S03) JoeBee/TrollHD<br>
+    The Suite Life of Zack &amp; Cody (S01-S03) SRS/FLUX<br>
+    The Twelve (S01-S03) Mixed<br>
+    The Undeclared War (S01-S02) playWEB<br>
+    The UnXplained (S01-S07) playWEB<br>
+    The Walking Dead Daryl Dixon<br>
+    The Walking Dead: Dead City (S01-S03) NTb<br>
+    The Walking Dead: The Ones Who Live (S01) NTb<br>
+    The War of the Worlds (S01) NTb<br>
+    The Way Home (S01-S04) Mixed<br>
+    The Westies (S01) RAWR<br>
+    The Wizard of Paws (S01-S07) iCX<br>
+    The Zhuzhus (S01) QUARK<br>
+    Tip Toe (S01) RAWR<br>
+    Titanic in Colour (S01) RAWR<br>
+    Tom &amp; Jerry 389 Episodes HEVC (R&amp;H)<br>
+    Top Cat (S01) FraMeSToR<br>
+    Touché Turtle and Dum Dum (S01) BTN<br>
+    Toxic (S01) RAWR<br>
+    True Jackson, VP (S01) LAZY<br>
+    Trying (S01-S05) Mixed</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">U</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Un professore (S01-S02) BlueAM<br>
+    Uncoupled (S01) CHDWEB<br>
+    Unfamiliar (S01) playWEb<br>
+    Untamed (S01) FLUX</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">V</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Very Scary People (S01-S06) LycanHD/RAWR<br>
+    Vigil (S01-S03) Mixed</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">W</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Wally Gator (S01) REBORN<br>
+    We Baby Bears (S01-S02) LAZY/GV1992<br>
+    We Hunt Together (S01-S02) NTb/HECATE<br>
+    We Were the Lucky Ones (S01) FLUX<br>
+    Wednesday (S01-S02) NTb/FLUX<br>
+    Welcome to the Family: The Murder of Dan Markel (S01) playWEB<br>
+    Widow’s Bay (S01) FLUX<br>
+    Wilderness (S01) FLUX<br>
+    Winter (S01) playWEB<br>
+    Wizards of Waverly Place (S01-S04) edge2020/TrollHD<br>
+    Wylde Pak (S01-S02) NTb/Reimu</div>
+</div> 
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">X</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">X-Ray Earth (S01) NTb</div>
+</div>
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">Y</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Yabba Dabba Dinosaurs (S01-S02) NTb<br>
+    Yogi Bear (S01-S03) PHOENiX<br>
+    Young Sherlock (S01) RAWR<br>
+    Your Friends &amp; Neighbors (S01) FLUX</div>
+</div><br>
+<br>
+<b>Last word, this addon also work for public groups I've created years ago, Tigole, Silence, HeVK and others...unfortunately the "featurettes/extras" won't show up. Only the movies itself that come up...so you still need to download them through file2link or manually if you want to enjoy the featurettes/extras.<br>
+<span style="color: #b3b300">Cheers!</span></b>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[frank_21]]></author>
+                </item>
+<item>
                 <title><![CDATA[【HD Live Performances】WEB-RiP - Swedish House Mafia Head Trip FULL SET (1080p)]]></title>
                 <link><![CDATA[https://sharemania.us/threads/swedish-house-mafia-head-trip-full-set-1080p.311809/]]></link>
                 <description><![CDATA[<article>
@@ -2252,21 +2744,5 @@ Forced                                   : No
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[Nezirath270]]></author>
-                </item>
-<item>
-                <title><![CDATA[【Requests】[REQ VID] - Slayyyter - Coachella Weekend 1 2026 (UPSCALE 4K 2160p)]]></title>
-                <link><![CDATA[https://sharemania.us/threads/slayyyter-coachella-weekend-1-2026-upscale-4k-2160p.311760/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					Does Someone Still Have This?<br>
-<br>
-Thanks In Advence! <br>
-<br>
-<a href="https://sharemania.us/threads/slayyyter-coachella-weekend-1-2026-upscale-4k-2160p.297537/" class="internalLink">https://sharemania.us/threads/slayyyter-coachella-weekend-1-2026-upscale-4k-2160p.297537/</a>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[lucapeters08]]></author>
                 </item>
                 </channel></rss>
