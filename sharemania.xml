@@ -7,6 +7,20 @@
  <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
 
  <item>
+                <title><![CDATA[【Requests】[REQ AUD] - Sophia Stel - the greatest album of all time]]></title>
+                <link><![CDATA[https://sharemania.us/threads/sophia-stel-the-greatest-album-of-all-time.312002/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<a href="https://music.apple.com/us/album/the-greatest-album-of-all-time/6808639680" target="_blank" class="externalLink" rel="nofollow">https://music.apple.com/us/album/the-greatest-album-of-all-time/6808639680</a><br>
+<br>
+could someone please upload this in either ALAC or m4a? please and thank you!
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Silent People]]></author>
+                </item>
+<item>
                 <title><![CDATA[【Requests】[REQ AUD] - TOKIO HOTEL - ENCORE New Album]]></title>
                 <link><![CDATA[https://sharemania.us/threads/tokio-hotel-encore-new-album.312001/]]></link>
                 <description><![CDATA[<article>
@@ -2455,38 +2469,5 @@ Forced                                   : No
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[rdiouser]]></author>
-                </item>
-<item>
-                <title><![CDATA[【Helpdesk】[HELP] Modern Talking – Brother Louie (1986) – Film Gate Weave / Image Stability Issues]]></title>
-                <link><![CDATA[https://sharemania.us/threads/help-modern-talking-%E2%80%93-brother-louie-1986-%E2%80%93-film-gate-weave-image-stability-issues.311952/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					Hey everyone!<br>
-I've been working on a restoration of <b>Modern Talking – Brother Louie (1986)</b> and was wondering if anyone could help me with an issue I've been struggling to correct.<br>
-<br>
-For this project, I've used a combination of <b>Topaz Video AI's Starlight model</b> to upscale the original music video footage, alongside footage I've sourced from my own Blu-ray copy of the film featured in the video.<br>
-<br>
-The results have been pretty promising so far, but there's one issue that's been bothering me: <b>the image appears to jump or shift slightly between frames</b>, which I believe may be film gate weave or instability introduced during the original transfer.<br>
-<br>
-I'm looking for a way to stabilise these unwanted movements without compromising the original camera motion, framing, or restored image quality.<br>
-<br>
-<b>Here's a sample of my current restoration:</b><br>
-<br>
-<a href="https://pixeldrain.com/d/me/TestBrotherLouie.mp4" target="_blank" class="externalLink" rel="nofollow">https://pixeldrain.com/d/me/TestBrotherLouie.mp4</a><br>
-<br>
-Has anyone encountered something similar or managed to correct this kind of instability?<br>
-<br>
-Would something like AviSynth, VapourSynth, DaVinci Resolve, or another restoration tool be able to correct it effectively?<br>
-<br>
-I'm particularly interested in a solution that preserves the original movement rather than relying on AI frame interpolation or excessive cropping.<br>
-<br>
-Any advice, suggestions, or example scripts would be greatly appreciated!<br>
-<br>
-Thanks in advance! <img src="styles/default/xenforo/smilies/big_smile-48.png" class="mceSmilie" alt=":)" title="Smile    :)">
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[LewsMediaVault]]></author>
                 </item>
                 </channel></rss>
