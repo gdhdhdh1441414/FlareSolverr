@@ -1,4 +1,5 @@
 name: Run Selenium On GitHub Action
+
 on:
   workflow_dispatch:
   schedule:
@@ -7,59 +8,78 @@ on:
 concurrency:
   group: push-results
   cancel-in-progress: false
-  
+
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
       - name: Checking out repo
         uses: actions/checkout@v3
+
       - name: Setting up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
+
       - name: Installing package list
-        run: apt list --installed   
-        
-       # Need to fetch reqs if needed
+        run: apt list --installed
+
+      # Need to fetch reqs if needed
       - name: Installing all necessary packages
         run: pip install pyvirtualdisplay undetected-chromedriver seleniumbase
-      - name: Install xvfb
-        run: sudo apt-get install xvfb
-        
-      - name: Removing previous chrome instances on runner 
-        run: |
-           sudo apt purge google-chrome-stable && rm -rf youtube*.zip
-           curl -O https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-           sudo dpkg -i google-chrome-stable_current_amd64.deb
-           sudo rm -rf google-chrome-stable_current_amd64.deb
-           google-chrome --version
-           /usr/bin/google-chrome --version
 
-        
+      - name: Install xvfb
+        run: sudo apt-get install -y xvfb
+
+      - name: Removing previous chrome instances on runner
+        run: |
+          sudo apt purge -y google-chrome-stable && rm -rf youtube*.zip
+          curl -O https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo dpkg -i google-chrome-stable_current_amd64.deb
+          sudo rm -rf google-chrome-stable_current_amd64.deb
+          google-chrome --version
+          /usr/bin/google-chrome --version
+
       - name: Running the Python script
         run: |
-           curl -L https://github.com/362227/Python-Selenium-Action/raw/main/gost > gost && sudo chmod 755 ./gost && ./gost -L=:1087 ${{ secrets.GOST_GITHUB_GOST }} &
-           sleep 5 && echo 代理ip：&& curl --proxy 127.0.0.1:1087 ifconfig.me
-           #curl -L ${{ secrets.KY_GITHUB_URL }} > bin/ky-github.json && bin/v2ray -config bin/ky-github.json & sleep 2 && python run.py
-           #curl -L ${{ secrets.KY_GITHUB_URL }} > bin/ky-github.json && bin/v2ray -config bin/ky-github.json &
-           sleep 4
-           #抓javgg
-           #python uc.py https://sharemania.us/ | tee sharemania.html
-           python sb.py https://www.do-mi.cc/?s=. | tee do-mi.html
-           #python sb.py "https://www.facebook.com/aki.thrash.1" | tee  aki.thrash.1.html
-           python sb.py "https://video.unext.jp/live/browse/group/LGP0000000001" | tee  unext.html
+          curl -L https://github.com/362227/Python-Selenium-Action/raw/main/gost > gost && sudo chmod 755 ./gost && ./gost -L=:1087 ${{ secrets.GOST_GITHUB_GOST }} &
+          sleep 5 && echo 代理ip：&& curl --proxy 127.0.0.1:1087 ifconfig.me
+          #curl -L ${{ secrets.KY_GITHUB_URL }} > bin/ky-github.json && bin/v2ray -config bin/ky-github.json & sleep 2 && python run.py
+          #curl -L ${{ secrets.KY_GITHUB_URL }} > bin/ky-github.json && bin/v2ray -config bin/ky-github.json &
+          sleep 4
+          #抓javgg
+          #python uc.py https://sharemania.us/ | tee sharemania.html
+          python sb.py https://www.do-mi.cc/?s=. | tee do-mi.html
+          #python sb.py "https://www.facebook.com/aki.thrash.1" | tee  aki.thrash.1.html
+          python sb.py "https://video.unext.jp/live/browse/group/LGP0000000001" | tee  unext.html
 
-           
-           #删除bin/ky-github.json
-           rm -rf bin/ky-github.json
-           
-           
-        
+          #删除bin/ky-github.json
+          rm -rf bin/ky-github.json
+
       - name: Commit and Push The Results From Python Selenium Action
         run: |
-         git config --global user.name "github-actions[bot]"
-         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-         git add -A
-         git commit -m "GitHub Actions Results added"
-         git push
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # 清掉 Chrome 未下载完的临时文件,避免无意义改动
+          find . -name '*.crdownload' -not -path './.git/*' -delete
+
+          git add -A
+          git commit -m "GitHub Actions Results added" || { echo "没有改动,无需提交"; exit 0; }
+
+          for i in 1 2 3 4 5; do
+            git fetch origin master
+            # 冲突时以本次运行结果为准
+            if git rebase -X theirs origin/master && git push origin HEAD:master; then
+              echo "✅ push 成功"
+              exit 0
+            fi
+            echo "⚠️ 第 $i 次失败,重试..."
+            git rebase --abort 2>/dev/null || true
+            sleep $((RANDOM % 5 + 3))
+          done
+          echo "❌ 多次重试后仍失败"
+          exit 1
