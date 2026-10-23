@@ -31,7 +31,7 @@ COOKIE_STRING = "lsc_active=1; lsc_active=1; lsc_active=1; xf_user=2354%2C5a2f47
 
 # ↓↓↓ 新增：普通请求用的 UA（cf_clearance 通常和获取它时的 UA、IP 绑定，请改成你拿 cookie 时用的 UA）↓↓↓
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-PLAIN_TEST_URL = "https://sharemania.us/forums/news-announcements.2/"
+PLAIN_TEST_URL = "https://sharemania.us/forums/actresses.35/"
 # ↑↑↑ 新增结束 ↑↑↑
 
 def parse_cookie_string(cookie_str):
@@ -76,11 +76,11 @@ def plain_get(url, timeout=60):
         return None
 
 def check_plain_ok():
-    """带 cookie 访问 News & Announcements 版块，返回内容含标题即认为普通请求可用"""
+    """带 cookie 访问 Actresses 版块，返回内容含标题即认为普通请求可用"""
     text = plain_get(PLAIN_TEST_URL, timeout=30)
     if not text:
         return False
-    return ("News & Announcements" in text) or ("News &amp; Announcements" in text)
+    return ("Actresses" in text) or ("Actresses " in text)
 # ↑↑↑ 新增结束 ↑↑↑
 
 # ↓↓↓ 新增：先检测普通请求是否可用，决定 mode ↓↓↓
