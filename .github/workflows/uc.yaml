@@ -82,4 +82,5 @@ jobs:
             sleep $((RANDOM % 5 + 3))
           done
           echo "❌ 多次重试后仍失败"
+          git log origin/master -5 --format='%h %an %ad %s' --date=iso
           exit 1
