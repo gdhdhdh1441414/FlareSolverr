@@ -13,11 +13,25 @@ hour = now.strftime("%H")
 
 #subprocess.Popen(['sudo', 'python', 'src/flaresolverr.py'])
 
-# 睡眠 20 秒以确保 flaresolverr.py 已经启动
-time.sleep(36)
+header = '''<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="rss1.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+ <title>sharemania</title>
+ <link>http://www.sharemania.us/</link>
+ <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
 
-# ↓↓↓ 新增：解析 cookie 字符串为 FlareSolverr 需要的 [{"name":..,"value":..}, ...] 格式 ↓↓↓
+ '''
+
+footer = '</channel></rss>'
+
 COOKIE_STRING = "lsc_active=1; lsc_active=1; lsc_active=1; xf_user=2354%2C5a2f477b349cd8bead; _lscache_vary=1; xf_keywords_2354=50%20Cent%20featuring%20Olivia%20-%20Candy%20Shop; xf_session=5ad56ae8; cf_clearance=R"
+
+# ↓↓↓ 普通请求用的 UA（要和拿 cf_clearance 时的 UA 一致）↓↓↓
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+PLAIN_TEST_URL = "https://sharemania.us/forums/actresses.35/"
+CHECK_KEYWORD = "Actresses"
+# ↑↑↑ ↑↑↑
 
 def parse_cookie_string(cookie_str):
     cookies = []
@@ -42,9 +56,62 @@ def build_payload_file(url, max_timeout, payload_path="./flaresolverr_payload.js
     with open(payload_path, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False)
     return payload_path
-# ↑↑↑ 新增结束 ↑↑↑
 
-# ↓↓↓ 新增：FlareSolverr 连续失败计数器 ↓↓↓
+# ↓↓↓ 普通 curl 带 cookie 请求（不经过 FlareSolverr）↓↓↓
+def plain_get_with_code(url, timeout=60):
+    """返回 (正文, HTTP状态码)；curl 执行失败返回 (None, None)"""
+    cmd = [
+        "curl", "-s", "-L", "--compressed",
+        "-m", str(timeout),
+        "-A", USER_AGENT,
+        "-H", f"Cookie: {COOKIE_STRING}",
+        "-w", "\n__HTTP_CODE__:%{http_code}",
+        url,
+    ]
+    try:
+        out = subprocess.check_output(cmd).decode("utf-8", errors="ignore")
+    except Exception as e:
+        print(f"普通请求失败：{url}，{e}")
+        return None, None
+    body, _, code = out.rpartition("\n__HTTP_CODE__:")
+    return body, code.strip()
+
+def plain_get(url, timeout=60):
+    """只返回正文，失败返回 None"""
+    body, _ = plain_get_with_code(url, timeout)
+    return body
+
+def check_plain_ok():
+    """带 cookie 访问 actresses 版块，返回内容含 Actresses 且不是 Cloudflare 挑战页，即认为普通请求可用"""
+    text, code = plain_get_with_code(PLAIN_TEST_URL, timeout=30)
+    print(f"[检测] HTTP 状态码={code}")
+    if not text:
+        print("[检测] 普通请求返回为空")
+        return False
+    m = re.search(r'<title>([^<]*)</title>', text)
+    title = m.group(1) if m else ""
+    print(f"[检测] 返回长度={len(text)}，title={title or '无'}")
+    if "Just a moment" in title or "Attention Required" in title:
+        print("[检测] 被 Cloudflare 拦截")
+        return False
+    ok = CHECK_KEYWORD in text
+    if not ok:
+        print(f"[检测] 未找到 {CHECK_KEYWORD}，返回开头：{text[:300]!r}")
+    return ok
+# ↑↑↑ ↑↑↑
+
+# ↓↓↓ 先检测普通请求是否可用，决定 mode ↓↓↓
+# mode: "plain" 普通 curl；"flare" FlareSolverr；"uc" uc.py
+if check_plain_ok():
+    mode = "plain"
+    print("普通 curl + cookie 可用，全程不使用 FlareSolverr")
+else:
+    mode = "flare"
+    print("普通请求不可用，使用 FlareSolverr")
+    # 睡眠以确保 flaresolverr.py 已经启动
+    time.sleep(36)
+# ↑↑↑ ↑↑↑
+
 fail_count = 0
 
 def run_flaresolverr_request(curl_cmd):
@@ -66,58 +133,54 @@ def run_flaresolverr_request(curl_cmd):
 
     fail_count = 0  # 成功一次就清零
     return result
-# ↑↑↑ 新增结束 ↑↑↑
 
-# 使用 subprocess 模块调用 curl 命令，并捕获命令输出结果
-# ↓↓↓ 修改：改用带 cookie 的 payload 文件发起请求 ↓↓↓
-payload_path = build_payload_file("https://sharemania.us/", 16000)
-curl_cmd = f"curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data-binary @{payload_path} | tee ./FlareSolverr.log"
-result = run_flaresolverr_request(curl_cmd)
-# ↑↑↑ 修改结束 ↑↑↑
-
-# 假设 result 是字节数据（如从网络请求获取的响应）
-try:
-    # 尝试解析 JSON
-    data = json.loads(result.decode('utf-8'))
-    response = data.get("solution", {}).get("response")
-    # ↓↓↓ 新增：如果 response 有问题或不含 lastThreadTitle，改用 uc.py ↓↓↓
-    if not response or "lastThreadTitle" not in response:
-        uc_result = subprocess.run(
-            ["python", "uc.py", "https://sharemania.us/"],
-            capture_output=True,
-            text=True
-        )
-        response = uc_result.stdout
-        print("STDOUT:", uc_result.stdout[:200] if uc_result.stdout else "空")
-        print("STDERR:", uc_result.stderr[:200] if uc_result.stderr else "空")
-        print("returncode:", uc_result.returncode)
-        
-    # ↑↑↑ 新增结束 ↑↑↑
-    with open("sharemania...html", "w", encoding="utf-8") as file:
-        file.write(f"{response}")
-except (json.JSONDecodeError, AttributeError, UnicodeDecodeError) as e:
-    # 如果解析失败（无效 JSON、非字节数据、解码错误等）
-    print(f"解析 JSON 失败: {e}")
-    # ↓↓↓ 新增：解析异常时也改用 uc.py ↓↓↓
+def run_uc(url):
     uc_result = subprocess.run(
-        ["python", "uc.py", "https://sharemania.us/"],
+        ["python", "uc.py", url],
         capture_output=True,
         text=True
     )
-    response = uc_result.stdout
-    # ↑↑↑ 新增结束 ↑↑↑
-    with open("sharemania...html", "w", encoding="utf-8") as file:
-        file.write(f"{response}")
+    print("STDOUT:", uc_result.stdout[:200] if uc_result.stdout else "空")
+    print("STDERR:", uc_result.stderr[:200] if uc_result.stderr else "空")
+    print("returncode:", uc_result.returncode)
+    return uc_result.stdout
 
+# ↓↓↓ 首页抓取按 mode 分流 ↓↓↓
+response = None
+
+if mode == "plain":
+    response = plain_get("https://sharemania.us/", 30)
+    if not response or "lastThreadTitle" not in response:
+        print("普通请求首页异常，改用 uc.py")
+        mode = "uc"
+        response = run_uc("https://sharemania.us/")
+else:
+    payload_path = build_payload_file("https://sharemania.us/", 16000)
+    curl_cmd = f"curl 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data-binary @{payload_path} | tee ./FlareSolverr.log"
+    result = run_flaresolverr_request(curl_cmd)
+    try:
+        data = json.loads(result.decode('utf-8'))
+        response = data.get("solution", {}).get("response")
+        if not response or "lastThreadTitle" not in response:
+            mode = "uc"
+            response = run_uc("https://sharemania.us/")
+    except (json.JSONDecodeError, AttributeError, UnicodeDecodeError) as e:
+        print(f"解析 JSON 失败: {e}")
+        mode = "uc"
+        response = run_uc("https://sharemania.us/")
+
+with open("sharemania...html", "w", encoding="utf-8") as file:
+    file.write(f"{response}")
+# ↑↑↑ ↑↑↑
 
 if response is None:
+    url = "https://sharemania.us/"
     rss = f'{header}\n\t<item>\n\t\t<title>抓取首页出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t</item>\n{footer}'
     print(rss)
     with open('./sharemania.xml', 'w', encoding='utf-8') as f:
         f.write(rss)
     sys.exit(0)
 
-# ↓↓↓ 修改：不再用 links.txt，改成直接读现有 sharemania.xml 里已收录的 link 来判断"新链接" ↓↓↓
 XML_PATH = './sharemania.xml'
 
 regex_link = r'link rel\=\"canonical\" href="(.+?)\"'
@@ -126,19 +189,6 @@ regex_con = r'meta name\=\"description\"[\s\S]*?(\<article\>[\s\S]*?\<\/article\
 regex_prefix = r'Discussion in.+?\>(.+?)\<\/a\>'
 regex_author = r'started by.+?\>(.+?)\<\/a\>'
 
-header = '''<?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="rss1.xsl"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
-<channel>
- <title>sharemania</title>
- <link>http://www.sharemania.us/</link>
- <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
-
- '''
-
-footer = '</channel></rss>'
-
-# ↓↓↓ 新增：只保留最新50条 <item> ↓↓↓
 def trim_items(xml_content, max_items=50):
     """只保留最新的 max_items 条 <item>...</item>，多余的丢弃"""
     items = re.findall(r'<item>[\s\S]*?</item>', xml_content)
@@ -149,7 +199,6 @@ def trim_items(xml_content, max_items=50):
     idx = body_only.index(header) + len(header)
     new_content = body_only[:idx] + '\n'.join(kept) + body_only[idx:]
     return new_content
-# ↑↑↑ 新增结束 ↑↑↑
 
 def write_rss(new_items_str):
     """把新抓到的 item 合并进已有的 sharemania.xml（新条目插在最前面，老条目保留）；
@@ -165,9 +214,7 @@ def write_rss(new_items_str):
     else:
         new_content = header + new_items_str + footer
 
-    # ↓↓↓ 新增：写入前裁剪，只保留最新50条 ↓↓↓
     new_content = trim_items(new_content, max_items=50)
-    # ↑↑↑ 新增结束 ↑↑↑
 
     print(new_content)
     with open(XML_PATH, 'w', encoding='utf-8') as f:
@@ -182,9 +229,8 @@ if os.path.exists(XML_PATH):
         if not path.endswith('/'):
             path += '/'
         existing_links_relpath.add(path)
-# ↑↑↑ 修改结束 ↑↑↑
 
-# ↓↓↓ 新增：sharemania_error.log 相关 —— 记录/清理"重试3次仍失败"的链接 ↓↓↓
+# ---------- sharemania_error.log 相关 ----------
 ERROR_LOG_PATH = './sharemania_error.log'
 BEIJING_TZ = timezone(timedelta(hours=8))
 BEIJING_TIME_FORMAT = "%Y-%m-%d %H:%M:%S"
@@ -222,7 +268,6 @@ for err_url in list(error_entries.keys()):
         err_relpath += '/'
 
     if err_relpath in existing_links_relpath:
-        # 已经成功抓取并写入xml，从错误日志移除
         print(f"错误日志中的链接已成功写入xml，移除记录：{err_url}")
         del error_entries[err_url]
         continue
@@ -237,44 +282,38 @@ if pending_24h_error_items:
     write_rss(pending_24h_error_items)
 
 save_error_log(error_entries)
-# ↑↑↑ 新增结束 ↑↑↑
 
 pattern = r'href\=\"(threads\/.+?)\"\>'
 links = re.findall(pattern, response)
 
-# ↓↓↓ 修改：新链接 = 首页抓到的链接 - xml 里已收录的链接（不再依赖 links.txt）↓↓↓
 new_links = set(links) - existing_links_relpath
-# ↑↑↑ 修改结束 ↑↑↑
-if not new_links:  # or len(new_links) == 0
+if not new_links:
     print("无新链接") 
-    sys.exit(0)  # 0 表示成功退出，GitHub Actions 不会报错
+    sys.exit(0)
 
 html_string = ""
 
-# ↓↓↓ 新增：首页检测结果决定后续全部用哪个方案 ↓↓↓
-use_uc = not response or "lastThreadTitle" not in response
-# ↑↑↑ 新增结束 ↑↑↑
-
 for link in new_links:
-    # ↓↓↓ 修改：单条链接最多重试 3 次，3 次都失败就放弃这一条并记入错误日志，继续抓下一条，不再无限重试/退出脚本 ↓↓↓
     retry_count = 0
     max_retries = 3
     link_success = False
+    url = "https://sharemania.us/" + link
 
     while retry_count < max_retries:
         try:
-            url = "https://sharemania.us/" + link
             print(url)
-            os.system("pkill chrome;pkill chromedriver")
 
-            if use_uc:
-                uc_result = subprocess.run(
-                    ["python", "uc.py", url],
-                    capture_output=True,
-                    text=True
-                )
-                response = uc_result.stdout
-            else:
+            # 按 mode 分流；plain 模式下不再 pkill chrome（用不到浏览器）
+            if mode == "plain":
+                resp = plain_get(url, 60)
+                if not resp or "ShareMania.US</title>" not in resp:
+                    raise ValueError("普通请求返回内容异常")
+                response = resp
+            elif mode == "uc":
+                os.system("pkill chrome;pkill chromedriver")
+                response = run_uc(url)
+            else:  # flare
+                os.system("pkill chrome;pkill chromedriver")
                 payload_path = build_payload_file(url, 60000)
                 curl_cmd = f"curl -s 'http://localhost:8191/v1' -H 'Content-Type: application/json' --data-binary @{payload_path}"
                 result = run_flaresolverr_request(curl_cmd)
@@ -297,19 +336,18 @@ for link in new_links:
         except Exception as e:
             retry_count += 1
             print(f"该链接第 {retry_count} 次尝试出错: {str(e)}，url={url}")
+            if mode == "plain":
+                time.sleep(3)  # 普通请求失败后稍等再重试
             continue
 
     if not link_success:
         print(f"该链接连续 {max_retries} 次抓取全文失败，放弃，跳过：{url}")
-        # ↓↓↓ 新增：记录到错误日志，若已存在则保留最早的发生时间不覆盖 ↓↓↓
         if url not in error_entries:
             error_entries[url] = get_beijing_now().strftime(BEIJING_TIME_FORMAT)
             print(f"已记录到 {ERROR_LOG_PATH}（首次失败时间）：{url}")
         else:
             print(f"该链接已在错误日志中，保留首次失败时间：{url}")
         save_error_log(error_entries)
-        # ↑↑↑ 新增结束 ↑↑↑
-    # ↑↑↑ 修改结束 ↑↑↑
 
 with open('./sharemania_all_page.html', 'w', encoding='utf-8') as f:
     f.write(html_string)
@@ -331,9 +369,7 @@ if re.findall(regex_link, html) and re.findall(regex_tit, html):
         prefix = re.sub(r'\Discussion in.+?\>(.+?)\<\/a\>', r'\1', prefixs[i])
         title = re.sub(r'\<title\>(.+?) \| ShareMania\.US', r'\1', titles[i])
         author = re.sub(r'started by.+?\>(.+?)\<\/a\>', r'\1', authors[i])
-        # ↓↓↓ 新增：author 可能被 <span class="styleN">...</span> 包裹，去掉标签只留纯文本用户名 ↓↓↓
         author = re.sub(r'\<[^\>]+\>', '', author).strip()
-        # ↑↑↑ 新增结束 ↑↑↑
         article = re.sub(r'meta name\=\"description\"[\s\S]*?(\<article\>[\s\S]*?\<\/article\>)', r'\1', articles[i])
 
         if not author or len(author) > 30 or len(author) < 1:
