@@ -7,6 +7,225 @@
  <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
 
  <item>
+                <title><![CDATA[【Cinema Center】BD REMUX - City of God (Cidade de Deus) 2002 BluRay 1080p (Dual) DTS 5.1 x264 JFSZ]]></title>
+                <link><![CDATA[https://sharemania.us/threads/city-of-god-cidade-de-deus-2002-bluray-1080p-dual-dts-5-1-x264-jfsz.312963/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/iTww66P.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/iTww66P.jpeg" style="">  <br>
+<img src="https://i.imgur.com/ULG6BpY.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/ULG6BpY.jpeg" style=""> <br>
+<br>
+<img src="https://i.imgur.com/5lW9Hul.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/5lW9Hul.jpeg" style=""> <br>
+<br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>General
+Unique ID                                : 146459787708970321562917138654930166304 (0x6E2F210B5E8476DEED6BCE47630C6220)
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 11.7 GiB
+Duration                                 : 2 h 9 min
+Overall bit rate                         : 12.9 Mb/s
+Frame rate                               : 23.976 FPS
+Encoded date                             : 2026-10-26 23:22:51 UTC
+Writing application                      : mkvmerge 101.0 ('Time To Turn') 64-bit
+Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
+Cover                                    : Yes
+Cover description                        : cover.png
+Cover type                               : Cover
+Cover MIME                               : image/png
+Attachments                              : cover.png
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 9 min
+Bit rate                                 : 11.3 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 040 pixels
+Display aspect ratio                     : 1.85:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.236
+Stream size                              : 10.2 GiB (87%)
+Writing library                          : x264 core 148 r2597 e86f3a1
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Matrix coefficients                      : BT.709
+Audio #1
+ID                                       : 2
+Format                                   : DTS
+Format/Info                              : Digital Theater Systems
+Codec ID                                 : A_DTS
+Duration                                 : 2 h 9 min
+Bit rate mode                            : Constant
+Bit rate                                 : 768 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 24 bits
+Compression mode                         : Lossy
+Stream size                              : 713 MiB (6%)
+Title                                    : PT-BR DTS
+Language                                 : Portuguese
+Default                                  : Yes
+Forced                                   : No
+Audio #2
+ID                                       : 3
+Format                                   : DTS
+Format/Info                              : Digital Theater Systems
+Codec ID                                 : A_DTS
+Duration                                 : 2 h 9 min
+Bit rate mode                            : Constant
+Bit rate                                 : 768 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : C L R Ls Rs LFE
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Stream size                              : 713 MiB (6%)
+Title                                    : ES - LATAM DTS
+Language                                 : Spanish (Latin America)
+Default                                  : Yes
+Forced                                   : No
+Audio #3
+ID                                       : 4
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Format settings                          : PNS / PNS
+Codec ID                                 : A_AAC-2
+Duration                                 : 2 h 9 min
+Bit rate                                 : 96.0 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Frame rate                               : 43.066 FPS (1024 SPF)
+Compression mode                         : Lossy
+Delay relative to video                  : 672 ms
+Stream size                              : 90.0 MiB (1%)
+Title                                    : ES - LATAM 2.0
+Language                                 : Spanish (Latin America)
+Default                                  : Yes
+Forced                                   : No
+Text #1
+ID                                       : 5
+Format                                   : ASS
+Codec ID                                 : S_TEXT/ASS
+Codec ID/Info                            : Advanced Sub Station Alpha
+Duration                                 : 2 h 3 min
+Bit rate                                 : 147 b/s
+Frame rate                               : 0.279 FPS
+Count of elements                        : 2061
+Compression mode                         : Lossless
+Stream size                              : 133 KiB (0%)
+Language                                 : Portuguese (BR)
+Default                                  : Yes
+Forced                                   : No
+Text #2
+ID                                       : 6
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 4 min
+Bit rate                                 : 55 b/s
+Frame rate                               : 0.204 FPS
+Count of elements                        : 1519
+Stream size                              : 50.5 KiB (0%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Text #3
+ID                                       : 7
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 4 min
+Bit rate                                 : 56 b/s
+Frame rate                               : 0.212 FPS
+Count of elements                        : 1580
+Stream size                              : 51.3 KiB (0%)
+Title                                    : SDH
+Language                                 : English
+Service kind                             : Hearing Impaired
+Default                                  : No
+Forced                                   : No
+Image
+Type                                     : Cover
+Title                                    : cover.png
+Format                                   : PNG
+Format/Info                              : Portable Network Graphic
+Compression                              : Deflate
+Muxing mode                              : Attachment
+Width                                    : 1 200 pixels
+Height                                   : 1 600 pixels
+Display aspect ratio                     : 0.750
+Color space                              : RGB
+Bit depth                                : 8 bits
+Compression mode                         : Lossless
+Stream size                              : 2.30 MiB (0%)
+Menu
+00:00:00.000                             : en:00:00:00.000
+00:01:06.692                             : en:00:01:06.692
+00:09:52.050                             : en:00:09:52.050
+00:17:30.174                             : en:00:17:30.174
+00:23:59.021                             : en:00:23:59.021
+00:29:02.491                             : en:00:29:02.491
+00:34:08.213                             : en:00:34:08.213
+00:36:04.621                             : en:00:36:04.621
+00:37:25.910                             : en:00:37:25.910
+00:44:36.507                             : en:00:44:36.507
+00:49:49.904                             : en:00:49:49.904
+00:55:16.688                             : en:00:55:16.688
+00:59:00.912                             : en:00:59:00.912
+01:04:38.833                             : en:01:04:38.833
+01:10:58.254                             : en:01:10:58.254
+01:19:43.070                             : en:01:19:43.070
+01:25:54.107                             : en:01:25:54.107
+01:31:45.333                             : en:01:31:45.333
+01:34:58.234                             : en:01:34:58.234
+01:39:04.939                             : en:01:39:04.939
+01:44:36.395                             : en:01:44:36.395
+01:49:41.742                             : en:01:49:41.742
+01:53:08.323                             : en:01:53:08.323
+01:57:36.883                             : en:01:57:36.883
+02:04:15.114                             : en:02:04:15.114
+
+</pre>
+</div></div>
+</div><br>
+<div style="text-align: center">
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div><a href="https://transfer.it/t/KjUbSsonHL5Z" target="_blank" class="externalLink" rel="nofollow">      </a>​</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Joao Freitas Sonzer]]></author>
+                </item>
+<item>
                 <title><![CDATA[【Apple Music】WEB-RiP - Leona Lewis - Bleeding Love (US Version) [AM 4K|HEVC Main 10|AAC|23.976 FPS]]]></title>
                 <link><![CDATA[https://sharemania.us/threads/leona-lewis-bleeding-love-us-version-am-4k-hevc-main-10-aac-23-976-fps.312961/]]></link>
                 <description><![CDATA[<article>
@@ -2259,17 +2478,5 @@ Duration: 00:22:03 Resolution: 1424x1072 Format: mkv Size: 363.9 Mb<br>
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[bigboyhassan4]]></author>
-                </item>
-<item>
-                <title><![CDATA[【Requests】[REQ VID] - side to side amas 2016]]></title>
-                <link><![CDATA[https://sharemania.us/threads/side-to-side-amas-2016.312917/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					does anyone have this somewhere? thanks in advance!
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[arianaluvr]]></author>
                 </item>
                 </channel></rss>
