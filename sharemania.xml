@@ -7,6 +7,171 @@
  <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
 
  <item>
+                <title><![CDATA[【HD Live Performances】WEB-DL - Doja Cat - Live from Los Angeles - Amazon Music Live presents - 1080p WEB-DL Twitch AAC2.0 H.264 - BRE]]></title>
+                <link><![CDATA[https://sharemania.us/threads/doja-cat-live-from-los-angeles-amazon-music-live-presents-1080p-web-dl-twitch-aac2-0-h-264-bre.313253/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/ehFUIjO.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/ehFUIjO.jpeg" style=""> <br>
+<img src="https://i.imgur.com/by6iKn7.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/by6iKn7.png" style=""> <br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>Geral
+ID                                       : 1 (0x1)
+Nome completo                            : Doja Cat - Live from Los Angeles - Amazon Music Live presents - 1080p WEB-DL Twitch AAC2.0 H.264 - BRE.ts
+Formato                                  : MPEG-TS
+Tamanho do arquivo                       : 4.32 GiB
+Duração                                  : 1 h 55 min
+Taxa de Bits Total, Modo                 : Variável
+Taxa de Bits Total                       : 5 344 kb/s
+
+Vídeo
+ID                                       : 256 (0x100)
+ID no Menu                               : 1 (0x1)
+Formato                                  : AVC
+Formato/Informações                      : Advanced Video Codec
+Perfil do Formato                        : High@L4
+Conf. do Formato                         : CABAC / 4 Ref Frames
+Conf do Formato, CABAC                   : Sim
+Conf do Formato, Quadros de Ref.         : 4 quadros
+ID do Codec                              : 27
+Duração                                  : 1 h 55 min
+Modo da taxa de bits                     : Constante
+Taxa de bits nominal                     : 5 000 kb/s
+Largura                                  : 1 920 pixels
+Altura                                   : 1 080 pixels
+Proporção da imagem                      : 16:9
+Modo de taxa de quadros                  : Variável
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Profundidade de bits                     : 8 bits
+Tipo de Scan                             : Progressivo
+
+Áudio
+ID                                       : 257 (0x101)
+ID no Menu                               : 1 (0x1)
+Formato                                  : AAC LC
+Formato/Informações                      : Advanced Audio Codec Low Complexity
+Versão do Formato                        : Version 4
+Conf. do Formato                         : PNS
+Modo de Multiplexação                    : ADTS
+ID do Codec                              : 15-2
+Duração                                  : 1 h 55 min
+Modo da taxa de bits                     : Variável
+Nº de canais                             : 2 canais
+Channel layout                           : L R
+Taxa de amostragem                       : 48.0 kHz
+Taxa de quadros                          : 46.875 FPS (1024 SPF)
+Modo de compressão                       : Com perdas
+Atraso do Vídeo                          : -66 ms
+
+Texto #1
+ID                                       : 256 (0x100)-CC1
+ID no Menu                               : 1 (0x1)
+Formato                                  : EIA-608
+Modo de Multiplexação                    : SCTE 128 / DTVCC Transport
+Modo de multiplexação, mais informações  : Muxed in Video #1
+Duração                                  : 1 h 55 min
+Duration of the visible content          : 1 h 55 min
+Tempo de ínicio                          : 19s 423 ms
+Tempo de finalização                     : 1 h 55 min
+Modo da taxa de bits                     : Constante
+Tamanho da Faixa                         : 0.00 Byte (0%)
+Count of frames before first event       : 649
+Type of the first event                  : RollUp
+
+Texto #2
+ID                                       : 256 (0x100)-1
+ID no Menu                               : 1 (0x1)
+Formato                                  : EIA-708
+Modo de Multiplexação                    : SCTE 128 / DTVCC Transport
+Modo de multiplexação, mais informações  : Muxed in Video #1
+Duração                                  : 1 h 55 min
+Modo da taxa de bits                     : Constante
+Tamanho da Faixa                         : 0.00 Byte (0%)
+
+Texto #3
+ID                                       : 256 (0x100)-2
+ID no Menu                               : 1 (0x1)
+Formato                                  : EIA-708
+Modo de Multiplexação                    : SCTE 128 / DTVCC Transport
+Modo de multiplexação, mais informações  : Muxed in Video #1
+Duração                                  : 1 h 55 min
+Modo da taxa de bits                     : Constante
+Tamanho da Faixa                         : 0.00 Byte (0%)
+
+Texto #4
+ID                                       : 256 (0x100)-3
+ID no Menu                               : 1 (0x1)
+Formato                                  : EIA-708
+Modo de Multiplexação                    : SCTE 128 / DTVCC Transport
+Modo de multiplexação, mais informações  : Muxed in Video #1
+Duração                                  : 1 h 55 min
+Modo da taxa de bits                     : Constante
+Tamanho da Faixa                         : 0.00 Byte (0%)
+
+Texto #5
+ID                                       : 256 (0x100)-4
+ID no Menu                               : 1 (0x1)
+Formato                                  : EIA-708
+Modo de Multiplexação                    : SCTE 128 / DTVCC Transport
+Modo de multiplexação, mais informações  : Muxed in Video #1
+Duração                                  : 1 h 55 min
+Modo da taxa de bits                     : Constante
+Tamanho da Faixa                         : 0.00 Byte (0%)
+
+Texto #6
+ID                                       : 256 (0x100)-5
+ID no Menu                               : 1 (0x1)
+Formato                                  : EIA-708
+Modo de Multiplexação                    : SCTE 128 / DTVCC Transport
+Modo de multiplexação, mais informações  : Muxed in Video #1
+Duração                                  : 1 h 55 min
+Modo da taxa de bits                     : Constante
+Tamanho da Faixa                         : 0.00 Byte (0%)
+
+Texto #7
+ID                                       : 256 (0x100)-6
+ID no Menu                               : 1 (0x1)
+Formato                                  : EIA-708
+Modo de Multiplexação                    : SCTE 128 / DTVCC Transport
+Modo de multiplexação, mais informações  : Muxed in Video #1
+Duração                                  : 1 h 55 min
+Modo da taxa de bits                     : Constante
+Tamanho da Faixa                         : 0.00 Byte (0%)
+
+Menu
+ID                                       : 4096 (0x1000)
+ID no Menu                               : 1 (0x1)
+Formato                                  : AVC / AAC
+Duração                                  : 1 h 55 min
+Lista                                    : 256 (0x100) (AVC) / 257 (0x101) (AAC)
+Nome do serviço                          : Service01
+Provedor do serviço                      : FFmpeg
+Tipo de serviço                          : digital television
+</pre>
+</div></div>
+</div>
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Brendow]]></author>
+                </item>
+<item>
                 <title><![CDATA[【Albums (lossless)】ALAC - Zara Larsson - Sessions at Apple Music [24Bit/48kHz]]]></title>
                 <link><![CDATA[https://sharemania.us/threads/zara-larsson-sessions-at-apple-music-24bit-48khz.313252/]]></link>
                 <description><![CDATA[<article>
@@ -4902,50 +5067,5 @@ filtered by channels from 360RA<br>
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[sunflow3r]]></author>
-                </item>
-<item>
-                <title><![CDATA[【Albums (lossless)】FLAC - Mylène Farmer - ÉGRÉGORE [FLAC 24-Bit/44.1kHz Amazon Music]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/myl%C3%A8ne-farmer-%C3%89gr%C3%89gore-flac-24-bit-44-1khz-amazon-music.313205/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<b>Mylène Farmer - ÉGRÉGORE</b><br>
-Sortie le 30 octobre 2026<br>
-<br>
-<img src="https://cdn-images.dzcdn.net/images/cover/166f951fa75fd2a19fff48709c9969dc/500x500-000000-80-0-0.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://cdn-images.dzcdn.net/images/cover/166f951fa75fd2a19fff48709c9969dc/500x500-000000-80-0-0.jpg" style=""><br>
-<br>
-<b>FLAC 24Bit / 44.1 kHz</b><br>
-13 pistes<br>
-Durée totale : 00:45:00<br>
-<br>
-<span style="text-decoration: underline">Tracklist :</span><br>
-1. C'est à qui le tour / 00:02:49<br>
-2. Des lols et des quoi / 00:03:38<br>
-3. Égrégore / 00:03:15<br>
-4. Combien pour la nuit / 00:03:34<br>
-5. Entendre ma voix / 00:03:20<br>
-6. Reste la lumière / 00:03:22<br>
-7. Sans amarres / 00:03:50<br>
-8. Recréer un jour / 00:05:05<br>
-9. On a toujours le choix / 00:03:35<br>
-10. Déni / 00:02:57<br>
-11. Confession / 00:02:46<br>
-12. Dieu est mort / 00:02:14<br>
-13. Plus d'écho / 00:04:35<br>
-<br>
-ALAC version in this post : <a href="https://sharemania.us/threads/myl%C3%A8ne-farmer-%C3%89gr%C3%89gore-alac-24-bit-44-1khz-apple-music.313201/" class="internalLink">https://sharemania.us/threads/mylène-farmer-ÉgrÉgore-alac-24-bit-44-1khz-apple-music.313201/</a><br>
-<br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[alexkidd11]]></author>
                 </item>
                 </channel></rss>
