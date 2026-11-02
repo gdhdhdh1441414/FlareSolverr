@@ -7,6 +7,559 @@
  <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
 
  <item>
+                <title><![CDATA[【HD Live Performances】HDTV - Christina Aguilera - The Early Show 11Jun2010 MPEG2 1080i DD5.1-VideoMan]]></title>
+                <link><![CDATA[https://sharemania.us/threads/christina-aguilera-the-early-show-11jun2010-mpeg2-1080i-dd5-1-videoman.313533/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center"><br>
+<img src="https://images4.imgbox.com/ba/68/zXYKb4Uh_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images4.imgbox.com/ba/68/zXYKb4Uh_o.jpg" style=""> <br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Video<br>
+ID                             : 224 (0xE0)<br>
+Format                         : MPEG Video<br>
+Format version                 : Version 2<br>
+Format profile                 : Main@High<br>
+Format settings                : CustomMatrix / BVOP<br>
+Format settings, BVOP          : Yes<br>
+Format settings, Matrix        : Custom<br>
+Format settings, GOP           : M=3, N=15<br>
+Format settings, picture struc : Frame<br>
+Duration                       : 11 min 37 s<br>
+Bit rate mode                  : Variable<br>
+Bit rate                       : 16.7 Mb/s<br>
+Maximum bit rate               : 17.1 Mb/s<br>
+Width                          : 1 920 pixels<br>
+Height                         : 1 080 pixels<br>
+Display aspect ratio           : 16:9<br>
+Frame rate                     : 29.970 (30000/1001) FPS<br>
+Standard                       : Component<br>
+Color space                    : YUV<br>
+Chroma subsampling             : 4:2:0<br>
+Bit depth                      : 8 bits<br>
+Scan type                      : Interlaced<br>
+Scan order                     : Top Field First<br>
+Compression mode               : Lossy<br>
+Bits/(Pixel*Frame)             : 0.268<br>
+Time code of first frame       : 00:00:00;00<br>
+Time code source               : Group of pictures header<br>
+GOP, Open/Closed               : Open<br>
+GOP, Open/Closed of first fram : Closed<br>
+Stream size                    : 1.35 GiB (96%)<br>
+Color primaries                : BT.709<br>
+Transfer characteristics       : BT.709<br>
+Matrix coefficients            : BT.709<br>
+Audio<br>
+ID                             : 189 (0xBD)-128 (0x80)<br>
+Format                         : AC-3<br>
+Format/Info                    : Audio Coding 3<br>
+Commercial name                : Dolby Digital<br>
+Muxing mode                    : DVD-Video<br>
+Duration                       : 11 min 37 s<br>
+Bit rate mode                  : Constant<br>
+Bit rate                       : 384 kb/s<br>
+Channel(s)                     : 6 channels<br>
+Channel layout                 : L R C LFE Ls Rs<br>
+Sampling rate                  : 48.0 kHz<br>
+Frame rate                     : 31.250 FPS (1536 SPF)<br>
+Compression mode               : Lossy<br>
+Stream size                    : 31.9 MiB (2%)<br>
+Service kind                   : Complete Main<br>
+Dialog Normalization           : -27 dB<br>
+compr                          : -0.28 dB<br>
+cmixlev                        : -3.0 dB<br>
+surmixlev                      : -3 dB<br>
+dialnorm_Average               : -27 dB<br>
+dialnorm_Minimum               : -27 dB<br>
+dialnorm_Maximum               : -27 dB<br>
+Text #1<br>
+ID                             : 224 (0xE0)-CC1<br>
+Format                         : EIA-608<br>
+Muxing mode                    : A/53 / DTVCC Transport<br>
+Muxing mode, more info         : Muxed in Video #1<br>
+Duration                       : 11 min 37 s<br>
+Duration of the visible conten : 11 min 29 s<br>
+Start time                     : 8 s 575 ms<br>
+End time                       : 11 min 37 s<br>
+Bit rate mode                  : Constant<br>
+Stream size                    : 0.00 Byte (0%)<br>
+Text #2<br>
+ID                             : 224 (0xE0)-T1<br>
+Format                         : EIA-608<br>
+Muxing mode                    : A/53 / DTVCC Transport<br>
+Muxing mode, more info         : Muxed in Video #1<br>
+Duration                       : 11 min 37 s<br>
+End time                       : 11 min 36 s<br>
+Bit rate mode                  : Constant<br>
+Stream size                    : 0.00 Byte (0%)<br>
+Text #3<br>
+ID                             : 224 (0xE0)-T2<br>
+Format                         : EIA-608<br>
+Muxing mode                    : A/53 / DTVCC Transport<br>
+Muxing mode, more info         : Muxed in Video #1<br>
+Duration                       : 11 min 37 s<br>
+End time                       : 11 min 35 s<br>
+Bit rate mode                  : Constant<br>
+Stream size                    : 0.00 Byte (0%)<br>
+Text #4<br>
+ID                             : 224 (0xE0)-1<br>
+Format                         : EIA-708<br>
+Muxing mode                    : A/53 / DTVCC Transport<br>
+Muxing mode, more info         : Muxed in Video #1<br>
+Duration                       : 11 min 37 s<br>
+Bit rate mode                  : Constant<br>
+Stream size                    : 0.00 Byte (0%)<br>
+Count of events                : 177<br>
+Count of lines                 : 398<br>
+Maximum count of lines per eve : 3<br>
+Maximum count of characters pe : 28<br>
+Text #5<br>
+ID                             : 224 (0xE0)-2<br>
+Format                         : EIA-708<br>
+Muxing mode                    : A/53 / DTVCC Transport<br>
+Muxing mode, more info         : Muxed in Video #1<br>
+Duration                       : 11 min 37 s<br>
+Bit rate mode                  : Constant<br>
+Stream size                    : 0.00 Byte (0%)<br>
+Text #6<br>
+ID                             : 224 (0xE0)-7<br>
+Format                         : EIA-708<br>
+Muxing mode                    : A/53 / DTVCC Transport<br>
+Muxing mode, more info         : Muxed in Video #1<br>
+Duration                       : 11 min 37 s<br>
+Bit rate mode                  : Constant<br>
+Stream size                    : 0.00 Byte (0%)<br>
+Count of events                : 2<br>
+Count of lines                 : 2<br>
+Maximum count of lines per eve : 1<br>
+Maximum count of characters pe : 1</div>
+</div></div><br>
+<div style="text-align: center"><img src="https://images4.imgbox.com/57/95/5jgLpaqB_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images4.imgbox.com/57/95/5jgLpaqB_o.jpg" style=""> <br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Video<br>
+ID                             : 224 (0xE0)<br>
+Format                         : MPEG Video<br>
+Format version                 : Version 2<br>
+Format profile                 : Main@High<br>
+Format settings                : CustomMatrix / BVOP<br>
+Format settings, BVOP          : Yes<br>
+Format settings, Matrix        : Custom<br>
+Format settings, GOP           : M=3, N=15<br>
+Format settings, picture struc : Frame<br>
+Duration                       : 9 min 10 s<br>
+Bit rate mode                  : Variable<br>
+Bit rate                       : 16.8 Mb/s<br>
+Maximum bit rate               : 17.1 Mb/s<br>
+Width                          : 1 920 pixels<br>
+Height                         : 1 080 pixels<br>
+Display aspect ratio           : 16:9<br>
+Frame rate                     : 29.970 (30000/1001) FPS<br>
+Standard                       : Component<br>
+Color space                    : YUV<br>
+Chroma subsampling             : 4:2:0<br>
+Bit depth                      : 8 bits<br>
+Scan type                      : Interlaced<br>
+Scan order                     : Top Field First<br>
+Compression mode               : Lossy<br>
+Bits/(Pixel*Frame)             : 0.271<br>
+Time code of first frame       : 00:00:00;00<br>
+Time code source               : Group of pictures header<br>
+GOP, Open/Closed               : Open<br>
+GOP, Open/Closed of first fram : Closed<br>
+Stream size                    : 1.08 GiB (96%)<br>
+Color primaries                : BT.709<br>
+Transfer characteristics       : BT.709<br>
+Matrix coefficients            : BT.709<br>
+Audio<br>
+ID                             : 189 (0xBD)-128 (0x80)<br>
+Format                         : AC-3<br>
+Format/Info                    : Audio Coding 3<br>
+Commercial name                : Dolby Digital<br>
+Muxing mode                    : DVD-Video<br>
+Duration                       : 9 min 10 s<br>
+Bit rate mode                  : Constant<br>
+Bit rate                       : 384 kb/s<br>
+Channel(s)                     : 6 channels<br>
+Channel layout                 : L R C LFE Ls Rs<br>
+Sampling rate                  : 48.0 kHz<br>
+Frame rate                     : 31.250 FPS (1536 SPF)<br>
+Compression mode               : Lossy<br>
+Stream size                    : 25.2 MiB (2%)<br>
+Service kind                   : Complete Main<br>
+Dialog Normalization           : -27 dB<br>
+compr                          : -0.28 dB<br>
+cmixlev                        : -3.0 dB<br>
+surmixlev                      : -3 dB<br>
+dialnorm_Average               : -27 dB<br>
+dialnorm_Minimum               : -27 dB<br>
+dialnorm_Maximum               : -27 dB<br>
+Text #1<br>
+ID                             : 224 (0xE0)-CC1<br>
+Format                         : EIA-608<br>
+Muxing mode                    : A/53 / DTVCC Transport<br>
+Muxing mode, more info         : Muxed in Video #1<br>
+Duration                       : 9 min 10 s<br>
+Duration of the visible conten : 8 min 55 s<br>
+Start time                     : 12 s 45 ms<br>
+End time                       : 9 min 7 s<br>
+Bit rate mode                  : Constant<br>
+Stream size                    : 0.00 Byte (0%)<br>
+Count of frames before first e : 411<br>
+Type of the first event        : RollUp<br>
+Text #2<br>
+ID                             : 224 (0xE0)-1<br>
+Format                         : EIA-708<br>
+Muxing mode                    : A/53 / DTVCC Transport<br>
+Muxing mode, more info         : Muxed in Video #1<br>
+Duration                       : 9 min 10 s<br>
+Bit rate mode                  : Constant<br>
+Stream size                    : 0.00 Byte (0%)<br>
+Count of events                : 73<br>
+Count of lines                 : 96<br>
+Maximum count of lines per eve : 2<br>
+Maximum count of characters pe : 24<br>
+Text #3<br>
+ID                             : 224 (0xE0)-2<br>
+Format                         : EIA-708<br>
+Muxing mode                    : A/53 / DTVCC Transport<br>
+Muxing mode, more info         : Muxed in Video #1<br>
+Duration                       : 9 min 10 s<br>
+Bit rate mode                  : Constant<br>
+Stream size                    : 0.00 Byte (0%)</div>
+</div><br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Carlos]]></author>
+                </item>
+<item>
+                <title><![CDATA[【HD Live Performances】HDTV - Christina Aguilera - Today Show 08Jun2010 HDTV MPEG2 1080i DD5.1-VideoMan]]></title>
+                <link><![CDATA[https://sharemania.us/threads/christina-aguilera-today-show-08jun2010-hdtv-mpeg2-1080i-dd5-1-videoman.313532/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div style="text-align: center"><img src="https://images4.imgbox.com/14/8b/cj5rPdB9_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images4.imgbox.com/14/8b/cj5rPdB9_o.jpg" style=""> <br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Video<br>
+ID                          : 224 (0xE0)<br>
+Format                      : MPEG Video<br>
+Format version              : Version 2<br>
+Format profile              : Main@High<br>
+Format settings             : CustomMatrix / BVOP<br>
+Format settings, BVOP       : Yes<br>
+Format settings, Matrix     : Custom<br>
+Format settings, GOP        : Variable<br>
+Format settings, picture st : Frame<br>
+Duration                    : 6 min 39 s<br>
+Bit rate mode               : Variable<br>
+Bit rate                    : 13.7 Mb/s<br>
+Maximum bit rate            : 65.0 Mb/s<br>
+Width                       : 1 920 pixels<br>
+Height                      : 1 080 pixels<br>
+Display aspect ratio        : 16:9<br>
+Active Format Description   : Pillarbox 4:3 image<br>
+Frame rate                  : 29.970 (30000/1001) FPS<br>
+Color space                 : YUV<br>
+Chroma subsampling          : 4:2:0<br>
+Bit depth                   : 8 bits<br>
+Scan type                   : Interlaced<br>
+Scan order                  : Top Field First<br>
+Compression mode            : Lossy<br>
+Bits/(Pixel*Frame)          : 0.220<br>
+Time code of first frame    : 00:00:00;00<br>
+Time code source            : Group of pictures header<br>
+Stream size                 : 651 MiB (95%)<br>
+Audio<br>
+ID                          : 189 (0xBD)-128 (0x80)<br>
+Format                      : AC-3<br>
+Format/Info                 : Audio Coding 3<br>
+Commercial name             : Dolby Digital<br>
+Muxing mode                 : DVD-Video<br>
+Duration                    : 6 min 39 s<br>
+Bit rate mode               : Constant<br>
+Bit rate                    : 384 kb/s<br>
+Channel(s)                  : 6 channels<br>
+Channel layout              : L R C LFE Ls Rs<br>
+Sampling rate               : 48.0 kHz<br>
+Frame rate                  : 31.250 FPS (1536 SPF)<br>
+Compression mode            : Lossy<br>
+Stream size                 : 18.3 MiB (3%)<br>
+Service kind                : Complete Main<br>
+Dialog Normalization        : -24 dB<br>
+compr                       : 1.94 dB<br>
+dynrng                      : 2.15 dB<br>
+cmixlev                     : -3.0 dB<br>
+surmixlev                   : -3 dB<br>
+dialnorm_Average            : -24 dB<br>
+dialnorm_Minimum            : -24 dB<br>
+dialnorm_Maximum            : -24 dB<br>
+Text #1<br>
+ID                          : 224 (0xE0)-CC1<br>
+Format                      : EIA-608<br>
+Muxing mode                 : A/53 / DTVCC Transport<br>
+Muxing mode, more info      : Muxed in Video #1<br>
+Duration                    : 6 min 38 s<br>
+Duration of the visible con : 6 min 25 s<br>
+Start time                  : 13 s 313 ms<br>
+End time                    : 6 min 38 s<br>
+Bit rate mode               : Constant<br>
+Stream size                 : 0.00 Byte (0%)<br>
+Count of frames before firs : 453<br>
+Type of the first event     : RollUp<br>
+Text #2<br>
+ID                          : 224 (0xE0)-1<br>
+Format                      : EIA-708<br>
+Muxing mode                 : A/53 / DTVCC Transport<br>
+Muxing mode, more info      : Muxed in Video #1<br>
+Duration                    : 6 min 39 s<br>
+Bit rate mode               : Constant<br>
+Stream size                 : 0.00 Byte (0%)<br>
+Count of events             : 222<br>
+Count of lines              : 526<br>
+Maximum count of lines per  : 3<br>
+Maximum count of characters : 28</div>
+</div><br>
+<img src="https://images4.imgbox.com/86/17/4dyHe9iP_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images4.imgbox.com/86/17/4dyHe9iP_o.jpg" style=""> <br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Video<br>
+ID                          : 224 (0xE0)<br>
+Format                      : MPEG Video<br>
+Format version              : Version 2<br>
+Format profile              : Main@High<br>
+Format settings             : CustomMatrix / BVOP<br>
+Format settings, BVOP       : Yes<br>
+Format settings, Matrix     : Custom<br>
+Format settings, GOP        : Variable<br>
+Format settings, picture st : Frame<br>
+Duration                    : 4 min 3 s<br>
+Bit rate mode               : Variable<br>
+Bit rate                    : 13.5 Mb/s<br>
+Maximum bit rate            : 65.0 Mb/s<br>
+Width                       : 1 920 pixels<br>
+Height                      : 1 080 pixels<br>
+Display aspect ratio        : 16:9<br>
+Active Format Description   : Pillarbox 4:3 image<br>
+Frame rate                  : 29.970 (30000/1001) FPS<br>
+Color space                 : YUV<br>
+Chroma subsampling          : 4:2:0<br>
+Bit depth                   : 8 bits<br>
+Scan type                   : Interlaced<br>
+Scan order                  : Top Field First<br>
+Compression mode            : Lossy<br>
+Bits/(Pixel*Frame)          : 0.217<br>
+Time code of first frame    : 00:00:00;00<br>
+Time code source            : Group of pictures header<br>
+Stream size                 : 392 MiB (95%)<br>
+Audio<br>
+ID                          : 189 (0xBD)-128 (0x80)<br>
+Format                      : AC-3<br>
+Format/Info                 : Audio Coding 3<br>
+Commercial name             : Dolby Digital<br>
+Muxing mode                 : DVD-Video<br>
+Duration                    : 4 min 3 s<br>
+Bit rate mode               : Constant<br>
+Bit rate                    : 384 kb/s<br>
+Channel(s)                  : 6 channels<br>
+Channel layout              : L R C LFE Ls Rs<br>
+Sampling rate               : 48.0 kHz<br>
+Frame rate                  : 31.250 FPS (1536 SPF)<br>
+Compression mode            : Lossy<br>
+Stream size                 : 11.2 MiB (3%)<br>
+Service kind                : Complete Main<br>
+Dialog Normalization        : -24 dB<br>
+compr                       : -0.28 dB<br>
+dynrng                      : -0.42 dB<br>
+cmixlev                     : -3.0 dB<br>
+surmixlev                   : -3 dB<br>
+dialnorm_Average            : -24 dB<br>
+dialnorm_Minimum            : -24 dB<br>
+dialnorm_Maximum            : -24 dB<br>
+Text #1<br>
+ID                          : 224 (0xE0)-CC1<br>
+Format                      : EIA-608<br>
+Muxing mode                 : A/53 / DTVCC Transport<br>
+Muxing mode, more info      : Muxed in Video #1<br>
+Duration                    : 4 min 2 s<br>
+Duration of the visible con : 3 min 45 s<br>
+Start time                  : 15 s 115 ms<br>
+End time                    : 4 min 0 s<br>
+Bit rate mode               : Constant<br>
+Stream size                 : 0.00 Byte (0%)<br>
+Count of frames before firs : 487<br>
+Type of the first event     : RollUp<br>
+Text #2<br>
+ID                          : 224 (0xE0)-1<br>
+Format                      : EIA-708<br>
+Muxing mode                 : A/53 / DTVCC Transport<br>
+Muxing mode, more info      : Muxed in Video #1<br>
+Duration                    : 4 min 3 s<br>
+Bit rate mode               : Constant<br>
+Stream size                 : 0.00 Byte (0%)<br>
+Count of events             : 134<br>
+Count of lines              : 221<br>
+Maximum count of lines per  : 3<br>
+Maximum count of characters : 25</div>
+</div><br>
+<img src="https://images4.imgbox.com/90/f7/JiKLfUIs_o.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://images4.imgbox.com/90/f7/JiKLfUIs_o.jpg" style=""> <br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">Video<br>
+ID                          : 1387 (0x56B)<br>
+Menu ID                     : 1 (0x1)<br>
+Format                      : MPEG Video<br>
+Format version              : Version 2<br>
+Format profile              : Main@High<br>
+Format settings             : CustomMatrix / BVOP<br>
+Format settings, BVOP       : Yes<br>
+Format settings, Matrix     : Custom<br>
+Format settings, GOP        : M=3, N=15<br>
+Format settings, picture st : Frame<br>
+Codec ID                    : 2<br>
+Duration                    : 3 min 37 s<br>
+Bit rate mode               : Variable<br>
+Bit rate                    : 13.3 Mb/s<br>
+Maximum bit rate            : 20.0 Mb/s<br>
+Width                       : 1 920 pixels<br>
+Height                      : 1 080 pixels<br>
+Display aspect ratio        : 16:9<br>
+Active Format Description   : Pillarbox 4:3 image<br>
+Frame rate                  : 29.970 (30000/1001) FPS<br>
+Standard                    : Component<br>
+Color space                 : YUV<br>
+Chroma subsampling          : 4:2:0<br>
+Bit depth                   : 8 bits<br>
+Scan type                   : Interlaced<br>
+Scan order                  : Top Field First<br>
+Compression mode            : Lossy<br>
+Bits/(Pixel*Frame)          : 0.215<br>
+Time code of first frame    : 20:16:39;27<br>
+Time code source            : Group of pictures header<br>
+GOP, Open/Closed            : Open<br>
+Stream size                 : 346 MiB (92%)<br>
+Color primaries             : BT.709<br>
+Transfer characteristics    : BT.709<br>
+Matrix coefficients         : BT.709<br>
+Audio<br>
+ID                          : 1386 (0x56A)<br>
+Menu ID                     : 1 (0x1)<br>
+Format                      : AC-3<br>
+Format/Info                 : Audio Coding 3<br>
+Commercial name             : Dolby Digital<br>
+Codec ID                    : 129<br>
+Duration                    : 3 min 37 s<br>
+Bit rate mode               : Constant<br>
+Bit rate                    : 384 kb/s<br>
+Channel(s)                  : 6 channels<br>
+Channel layout              : L R C LFE Ls Rs<br>
+Sampling rate               : 48.0 kHz<br>
+Frame rate                  : 31.250 FPS (1536 SPF)<br>
+Compression mode            : Lossy<br>
+Delay relative to video     : -502 ms<br>
+Stream size                 : 9.97 MiB (3%)<br>
+Language                    : English<br>
+Service kind                : Complete Main<br>
+Dialog Normalization        : -25 dB<br>
+compr                       : 3.15 dB<br>
+dynrng                      : 3.15 dB<br>
+cmixlev                     : -3.0 dB<br>
+surmixlev                   : -3 dB<br>
+dialnorm_Average            : -25 dB<br>
+dialnorm_Minimum            : -25 dB<br>
+dialnorm_Maximum            : -25 dB<br>
+Text #1<br>
+ID                          : 1387 (0x56B)-CC1<br>
+Menu ID                     : 1 (0x1)<br>
+Format                      : EIA-608<br>
+Muxing mode                 : A/53 / DTVCC Transport<br>
+Muxing mode, more info      : Muxed in Video #1<br>
+Duration                    : 3 min 37 s<br>
+Duration of the visible con : 3 min 34 s<br>
+Start time                  : 1 h 1 min<br>
+End time                    : 1 h 5 min<br>
+Bit rate mode               : Constant<br>
+Stream size                 : 0.00 Byte (0%)<br>
+Count of frames before firs : 71<br>
+Type of the first event     : RollUp<br>
+Text #2<br>
+ID                          : 1387 (0x56B)-CC3<br>
+Menu ID                     : 1 (0x1)<br>
+Format                      : EIA-608<br>
+Muxing mode                 : A/53 / DTVCC Transport<br>
+Muxing mode, more info      : Muxed in Video #1<br>
+Duration                    : 3 min 37 s<br>
+Bit rate mode               : Constant<br>
+Stream size                 : 0.00 Byte (0%)<br>
+Text #3<br>
+ID                          : 1387 (0x56B)-1<br>
+Menu ID                     : 1 (0x1)<br>
+Format                      : EIA-708<br>
+Muxing mode                 : A/53 / DTVCC Transport<br>
+Muxing mode, more info      : Muxed in Video #1<br>
+Duration                    : 3 min 37 s<br>
+Bit rate mode               : Constant<br>
+Stream size                 : 0.00 Byte (0%)<br>
+Count of events             : 398<br>
+Count of lines              : 961<br>
+Maximum count of lines per  : 3<br>
+Maximum count of characters : 28<br>
+Text #4<br>
+ID                          : 1387 (0x56B)-2<br>
+Menu ID                     : 1 (0x1)<br>
+Format                      : EIA-708<br>
+Muxing mode                 : A/53 / DTVCC Transport<br>
+Muxing mode, more info      : Muxed in Video #1<br>
+Duration                    : 3 min 37 s<br>
+Bit rate mode               : Constant<br>
+Stream size                 : 0.00 Byte (0%)</div>
+</div><br>
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div></div>
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Carlos]]></author>
+                </item>
+<item>
                 <title><![CDATA[【Cinema Center】SERIES - Knight Squad - Season 1-2 - 1080p Amazon WEB-DL DDP5.1 H.264-LAZY]]></title>
                 <link><![CDATA[https://sharemania.us/threads/knight-squad-season-1-2-1080p-amazon-web-dl-ddp5-1-h-264-lazy.313531/]]></link>
                 <description><![CDATA[<article>
@@ -2335,74 +2888,5 @@ Codec configuration box                  : mhaC</pre>
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[nikhoetine]]></author>
-                </item>
-<item>
-                <title><![CDATA[【Singles (lossless)】WAV - Natalie Imbruglia – Counting Down The Days (2005) [CD, Single, Promo] 16bits / 44.1kHz]]></title>
-                <link><![CDATA[https://sharemania.us/threads/natalie-imbruglia-%E2%80%93-counting-down-the-days-2005-cd-single-promo-16bits-44-1khz.313483/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<img src="https://i.discogs.com/1ARhBKFUQJvAEWJL9jFBz8jwTmxjuJkLG4fnXDr7iYM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTAz/MTEtMTUyMjc1MTk4/Ni04NDU2LmpwZWc.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.discogs.com/1ARhBKFUQJvAEWJL9jFBz8jwTmxjuJkLG4fnXDr7iYM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MTAz/MTEtMTUyMjc1MTk4/Ni04NDU2LmpwZWc.jpeg" style=""> <br>
-<b>Label: </b>Brightside Recordings – 82876 713502<br>
-<b>Format: </b>CD, Single, Promo, Cardboard Sleeve<br>
-<b>Country: </b>Europe<br>
-<b>Released: </b>2005<br>
-<b>Genre: </b>Rock<br>
-<b>Style: </b>Pop Rock<br>
-<br>
-<i><span style="font-size: 12px">Personal CD ripped, EAC log+cue</span></i><br>
-<br>
-<b>Tracklist:</b><br>
-01. Counting Down The Days (Promo)<br>
-<br>
-<b><span style="color: #ff0000">DOWNLOAD:</span></b><br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[olobersykes99]]></author>
-                </item>
-<item>
-                <title><![CDATA[【Singles (lossless)】WAV - Melodie MC – Dum Da Dum (1993) [CD, Single] 16bits / 44.1kHz]]></title>
-                <link><![CDATA[https://sharemania.us/threads/melodie-mc-%E2%80%93-dum-da-dum-1993-cd-single-16bits-44-1khz.313484/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<img src="https://i.discogs.com/1aMqHlmpJMerVaP0sEjdn752oWWBBzTaJYnmD4E1cwE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQx/NDAtMTcwMzIxODMz/MC05ODIyLmpwZWc.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.discogs.com/1aMqHlmpJMerVaP0sEjdn752oWWBBzTaJYnmD4E1cwE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODQx/NDAtMTcwMzIxODMz/MC05ODIyLmpwZWc.jpeg" style=""> <br>
-<b>Label: </b>Virgin – 7243 8 91982 2 5, Sidelake Productions – DINSD121<br>
-<b>Format:</b> CD, Single, Cardboard Sleeve<br>
-<b>Country: </b>Australia<br>
-<b>Released: </b>1993<br>
-<b>Genre: </b>Electronic<br>
-<b>Style: </b>Trance, Euro House<br>
-<br>
-<i><span style="font-size: 12px">Personal CD ripped, EAC log+cue</span></i><br>
-<br>
-<b>Tracklist:</b><br>
-1 Dum Da Dum (Radio Version) <br>
-2 Dum Da Dum (Club Version) <br>
-3 Dum Da Dum (Alternative Club By N Brigade)<br>
-4 Feel Your Body Movin' 93 (Toms Transquality Mix)<br>
-<br>
-<b><span style="color: #ff0000">DOWNLOAD:</span></b><br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[olobersykes99]]></author>
                 </item>
                 </channel></rss>
