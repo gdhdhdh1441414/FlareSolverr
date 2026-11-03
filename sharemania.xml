@@ -7,6 +7,18 @@
  <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
 
  <item>
+                <title><![CDATA[【Requests】[REQ VID] - Katseye - Victoria's Secrets 2026]]></title>
+                <link><![CDATA[https://sharemania.us/threads/katseye-victorias-secrets-2026.313583/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Pinky Up &amp; Animal.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[brian182]]></author>
+                </item>
+<item>
                 <title><![CDATA[【UPSCALED】50 Cent - Wanksta [2002] (Official HD Video) 25fps 2160p 4k]]></title>
                 <link><![CDATA[https://sharemania.us/threads/50-cent-wanksta-2002-official-hd-video-25fps-2160p-4k.313582/]]></link>
                 <description><![CDATA[<article>
@@ -2549,147 +2561,5 @@ Lady Gaga – "Born This Way"<br>
 				</blockquote>
 			</article>]]></description>
                 <author><![CDATA[bru1rip]]></author>
-                </item>
-<item>
-                <title><![CDATA[【HD Live Performances】MuchMusic Video Awards 2012 (Performances Only) [1080i.HDTV.DD5.1]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/muchmusic-video-awards-2012-performances-only-1080i-hdtv-dd5-1.313537/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<div style="text-align: center"><img src="https://i.ibb.co/fYv43z17/MMVA12.jpg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.ibb.co/fYv43z17/MMVA12.jpg" style=""><br>
-<br>
-<b>MuchMusic Video Awards 2012 (Performances Only)</b><br>
-1080i.HDTV.DD5.1<br>
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must either reply or click 'Like' to see the hidden information contained here.</blockquote>
-</div></div>
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>General
-ID                             : 1 (0x1)
-Complete name                  : 11. Justin Bieber - 'All Around the World', 'Boyfriend'.ts
-Format                         : MPEG-TS
-File size                      : 759 MiB
-Duration                       : 7 min 20 s
-Overall bit rate mode          : Variable
-Overall bit rate               : 14.5 Mb/s
-Maximum Overall bit rate       : 35.5 Mb/s
-Frame rate                     : 29.970 FPS
-
-Video
-ID                             : 4113 (0x1011)
-Menu ID                        : 1 (0x1)
-Format                         : MPEG Video
-Format version                 : Version 2
-Format profile                 : Main@High
-Format settings                : CustomMatrix / BVOP
-Format settings, BVOP          : Yes
-Format settings, Matrix        : Custom
-Format settings, GOP           : M=3, N=24
-Format settings, picture struc : Frame
-Codec ID                       : 2
-Duration                       : 7 min 20 s
-Bit rate mode                  : Variable
-Bit rate                       : 13.4 Mb/s
-Maximum bit rate               : 18.0 Mb/s
-Width                          : 1 920 pixels
-Height                         : 1 080 pixels
-Display aspect ratio           : 16:9
-Frame rate                     : 29.970 (30000/1001) FPS
-Standard                       : Component
-Color space                    : YUV
-Chroma subsampling             : 4:2:0
-Bit depth                      : 8 bits
-Scan type                      : Interlaced
-Scan order                     : Top Field First
-Compression mode               : Lossy
-Bits/(Pixel*Frame)             : 0.215
-Time code of first frame       : 01:21:51;20
-Time code source               : Group of pictures header
-GOP, Open/Closed               : Open
-Stream size                    : 701 MiB (92%)
-Color primaries                : BT.709
-Transfer characteristics       : BT.709
-Matrix coefficients            : BT.709
-
-Audio
-ID                             : 4352 (0x1100)
-Menu ID                        : 1 (0x1)
-Format                         : AC-3
-Format/Info                    : Audio Coding 3
-Commercial name                : Dolby Digital
-Codec ID                       : 129
-Duration                       : 7 min 20 s
-Bit rate mode                  : Constant
-Bit rate                       : 384 kb/s
-Channel(s)                     : 6 channels
-Channel layout                 : L R C LFE Ls Rs
-Sampling rate                  : 48.0 kHz
-Frame rate                     : 31.250 FPS (1536 SPF)
-Compression mode               : Lossy
-Delay relative to video        : -117 ms
-Stream size                    : 20.2 MiB (3%)
-Language                       : English
-Service kind                   : Complete Main
-Dialog Normalization           : -27 dB
-compr                          : -0.86 dB
-dynrng                         : -0.86 dB
-cmixlev                        : -3.0 dB
-surmixlev                      : -3 dB
-dmixmod                        : Lt/Rt
-ltrtcmixlev                    : -3.0 dB
-ltrtsurmixlev                  : -3.0 dB
-lorocmixlev                    : -3.0 dB
-lorosurmixlev                  : -3.0 dB
-dialnorm_Average               : -27 dB
-dialnorm_Minimum               : -27 dB
-dialnorm_Maximum               : -27 dB
-
-Text #1
-ID                             : 4113 (0x1011)-CC1
-Menu ID                        : 1 (0x1)
-Format                         : EIA-608
-Muxing mode                    : A/53 / DTVCC Transport
-Muxing mode, more info         : Muxed in Video #1
-Duration                       : 7 min 20 s
-Duration of the visible conten : 7 min 7 s
-Start time                     : 1 h 31 min
-End time                       : 1 h 39 min
-Bit rate mode                  : Constant
-Stream size                    : 0.00 Byte (0%)
-Count of frames before first e : 200
-Type of the first event        : RollUp
-
-Text #2
-ID                             : 4113 (0x1011)-CC3
-Menu ID                        : 1 (0x1)
-Format                         : EIA-608
-Muxing mode                    : A/53 / DTVCC Transport
-Muxing mode, more info         : Muxed in Video #1
-Duration                       : 7 min 20 s
-Bit rate mode                  : Constant
-Stream size                    : 0.00 Byte (0%)</pre>
-</div>Kreesha Turner - 'Love Again<br>
-LMFAO - 'Party Rock Anthem', 'Champagne Showers', 'Sorry for Party Rocking', 'Sexy and I Know It'<br>
-Carly Rae Jepsen - 'Call Me Maybe'<br>
-Marianas Trench - 'Fallout'<br>
-Nelly Furtado - ' Big Hoops (Bigger the Better)'<br>
-Ed Sheeran - 'The A Team'<br>
-Flo Rida - 'Good Feeling'; 'Wild Ones' (feat. Carly Rae Jepsen)<br>
-Hedley - 'Kiss You Inside Out'<br>
-Kelly Clarkson - 'Dark Side', 'Stronger (What Doesn't Kill You)'<br>
-Katy Perry - 'Wide Awake'<br>
-Justin Bieber - 'All Around the World', 'Boyfriend'<br>
-<span style="font-family: 'Trebuchet MS'"><span style="font-size: 12px"><span style="color: #808080">credits to original capper(s)!</span></span></span>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[nikhoetine]]></author>
                 </item>
                 </channel></rss>
