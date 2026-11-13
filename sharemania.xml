@@ -7,6 +7,122 @@
  <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
 
  <item>
+                <title><![CDATA[【HD Live Performances】HDTV - The 27th Annual Latin Grammy Awards 2026 - 1080p Canal Bis HDTV DD5.1 H.264 - BRE]]></title>
+                <link><![CDATA[https://sharemania.us/threads/the-27th-annual-latin-grammy-awards-2026-1080p-canal-bis-hdtv-dd5-1-h-264-bre.314328/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/xucxJ31.jpeg" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/xucxJ31.jpeg" style=""> <br>
+<img src="https://i.imgur.com/oI4xuGT.png" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://i.imgur.com/oI4xuGT.png" style=""> <br>
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly" data-target="&gt; .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">
+
+<div class="bbCodeBlock bbCodeCode">
+	<div class="type">Code:</div>
+	<pre>Geral
+ID                                       : 1 (0x1)
+Nome completo                            : The 27th Annual Latin Grammy Awards 2026 - 1080p Canal Bis HDTV DD5.1 H.264.ts
+Formato                                  : MPEG-TS
+Tamanho do arquivo                       : 8.08 GiB
+Duração                                  : 3 h 11 min
+Taxa de Bits Total, Modo                 : Variável
+Taxa de Bits Total                       : 6 045 kb/s
+Taxa de quadros                          : 29.970 FPS
+
+Vídeo
+ID                                       : 256 (0x100)
+ID no Menu                               : 1 (0x1)
+Formato                                  : AVC
+Formato/Informações                      : Advanced Video Codec
+Perfil do Formato                        : High@L4.1
+Conf. do Formato                         : CABAC / 4 Ref Frames
+Conf do Formato, CABAC                   : Sim
+Conf do Formato, Quadros de Ref.         : 4 quadros
+ID do Codec                              : 27
+Duração                                  : 3 h 11 min
+Taxa de bits                             : 5 423 kb/s
+Largura                                  : 1 920 pixels
+Altura                                   : 1 080 pixels
+Proporção da imagem                      : 16:9
+Active Format Description                : Full frame 16:9 image
+Taxa de quadros                          : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 0)
+Profundidade de bits                     : 8 bits
+Tipo de Scan                             : Entrelaçado
+Scan type, store method                  : Separated fields
+Ordem do Scan                            : Primeiro a área superior
+Bits/(Pixels*Quadros)                    : 0.087
+Tamanho da Faixa                         : 7.25 GiB (90%)
+Gama de cores                            : Limited
+Cores primárias                          : BT.709
+Características de transferência         : BT.709
+Coeficientes matriciais                  : BT.709
+
+Áudio
+ID                                       : 257 (0x101)
+ID no Menu                               : 1 (0x1)
+Formato                                  : AC-3
+Formato/Informações                      : Audio Coding 3
+Nome Comercial                           : Dolby Digital
+ID do Codec                              : 129
+Duração                                  : 3 h 11 min
+Modo da taxa de bits                     : Constante
+Taxa de bits                             : 320 kb/s
+Nº de canais                             : 6 canais
+Channel layout                           : L R C LFE Ls Rs
+Taxa de amostragem                       : 48.0 kHz
+Taxa de quadros                          : 31.250 FPS (1536 SPF)
+Modo de compressão                       : Com perdas
+Atraso do Vídeo                          : -104 ms
+Tamanho da Faixa                         : 438 MiB (5%)
+Idioma                                   : Português
+Service kind                             : Complete Main
+Dialog Normalization                     : -23 dB
+compr                                    : -0.28 dB
+cmixlev                                  : -3.0 dB
+surmixlev                                : -3 dB
+mixlevel                                 : 105 dB
+roomtyp                                  : Small
+ltrtcmixlev                              : -3.0 dB
+ltrtsurmixlev                            : -3.0 dB
+lorocmixlev                              : -3.0 dB
+lorosurmixlev                            : -3.0 dB
+dialnorm_Average                         : -23 dB
+dialnorm_Minimum                         : -23 dB
+dialnorm_Maximum                         : -23 dB
+
+Menu
+ID                                       : 4096 (0x1000)
+ID no Menu                               : 1 (0x1)
+Formato                                  : AVC / AC-3
+Duração                                  : 3 h 11 min
+Lista                                    : 256 (0x100) (AVC) / 257 (0x101) (AC-3, Português)
+Idioma                                   :  / Português
+Nome do serviço                          : Service01
+Provedor do serviço                      : FFmpeg
+Tipo de serviço                          : digital television
+
+</pre>
+</div></div>
+</div>
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Brendow]]></author>
+                </item>
+<item>
                 <title><![CDATA[【Singles (lossless)】ALAC - FLO - Leave You (Never) [24Bit/44.1kHz]]]></title>
                 <link><![CDATA[https://sharemania.us/threads/flo-leave-you-never-24bit-44-1khz.314327/]]></link>
                 <description><![CDATA[<article>
@@ -3442,25 +3558,6 @@ Label             : OWSLA / Atlantic
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
 					<img src="https://pbs.twimg.com/media/HW6z9MOacAAFLjL?format=jpg&amp;name=medium" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://pbs.twimg.com/media/HW6z9MOacAAFLjL?format=jpg&amp;name=medium" style=""> 
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[petal. ꕤ ｡˚]]></author>
-                </item>
-<item>
-                <title><![CDATA[【HD Live Performances】WEB-DL - Uru.Tour.2026「tone」.2026.1080p.WOWOW.WEB-DL.AAC2.0.H.264]]></title>
-                <link><![CDATA[https://sharemania.us/threads/uru-tour-2026%E3%80%8Ctone%E3%80%8D-2026-1080p-wowow-web-dl-aac2-0-h-264.314280/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<img src="https://pbs.twimg.com/media/HW6z9MFb0AAa-eg?format=jpg&amp;name=medium" class="bbCodeImage LbImage" alt="[​IMG]" data-url="https://pbs.twimg.com/media/HW6z9MFb0AAa-eg?format=jpg&amp;name=medium" style=""> 
 
 
 
