@@ -6,10 +6,19 @@ import sys
 import json
 import subprocess
 from datetime import datetime, timedelta, timezone
+from email.utils import format_datetime
 
 now = datetime.now()
 date = now.strftime("%m-%d")
 hour = now.strftime("%H")
+
+# ↓↓↓ 发布时间 = 抓取时间（RFC 822 格式，北京时间 +0800）↓↓↓
+PUBDATE_TZ = timezone(timedelta(hours=8))
+
+def get_pub_date():
+    """返回当前抓取时间，RFC 822 格式，例如 Tue, 17 Nov 2026 18:00:00 +0800"""
+    return format_datetime(datetime.now(PUBDATE_TZ))
+# ↑↑↑ ↑↑↑
 
 #subprocess.Popen(['sudo', 'python', 'src/flaresolverr.py'])
 
@@ -175,7 +184,7 @@ with open("sharemania...html", "w", encoding="utf-8") as file:
 
 if response is None:
     url = "https://sharemania.us/"
-    rss = f'{header}\n\t<item>\n\t\t<title>抓取首页出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t</item>\n{footer}'
+    rss = f'{header}\n\t<item>\n\t\t<title>抓取首页出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t<pubDate>{get_pub_date()}</pubDate>\n\t</item>\n{footer}'
     print(rss)
     with open('./sharemania.xml', 'w', encoding='utf-8') as f:
         f.write(rss)
@@ -275,7 +284,7 @@ for err_url in list(error_entries.keys()):
     first_time = datetime.strptime(error_entries[err_url], BEIJING_TIME_FORMAT).replace(tzinfo=BEIJING_TZ)
     if get_beijing_now() - first_time >= timedelta(hours=24):
         print(f"链接连续24小时未成功抓取，追加提示到xml：{err_url}")
-        pending_24h_error_items += f'\n\t<item>\n\t\t<title>{err_url} 过去24小时没有成功抓取，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{err_url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t</item>\n'
+        pending_24h_error_items += f'\n\t<item>\n\t\t<title>{err_url} 过去24小时没有成功抓取，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{err_url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t<pubDate>{get_pub_date()}</pubDate>\n\t</item>\n'
         del error_entries[err_url]
 
 if pending_24h_error_items:
@@ -382,6 +391,7 @@ if re.findall(regex_link, html) and re.findall(regex_tit, html):
                 <link><![CDATA[{link}]]></link>
                 <description><![CDATA[{article}]]></description>
                 <author><![CDATA[{author}]]></author>
+                <pubDate>{get_pub_date()}</pubDate>
                 </item>
 
                 '''
@@ -389,5 +399,5 @@ if re.findall(regex_link, html) and re.findall(regex_tit, html):
     write_rss(rss)
 else:
     url = "https://sharemania.us/"
-    error_item = f'\n\t<item>\n\t\t<title>出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t</item>\n'
+    error_item = f'\n\t<item>\n\t\t<title>出错，请检查github：https://github.com/gdhdhdh1441414 {date}-{hour}</title>\n\t\t<link>{url}#{date}-{hour}</link>\n\t<author>sharemania</author>\n\t<description>sharemania</description>\n\t<pubDate>{get_pub_date()}</pubDate>\n\t</item>\n'
     write_rss(error_item)
