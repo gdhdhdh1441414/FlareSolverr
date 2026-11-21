@@ -7,6 +7,145 @@
  <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
 
  <item>
+                <title><![CDATA[【HD Live Performances】HDTV - Por Dentro: Ney Matogrosso (15/11/2026) | TV-Rip Globo 1080i 5.1]]></title>
+                <link><![CDATA[https://sharemania.us/threads/por-dentro-ney-matogrosso-15-11-2026-tv-rip-globo-1080i-5-1.314898/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<img src="https://i.imgur.com/LU8NbYq.png" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="https://i.imgur.com/LU8NbYq.png" /> <br />
+<br />
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly"
+		title="Click to reveal or hide spoiler"
+		data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">MediaInfo</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText">General<br />
+ID                             : 1396 (0x574)<br />
+Format                         : MPEG-TS<br />
+File size                      : 3.71 GiB<br />
+Duration                       : 1 h 2 min<br />
+Overall bit rate mode          : Variable<br />
+Overall bit rate               : 8 564 kb/s<br />
+Frame rate                     : 29.970 FPS<br />
+<br />
+Video<br />
+ID                             : 273 (0x111)<br />
+Menu ID                        : 44672 (0xAE80)<br />
+Format                         : AVC<br />
+Format/Info                    : Advanced Video Codec<br />
+Format profile                 : High@L4<br />
+Format settings                : CABAC / 2 Ref Frames<br />
+Format settings, CABAC         : Yes<br />
+Format settings, Reference fra : 2 frames<br />
+Codec ID                       : 27<br />
+Duration                       : 1 h 2 min<br />
+Bit rate mode                  : Variable<br />
+Maximum bit rate               : 24.0 Mb/s<br />
+Width                          : 1 920 pixels<br />
+Height                         : 1 080 pixels<br />
+Display aspect ratio           : 16:9<br />
+Frame rate                     : 29.970 (30000/1001) FPS<br />
+Color space                    : YUV<br />
+Chroma subsampling             : 4:2:0<br />
+Bit depth                      : 8 bits<br />
+Scan type                      : Interlaced<br />
+Scan type, store method        : Separated fields<br />
+Scan order                     : Top Field First<br />
+Color range                    : Limited<br />
+Color primaries                : BT.709<br />
+Transfer characteristics       : BT.709<br />
+Matrix coefficients            : BT.709<br />
+<br />
+Audio #1<br />
+ID                             : 274 (0x112)<br />
+Menu ID                        : 44672 (0xAE80)<br />
+Format                         : AAC LC SBR<br />
+Format/Info                    : Advanced Audio Codec Low Complexity with Spectral Band Replication<br />
+Commercial name                : HE-AAC<br />
+Format settings                : NBC<br />
+Muxing mode                    : LATM<br />
+Codec ID                       : 17-5<br />
+Duration                       : 1 h 2 min<br />
+Bit rate mode                  : Variable<br />
+Channel(s)                     : 2 channels<br />
+Channel layout                 : L R<br />
+Sampling rate                  : 48.0 kHz<br />
+Frame rate                     : 23.438 FPS (2048 SPF)<br />
+Compression mode               : Lossy<br />
+Delay relative to video        : -6 ms<br />
+<br />
+Audio #2<br />
+ID                             : 275 (0x113)<br />
+Menu ID                        : 44672 (0xAE80)<br />
+Format                         : AAC LC SBR<br />
+Format/Info                    : Advanced Audio Codec Low Complexity with Spectral Band Replication<br />
+Commercial name                : HE-AAC<br />
+Format settings                : NBC<br />
+Muxing mode                    : LATM<br />
+Codec ID                       : 17-5<br />
+Duration                       : 1 h 2 min<br />
+Bit rate mode                  : Variable<br />
+Channel(s)                     : 2 channels<br />
+Channel layout                 : L R<br />
+Sampling rate                  : 48.0 kHz<br />
+Frame rate                     : 23.438 FPS (2048 SPF)<br />
+Compression mode               : Lossy<br />
+Delay relative to video        : -6 ms<br />
+<br />
+Audio #3<br />
+ID                             : 276 (0x114)<br />
+Menu ID                        : 44672 (0xAE80)<br />
+Format                         : AAC LC SBR<br />
+Format/Info                    : Advanced Audio Codec Low Complexity with Spectral Band Replication<br />
+Commercial name                : HE-AAC<br />
+Format settings                : NBC<br />
+Muxing mode                    : LATM<br />
+Codec ID                       : 17-5<br />
+Duration                       : 1 h 2 min<br />
+Bit rate mode                  : Variable<br />
+Channel(s)                     : 2 channels<br />
+Channel layout                 : L R<br />
+Sampling rate                  : 48.0 kHz<br />
+Frame rate                     : 23.438 FPS (2048 SPF)<br />
+Compression mode               : Lossy<br />
+Delay relative to video        : -6 ms<br />
+<br />
+Audio #4<br />
+ID                             : 277 (0x115)<br />
+Menu ID                        : 44672 (0xAE80)<br />
+Format                         : AAC LC SBR<br />
+Format/Info                    : Advanced Audio Codec Low Complexity with Spectral Band Replication<br />
+Commercial name                : HE-AAC<br />
+Format settings                : NBC<br />
+Muxing mode                    : LATM<br />
+Codec ID                       : 17-2<br />
+Duration                       : 1 h 2 min<br />
+Bit rate mode                  : Variable<br />
+Channel(s)                     : 6 channels<br />
+Channel layout                 : C L R Ls Rs LFE<br />
+Sampling rate                  : 48.0 kHz<br />
+Frame rate                     : 23.438 FPS (2048 SPF)<br />
+Compression mode               : Lossy<br />
+Delay relative to video        : -6 ms<br />
+Errors                         : Missing ID_END</div>
+</div><br />
+
+
+
+
+<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
+	<div class="attribution type">Hidden Content:</div>
+	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
+</div>
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Herwig]]></author>
+                <pubDate>Sun, 22 Nov 2026 06:33:44 +0800</pubDate>
+                </item>
+<item>
                 <title><![CDATA[【Singles (lossless)】WAV - T`neeya - Living in the Moment - Remixes]]></title>
                 <link><![CDATA[https://sharemania.us/threads/t-neeya-living-in-the-moment-remixes.314897/]]></link>
                 <description><![CDATA[<article>
@@ -2511,30 +2650,6 @@ Waxx, Lubiana - Et si tu n&#039;existais pas (2025)</b><br />
 					<div style="text-align: center"><b><img src="https://static.qobuz.com/images/covers/oa/2r/ronifl4my2roa_600.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="https://static.qobuz.com/images/covers/oa/2r/ronifl4my2roa_600.jpg" /><br />
 <br />
 Greg Gontier - Not Complicated (2025)</b><br />
-<br />
-
-
-
-
-<div class="bbCodeBlock bbCodeVfcHH HiddenContent">
-	<div class="attribution type">Hidden Content:</div>
-	<blockquote>You must reply before you can see the hidden data contained here.</blockquote>
-</div></div>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[LV-Rus]]></author>
-                <pubDate>Sat, 21 Nov 2026 19:09:51 +0800</pubDate>
-                </item>
-<item>
-                <title><![CDATA[【Singles (lossless)】FLAC - John Michael Howell - Shakespearean Games (2026) [16-Bit|44.1 kHz]]]></title>
-                <link><![CDATA[https://sharemania.us/threads/john-michael-howell-shakespearean-games-2026-16-bit-44-1-khz.314848/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<div style="text-align: center"><b><img src="https://static.qobuz.com/images/covers/n1/dd/cvj35olvbddn1_600.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="https://static.qobuz.com/images/covers/n1/dd/cvj35olvbddn1_600.jpg" /><br />
-<br />
-John Michael Howell - Shakespearean Games (2026)</b><br />
 <br />
 
 
