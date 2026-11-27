@@ -7,6 +7,19 @@
  <atom:link href="http://www.gettyimg.com/" rel="self" type="application/rss+xml" />
 
  <item>
+                <title><![CDATA[【Requests】[REQ AUD] - Kylie Minogue - Fever XXV (FLAC)]]></title>
+                <link><![CDATA[https://sharemania.us/threads/kylie-minogue-fever-xxv-flac.315203/]]></link>
+                <description><![CDATA[<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Hello if anyone ahas a CD rip or qobuz from this one ? Thank you
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>]]></description>
+                <author><![CDATA[Cyr38450]]></author>
+                <pubDate>Fri, 27 Nov 2026 14:57:13 +0800</pubDate>
+                </item>
+<item>
                 <title><![CDATA[【Requests】[REQ AUD] - Prince 3121 Live Vegas]]></title>
                 <link><![CDATA[https://sharemania.us/threads/prince-3121-live-vegas.315202/]]></link>
                 <description><![CDATA[<article>
@@ -3089,122 +3102,5 @@ Language                       : English</pre>
 			</article>]]></description>
                 <author><![CDATA[mixywixy]]></author>
                 <pubDate>Thu, 26 Nov 2026 22:01:18 +0800</pubDate>
-                </item>
-<item>
-                <title><![CDATA[【HD Live Performances】UPSCALE - Madonna: Truth or Dare 4K AI Upscaled Completed]]></title>
-                <link><![CDATA[https://sharemania.us/threads/madonna-truth-or-dare-4k-ai-upscaled-completed.315153/]]></link>
-                <description><![CDATA[<article>
-				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
-					
-					<b>Hi everybody.</b> Here is another humble contribution<br />
-<ul>
-<li><b>Upscale with AI to 4K maintaining the correct aspect ratio and restoring frame by frame</b></li>
-<li><b>Added a second converted track from DTS-HD MA to compatible E-AC3 5.1</b></li>
-<li><b>Encoded to x265</b></li>
-<li><b>Download: <a href="https://gofile.io/d/CpvyEQ9g" target="_blank" class="externalLink" rel="nofollow">https://gofile.io/d/CpvyEQ9g</a></b></li>
-</ul><b>I hope you enjoy it. <img src="styles/default/xenforo/smilies/big_smile-48.png" class="mceSmilie" alt=":)" title="Smile    :)" /><br />
-<br />
-<img src="https://i.postimg.cc/8PM7SJkZ/mpv-shot0001.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="https://i.postimg.cc/8PM7SJkZ/mpv-shot0001.jpg" />  <br />
-<img src="https://i.postimg.cc/hGPvT2L1/mpv-shot0004.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="https://i.postimg.cc/hGPvT2L1/mpv-shot0004.jpg" /> <br />
-<img src="https://i.postimg.cc/wBTMLwXc/mpv-shot0005.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="https://i.postimg.cc/wBTMLwXc/mpv-shot0005.jpg" /> <br />
-<img src="https://i.postimg.cc/Jh6nqjxq/mpv-shot0006.jpg" class="bbCodeImage LbImage" alt="[&#x200B;IMG]" data-url="https://i.postimg.cc/Jh6nqjxq/mpv-shot0006.jpg" /> <br />
-<br />
-
-
-<div class="bbCodeBlock bbCodeCode">
-	<div class="type">Code:</div>
-	<pre>
-Complete name                            : Madonna.Truth.Or.Dare.1991.4k.AI.UpscalingDTS-HD.MA5.1.EAC3.5.1.mkv
-Format                                   : Matroska
-Format version                           : Version 4
-File size                                : 16.8 GiB
-Duration                                 : 1 h 59 min
-Overall bit rate mode                    : Variable
-Overall bit rate                         : 20.1 Mb/s
-Frame rate                               : 23.976 FPS
-Writing application                      : Lavf63.1.102
-Writing library                          : Lavf63.1.102
-ErrorDetectionType                       : Per level 1
-
-Video
-ID                                       : 1
-Format                                   : HEVC
-Format/Info                              : High Efficiency Video Coding
-Format profile                           : Main 10@L5@Main
-Codec ID                                 : V_MPEGH/ISO/HEVC
-Duration                                 : 1 h 59 min
-Bit rate                                 : 15.6 Mb/s
-Width                                    : 3 840 pixels
-Height                                   : 2 160 pixels
-Display aspect ratio                     : 16:9
-Frame rate mode                          : Constant
-Frame rate                               : 23.976 (24000/1001) FPS
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0
-Bit depth                                : 10 bits
-Bits/(Pixel*Frame)                       : 0.078
-Stream size                              : 13.0 GiB (78%)
-Default                                  : No
-Forced                                   : No
-Color range                              : Limited
-Color primaries                          : BT.709
-Transfer characteristics                 : BT.709
-Matrix coefficients                      : BT.709
-
-Audio #1
-ID                                       : 2
-Format                                   : DTS XLL
-Format/Info                              : Digital Theater Systems
-Commercial name                          : DTS-HD Master Audio
-Codec ID                                 : A_DTS
-Duration                                 : 1 h 59 min
-Bit rate mode                            : Variable
-Bit rate                                 : 3 348 kb/s
-Channel(s)                               : 6 channels
-Channel layout                           : C L R Ls Rs LFE
-Sampling rate                            : 48.0 kHz
-Frame rate                               : 93.750 FPS (512 SPF)
-Bit depth                                : 24 bits
-Compression mode                         : Lossless
-Stream size                              : 2.79 GiB (17%)
-Title                                    : DTS-HD MA 5.1
-Language                                 : English
-Default                                  : No
-Forced                                   : No
-
-Audio #2
-ID                                       : 3
-Format                                   : E-AC-3
-Format/Info                              : Enhanced AC-3
-Commercial name                          : Dolby Digital Plus
-Codec ID                                 : A_EAC3
-Duration                                 : 1 h 59 min
-Bit rate mode                            : Constant
-Bit rate                                 : 768 kb/s
-Channel(s)                               : 6 channels
-Channel layout                           : L R C LFE Ls Rs
-Sampling rate                            : 48.0 kHz
-Frame rate                               : 31.250 FPS (1536 SPF)
-Bit depth                                : 32 bits
-Compression mode                         : Lossy
-Stream size                              : 2.79 GiB (17%)
-Title                                    : E-AC3 5.1
-Writing library                          : Lavc63.1.102 eac3
-Language                                 : English
-Service kind                             : Complete Main
-Default                                  : Yes
-Forced                                   : No
-Dialog Normalization                     : -31 dB
-dialnorm_Average                         : -31 dB
-dialnorm_Minimum                         : -31 dB
-dialnorm_Maximum                         : -31 dB
-
-</pre>
-</div></b>
-					<div class="messageTextEndMarker">&nbsp;</div>
-				</blockquote>
-			</article>]]></description>
-                <author><![CDATA[pabloncho]]></author>
-                <pubDate>Thu, 26 Nov 2026 21:57:19 +0800</pubDate>
                 </item>
                 </channel></rss>
